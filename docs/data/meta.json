@@ -1829,7 +1829,8 @@
   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338180/6e803c75fadd3dfed032291e1b3ab3c6e88afb52/header.jpg?t=1793002355",
   "release_date": "2026-10-21",
   "coming_soon": false,
-  "fetched": "2026-10-27"
+  "fetched": "2026-10-27",
+  "first_review": "2026-10-21"
  },
  "1267910": {
   "name": "Melvor Idle",
@@ -2149,5 +2150,365 @@
   "coming_soon": false,
   "fetched": "2026-10-27",
   "first_review": "2026-08-07"
+ },
+ "3948120": {
+  "name": "Scritchy Scratchy",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948120/dc726b9c35076bb0bfbf63a664bbf61638cbc2ab/header_alt_assets_0.jpg?t=1790587008",
+  "release_date": "2026-03-18",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-03-18"
+ },
+ "1331550": {
+  "name": "Big Ambitions",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
+  "release_date": "2026-08-28",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2023-03-10"
+ },
+ "3355800": {
+  "name": "Bank Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4f8767ce7d72cafa26587f5c181e5815226faed5/header.jpg?t=1792822400",
+  "release_date": "2025-06-06",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-06-06"
+ },
+ "4159680": {
+  "name": "Barfender: CO-OP Bar Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159680/f3477346b0e2b86678afa9428693a3d528fb4d3d/header_alt_assets_7.jpg?t=1792782343",
+  "release_date": "2026-10-12",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-10-12"
+ },
+ "3819640": {
+  "name": "Megastore Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819640/188e0b6ab9b1909d6da6c54e81856ff0d1401717/header.jpg?t=1792796518",
+  "release_date": "2026-02-02",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-02-02"
+ },
+ "3602570": {
+  "name": "Horsey Game",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/945b3e12201603882fedbbf7abcb5fc3f3ad3fcb/header.jpg?t=1777070557",
+  "release_date": "2026-02-18",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-02-18"
+ },
+ "1210320": {
+  "name": "Potion Craft: Alchemist Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1786023837",
+  "release_date": "2022-12-13",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2021-09-21"
+ },
+ "3361510": {
+  "name": "Coal LLC",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/464a07362fbcfc902988b469725e65e049d7260d/header.jpg?t=1776327387",
+  "release_date": "2025-09-11",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-09-12"
+ },
+ "2350790": {
+  "name": "Moonlighter 2: The Endless Vault",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/header.jpg?t=1789131935",
+  "release_date": "2026-09-02",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-11-19"
+ },
+ "600480": {
+  "name": "Megaquarium",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600480/d4b2c29a690b01340d1cdfceb7d76567326eaed4/header.jpg?t=1772013795",
+  "release_date": "2018-09-13",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2018-09-13"
+ },
+ "2749950": {
+  "name": "Esports Manager 2026",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1791935661",
+  "release_date": "2026-07-06",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-07-06"
+ },
+ "1442430": {
+  "name": "Storage Hunter Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/7e80101e998d9bed0bac2fe7c73f4a13b1150a14/header.jpg?t=1788881598",
+  "release_date": "2025-11-27",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2024-10-10"
+ },
+ "4173620": {
+  "name": "I Know a Guy: Shady Life Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/ebebf52f4ae57acd8593d92b48d0adec0f3c3992/header.jpg?t=1791495708",
+  "release_date": "2026-09-25",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-04-01"
+ },
+ "2977260": {
+  "name": "The Guild 1 Remake: Europa 1410",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977260/333becf2d9b5b3312c4ef200c2312fca33b24c1a/header.jpg?t=1789971895",
+  "release_date": "2026-09-17",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-09-17"
+ },
+ "4304930": {
+  "name": "Chef Knight",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304930/ef9c3c89192e4413d6af84deb45289fc887f003f/header.jpg?t=1792325368",
+  "release_date": "2026-06-01",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-06-01"
+ },
+ "3547270": {
+  "name": "Worming from Home",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3547270/ee969d02d018bae0fb224a6cdbbd680774aa7ab4/header.jpg?t=1788623412",
+  "release_date": "2026-09-04",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-09-04"
+ },
+ "3398110": {
+  "name": "The Walking Trade",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3398110/2244b05e1dcca28000c8bda123be64b333b0e2ad/header.jpg?t=1792070016",
+  "release_date": "2026-03-05",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-03-05"
+ },
+ "2709570": {
+  "name": "Supermarket Together",
+  "type": "game",
+  "is_free": true,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg?t=1770930541",
+  "release_date": "2024-08-09",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2024-08-09"
+ },
+ "4626940": {
+  "name": "Scratch the Ticket",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626940/a8ee25a5ec7ad3866e9bd1b3f1352bd1723b0eaa/header.jpg?t=1788272380",
+  "release_date": "2026-08-13",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-08-13"
+ },
+ "4094120": {
+  "name": "Microlandia",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094120/581eb1f764d784af1de250947a232fbaf9ea5262/header.jpg?t=1791190682",
+  "release_date": "2025-12-03",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-12-04"
+ },
+ "453090": {
+  "name": "Parkitect",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/header.jpg?t=1773075254",
+  "release_date": "2018-11-29",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2016-05-05"
+ },
+ "4356780": {
+  "name": "Screen Stocks",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356780/11a372aceb4c330437ed9d8813555cc285f03a34/header.jpg?t=1793095492",
+  "release_date": "2026-10-27",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-10-27"
+ },
+ "1937780": {
+  "name": "Total War: PHARAOH",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1937780/header.jpg?t=1763646681",
+  "release_date": "2023-10-11",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2023-10-11"
+ },
+ "4381180": {
+  "name": "Coin Harvest",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381180/b82108e6a79a4f293834ffd785ca7b5794edb751/header.jpg?t=1792566961",
+  "release_date": "2026-10-19",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-10-19"
+ },
+ "4156580": {
+  "name": "Weed Supermarket Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156580/d406302a0dee9554db1097ba98266bc412370d4b/header.jpg?t=1792129931",
+  "release_date": "2026-08-12",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-04-09"
+ },
+ "4164900": {
+  "name": "Gacha Capsule Shop Simulator - Akihabara",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164900/29a6464527e5499aac3777435b0cfb9c3141050c/header.jpg?t=1791548235",
+  "release_date": "2026-06-08",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-06-08"
+ },
+ "1602000": {
+  "name": "Hotel Architect",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602000/c354511dec4c3eec7a00f336a7a7cfc335b3aa45/header.jpg?t=1792573316",
+  "release_date": "2026-05-14",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-05-20"
+ },
+ "3726250": {
+  "name": "My Little Cafe Nightmare",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3726250/025d21700dcfa291fe547aef6644243d7647030f/header.jpg?t=1792756015",
+  "release_date": "2026-06-02",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-10-29"
+ },
+ "2659050": {
+  "name": "Movies Tycoon",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659050/header.jpg?t=1787300449",
+  "release_date": "2024-10-24",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2024-07-15"
+ },
+ "3498270": {
+  "name": "Better Mart Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498270/6f68cd47fd199fc862f291971c8362245b4c811b/header.jpg?t=1791280292",
+  "release_date": "2025-05-16",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-05-16"
+ },
+ "1874490": {
+  "name": "Potionomics",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874490/header.jpg?t=1750960791",
+  "release_date": "2022-10-17",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2022-10-17"
+ },
+ "2085660": {
+  "name": "Devices Tycoon",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085660/cfbec389b36849ce4a04b5f19e4a88ca68c73d16/header.jpg?t=1792166456",
+  "release_date": "2026-10-16",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-10-16"
+ },
+ "4668890": {
+  "name": "Mall Together",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668890/896417c924f536cbdd1739725aa0f5f289d07562/header_alt_assets_0.jpg?t=1792986115",
+  "release_date": "2026-07-24",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-07-24"
+ },
+ "4508020": {
+  "name": "Hole Is Mine",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508020/d416e216758d9ebc0cb7983b14e30642801b3399/header.jpg?t=1793091584",
+  "release_date": "2026-08-10",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-08-10"
+ },
+ "3547880": {
+  "name": "FeeBay Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3547880/89bc6ca2e76ea9954d8ccd0ea5f2cacb4261e0f6/header.jpg?t=1782920852",
+  "release_date": "2026-06-12",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-06-12"
+ },
+ "361280": {
+  "name": "Turmoil",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361280/45687741740927b8d200227d6c44b1d43f8fcd9a/header.jpg?t=1775657683",
+  "release_date": "2016-06-02",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2015-06-05"
  }
 }
