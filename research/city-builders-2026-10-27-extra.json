@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T16:39:37+00:00",
- "release_cutoff": "2018-10-27",
+ "generated_at": "2026-10-27T12:10:55+00:00",
+ "release_cutoff": "2021-10-27",
  "reviews_per_game": 500,
  "pool_tags": [
   "City Builder",
@@ -20,149 +20,389 @@
  ],
  "ranked": [
   {
-   "appid": 1162750,
-   "name": "Songs of Syx",
+   "appid": 1060230,
+   "name": "Sapiens",
    "tags": [
     "Early Access",
-    "City Builder",
     "Colony Sim",
-    "Strategy",
-    "Sandbox",
-    "Grand Strategy",
+    "City Builder",
+    "God Game",
     "Base Building",
-    "4X",
     "Building",
-    "Singleplayer"
+    "Survival",
+    "Crafting",
+    "Management",
+    "Life Sim"
    ],
-   "core_tag": "City Builder",
+   "core_tag": "Colony Sim",
    "core_pos": 2,
    "banned": [],
-   "release_date": "2020-09-21",
+   "release_date": "2022-07-26",
    "type": "game",
    "coming_soon": false,
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/1139c83ae1b3886732d64d7933542a1b7e12db68/header_alt_assets_3.jpg?t=1791453053",
-   "first_review": "2020-09-21",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1060230/header.jpg?t=1721349106",
+   "first_review": "2022-07-26",
    "status": "ranked",
-   "total_reviews": 9526,
+   "total_reviews": 2216,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 104.9,
-   "median": 56.4,
-   "p90": 236.0,
-   "max": 1784.6,
-   "avg_at_review": 83.0,
-   "median_at_review": 38.3,
-   "median_after_review": 7.6,
-   "avg_last_2w": 10.5,
-   "active_pct": 45.6,
-   "heavy_pct": 28.0,
-   "recommended_pct": 88.6,
-   "sample_span_days": 80.7,
-   "score": 82.2,
+   "avg": 132.8,
+   "median": 33.7,
+   "p90": 267.5,
+   "max": 5312.3,
+   "avg_at_review": 70.7,
+   "median_at_review": 21.6,
+   "median_after_review": 3.4,
+   "avg_last_2w": 0.5,
+   "active_pct": 4.2,
+   "heavy_pct": 22.2,
+   "recommended_pct": 67.8,
+   "sample_span_days": 952.8,
+   "score": 35.1,
    "distribution": [
     {
      "label": "0-2",
-     "count": 15
+     "count": 27
     },
     {
      "label": "2-10",
-     "count": 23
+     "count": 65
     },
     {
      "label": "10-25",
-     "count": 68
+     "count": 120
     },
     {
      "label": "25-50",
-     "count": 123
+     "count": 88
     },
     {
      "label": "50-100",
-     "count": 131
+     "count": 89
     },
     {
      "label": "100-250",
-     "count": 94
+     "count": 59
     },
     {
      "label": "250-500",
-     "count": 31
+     "count": 23
     },
     {
      "label": "500-1000",
-     "count": 12
+     "count": 18
+    },
+    {
+     "label": "1000+",
+     "count": 11
+    }
+   ],
+   "players_now": 15
+  },
+  {
+   "appid": 2244130,
+   "name": "Ratopia",
+   "tags": [
+    "Building",
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Difficult",
+    "Strategy",
+    "City Builder",
+    "Cute",
+    "2D",
+    "Management"
+   ],
+   "core_tag": "Colony Sim",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2025-04-30",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244130/header.jpg?t=1788244784",
+   "first_review": "2023-11-06",
+   "status": "ranked",
+   "total_reviews": 4929,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 112.7,
+   "median": 63.4,
+   "p90": 255.1,
+   "max": 1847.5,
+   "avg_at_review": 86.3,
+   "median_at_review": 40.8,
+   "median_after_review": 6.8,
+   "avg_last_2w": 1.9,
+   "active_pct": 12.6,
+   "heavy_pct": 33.8,
+   "recommended_pct": 87.2,
+   "sample_span_days": 306.4,
+   "score": 71.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 9
+    },
+    {
+     "label": "2-10",
+     "count": 36
+    },
+    {
+     "label": "10-25",
+     "count": 81
+    },
+    {
+     "label": "25-50",
+     "count": 87
+    },
+    {
+     "label": "50-100",
+     "count": 118
+    },
+    {
+     "label": "100-250",
+     "count": 114
+    },
+    {
+     "label": "250-500",
+     "count": 41
+    },
+    {
+     "label": "500-1000",
+     "count": 11
     },
     {
      "label": "1000+",
      "count": 3
     }
    ],
-   "players_now": 1107
+   "players_now": 210
   },
   {
-   "appid": 773790,
-   "name": "Ostriv",
+   "appid": 1287530,
+   "name": "Lords and Villeins",
    "tags": [
-    "Early Access",
-    "City Builder",
-    "Strategy",
-    "Simulation",
-    "Historical",
     "Colony Sim",
+    "Strategy",
+    "City Builder",
+    "Pixel Graphics",
     "Management",
+    "Simulation",
+    "Medieval",
+    "2D",
     "Building",
-    "Base Building",
-    "Resource Management"
+    "Sandbox"
    ],
-   "core_tag": "City Builder",
-   "core_pos": 2,
+   "core_tag": "Colony Sim",
+   "core_pos": 1,
    "banned": [],
-   "release_date": "2020-03-19",
+   "release_date": "2022-11-10",
    "type": "game",
    "coming_soon": false,
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/773790/header.jpg?t=1731437983",
-   "first_review": "2020-03-19",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287530/header.jpg?t=1761835995",
+   "first_review": "2021-09-30",
    "status": "ranked",
-   "total_reviews": 7735,
-   "review_score_desc": "Very Positive",
+   "total_reviews": 974,
+   "review_score_desc": "Mostly Positive",
    "sample": 500,
-   "avg": 85.0,
-   "median": 35.5,
-   "p90": 167.4,
-   "max": 3920.7,
-   "avg_at_review": 67.9,
-   "median_at_review": 23.1,
-   "median_after_review": 3.9,
-   "avg_last_2w": 1.6,
-   "active_pct": 17.6,
-   "heavy_pct": 20.4,
-   "recommended_pct": 94.4,
-   "sample_span_days": 244.6,
-   "score": 41.7,
+   "avg": 88.7,
+   "median": 37.5,
+   "p90": 224.0,
+   "max": 1156.5,
+   "avg_at_review": 55.9,
+   "median_at_review": 21.7,
+   "median_after_review": 4.3,
+   "avg_last_2w": 0.2,
+   "active_pct": 1.6,
+   "heavy_pct": 27.6,
+   "recommended_pct": 61.4,
+   "sample_span_days": 1358.2,
+   "score": 38.1,
    "distribution": [
     {
      "label": "0-2",
-     "count": 13
+     "count": 76
     },
     {
      "label": "2-10",
-     "count": 51
+     "count": 68
     },
     {
      "label": "10-25",
-     "count": 126
+     "count": 60
     },
     {
      "label": "25-50",
-     "count": 105
+     "count": 73
     },
     {
      "label": "50-100",
-     "count": 103
+     "count": 85
     },
     {
      "label": "100-250",
-     "count": 71
+     "count": 99
+    },
+    {
+     "label": "250-500",
+     "count": 26
+    },
+    {
+     "label": "500-1000",
+     "count": 10
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 11
+  },
+  {
+   "appid": 2503770,
+   "name": "House of Legacy",
+   "tags": [
+    "Management",
+    "Diplomacy",
+    "Sandbox",
+    "City Builder",
+    "Open World",
+    "RPG",
+    "Simulation",
+    "Economy",
+    "Strategy",
+    "Base Building"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-05-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503770/8d52d5bc6449e64c859b00b1669f4a686bb345ce/header.jpg?t=1783925538",
+   "first_review": "2025-05-15",
+   "status": "ranked",
+   "total_reviews": 4050,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 80.2,
+   "median": 44.1,
+   "p90": 169.8,
+   "max": 1351.9,
+   "avg_at_review": 55.3,
+   "median_at_review": 29.7,
+   "median_after_review": 6.4,
+   "avg_last_2w": 2.4,
+   "active_pct": 19.4,
+   "heavy_pct": 21.6,
+   "recommended_pct": 82.8,
+   "sample_span_days": 223.7,
+   "score": 52.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 6
+    },
+    {
+     "label": "2-10",
+     "count": 40
+    },
+    {
+     "label": "10-25",
+     "count": 88
+    },
+    {
+     "label": "25-50",
+     "count": 134
+    },
+    {
+     "label": "50-100",
+     "count": 124
+    },
+    {
+     "label": "100-250",
+     "count": 83
+    },
+    {
+     "label": "250-500",
+     "count": 17
+    },
+    {
+     "label": "500-1000",
+     "count": 7
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 255
+  },
+  {
+   "appid": 2155180,
+   "name": "Pioneers of Pagonia",
+   "tags": [
+    "Strategy",
+    "Resource Management",
+    "Colony Sim",
+    "Online Co-Op",
+    "Fantasy",
+    "Base Building",
+    "City Builder",
+    "Management",
+    "Procedural Generation",
+    "PvE"
+   ],
+   "core_tag": "Colony Sim",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2025-12-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155180/464ae76db428e4c2511e769a2e39b8c7c8b84ae9/header.jpg?t=1790173245",
+   "first_review": "2023-12-13",
+   "status": "ranked",
+   "total_reviews": 5555,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 74.9,
+   "median": 33.8,
+   "p90": 146.8,
+   "max": 1504.7,
+   "avg_at_review": 52.4,
+   "median_at_review": 24.6,
+   "median_after_review": 3.8,
+   "avg_last_2w": 2.1,
+   "active_pct": 17.2,
+   "heavy_pct": 16.0,
+   "recommended_pct": 70.4,
+   "sample_span_days": 253.7,
+   "score": 39.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 69
+    },
+    {
+     "label": "10-25",
+     "count": 110
+    },
+    {
+     "label": "25-50",
+     "count": 131
+    },
+    {
+     "label": "50-100",
+     "count": 94
+    },
+    {
+     "label": "100-250",
+     "count": 48
     },
     {
      "label": "250-500",
@@ -174,10 +414,330 @@
     },
     {
      "label": "1000+",
-     "count": 3
+     "count": 4
     }
    ],
-   "players_now": 191
+   "players_now": 185
+  },
+  {
+   "appid": 1876880,
+   "name": "Primitive Society Simulator",
+   "tags": [
+    "City Builder",
+    "Colony Sim",
+    "Base Building",
+    "Sandbox",
+    "Agriculture",
+    "Building",
+    "Wargame",
+    "Diplomacy",
+    "Management",
+    "Historical"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2024-02-26",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876880/e5f4f4d4a65fc95f04d101b869e4a663428ae363/header.jpg?t=1772167510",
+   "first_review": "2024-02-27",
+   "status": "ranked",
+   "total_reviews": 763,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 67.8,
+   "median": 34.6,
+   "p90": 162.6,
+   "max": 1549.1,
+   "avg_at_review": 42.5,
+   "median_at_review": 21.6,
+   "median_after_review": 4.4,
+   "avg_last_2w": 0.6,
+   "active_pct": 6.0,
+   "heavy_pct": 20.4,
+   "recommended_pct": 83.2,
+   "sample_span_days": 928.8,
+   "score": 36.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 37
+    },
+    {
+     "label": "2-10",
+     "count": 85
+    },
+    {
+     "label": "10-25",
+     "count": 75
+    },
+    {
+     "label": "25-50",
+     "count": 106
+    },
+    {
+     "label": "50-100",
+     "count": 95
+    },
+    {
+     "label": "100-250",
+     "count": 80
+    },
+    {
+     "label": "250-500",
+     "count": 20
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 12
+  },
+  {
+   "appid": 1989760,
+   "name": "Pax Augusta",
+   "tags": [
+    "Simulation",
+    "Strategy",
+    "Rome",
+    "City Builder",
+    "Historical",
+    "Grand Strategy",
+    "Resource Management",
+    "Management",
+    "Realistic",
+    "2.5D"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-04-17",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989760/header.jpg?t=1744971167",
+   "first_review": "2025-04-17",
+   "status": "ranked",
+   "total_reviews": 662,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 36.2,
+   "median": 18.7,
+   "p90": 81.4,
+   "max": 1163.6,
+   "avg_at_review": 20.7,
+   "median_at_review": 10.6,
+   "median_after_review": 4.2,
+   "avg_last_2w": 0.2,
+   "active_pct": 3.0,
+   "heavy_pct": 7.2,
+   "recommended_pct": 65.4,
+   "sample_span_days": 550.0,
+   "score": 19.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 62
+    },
+    {
+     "label": "2-10",
+     "count": 95
+    },
+    {
+     "label": "10-25",
+     "count": 134
+    },
+    {
+     "label": "25-50",
+     "count": 115
+    },
+    {
+     "label": "50-100",
+     "count": 58
+    },
+    {
+     "label": "100-250",
+     "count": 32
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 1
+  },
+  {
+   "appid": 2603020,
+   "name": "Citadelum",
+   "tags": [
+    "Moddable",
+    "Singleplayer",
+    "City Builder",
+    "Rome",
+    "Resource Management",
+    "Building",
+    "Sandbox",
+    "Auto Battler",
+    "Simulation",
+    "Level Editor"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2024-10-17",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2603020/65204bce198b2cfad1b472d7b5f1e05ead3148e7/header.jpg?t=1792665349",
+   "first_review": "2024-10-17",
+   "status": "ranked",
+   "total_reviews": 1099,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 34.6,
+   "median": 18.1,
+   "p90": 68.1,
+   "max": 731.5,
+   "avg_at_review": 18.8,
+   "median_at_review": 8.1,
+   "median_after_review": 3.4,
+   "avg_last_2w": 0.3,
+   "active_pct": 3.8,
+   "heavy_pct": 5.4,
+   "recommended_pct": 85.2,
+   "sample_span_days": 558.2,
+   "score": 18.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 36
+    },
+    {
+     "label": "2-10",
+     "count": 125
+    },
+    {
+     "label": "10-25",
+     "count": 149
+    },
+    {
+     "label": "25-50",
+     "count": 103
+    },
+    {
+     "label": "50-100",
+     "count": 60
+    },
+    {
+     "label": "100-250",
+     "count": 19
+    },
+    {
+     "label": "250-500",
+     "count": 6
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 14
+  },
+  {
+   "appid": 1989070,
+   "name": "Synergy",
+   "tags": [
+    "Stylized",
+    "City Builder",
+    "Economy",
+    "Colony Sim",
+    "Strategy",
+    "Resource Management",
+    "Isometric",
+    "Colorful",
+    "Building",
+    "Nature"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2025-04-16",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989070/header.jpg?t=1745317904",
+   "first_review": "2024-05-21",
+   "status": "ranked",
+   "total_reviews": 1108,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 25.0,
+   "median": 10.8,
+   "p90": 60.2,
+   "max": 574.9,
+   "avg_at_review": 18.0,
+   "median_at_review": 7.1,
+   "median_after_review": 0.8,
+   "avg_last_2w": 0.1,
+   "active_pct": 1.4,
+   "heavy_pct": 4.0,
+   "recommended_pct": 67.0,
+   "sample_span_days": 432.5,
+   "score": 11.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 66
+    },
+    {
+     "label": "2-10",
+     "count": 173
+    },
+    {
+     "label": "10-25",
+     "count": 120
+    },
+    {
+     "label": "25-50",
+     "count": 74
+    },
+    {
+     "label": "50-100",
+     "count": 47
+    },
+    {
+     "label": "100-250",
+     "count": 15
+    },
+    {
+     "label": "250-500",
+     "count": 4
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 8
   }
  ],
  "excluded": []

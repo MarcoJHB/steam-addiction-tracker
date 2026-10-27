@@ -1,0 +1,184 @@
+{
+ "generated_at": "2026-10-27T16:39:37+00:00",
+ "release_cutoff": "2018-10-27",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 1162750,
+   "name": "Songs of Syx",
+   "tags": [
+    "Early Access",
+    "City Builder",
+    "Colony Sim",
+    "Strategy",
+    "Sandbox",
+    "Grand Strategy",
+    "Base Building",
+    "4X",
+    "Building",
+    "Singleplayer"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2020-09-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/1139c83ae1b3886732d64d7933542a1b7e12db68/header_alt_assets_3.jpg?t=1791453053",
+   "first_review": "2020-09-21",
+   "status": "ranked",
+   "total_reviews": 9526,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 104.9,
+   "median": 56.4,
+   "p90": 236.0,
+   "max": 1784.6,
+   "avg_at_review": 83.0,
+   "median_at_review": 38.3,
+   "median_after_review": 7.6,
+   "avg_last_2w": 10.5,
+   "active_pct": 45.6,
+   "heavy_pct": 28.0,
+   "recommended_pct": 88.6,
+   "sample_span_days": 80.7,
+   "score": 82.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 15
+    },
+    {
+     "label": "2-10",
+     "count": 23
+    },
+    {
+     "label": "10-25",
+     "count": 68
+    },
+    {
+     "label": "25-50",
+     "count": 123
+    },
+    {
+     "label": "50-100",
+     "count": 131
+    },
+    {
+     "label": "100-250",
+     "count": 94
+    },
+    {
+     "label": "250-500",
+     "count": 31
+    },
+    {
+     "label": "500-1000",
+     "count": 12
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 1107
+  },
+  {
+   "appid": 773790,
+   "name": "Ostriv",
+   "tags": [
+    "Early Access",
+    "City Builder",
+    "Strategy",
+    "Simulation",
+    "Historical",
+    "Colony Sim",
+    "Management",
+    "Building",
+    "Base Building",
+    "Resource Management"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2020-03-19",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/773790/header.jpg?t=1731437983",
+   "first_review": "2020-03-19",
+   "status": "ranked",
+   "total_reviews": 7735,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 85.0,
+   "median": 35.5,
+   "p90": 167.4,
+   "max": 3920.7,
+   "avg_at_review": 67.9,
+   "median_at_review": 23.1,
+   "median_after_review": 3.9,
+   "avg_last_2w": 1.6,
+   "active_pct": 17.6,
+   "heavy_pct": 20.4,
+   "recommended_pct": 94.4,
+   "sample_span_days": 244.6,
+   "score": 41.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 51
+    },
+    {
+     "label": "10-25",
+     "count": 126
+    },
+    {
+     "label": "25-50",
+     "count": 105
+    },
+    {
+     "label": "50-100",
+     "count": 103
+    },
+    {
+     "label": "100-250",
+     "count": 71
+    },
+    {
+     "label": "250-500",
+     "count": 20
+    },
+    {
+     "label": "500-1000",
+     "count": 8
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 191
+  }
+ ],
+ "excluded": []
+}
