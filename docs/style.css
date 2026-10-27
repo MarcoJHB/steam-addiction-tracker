@@ -84,7 +84,8 @@ h1 {
 
 .field { display: flex; flex-direction: column; gap: 6px; font-size: .82rem; color: var(--muted); }
 .field.grow { flex: 1 1 180px; }
-.tags-field { flex: 1 1 100%; order: 5; }
+.tags-field { flex: 1 1 420px; order: 5; }
+#csv { order: 6; }
 
 select, input[type=search] {
   font: 500 .95rem var(--body);
@@ -121,6 +122,47 @@ input[type=search] { width: 100%; }
   cursor: pointer;
 }
 .ghost:hover { border-color: var(--muted); }
+
+.sort { display: flex; gap: 8px; }
+.dir { white-space: nowrap; min-width: 8.5rem; }
+
+.seg { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button {
+  font: 500 .9rem var(--body);
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-right: 1px solid var(--line);
+  padding: 9px 13px;
+  min-height: 42px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.seg button:last-child { border-right: 0; }
+.seg button[aria-pressed=true] { color: var(--ink); background: var(--bg-raised); }
+.seg .count { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+/* ---- row actions ---- */
+
+.row-main { display: flex; align-items: center; gap: 6px; }
+.row-main .row-head { flex: 1; min-width: 0; }
+.actions { display: flex; flex-direction: column; gap: 2px; }
+.icon {
+  width: 36px; height: 36px;
+  display: grid; place-items: center;
+  background: none; border: 0; border-radius: 8px;
+  color: var(--muted);
+  cursor: pointer;
+}
+.icon:hover { background: var(--bg-raised); color: var(--ink); }
+.icon svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linejoin: round; stroke-linecap: round; }
+.fav[aria-pressed=true] { color: var(--amber); }
+.fav[aria-pressed=true] svg { fill: currentColor; }
+.hide .slash { display: none; }
+.hide[aria-pressed=true] { color: var(--ink); }
+.hide[aria-pressed=true] .slash { display: inline; }
+.hide[aria-pressed=true] .eye { opacity: .45; }
+.row.is-hidden .row-head { opacity: .55; }
 
 /* ---- board ---- */
 
@@ -190,6 +232,7 @@ main { padding-top: 8px; padding-bottom: 48px; }
 .stats div { min-width: 0; }
 .stats dt { font-size: .78rem; color: var(--muted); }
 .stats dd { margin: 0; font: 600 1.05rem var(--body); font-variant-numeric: tabular-nums; }
+.stats dd small { display: block; font-weight: 400; font-size: .78rem; color: var(--muted); }
 
 .chart svg { display: block; width: 100%; height: auto; overflow: visible; }
 .chart .axis { fill: var(--muted); font: 11px var(--body); }
@@ -231,6 +274,11 @@ main { padding-top: 8px; padding-bottom: 48px; }
   .rank { font-size: 1rem; }
   .bar-wrap { height: 10px; }
   .detail { margin-left: 0; padding: 16px; }
+  .controls > .field:not(.grow):not(.tags-field) { flex: 1 1 100%; }
+  .sort select { flex: 1; min-width: 0; width: 100%; }
+  .dir { min-width: 0; padding: 9px 10px; }
+  .seg button { flex: 1; padding: 9px 8px; }
+  .icon { width: 34px; height: 34px; }
   .controls { position: static; }
 }
 

@@ -7,11 +7,12 @@
     "Base Building"
   ],
   "games_per_tag": 50,
-  "reviews_per_game": 1000,
+  "reviews_per_game": 500,
   "min_reviews": 50,
   "heavy_player_hours": 100,
   "extra_appids": [],
   "exclude_appids": [],
   "request_delay_seconds": 0.7,
-  "history_days": 365
+  "history_days": 365,
+  "age_peers": 30
 }

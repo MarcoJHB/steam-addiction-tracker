@@ -140,6 +140,17 @@ class Steam:
             "fetched": today(),
         }
 
+    def first_review_date(self, appid: int) -> str | None:
+        """Date of the game's first Steam review. For games that spent years in
+        Early Access this is far earlier than the official release date, and
+        it's the better measure of how long people have been able to play."""
+        data = self.get_json(f"{STORE}/appreviewhistogram/{appid}", {"l": "english", "review_score_preference": 0})
+        try:
+            ts = int(data["results"]["start_date"])
+        except (TypeError, KeyError, ValueError):
+            return None
+        return datetime.fromtimestamp(ts, timezone.utc).strftime("%Y-%m-%d") if ts > 0 else None
+
     def current_players(self, appid: int) -> int | None:
         data = self.get_json(f"{API}/ISteamUserStats/GetNumberOfCurrentPlayers/v1/", {"appid": appid})
         try:
@@ -232,6 +243,46 @@ def compute_stats(reviews: list[dict], heavy_hours: float) -> dict:
         "score": round(median * (1 + active), 1),
         "distribution": buckets,
     }
+
+
+def add_age_adjustment(games: list[dict], peers: int = 30) -> None:
+    """
+    Older games naturally show more hours: their reviewers have had longer to
+    play. Dividing by age doesn't fix that (a 10-year-old game's recent
+    reviewers didn't all play it for 10 years), so instead each game is
+    compared with the games closest to it in release date.
+
+    age_x = this game's addiction score / median score of its nearest peers.
+    1.0 = typical for a game of its age, 2.0 = twice as much as its peers.
+    """
+    import math
+
+    def days(g):
+        d = g.get("days_playable")
+        return d if d is not None else g.get("days_since_release")
+
+    def age_key(g):
+        # Log scale: the gap between 1 and 6 months matters far more than
+        # between 8 and 9 years. +30 days keeps launch-week games stable.
+        return math.log(days(g) + 30)
+
+    pool = [g for g in games if days(g) is not None and g.get("score")]
+    k = min(peers, len(pool) - 1)
+    for g in games:
+        g["age_x"] = g["age_peer_score"] = g["age_peer_years"] = None
+    if k < 5:
+        return
+    for g in pool:
+        me = age_key(g)
+        nearest = sorted((p for p in pool if p is not g), key=lambda p: abs(age_key(p) - me))[:k]
+        peer_score = statistics.median(p["score"] for p in nearest)
+        if peer_score <= 0:
+            continue
+        years = sorted(int((p.get("playable_since") or p["release_date"])[:4])
+                       for p in nearest if p.get("playable_since") or p.get("release_date"))
+        g["age_x"] = round(g["score"] / peer_score, 2)
+        g["age_peer_score"] = round(peer_score, 1)
+        g["age_peer_years"] = [years[0], years[-1]] if years else None
 
 
 def percentile(sorted_vals: list[float], q: float) -> float:
@@ -342,7 +393,11 @@ def main() -> int:
             if fresh:
                 meta = meta_cache[key] = fresh
         meta = meta or {}
+        if meta and "first_review" not in meta:
+            meta["first_review"] = steam.first_review_date(appid)
+            meta_cache[key] = meta
         name = meta.get("name") or g["name"] or f"App {appid}"
+        playable_since = min(filter(None, [meta.get("release_date"), meta.get("first_review")]), default=None)
 
         if meta.get("type") and meta["type"] != "game":
             log(f"[{i}/{len(order)}] {name}: skipped (not a game)")
@@ -372,6 +427,9 @@ def main() -> int:
             "header_image": meta.get("header_image"),
             "release_date": meta.get("release_date"),
             "days_since_release": days_since(meta.get("release_date")),
+            # Earlier than release_date for games that were in Early Access.
+            "playable_since": playable_since,
+            "days_playable": days_since(playable_since),
             "is_free": meta.get("is_free", False),
             "players_now": players,
             "total_reviews": summary.get("total_reviews"),
@@ -394,7 +452,14 @@ def main() -> int:
         log(f"\nMore than half the games failed ({failed}), not overwriting existing data.")
         return 1
 
-    # 3. Save.
+    # 3. Level the playing field between old and new games.
+    add_age_adjustment(results, int(cfg.get("age_peers", 30)))
+    for e in results:
+        h = history.get(str(e["appid"]))
+        if h and h[-1].get("d") == today():
+            h[-1]["age_x"] = e.get("age_x")
+
+    # 4. Save.
     keep = int(cfg.get("history_days", 365))
     for k in history:
         history[k] = history[k][-keep:]
@@ -403,6 +468,7 @@ def main() -> int:
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "reviews_per_game": target,
         "heavy_player_hours": heavy,
+        "age_peers": int(cfg.get("age_peers", 30)),
         "tags": list(tag_ids.keys()),
         "review_endpoint": steam.review_endpoint,
         "games": results,

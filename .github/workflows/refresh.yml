@@ -41,6 +41,8 @@ jobs:
             echo "No changes"
           else
             git commit -m "Data refresh $(date -u +%Y-%m-%d)"
+            # Code may have been pushed while this run was collecting.
+            git pull --rebase origin main
             git push
           fi
 
