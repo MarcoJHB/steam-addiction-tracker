@@ -13,6 +13,57 @@
       ]
     }
   ],
+  "genre_top_n": 5,
+  "excluded_genres": [
+    "Incremental",
+    "Idler",
+    "Clicker",
+    "Turn-Based Strategy",
+    "4X",
+    "RTS"
+  ],
+  "genre_overrides": {
+    "3219030": [
+      "Management",
+      "Tycoon"
+    ],
+    "703080": [
+      "Management",
+      "Tycoon"
+    ],
+    "2688950": [
+      "Management",
+      "Tycoon"
+    ],
+    "493340": [
+      "Management",
+      "Tycoon"
+    ],
+    "2958130": [
+      "Management",
+      "Tycoon"
+    ],
+    "2185060": [
+      "Management",
+      "Tycoon"
+    ],
+    "3493540": [
+      "Management",
+      "Tycoon"
+    ],
+    "453090": [
+      "Management",
+      "Tycoon"
+    ],
+    "600480": [
+      "Management",
+      "Tycoon"
+    ],
+    "1602000": [
+      "Management",
+      "Tycoon"
+    ]
+  },
   "games_per_tag": 50,
   "reviews_per_game": 500,
   "min_reviews": 50,

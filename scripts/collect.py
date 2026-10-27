@@ -163,6 +163,18 @@ class Steam:
             return None
         return datetime.fromtimestamp(ts, timezone.utc).strftime("%Y-%m-%d") if ts > 0 else None
 
+    def store_tags(self, appid: int) -> list[str] | None:
+        """A game's own Steam tags, in order of how many players applied them
+        (from the store's hover card). None if Steam didn't answer."""
+        time.sleep(self.delay)
+        try:
+            r = self.s.get(f"{STORE}/apphover/{appid}", params={"l": "english"}, timeout=30)
+        except requests.RequestException:
+            return None
+        if r.status_code != 200:
+            return None
+        return [unescape(t) for t in re.findall(r'class="app_tag"[^>]*>([^<]+)<', r.text)][:15]
+
     def current_players(self, appid: int) -> int | None:
         data = self.get_json(f"{API}/ISteamUserStats/GetNumberOfCurrentPlayers/v1/", {"appid": appid})
         try:
@@ -255,6 +267,42 @@ def compute_stats(reviews: list[dict], heavy_hours: float) -> dict:
         "score": round(median * (1 + active), 1),
         "distribution": buckets,
     }
+
+
+def classify(appid: int, steam_tags: list[str], cfg: dict) -> tuple[list[str], str | None]:
+    """
+    Work out which of the site's genres a game belongs to, from its OWN top
+    Steam tags (not from whichever search happened to find it).
+
+    - A plain genre ("City Builder") applies when that tag is in the game's
+      top N tags (genre_top_n, default 5).
+    - A custom genre ({"name": "Tycoon", "steam_tags": [...]}) applies when
+      all its Steam tags are in the game's top `top_n` tags (default 10).
+    - excluded_genres (4X, RTS...) in the top N drops the game entirely:
+      further down the list they only count as a minor mechanic.
+    - genre_overrides in config.json replace all of this for a given app ID.
+    Returns (genres, reason it was dropped or None).
+    """
+    override = cfg.get("genre_overrides", {}).get(str(appid))
+    if override:
+        return list(override), None
+    n = int(cfg.get("genre_top_n", 5))
+    top = steam_tags[:n]
+    banned = [t for t in cfg.get("excluded_genres", []) if t in top]
+    if banned:
+        return [], f"{' + '.join(banned)} in its top {n} Steam tags"
+    genres = []
+    for entry in cfg.get("tags", []):
+        if isinstance(entry, str):
+            if entry in top:
+                genres.append(entry)
+        else:
+            within = steam_tags[: int(entry.get("top_n", 10))]
+            if all(t in within for t in entry["steam_tags"]):
+                genres.append(entry["name"])
+    if not genres:
+        return [], f"none of the site's genres in its top {n} Steam tags"
+    return genres, None
 
 
 def add_age_adjustment(games: list[dict], peers: int = 30) -> None:
@@ -363,6 +411,7 @@ def main() -> int:
     heavy = float(cfg.get("heavy_player_hours", 100))
     min_reviews = int(cfg.get("min_reviews", 50))
     exclude = {int(x) for x in cfg.get("exclude_appids", [])}
+    extra = {int(x) for x in cfg.get("extra_appids", [])}
 
     steam = Steam(delay=float(cfg.get("request_delay_seconds", 0.7)))
     meta_cache: dict = load_json(META_PATH, {})
@@ -418,11 +467,28 @@ def main() -> int:
             log(f"[{i}/{len(order)}] {name}: skipped (not released)")
             continue
 
+        # Genres from the game's own tags (refreshed every couple of weeks).
+        if not meta.get("steam_tags") or (days_since(meta.get("tags_fetched")) or 0) > 14:
+            tags_now = steam.store_tags(appid)
+            if tags_now:
+                meta["steam_tags"], meta["tags_fetched"] = tags_now, today()
+                meta_cache[key] = meta
+        steam_tags = meta.get("steam_tags") or []
+        if steam_tags:
+            genres, dropped = classify(appid, steam_tags, cfg)
+        else:
+            genres, dropped = g["tags"], None      # Steam didn't answer: fall back to the search tags
+        if appid in extra and not genres:
+            genres, dropped = ["Extra"], None
+        if dropped:
+            log(f"[{i}/{len(order)}] {name}: skipped ({dropped})")
+            continue
+
         reviews, summary = steam.recent_reviews(appid, target)
         if len(reviews) < min_reviews:
             if key in previous and not reviews:
                 # Steam hiccup: keep yesterday's numbers rather than dropping the game.
-                old = dict(previous[key], stale=True, tags=g["tags"])
+                old = dict(previous[key], stale=True, tags=genres)
                 results.append(old)
                 failed += 1
                 log(f"[{i}/{len(order)}] {name}: fetch failed, kept previous data")
@@ -435,7 +501,8 @@ def main() -> int:
         entry = {
             "appid": appid,
             "name": name,
-            "tags": g["tags"],
+            "tags": genres,
+            "steam_tags": steam_tags[:5],
             "header_image": meta.get("header_image"),
             "release_date": meta.get("release_date"),
             "days_since_release": days_since(meta.get("release_date")),
