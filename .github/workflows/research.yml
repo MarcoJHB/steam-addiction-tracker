@@ -1,0 +1,41 @@
+name: Research run (city builders)
+
+# One-off data pulls for videos. Start it from the Actions tab with "Run workflow".
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "Only games released in the last N years"
+        default: "5"
+      reviews:
+        description: "Recent reviews to read per game"
+        default: "500"
+
+concurrency:
+  group: refresh            # never runs at the same time as the daily tracker
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Collect city builder data
+        run: python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}"
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research
+          if git diff --cached --quiet; then echo "No changes"; else
+            git commit -m "Research: city builders $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi
