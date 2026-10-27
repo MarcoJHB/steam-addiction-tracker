@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Steam Addiction Tracker</title>
+  <meta name="description" content="Which Steam games eat the most hours? Ranked by the playtime of each game's most recent reviewers, updated daily.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231A1D33'/%3E%3Crect x='6' y='8' width='20' height='4' rx='2' fill='%23F2B544'/%3E%3Crect x='6' y='14' width='14' height='4' rx='2' fill='%23F2B544' opacity='.75'/%3E%3Crect x='6' y='20' width='9' height='4' rx='2' fill='%23F2B544' opacity='.5'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Which games eat the most hours?</h1>
+    <p class="lede">Every day this page reads the latest <span id="reviewCount">500</span> Steam reviews for the best-selling
+      city builders, colony sims, management, strategy, automation and base-building games, and ranks them by how long
+      those reviewers have actually played.</p>
+    <p class="meta" id="meta">Loading the latest numbers…</p>
+  </header>
+
+  <section class="controls" aria-label="Filter and sort">
+    <label class="field">
+      <span>Rank by</span>
+      <select id="metric">
+        <option value="score">Addiction score</option>
+        <option value="median">Median hours</option>
+        <option value="avg">Average hours</option>
+        <option value="max">Most hours by one player</option>
+        <option value="p90">Top 10% of players (hours)</option>
+        <option value="median_after_review">Hours played after reviewing</option>
+        <option value="active_pct">Still playing (last 2 weeks)</option>
+        <option value="heavy_pct">Heavy players</option>
+        <option value="avg_last_2w">Hours in the last 2 weeks</option>
+        <option value="players_now">Playing right now</option>
+      </select>
+    </label>
+    <label class="field grow">
+      <span>Search</span>
+      <input id="search" type="search" placeholder="Game name" autocomplete="off">
+    </label>
+    <div class="field tags-field">
+      <span id="tagsLabel">Tags</span>
+      <div class="tags" id="tags" role="group" aria-labelledby="tagsLabel"></div>
+    </div>
+    <button class="ghost" id="csv" type="button">Download CSV</button>
+  </section>
+
+  <main>
+    <ol class="board" id="board" aria-live="polite"></ol>
+    <p class="empty" id="empty" hidden>No games match. Clear the search or turn a tag back on.</p>
+  </main>
+
+  <footer class="how">
+    <h2>How the numbers work</h2>
+    <dl>
+      <div><dt>Hours</dt><dd>Each reviewer's total playtime on Steam for that game, as of today. Not just when they wrote the review.</dd></div>
+      <div><dt>Addiction score</dt><dd>Median hours × (1 + share of reviewers who played in the last two weeks). The median keeps a few people who left the game idling for months from skewing things, and the second part rewards games people keep coming back to.</dd></div>
+      <div><dt>Still playing</dt><dd>Share of the sampled reviewers who played at least a few minutes in the last two weeks.</dd></div>
+      <div><dt>Heavy players</dt><dd>Share of reviewers with <span id="heavyHours">100</span>+ hours.</dd></div>
+      <div><dt>Hours after reviewing</dt><dd>Median of total hours minus hours at the time of the review. High numbers mean people kept playing long after giving their opinion.</dd></div>
+      <div><dt>Keep in mind</dt><dd>Recent reviewers aren't every player. Older games skew higher because their reviewers have had years to rack up hours, and playtime only counts time spent in the Steam version.</dd></div>
+    </dl>
+    <p class="source">Data from the public Steam store. Source and settings on <a href="https://github.com/MarcoJHB/steam-addiction-tracker">GitHub</a>.</p>
+  </footer>
+
+  <template id="rowTpl">
+    <li class="row">
+      <button class="row-head" type="button" aria-expanded="false">
+        <span class="rank"></span>
+        <img class="art" alt="" loading="lazy" width="120" height="56">
+        <span class="title">
+          <span class="name"></span>
+          <span class="sub"></span>
+        </span>
+        <span class="bar-wrap" aria-hidden="true"><span class="bar"></span><span class="tick"></span></span>
+        <span class="value"></span>
+        <span class="mini">
+          <span><b class="m-avg"></b> avg</span>
+          <span><b class="m-max"></b> max</span>
+          <span><b class="m-active"></b> still playing</span>
+        </span>
+      </button>
+      <div class="detail" hidden></div>
+    </li>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

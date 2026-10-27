@@ -1,0 +1,69 @@
+name: Refresh data and publish site
+
+on:
+  schedule:
+    - cron: "23 4 * * *"   # every day at 04:23 UTC (around 5-6am in France)
+  workflow_dispatch:        # "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+    paths-ignore: ["docs/data/**"]
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    # Code pushes only redeploy the site; the full Steam collection runs on schedule or by hand.
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Collect Steam reviews
+        run: python scripts/collect.py
+
+      - name: Commit new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Data refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+  deploy:
+    needs: collect
+    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
