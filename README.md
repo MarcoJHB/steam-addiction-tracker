@@ -26,7 +26,7 @@ Edit `config.json` on GitHub (pencil icon) and commit. The next daily run picks 
 
 | Setting | Meaning |
 | --- | --- |
-| `tags` | Steam tag names, exactly as Steam spells them. A custom tag can require several Steam tags at once, e.g. `{"name": "Tycoon", "steam_tags": ["Management", "Capitalism"]}` |
+| `tags` | Steam tag names, exactly as Steam spells them. A custom tag lists rules, any of which is enough, e.g. Tycoon = Management + Capitalism in the top 10 tags, or Capitalism in the top 5 |
 | `genre_top_n` | A game gets a genre only if that tag is in its own top N Steam tags (default 5). Custom tags check the top 10 |
 | `excluded_genres` | Games with any of these in their top N tags are left out (4X, RTS, turn-based strategy, incremental, idler, clicker) |
 | `genre_overrides` | Set a game's genres by hand, by app ID, e.g. `"3219030": ["Management", "Tycoon"]` for Planet Zoo 2 |

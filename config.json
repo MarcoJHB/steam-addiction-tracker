@@ -7,9 +7,20 @@
     "Base Building",
     {
       "name": "Tycoon",
-      "steam_tags": [
-        "Management",
-        "Capitalism"
+      "any_of": [
+        {
+          "steam_tags": [
+            "Management",
+            "Capitalism"
+          ],
+          "top_n": 10
+        },
+        {
+          "steam_tags": [
+            "Capitalism"
+          ],
+          "top_n": 5
+        }
       ]
     }
   ],
@@ -62,6 +73,9 @@
     "1602000": [
       "Management",
       "Tycoon"
+    ],
+    "3274580": [
+      "City Builder"
     ]
   },
   "games_per_tag": 50,
@@ -69,7 +83,9 @@
   "min_reviews": 50,
   "heavy_player_hours": 100,
   "extra_appids": [],
-  "exclude_appids": [],
+  "exclude_appids": [
+    529340
+  ],
   "request_delay_seconds": 0.7,
   "history_days": 365,
   "age_peers": 30

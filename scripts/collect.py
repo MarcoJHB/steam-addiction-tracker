@@ -276,8 +276,9 @@ def classify(appid: int, steam_tags: list[str], cfg: dict) -> tuple[list[str], s
 
     - A plain genre ("City Builder") applies when that tag is in the game's
       top N tags (genre_top_n, default 5).
-    - A custom genre ({"name": "Tycoon", "steam_tags": [...]}) applies when
-      all its Steam tags are in the game's top `top_n` tags (default 10).
+    - A custom genre ({"name": "Tycoon", "any_of": [{"steam_tags": [...], "top_n": 10}]})
+      applies when, for any one of its rules, all those Steam tags are in the
+      game's top `top_n` tags.
     - excluded_genres (4X, RTS...) in the top N drops the game entirely:
       further down the list they only count as a minor mechanic.
     - genre_overrides in config.json replace all of this for a given app ID.
@@ -297,9 +298,14 @@ def classify(appid: int, steam_tags: list[str], cfg: dict) -> tuple[list[str], s
             if entry in top:
                 genres.append(entry)
         else:
-            within = steam_tags[: int(entry.get("top_n", 10))]
-            if all(t in within for t in entry["steam_tags"]):
-                genres.append(entry["name"])
+            # A custom genre matches if any of its rules does. A rule = Steam tags
+            # that must ALL be in the game's top `top_n` tags.
+            rules = entry.get("any_of") or [{"steam_tags": entry["steam_tags"], "top_n": entry.get("top_n", 10)}]
+            for rule in rules:
+                within = steam_tags[: int(rule.get("top_n", 10))]
+                if all(t in within for t in rule["steam_tags"]):
+                    genres.append(entry["name"])
+                    break
     if not genres:
         return [], f"none of the site's genres in its top {n} Steam tags"
     return genres, None
