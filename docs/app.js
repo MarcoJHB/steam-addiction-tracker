@@ -55,7 +55,7 @@
       return;
     }
     const d = state.data;
-    $("reviewCount").textContent = d.reviews_per_game;
+    $("reviewCount").textContent = Number(d.reviews_per_game).toLocaleString("en-US");
     $("heavyHours").textContent = d.heavy_player_hours;
     const when = new Date(d.generated_at);
     els.meta.textContent = `${d.games.length} games, updated ${when.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })} at ${when.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" })}.`;

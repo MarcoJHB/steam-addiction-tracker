@@ -1,7 +1,13 @@
 {
-  "tags": ["City Builder", "Colony Sim", "Management", "Strategy", "Automation", "Base Building"],
+  "tags": [
+    "City Builder",
+    "Colony Sim",
+    "Management",
+    "Automation",
+    "Base Building"
+  ],
   "games_per_tag": 50,
-  "reviews_per_game": 500,
+  "reviews_per_game": 1000,
   "min_reviews": 50,
   "heavy_player_hours": 100,
   "extra_appids": [],

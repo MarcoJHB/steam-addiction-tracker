@@ -1,6 +1,6 @@
 # Steam Addiction Tracker
 
-Which Steam games eat the most hours? Every day this pulls the 500 most recent reviews for the best-selling games in a set of Steam tags and ranks them by how long those reviewers have actually played.
+Which Steam games eat the most hours? Every day this pulls the 1,000 most recent reviews for the best-selling games in a set of Steam tags and ranks them by how long those reviewers have actually played.
 
 **Live page:** https://marcojhb.github.io/steam-addiction-tracker/
 
