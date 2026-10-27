@@ -4,7 +4,14 @@
     "Colony Sim",
     "Management",
     "Automation",
-    "Base Building"
+    "Base Building",
+    {
+      "name": "Tycoon",
+      "steam_tags": [
+        "Management",
+        "Capitalism"
+      ]
+    }
   ],
   "games_per_tag": 50,
   "reviews_per_game": 500,

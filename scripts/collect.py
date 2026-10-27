@@ -86,19 +86,31 @@ class Steam:
 
     # ---- tags & games ------------------------------------------------------
 
-    def tag_ids(self, names: list[str]) -> dict[str, int]:
+    def tag_ids(self, entries: list) -> dict[str, str]:
+        """
+        Turn the config's tag list into {display name: Steam tag id(s)}.
+
+        An entry is either a Steam tag name ("City Builder") or a custom tag
+        that requires several Steam tags at once:
+            {"name": "Tycoon", "steam_tags": ["Management", "Capitalism"]}
+        """
         tags = self.get_json(f"{STORE}/tagdata/populartags/english") or []
         by_name = {t["name"].lower(): t["tagid"] for t in tags}
         out = {}
-        for n in names:
-            tid = by_name.get(n.lower())
-            if tid is None:
-                log(f"  ! tag not found on Steam: {n!r} (check spelling in config.json)")
+        for e in entries:
+            name, parts = (e, [e]) if isinstance(e, str) else (e["name"], e["steam_tags"])
+            ids = []
+            for p in parts:
+                tid = by_name.get(p.lower())
+                if tid is None:
+                    log(f"  ! tag not found on Steam: {p!r} (check spelling in config.json)")
+                    break
+                ids.append(str(tid))
             else:
-                out[n] = tid
+                out[name] = ",".join(ids)    # Steam search treats a list as "all of these"
         return out
 
-    def top_games_for_tag(self, tag_id: int, count: int) -> list[tuple[int, str]]:
+    def top_games_for_tag(self, tag_id: str, count: int) -> list[tuple[int, str]]:
         games: list[tuple[int, str]] = []
         start = 0
         while len(games) < count:

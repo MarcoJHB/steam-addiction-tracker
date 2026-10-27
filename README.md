@@ -26,7 +26,7 @@ Edit `config.json` on GitHub (pencil icon) and commit. The next daily run picks 
 
 | Setting | Meaning |
 | --- | --- |
-| `tags` | Steam tag names, exactly as Steam spells them |
+| `tags` | Steam tag names, exactly as Steam spells them. A custom tag can require several Steam tags at once, e.g. `{"name": "Tycoon", "steam_tags": ["Management", "Capitalism"]}` |
 | `games_per_tag` | How many top sellers to take from each tag (overlaps are merged) |
 | `reviews_per_game` | How many recent reviews to read per game |
 | `min_reviews` | Games with fewer recent reviews than this are left out |
