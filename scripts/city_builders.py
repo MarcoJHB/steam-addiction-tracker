@@ -50,19 +50,23 @@ def main() -> int:
     ap.add_argument("--reviews", type=int, default=500)
     ap.add_argument("--pool", type=int, default=300, help="top sellers per pool tag")
     ap.add_argument("--min-reviews", type=int, default=100)
+    ap.add_argument("--extra", default="", help="comma-separated app IDs to add to the pool")
+    ap.add_argument("--only-extra", action="store_true", help="skip the top-seller pool, only measure --extra")
     args = ap.parse_args()
 
     steam = collect.Steam(delay=0.6)
     cutoff = (datetime.now(timezone.utc) - timedelta(days=365.25 * args.years)).strftime("%Y-%m-%d")
     collect.log(f"Release cutoff: {cutoff}")
 
-    ids = steam.tag_ids(POOL_TAGS)
+    ids = {} if args.only_extra else steam.tag_ids(POOL_TAGS)
     pool: dict[int, str] = {}
     for name, tid in ids.items():
         found = steam.top_games_for_tag(tid, args.pool)
         collect.log(f"  {name}: {len(found)} games")
         for appid, title in found:
             pool.setdefault(appid, title)
+    for x in filter(None, args.extra.split(",")):
+        pool.setdefault(int(x), f"App {x}")
     collect.log(f"Pool: {len(pool)} unique games\n")
 
     out, kept = [], 0
@@ -107,7 +111,7 @@ def main() -> int:
         collect.log(f"[{i}/{len(pool)}] {rec['name']}: avg {stats['avg']}h, median {stats['median']}h, max {stats['max']}h")
 
     OUT_DIR.mkdir(exist_ok=True)
-    path = OUT_DIR / f"city-builders-{collect.today()}.json"
+    path = OUT_DIR / f"city-builders-{collect.today()}{'-extra' if args.only_extra else ''}.json"
     ranked = sorted((r for r in out if r["status"] == "ranked"), key=lambda r: -r["avg"])
     rest = [r for r in out if r["status"] != "ranked"]
     path.write_text(json.dumps({

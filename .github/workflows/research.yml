@@ -10,6 +10,9 @@ on:
       reviews:
         description: "Recent reviews to read per game"
         default: "500"
+      extra:
+        description: "Only measure these Steam app IDs (comma-separated); leave empty for the full pool"
+        default: ""
 
 concurrency:
   group: refresh            # never runs at the same time as the daily tracker
@@ -28,7 +31,12 @@ jobs:
           python-version: "3.12"
       - run: pip install requests
       - name: Collect city builder data
-        run: python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}"
+        run: |
+          if [ -n "${{ inputs.extra }}" ]; then
+            python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}" --extra "${{ inputs.extra }}" --only-extra
+          else
+            python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}"
+          fi
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
