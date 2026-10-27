@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:02:24+00:00",
+ "generated_at": "2026-10-27T15:19:25+00:00",
  "reviews_per_game": 500,
  "heavy_player_hours": 100.0,
  "age_peers": 30,
@@ -33,11 +33,11 @@
    "playable_since": "2016-07-15",
    "days_playable": 3756,
    "is_free": false,
-   "players_now": 37794,
+   "players_now": 37138,
    "total_reviews": 248971,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
-   "avg": 583.3,
+   "avg": 583.4,
    "median": 223.0,
    "p90": 1474.6,
    "max": 10894.4,
@@ -61,11 +61,11 @@
     },
     {
      "label": "10-25",
-     "count": 30
+     "count": 29
     },
     {
      "label": "25-50",
-     "count": 55
+     "count": 56
     },
     {
      "label": "50-100",
@@ -115,18 +115,18 @@
    "playable_since": "2016-02-25",
    "days_playable": 3897,
    "is_free": false,
-   "players_now": 17093,
-   "total_reviews": 236371,
+   "players_now": 17215,
+   "total_reviews": 236372,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
-   "avg": 442.5,
+   "avg": 438.9,
    "median": 143.7,
-   "p90": 1180.2,
+   "p90": 1152.9,
    "max": 8917.4,
-   "avg_at_review": 431.0,
+   "avg_at_review": 427.5,
    "median_at_review": 131.9,
-   "median_after_review": 3.7,
-   "avg_last_2w": 27.9,
+   "median_after_review": 3.6,
+   "avg_last_2w": 28.0,
    "active_pct": 88.0,
    "heavy_pct": 59.8,
    "recommended_pct": 97.6,
@@ -163,11 +163,11 @@
     },
     {
      "label": "500-1000",
-     "count": 57
+     "count": 58
     },
     {
      "label": "1000+",
-     "count": 63
+     "count": 62
     }
    ],
    "age_x": 4.1,
@@ -197,7 +197,7 @@
    "playable_since": "2020-06-08",
    "days_playable": 2332,
    "is_free": false,
-   "players_now": 15549,
+   "players_now": 15811,
    "total_reviews": 281835,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -210,7 +210,7 @@
    "median_after_review": 3.4,
    "avg_last_2w": 27.5,
    "active_pct": 84.4,
-   "heavy_pct": 52.0,
+   "heavy_pct": 52.2,
    "recommended_pct": 96.2,
    "sample_span_days": 9.2,
    "score": 202.2,
@@ -233,11 +233,11 @@
     },
     {
      "label": "50-100",
-     "count": 94
+     "count": 93
     },
     {
      "label": "100-250",
-     "count": 134
+     "count": 135
     },
     {
      "label": "250-500",
@@ -252,92 +252,11 @@
      "count": 13
     }
    ],
-   "age_x": 2.55,
-   "age_peer_score": 79.2,
+   "age_x": 2.6,
+   "age_peer_score": 77.7,
    "age_peer_years": [
     2016,
     2022
-   ]
-  },
-  {
-   "appid": 529340,
-   "name": "Victoria 3",
-   "tags": [
-    "Tycoon"
-   ],
-   "steam_tags": [
-    "Strategy",
-    "Simulation",
-    "Grand Strategy",
-    "Economy",
-    "Political Sim"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529340/header.jpg?t=1791467998",
-   "release_date": "2022-10-25",
-   "days_since_release": 1463,
-   "playable_since": "2022-10-25",
-   "days_playable": 1463,
-   "is_free": false,
-   "players_now": 7145,
-   "total_reviews": 60902,
-   "review_score_desc": "Mostly Positive",
-   "sample": 500,
-   "avg": 270.7,
-   "median": 115.6,
-   "p90": 720.1,
-   "max": 4173.6,
-   "avg_at_review": 250.6,
-   "median_at_review": 86.7,
-   "median_after_review": 3.9,
-   "avg_last_2w": 13.2,
-   "active_pct": 63.0,
-   "heavy_pct": 53.0,
-   "recommended_pct": 64.8,
-   "sample_span_days": 46.7,
-   "score": 188.4,
-   "distribution": [
-    {
-     "label": "0-2",
-     "count": 27
-    },
-    {
-     "label": "2-10",
-     "count": 42
-    },
-    {
-     "label": "10-25",
-     "count": 45
-    },
-    {
-     "label": "25-50",
-     "count": 53
-    },
-    {
-     "label": "50-100",
-     "count": 68
-    },
-    {
-     "label": "100-250",
-     "count": 115
-    },
-    {
-     "label": "250-500",
-     "count": 66
-    },
-    {
-     "label": "500-1000",
-     "count": 52
-    },
-    {
-     "label": "1000+",
-     "count": 32
-    }
-   ],
-   "age_x": 2.38,
-   "age_peer_score": 79.2,
-   "age_peer_years": [
-    2020,
-    2024
    ]
   },
   {
@@ -359,23 +278,23 @@
    "playable_since": "2025-06-05",
    "days_playable": 509,
    "is_free": false,
-   "players_now": 7904,
-   "total_reviews": 81078,
+   "players_now": 8341,
+   "total_reviews": 81079,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
-   "avg": 195.1,
-   "median": 95.4,
-   "p90": 398.8,
+   "avg": 195.3,
+   "median": 96.6,
+   "p90": 398.9,
    "max": 2878.8,
-   "avg_at_review": 173.5,
-   "median_at_review": 77.5,
+   "avg_at_review": 173.7,
+   "median_at_review": 77.9,
    "median_after_review": 12.0,
-   "avg_last_2w": 45.7,
+   "avg_last_2w": 45.8,
    "active_pct": 95.2,
-   "heavy_pct": 47.8,
-   "recommended_pct": 78.0,
+   "heavy_pct": 48.0,
+   "recommended_pct": 77.8,
    "sample_span_days": 12.9,
-   "score": 186.2,
+   "score": 188.5,
    "distribution": [
     {
      "label": "0-2",
@@ -395,11 +314,11 @@
     },
     {
      "label": "50-100",
-     "count": 121
+     "count": 120
     },
     {
      "label": "100-250",
-     "count": 138
+     "count": 139
     },
     {
      "label": "250-500",
@@ -414,8 +333,8 @@
      "count": 20
     }
    ],
-   "age_x": 5.17,
-   "age_peer_score": 36.0,
+   "age_x": 4.82,
+   "age_peer_score": 39.1,
    "age_peer_years": [
     2024,
     2025
@@ -441,7 +360,7 @@
    "playable_since": "2021-01-20",
    "days_playable": 2106,
    "is_free": false,
-   "players_now": 4501,
+   "players_now": 4252,
    "total_reviews": 92079,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -496,8 +415,8 @@
      "count": 23
     }
    ],
-   "age_x": 2.36,
-   "age_peer_score": 77.7,
+   "age_x": 2.45,
+   "age_peer_score": 74.7,
    "age_peer_years": [
     2016,
     2023
@@ -523,7 +442,7 @@
    "playable_since": "2022-05-31",
    "days_playable": 1610,
    "is_free": false,
-   "players_now": 2289,
+   "players_now": 2303,
    "total_reviews": 11774,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -578,8 +497,8 @@
      "count": 40
     }
    ],
-   "age_x": 2.37,
-   "age_peer_score": 75.3,
+   "age_x": 2.56,
+   "age_peer_score": 69.7,
    "age_peer_years": [
     2019,
     2024
@@ -604,7 +523,7 @@
    "playable_since": "2021-12-03",
    "days_playable": 1789,
    "is_free": false,
-   "players_now": 3640,
+   "players_now": 3689,
    "total_reviews": 69368,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -659,8 +578,8 @@
      "count": 17
     }
    ],
-   "age_x": 2.16,
-   "age_peer_score": 79.2,
+   "age_x": 2.27,
+   "age_peer_score": 75.3,
    "age_peer_years": [
     2018,
     2023
@@ -686,7 +605,7 @@
    "playable_since": "2019-03-15",
    "days_playable": 2783,
    "is_free": false,
-   "players_now": 2552,
+   "players_now": 2611,
    "total_reviews": 27751,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -749,89 +668,6 @@
    ]
   },
   {
-   "appid": 1062090,
-   "name": "Timberborn",
-   "tags": [
-    "City Builder",
-    "Colony Sim",
-    "Automation"
-   ],
-   "steam_tags": [
-    "City Builder",
-    "Colony Sim",
-    "Voxel",
-    "Sandbox",
-    "Automation"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/eeb2babf15cbf4ebc175316a5d3e42a060f3d97c/header.jpg?t=1788438437",
-   "release_date": "2026-03-12",
-   "days_since_release": 229,
-   "playable_since": "2021-09-15",
-   "days_playable": 1868,
-   "is_free": false,
-   "players_now": 4184,
-   "total_reviews": 42334,
-   "review_score_desc": "Overwhelmingly Positive",
-   "sample": 500,
-   "avg": 181.8,
-   "median": 76.3,
-   "p90": 465.2,
-   "max": 3780.0,
-   "avg_at_review": 163.0,
-   "median_at_review": 55.4,
-   "median_after_review": 6.0,
-   "avg_last_2w": 14.2,
-   "active_pct": 63.8,
-   "heavy_pct": 43.0,
-   "recommended_pct": 95.0,
-   "sample_span_days": 32.6,
-   "score": 125.0,
-   "distribution": [
-    {
-     "label": "0-2",
-     "count": 6
-    },
-    {
-     "label": "2-10",
-     "count": 44
-    },
-    {
-     "label": "10-25",
-     "count": 52
-    },
-    {
-     "label": "25-50",
-     "count": 92
-    },
-    {
-     "label": "50-100",
-     "count": 91
-    },
-    {
-     "label": "100-250",
-     "count": 122
-    },
-    {
-     "label": "250-500",
-     "count": 50
-    },
-    {
-     "label": "500-1000",
-     "count": 28
-    },
-    {
-     "label": "1000+",
-     "count": 15
-    }
-   ],
-   "age_x": 1.61,
-   "age_peer_score": 77.7,
-   "age_peer_years": [
-    2018,
-    2023
-   ]
-  },
-  {
    "appid": 2646460,
    "name": "Soulmask",
    "tags": [
@@ -850,16 +686,16 @@
    "playable_since": "2024-05-31",
    "days_playable": 879,
    "is_free": false,
-   "players_now": 1772,
+   "players_now": 1791,
    "total_reviews": 22652,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
-   "avg": 241.5,
+   "avg": 241.7,
    "median": 90.3,
    "p90": 625.1,
    "max": 4178.9,
-   "avg_at_review": 203.3,
-   "median_at_review": 56.1,
+   "avg_at_review": 203.4,
+   "median_at_review": 57.2,
    "median_after_review": 5.5,
    "avg_last_2w": 12.6,
    "active_pct": 38.0,
@@ -874,7 +710,7 @@
     },
     {
      "label": "2-10",
-     "count": 51
+     "count": 50
     },
     {
      "label": "10-25",
@@ -886,7 +722,7 @@
     },
     {
      "label": "50-100",
-     "count": 75
+     "count": 76
     },
     {
      "label": "100-250",
@@ -906,7 +742,7 @@
     }
    ],
    "age_x": 1.95,
-   "age_peer_score": 64.0,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2025
@@ -931,8 +767,8 @@
    "playable_since": "2024-05-02",
    "days_playable": 908,
    "is_free": false,
-   "players_now": 2927,
-   "total_reviews": 60194,
+   "players_now": 2860,
+   "total_reviews": 60195,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
    "avg": 90.4,
@@ -986,11 +822,94 @@
      "count": 0
     }
    ],
-   "age_x": 1.93,
-   "age_peer_score": 64.6,
+   "age_x": 1.95,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2025
+   ]
+  },
+  {
+   "appid": 1062090,
+   "name": "Timberborn",
+   "tags": [
+    "City Builder",
+    "Colony Sim",
+    "Automation"
+   ],
+   "steam_tags": [
+    "City Builder",
+    "Colony Sim",
+    "Voxel",
+    "Sandbox",
+    "Automation"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/eeb2babf15cbf4ebc175316a5d3e42a060f3d97c/header.jpg?t=1788438437",
+   "release_date": "2026-03-12",
+   "days_since_release": 229,
+   "playable_since": "2021-09-15",
+   "days_playable": 1868,
+   "is_free": false,
+   "players_now": 4198,
+   "total_reviews": 42335,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 181.6,
+   "median": 75.9,
+   "p90": 465.2,
+   "max": 3780.5,
+   "avg_at_review": 162.9,
+   "median_at_review": 55.4,
+   "median_after_review": 6.0,
+   "avg_last_2w": 14.2,
+   "active_pct": 63.8,
+   "heavy_pct": 42.8,
+   "recommended_pct": 95.0,
+   "sample_span_days": 32.6,
+   "score": 124.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 6
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 52
+    },
+    {
+     "label": "25-50",
+     "count": 93
+    },
+    {
+     "label": "50-100",
+     "count": 91
+    },
+    {
+     "label": "100-250",
+     "count": 121
+    },
+    {
+     "label": "250-500",
+     "count": 50
+    },
+    {
+     "label": "500-1000",
+     "count": 28
+    },
+    {
+     "label": "1000+",
+     "count": 15
+    }
+   ],
+   "age_x": 1.67,
+   "age_peer_score": 74.7,
+   "age_peer_years": [
+    2018,
+    2023
    ]
   },
   {
@@ -1012,27 +931,27 @@
    "playable_since": "2022-05-17",
    "days_playable": 1624,
    "is_free": false,
-   "players_now": 4238,
-   "total_reviews": 137915,
+   "players_now": 4304,
+   "total_reviews": 137917,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 131.5,
+   "avg": 131.6,
    "median": 73.5,
    "p90": 271.0,
    "max": 4038.5,
-   "avg_at_review": 120.0,
-   "median_at_review": 62.1,
-   "median_after_review": 1.2,
+   "avg_at_review": 120.1,
+   "median_at_review": 62.4,
+   "median_after_review": 1.1,
    "avg_last_2w": 16.3,
    "active_pct": 68.8,
    "heavy_pct": 36.4,
-   "recommended_pct": 85.2,
+   "recommended_pct": 85.4,
    "sample_span_days": 22.5,
    "score": 124.0,
    "distribution": [
     {
      "label": "0-2",
-     "count": 6
+     "count": 5
     },
     {
      "label": "2-10",
@@ -1048,7 +967,7 @@
     },
     {
      "label": "50-100",
-     "count": 138
+     "count": 139
     },
     {
      "label": "100-250",
@@ -1067,8 +986,8 @@
      "count": 6
     }
    ],
-   "age_x": 1.65,
-   "age_peer_score": 75.3,
+   "age_x": 1.78,
+   "age_peer_score": 69.7,
    "age_peer_years": [
     2019,
     2024
@@ -1093,7 +1012,7 @@
    "playable_since": "2025-07-29",
    "days_playable": 455,
    "is_free": false,
-   "players_now": 4795,
+   "players_now": 4701,
    "total_reviews": 25413,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -1103,10 +1022,10 @@
    "max": 861.6,
    "avg_at_review": 71.3,
    "median_at_review": 48.4,
-   "median_after_review": 6.5,
+   "median_after_review": 6.6,
    "avg_last_2w": 19.8,
    "active_pct": 88.0,
-   "heavy_pct": 28.4,
+   "heavy_pct": 28.6,
    "recommended_pct": 88.6,
    "sample_span_days": 19.8,
    "score": 122.2,
@@ -1129,11 +1048,11 @@
     },
     {
      "label": "50-100",
-     "count": 161
+     "count": 160
     },
     {
      "label": "100-250",
-     "count": 120
+     "count": 121
     },
     {
      "label": "250-500",
@@ -1152,7 +1071,7 @@
    "age_peer_score": 39.1,
    "age_peer_years": [
     2024,
-    2026
+    2025
    ]
   },
   {
@@ -1175,7 +1094,7 @@
    "playable_since": "2022-11-01",
    "days_playable": 1456,
    "is_free": false,
-   "players_now": 1579,
+   "players_now": 1577,
    "total_reviews": 37853,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -1230,11 +1149,92 @@
      "count": 5
     }
    ],
-   "age_x": 1.53,
-   "age_peer_score": 79.2,
+   "age_x": 1.61,
+   "age_peer_score": 75.3,
    "age_peer_years": [
     2020,
     2024
+   ]
+  },
+  {
+   "appid": 4358690,
+   "name": "Graveyard Keeper 2",
+   "tags": [
+    "Tycoon"
+   ],
+   "steam_tags": [
+    "Sandbox",
+    "Building",
+    "Medieval",
+    "Capitalism",
+    "Crafting"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/d63c37d6289ef7c48d89c0521fb82ac51d7f5ce8/header.jpg?t=1793008323",
+   "release_date": "2026-09-22",
+   "days_since_release": 35,
+   "playable_since": "2026-09-22",
+   "days_playable": 35,
+   "is_free": false,
+   "players_now": 4285,
+   "total_reviews": 10866,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 64.4,
+   "median": 59.2,
+   "p90": 111.3,
+   "max": 267.3,
+   "avg_at_review": 60.4,
+   "median_at_review": 55.6,
+   "median_after_review": 0.0,
+   "avg_last_2w": 28.6,
+   "active_pct": 93.6,
+   "heavy_pct": 14.6,
+   "recommended_pct": 74.8,
+   "sample_span_days": 7.2,
+   "score": 114.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 2
+    },
+    {
+     "label": "2-10",
+     "count": 21
+    },
+    {
+     "label": "10-25",
+     "count": 44
+    },
+    {
+     "label": "25-50",
+     "count": 134
+    },
+    {
+     "label": "50-100",
+     "count": 226
+    },
+    {
+     "label": "100-250",
+     "count": 72
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "age_x": 4.67,
+   "age_peer_score": 24.6,
+   "age_peer_years": [
+    2026,
+    2026
    ]
   },
   {
@@ -1256,27 +1256,27 @@
    "playable_since": "2023-10-25",
    "days_playable": 1098,
    "is_free": false,
-   "players_now": 22655,
-   "total_reviews": 120063,
+   "players_now": 22386,
+   "total_reviews": 120064,
    "review_score_desc": "Mixed",
    "sample": 500,
-   "avg": 230.3,
-   "median": 60.1,
-   "p90": 664.3,
+   "avg": 230.6,
+   "median": 59.8,
+   "p90": 694.5,
    "max": 5119.9,
-   "avg_at_review": 218.2,
-   "median_at_review": 47.4,
-   "median_after_review": 3.9,
-   "avg_last_2w": 29.6,
-   "active_pct": 89.8,
-   "heavy_pct": 37.8,
-   "recommended_pct": 62.8,
-   "sample_span_days": 9.7,
-   "score": 114.0,
+   "avg_at_review": 218.5,
+   "median_at_review": 46.5,
+   "median_after_review": 3.8,
+   "avg_last_2w": 29.5,
+   "active_pct": 89.4,
+   "heavy_pct": 37.6,
+   "recommended_pct": 63.0,
+   "sample_span_days": 9.8,
+   "score": 113.2,
    "distribution": [
     {
      "label": "0-2",
-     "count": 19
+     "count": 20
     },
     {
      "label": "2-10",
@@ -1296,7 +1296,7 @@
     },
     {
      "label": "100-250",
-     "count": 89
+     "count": 88
     },
     {
      "label": "250-500",
@@ -1311,8 +1311,8 @@
      "count": 34
     }
    ],
-   "age_x": 1.75,
-   "age_peer_score": 65.0,
+   "age_x": 1.77,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2024
@@ -1338,23 +1338,23 @@
    "playable_since": "2025-11-06",
    "days_playable": 355,
    "is_free": false,
-   "players_now": 3905,
-   "total_reviews": 14549,
+   "players_now": 3921,
+   "total_reviews": 14550,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 100.3,
-   "median": 58.4,
+   "avg": 100.2,
+   "median": 58.3,
    "p90": 231.9,
    "max": 1126.4,
    "avg_at_review": 82.8,
    "median_at_review": 38.9,
-   "median_after_review": 8.4,
+   "median_after_review": 8.2,
    "avg_last_2w": 29.6,
    "active_pct": 91.0,
-   "heavy_pct": 32.2,
+   "heavy_pct": 32.0,
    "recommended_pct": 83.4,
    "sample_span_days": 17.9,
-   "score": 111.6,
+   "score": 111.4,
    "distribution": [
     {
      "label": "0-2",
@@ -1370,7 +1370,7 @@
     },
     {
      "label": "25-50",
-     "count": 100
+     "count": 101
     },
     {
      "label": "50-100",
@@ -1378,7 +1378,7 @@
     },
     {
      "label": "100-250",
-     "count": 117
+     "count": 116
     },
     {
      "label": "250-500",
@@ -1393,8 +1393,8 @@
      "count": 2
     }
    ],
-   "age_x": 3.29,
-   "age_peer_score": 33.9,
+   "age_x": 3.09,
+   "age_peer_score": 36.0,
    "age_peer_years": [
     2025,
     2026
@@ -1420,23 +1420,23 @@
    "playable_since": "2021-06-01",
    "days_playable": 1974,
    "is_free": false,
-   "players_now": 1250,
-   "total_reviews": 21580,
+   "players_now": 1252,
+   "total_reviews": 21581,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 167.9,
+   "avg": 168.0,
    "median": 84.1,
    "p90": 390.0,
    "max": 4257.4,
-   "avg_at_review": 136.5,
+   "avg_at_review": 136.6,
    "median_at_review": 55.8,
    "median_after_review": 10.2,
-   "avg_last_2w": 7.2,
-   "active_pct": 30.4,
+   "avg_last_2w": 7.3,
+   "active_pct": 30.6,
    "heavy_pct": 44.0,
    "recommended_pct": 84.6,
-   "sample_span_days": 108.5,
-   "score": 109.7,
+   "sample_span_days": 108.1,
+   "score": 109.8,
    "distribution": [
     {
      "label": "0-2",
@@ -1444,7 +1444,7 @@
     },
     {
      "label": "2-10",
-     "count": 23
+     "count": 22
     },
     {
      "label": "10-25",
@@ -1452,7 +1452,7 @@
     },
     {
      "label": "25-50",
-     "count": 84
+     "count": 85
     },
     {
      "label": "50-100",
@@ -1475,8 +1475,8 @@
      "count": 9
     }
    ],
-   "age_x": 1.41,
-   "age_peer_score": 77.7,
+   "age_x": 1.47,
+   "age_peer_score": 74.7,
    "age_peer_years": [
     2017,
     2023
@@ -1501,7 +1501,7 @@
    "playable_since": "2025-05-16",
    "days_playable": 529,
    "is_free": false,
-   "players_now": 272,
+   "players_now": 278,
    "total_reviews": 1391,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -1556,8 +1556,8 @@
      "count": 4
     }
    ],
-   "age_x": 2.74,
-   "age_peer_score": 38.9,
+   "age_x": 2.64,
+   "age_peer_score": 40.3,
    "age_peer_years": [
     2024,
     2025
@@ -1583,12 +1583,12 @@
    "playable_since": "2017-05-18",
    "days_playable": 3449,
    "is_free": false,
-   "players_now": 9847,
+   "players_now": 9326,
    "total_reviews": 144665,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
-   "avg": 246.2,
-   "median": 57.2,
+   "avg": 246.3,
+   "median": 57.4,
    "p90": 577.4,
    "max": 7253.3,
    "avg_at_review": 230.5,
@@ -1599,7 +1599,7 @@
    "heavy_pct": 39.6,
    "recommended_pct": 96.6,
    "sample_span_days": 20.4,
-   "score": 100.7,
+   "score": 101.2,
    "distribution": [
     {
      "label": "0-2",
@@ -1664,7 +1664,7 @@
    "playable_since": "2024-06-20",
    "days_playable": 859,
    "is_free": false,
-   "players_now": 554,
+   "players_now": 570,
    "total_reviews": 12361,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -1692,11 +1692,11 @@
     },
     {
      "label": "10-25",
-     "count": 60
+     "count": 59
     },
     {
      "label": "25-50",
-     "count": 73
+     "count": 74
     },
     {
      "label": "50-100",
@@ -1720,7 +1720,7 @@
     }
    ],
    "age_x": 1.57,
-   "age_peer_score": 64.0,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2023,
     2025
@@ -1745,14 +1745,14 @@
    "playable_since": "2026-02-02",
    "days_playable": 267,
    "is_free": false,
-   "players_now": 1212,
+   "players_now": 1201,
    "total_reviews": 2193,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 122.2,
    "median": 64.6,
    "p90": 321.3,
-   "max": 2044.0,
+   "max": 2044.5,
    "avg_at_review": 72.4,
    "median_at_review": 30.8,
    "median_after_review": 19.1,
@@ -1827,7 +1827,7 @@
    "playable_since": "2022-12-06",
    "days_playable": 1421,
    "is_free": false,
-   "players_now": 611,
+   "players_now": 635,
    "total_reviews": 31614,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -1837,7 +1837,7 @@
    "max": 6520.2,
    "avg_at_review": 185.8,
    "median_at_review": 52.8,
-   "median_after_review": 5.8,
+   "median_after_review": 5.9,
    "avg_last_2w": 5.2,
    "active_pct": 26.2,
    "heavy_pct": 43.6,
@@ -1882,8 +1882,8 @@
      "count": 18
     }
    ],
-   "age_x": 1.23,
-   "age_peer_score": 79.2,
+   "age_x": 1.29,
+   "age_peer_score": 75.3,
    "age_peer_years": [
     2020,
     2024
@@ -1908,11 +1908,11 @@
    "playable_since": "2024-04-23",
    "days_playable": 917,
    "is_free": false,
-   "players_now": 1270,
+   "players_now": 1278,
    "total_reviews": 21905,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 120.2,
+   "avg": 120.3,
    "median": 70.3,
    "p90": 279.5,
    "max": 1377.1,
@@ -1963,8 +1963,8 @@
      "count": 3
     }
    ],
-   "age_x": 1.51,
-   "age_peer_score": 64.6,
+   "age_x": 1.53,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2025
@@ -1989,8 +1989,8 @@
    "playable_since": "2024-01-24",
    "days_playable": 1007,
    "is_free": false,
-   "players_now": 59041,
-   "total_reviews": 111051,
+   "players_now": 60344,
+   "total_reviews": 111056,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 100.9,
@@ -2000,20 +2000,20 @@
    "avg_at_review": 97.3,
    "median_at_review": 41.8,
    "median_after_review": 2.0,
-   "avg_last_2w": 34.9,
+   "avg_last_2w": 35.0,
    "active_pct": 98.2,
    "heavy_pct": 28.8,
-   "recommended_pct": 79.8,
-   "sample_span_days": 1.9,
+   "recommended_pct": 80.4,
+   "sample_span_days": 2.0,
    "score": 95.7,
    "distribution": [
     {
      "label": "0-2",
-     "count": 8
+     "count": 7
     },
     {
      "label": "2-10",
-     "count": 56
+     "count": 57
     },
     {
      "label": "10-25",
@@ -2044,8 +2044,8 @@
      "count": 3
     }
    ],
-   "age_x": 1.5,
-   "age_peer_score": 64.0,
+   "age_x": 1.67,
+   "age_peer_score": 57.2,
    "age_peer_years": [
     2022,
     2025
@@ -2071,7 +2071,7 @@
    "playable_since": "2025-02-27",
    "days_playable": 607,
    "is_free": false,
-   "players_now": 1806,
+   "players_now": 1818,
    "total_reviews": 13874,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -2152,11 +2152,11 @@
    "playable_since": "2019-02-01",
    "days_playable": 2825,
    "is_free": false,
-   "players_now": 1949,
+   "players_now": 1941,
    "total_reviews": 24601,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 114.7,
+   "avg": 114.8,
    "median": 57.9,
    "p90": 203.8,
    "max": 4787.4,
@@ -2234,23 +2234,23 @@
    "playable_since": "2026-09-29",
    "days_playable": 28,
    "is_free": false,
-   "players_now": 12813,
-   "total_reviews": 7692,
+   "players_now": 12890,
+   "total_reviews": 7693,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
-   "avg": 60.9,
-   "median": 45.3,
-   "p90": 130.1,
-   "max": 548.5,
-   "avg_at_review": 51.7,
-   "median_at_review": 37.7,
-   "median_after_review": 5.0,
+   "avg": 60.8,
+   "median": 45.1,
+   "p90": 130.5,
+   "max": 549.0,
+   "avg_at_review": 51.6,
+   "median_at_review": 37.3,
+   "median_after_review": 4.8,
    "avg_last_2w": 34.5,
    "active_pct": 98.4,
    "heavy_pct": 17.8,
    "recommended_pct": 71.0,
-   "sample_span_days": 6.9,
-   "score": 89.8,
+   "sample_span_days": 6.8,
+   "score": 89.4,
    "distribution": [
     {
      "label": "0-2",
@@ -2258,7 +2258,7 @@
     },
     {
      "label": "2-10",
-     "count": 29
+     "count": 30
     },
     {
      "label": "10-25",
@@ -2270,7 +2270,7 @@
     },
     {
      "label": "50-100",
-     "count": 134
+     "count": 133
     },
     {
      "label": "100-250",
@@ -2289,8 +2289,8 @@
      "count": 0
     }
    ],
-   "age_x": 3.78,
-   "age_peer_score": 23.8,
+   "age_x": 3.64,
+   "age_peer_score": 24.6,
    "age_peer_years": [
     2026,
     2026
@@ -2316,11 +2316,11 @@
    "playable_since": "2023-10-24",
    "days_playable": 1099,
    "is_free": false,
-   "players_now": 11014,
+   "players_now": 10821,
    "total_reviews": 93419,
    "review_score_desc": "Mixed",
    "sample": 500,
-   "avg": 115.1,
+   "avg": 115.2,
    "median": 47.0,
    "p90": 266.9,
    "max": 1694.1,
@@ -2371,8 +2371,8 @@
      "count": 8
     }
    ],
-   "age_x": 1.32,
-   "age_peer_score": 65.0,
+   "age_x": 1.34,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2024
@@ -2398,23 +2398,23 @@
    "playable_since": "2020-09-21",
    "days_playable": 2227,
    "is_free": false,
-   "players_now": 966,
-   "total_reviews": 9524,
+   "players_now": 992,
+   "total_reviews": 9525,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 105.2,
-   "median": 57.2,
+   "avg": 105.1,
+   "median": 56.9,
    "p90": 236.0,
    "max": 1784.6,
-   "avg_at_review": 83.2,
-   "median_at_review": 38.5,
-   "median_after_review": 7.7,
+   "avg_at_review": 83.0,
+   "median_at_review": 38.3,
+   "median_after_review": 7.6,
    "avg_last_2w": 10.4,
-   "active_pct": 45.4,
+   "active_pct": 45.6,
    "heavy_pct": 28.2,
    "recommended_pct": 88.4,
-   "sample_span_days": 80.5,
-   "score": 83.1,
+   "sample_span_days": 80.8,
+   "score": 82.8,
    "distribution": [
     {
      "label": "0-2",
@@ -2426,7 +2426,7 @@
     },
     {
      "label": "10-25",
-     "count": 67
+     "count": 68
     },
     {
      "label": "25-50",
@@ -2434,7 +2434,7 @@
     },
     {
      "label": "50-100",
-     "count": 130
+     "count": 129
     },
     {
      "label": "100-250",
@@ -2453,8 +2453,8 @@
      "count": 3
     }
    ],
-   "age_x": 1.07,
-   "age_peer_score": 77.7,
+   "age_x": 1.11,
+   "age_peer_score": 74.7,
    "age_peer_years": [
     2016,
     2023
@@ -2481,23 +2481,23 @@
    "playable_since": "2025-11-06",
    "days_playable": 355,
    "is_free": false,
-   "players_now": 1131,
+   "players_now": 1118,
    "total_reviews": 4027,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 81.3,
-   "median": 54.3,
+   "median": 54.5,
    "p90": 169.5,
    "max": 1036.9,
    "avg_at_review": 55.4,
    "median_at_review": 32.4,
    "median_after_review": 10.8,
    "avg_last_2w": 11.5,
-   "active_pct": 50.4,
+   "active_pct": 50.0,
    "heavy_pct": 25.0,
    "recommended_pct": 91.8,
    "sample_span_days": 45.9,
-   "score": 81.7,
+   "score": 81.8,
    "distribution": [
     {
      "label": "0-2",
@@ -2536,7 +2536,88 @@
      "count": 1
     }
    ],
-   "age_x": 2.41,
+   "age_x": 2.27,
+   "age_peer_score": 36.0,
+   "age_peer_years": [
+    2025,
+    2026
+   ]
+  },
+  {
+   "appid": 3274580,
+   "name": "Anno 117: Pax Romana",
+   "tags": [
+    "City Builder"
+   ],
+   "steam_tags": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "Sandbox",
+    "RTS"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/88dbcce1c7630e2d4334fa25e835968e57e0ebfe/header.jpg?t=1792072501",
+   "release_date": "2025-11-12",
+   "days_since_release": 349,
+   "playable_since": "2025-11-12",
+   "days_playable": 349,
+   "is_free": false,
+   "players_now": 1402,
+   "total_reviews": 13040,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 98.9,
+   "median": 58.3,
+   "p90": 245.2,
+   "max": 1074.3,
+   "avg_at_review": 73.3,
+   "median_at_review": 41.7,
+   "median_after_review": 6.4,
+   "avg_last_2w": 7.6,
+   "active_pct": 39.0,
+   "heavy_pct": 31.2,
+   "recommended_pct": 67.8,
+   "sample_span_days": 77.8,
+   "score": 81.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 18
+    },
+    {
+     "label": "2-10",
+     "count": 39
+    },
+    {
+     "label": "10-25",
+     "count": 73
+    },
+    {
+     "label": "25-50",
+     "count": 90
+    },
+    {
+     "label": "50-100",
+     "count": 124
+    },
+    {
+     "label": "100-250",
+     "count": 108
+    },
+    {
+     "label": "250-500",
+     "count": 39
+    },
+    {
+     "label": "500-1000",
+     "count": 7
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "age_x": 2.39,
    "age_peer_score": 33.9,
    "age_peer_years": [
     2025,
@@ -2563,14 +2644,14 @@
    "playable_since": "2025-07-15",
    "days_playable": 469,
    "is_free": false,
-   "players_now": 1728,
+   "players_now": 1748,
    "total_reviews": 11990,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 96.9,
    "median": 51.4,
    "p90": 204.5,
-   "max": 2083.8,
+   "max": 2084.2,
    "avg_at_review": 74.0,
    "median_at_review": 30.8,
    "median_after_review": 7.7,
@@ -2618,8 +2699,8 @@
      "count": 4
     }
    ],
-   "age_x": 2.23,
-   "age_peer_score": 36.0,
+   "age_x": 2.05,
+   "age_peer_score": 39.1,
    "age_peer_years": [
     2024,
     2025
@@ -2644,23 +2725,23 @@
    "playable_since": "2022-03-24",
    "days_playable": 1678,
    "is_free": false,
-   "players_now": 3204,
-   "total_reviews": 74942,
+   "players_now": 3202,
+   "total_reviews": 74943,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
    "avg": 86.2,
    "median": 44.4,
    "p90": 149.3,
-   "max": 4341.2,
-   "avg_at_review": 74.8,
-   "median_at_review": 35.6,
+   "max": 4341.7,
+   "avg_at_review": 74.7,
+   "median_at_review": 35.5,
    "median_after_review": 2.8,
    "avg_last_2w": 17.3,
-   "active_pct": 80.2,
+   "active_pct": 80.4,
    "heavy_pct": 19.4,
    "recommended_pct": 95.4,
    "sample_span_days": 18.7,
-   "score": 80.0,
+   "score": 80.1,
    "distribution": [
     {
      "label": "0-2",
@@ -2668,7 +2749,7 @@
     },
     {
      "label": "2-10",
-     "count": 44
+     "count": 45
     },
     {
      "label": "10-25",
@@ -2676,7 +2757,7 @@
     },
     {
      "label": "25-50",
-     "count": 145
+     "count": 144
     },
     {
      "label": "50-100",
@@ -2699,8 +2780,8 @@
      "count": 4
     }
    ],
-   "age_x": 0.95,
-   "age_peer_score": 84.3,
+   "age_x": 0.99,
+   "age_peer_score": 80.5,
    "age_peer_years": [
     2019,
     2024
@@ -2725,7 +2806,7 @@
    "playable_since": "2022-08-09",
    "days_playable": 1540,
    "is_free": false,
-   "players_now": 1744,
+   "players_now": 1736,
    "total_reviews": 25742,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -2749,11 +2830,11 @@
     },
     {
      "label": "2-10",
-     "count": 26
+     "count": 25
     },
     {
      "label": "10-25",
-     "count": 71
+     "count": 72
     },
     {
      "label": "25-50",
@@ -2780,8 +2861,8 @@
      "count": 12
     }
    ],
-   "age_x": 0.96,
-   "age_peer_score": 81.5,
+   "age_x": 1.03,
+   "age_peer_score": 76.2,
    "age_peer_years": [
     2019,
     2024
@@ -2806,7 +2887,7 @@
    "playable_since": "2025-12-12",
    "days_playable": 319,
    "is_free": false,
-   "players_now": 1474,
+   "players_now": 1418,
    "total_reviews": 3086,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -2887,22 +2968,22 @@
    "playable_since": "2018-02-28",
    "days_playable": 3163,
    "is_free": false,
-   "players_now": 1166,
-   "total_reviews": 60491,
+   "players_now": 1191,
+   "total_reviews": 60492,
    "review_score_desc": "Very Positive",
    "sample": 500,
-   "avg": 199.7,
+   "avg": 199.5,
    "median": 47.7,
    "p90": 527.5,
    "max": 5302.3,
-   "avg_at_review": 186.0,
+   "avg_at_review": 185.8,
    "median_at_review": 35.1,
    "median_after_review": 4.2,
    "avg_last_2w": 8.8,
    "active_pct": 61.4,
    "heavy_pct": 35.2,
    "recommended_pct": 89.4,
-   "sample_span_days": 37.4,
+   "sample_span_days": 37.9,
    "score": 77.0,
    "distribution": [
     {
@@ -2969,7 +3050,7 @@
    "playable_since": "2024-09-15",
    "days_playable": 772,
    "is_free": false,
-   "players_now": 3473,
+   "players_now": 3511,
    "total_reviews": 50829,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -3024,8 +3105,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.17,
-   "age_peer_score": 64.0,
+   "age_x": 1.18,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2023,
     2025
@@ -3051,7 +3132,7 @@
    "playable_since": "2023-03-10",
    "days_playable": 1327,
    "is_free": false,
-   "players_now": 1251,
+   "players_now": 1267,
    "total_reviews": 15065,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -3106,8 +3187,8 @@
      "count": 2
     }
    ],
-   "age_x": 0.91,
-   "age_peer_score": 79.2,
+   "age_x": 1.0,
+   "age_peer_score": 72.1,
    "age_peer_years": [
     2021,
     2024
@@ -3132,7 +3213,7 @@
    "playable_since": "2026-07-06",
    "days_playable": 113,
    "is_free": false,
-   "players_now": 1516,
+   "players_now": 1489,
    "total_reviews": 4839,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -3144,7 +3225,7 @@
    "median_at_review": 24.4,
    "median_after_review": 8.0,
    "avg_last_2w": 14.3,
-   "active_pct": 81.8,
+   "active_pct": 81.6,
    "heavy_pct": 16.6,
    "recommended_pct": 77.4,
    "sample_span_days": 38.1,
@@ -3187,8 +3268,8 @@
      "count": 0
     }
    ],
-   "age_x": 2.49,
-   "age_peer_score": 27.6,
+   "age_x": 2.21,
+   "age_peer_score": 31.2,
    "age_peer_years": [
     2025,
     2026
@@ -3213,8 +3294,8 @@
    "playable_since": "2025-03-24",
    "days_playable": 582,
    "is_free": false,
-   "players_now": 7573,
-   "total_reviews": 321132,
+   "players_now": 7728,
+   "total_reviews": 321130,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
    "avg": 51.2,
@@ -3223,7 +3304,7 @@
    "max": 891.3,
    "avg_at_review": 47.6,
    "median_at_review": 32.2,
-   "median_after_review": 1.1,
+   "median_after_review": 1.2,
    "avg_last_2w": 14.4,
    "active_pct": 90.2,
    "heavy_pct": 11.4,
@@ -3268,8 +3349,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.37,
-   "age_peer_score": 49.2,
+   "age_x": 1.38,
+   "age_peer_score": 48.9,
    "age_peer_years": [
     2024,
     2025
@@ -3294,7 +3375,7 @@
    "playable_since": "2019-04-16",
    "days_playable": 2751,
    "is_free": false,
-   "players_now": 2394,
+   "players_now": 2368,
    "total_reviews": 32741,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -3376,7 +3457,7 @@
    "playable_since": "2015-03-10",
    "days_playable": 4249,
    "is_free": false,
-   "players_now": 9736,
+   "players_now": 9589,
    "total_reviews": 290935,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -3458,7 +3539,7 @@
    "playable_since": "2023-12-14",
    "days_playable": 1048,
    "is_free": false,
-   "players_now": 367,
+   "players_now": 376,
    "total_reviews": 4532,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -3513,8 +3594,8 @@
      "count": 4
     }
    ],
-   "age_x": 1.02,
-   "age_peer_score": 64.6,
+   "age_x": 1.03,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2024
@@ -3539,7 +3620,7 @@
    "playable_since": "2016-12-16",
    "days_playable": 3602,
    "is_free": false,
-   "players_now": 3281,
+   "players_now": 2918,
    "total_reviews": 58188,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -3621,14 +3702,14 @@
    "playable_since": "2025-05-20",
    "days_playable": 525,
    "is_free": false,
-   "players_now": 352,
+   "players_now": 344,
    "total_reviews": 2471,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 70.2,
    "median": 52.7,
    "p90": 138.4,
-   "max": 488.4,
+   "max": 488.9,
    "avg_at_review": 48.7,
    "median_at_review": 33.5,
    "median_after_review": 7.1,
@@ -3653,11 +3734,11 @@
     },
     {
      "label": "25-50",
-     "count": 134
+     "count": 133
     },
     {
      "label": "50-100",
-     "count": 163
+     "count": 164
     },
     {
      "label": "100-250",
@@ -3676,8 +3757,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.69,
-   "age_peer_score": 38.9,
+   "age_x": 1.63,
+   "age_peer_score": 40.3,
    "age_peer_years": [
     2024,
     2025
@@ -3703,7 +3784,7 @@
    "playable_since": "2025-10-21",
    "days_playable": 371,
    "is_free": false,
-   "players_now": 969,
+   "players_now": 971,
    "total_reviews": 14163,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -3758,8 +3839,8 @@
      "count": 2
     }
    ],
-   "age_x": 1.94,
-   "age_peer_score": 33.9,
+   "age_x": 1.82,
+   "age_peer_score": 36.0,
    "age_peer_years": [
     2025,
     2026
@@ -3785,14 +3866,14 @@
    "playable_since": "2024-11-06",
    "days_playable": 720,
    "is_free": false,
-   "players_now": 1679,
+   "players_now": 1676,
    "total_reviews": 15028,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
    "avg": 130.1,
    "median": 40.0,
    "p90": 308.2,
-   "max": 2184.3,
+   "max": 2184.7,
    "avg_at_review": 106.2,
    "median_at_review": 27.9,
    "median_after_review": 5.9,
@@ -3840,92 +3921,10 @@
      "count": 16
     }
    ],
-   "age_x": 1.0,
-   "age_peer_score": 64.9,
+   "age_x": 1.01,
+   "age_peer_score": 64.7,
    "age_peer_years": [
     2023,
-    2025
-   ]
-  },
-  {
-   "appid": 1363080,
-   "name": "Manor Lords",
-   "tags": [
-    "City Builder",
-    "Base Building"
-   ],
-   "steam_tags": [
-    "Strategy",
-    "City Builder",
-    "Simulation",
-    "Base Building",
-    "Grand Strategy"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1792743039",
-   "release_date": "2024-04-26",
-   "days_since_release": 914,
-   "playable_since": "2024-04-26",
-   "days_playable": 914,
-   "is_free": false,
-   "players_now": 4708,
-   "total_reviews": 93083,
-   "review_score_desc": "Very Positive",
-   "sample": 500,
-   "avg": 69.3,
-   "median": 33.5,
-   "p90": 126.0,
-   "max": 1968.8,
-   "avg_at_review": 60.8,
-   "median_at_review": 26.7,
-   "median_after_review": 3.7,
-   "avg_last_2w": 19.7,
-   "active_pct": 91.2,
-   "heavy_pct": 15.0,
-   "recommended_pct": 80.2,
-   "sample_span_days": 13.0,
-   "score": 64.1,
-   "distribution": [
-    {
-     "label": "0-2",
-     "count": 8
-    },
-    {
-     "label": "2-10",
-     "count": 48
-    },
-    {
-     "label": "10-25",
-     "count": 140
-    },
-    {
-     "label": "25-50",
-     "count": 126
-    },
-    {
-     "label": "50-100",
-     "count": 103
-    },
-    {
-     "label": "100-250",
-     "count": 55
-    },
-    {
-     "label": "250-500",
-     "count": 13
-    },
-    {
-     "label": "500-1000",
-     "count": 4
-    },
-    {
-     "label": "1000+",
-     "count": 3
-    }
-   ],
-   "age_x": 0.98,
-   "age_peer_score": 65.5,
-   "age_peer_years": [
-    2022,
     2025
    ]
   },
@@ -3948,7 +3947,7 @@
    "playable_since": "2023-09-18",
    "days_playable": 1135,
    "is_free": false,
-   "players_now": 1879,
+   "players_now": 1885,
    "total_reviews": 14756,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -4003,11 +4002,93 @@
      "count": 5
     }
    ],
-   "age_x": 0.87,
-   "age_peer_score": 73.7,
+   "age_x": 0.92,
+   "age_peer_score": 69.1,
    "age_peer_years": [
     2022,
     2024
+   ]
+  },
+  {
+   "appid": 1363080,
+   "name": "Manor Lords",
+   "tags": [
+    "City Builder",
+    "Base Building"
+   ],
+   "steam_tags": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "Base Building",
+    "Grand Strategy"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1792743039",
+   "release_date": "2024-04-26",
+   "days_since_release": 914,
+   "playable_since": "2024-04-26",
+   "days_playable": 914,
+   "is_free": false,
+   "players_now": 4734,
+   "total_reviews": 93084,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 69.2,
+   "median": 33.4,
+   "p90": 126.0,
+   "max": 1968.8,
+   "avg_at_review": 60.7,
+   "median_at_review": 26.6,
+   "median_after_review": 3.8,
+   "avg_last_2w": 19.7,
+   "active_pct": 91.0,
+   "heavy_pct": 15.0,
+   "recommended_pct": 80.4,
+   "sample_span_days": 13.0,
+   "score": 63.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 9
+    },
+    {
+     "label": "2-10",
+     "count": 48
+    },
+    {
+     "label": "10-25",
+     "count": 139
+    },
+    {
+     "label": "25-50",
+     "count": 127
+    },
+    {
+     "label": "50-100",
+     "count": 102
+    },
+    {
+     "label": "100-250",
+     "count": 55
+    },
+    {
+     "label": "250-500",
+     "count": 13
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "age_x": 0.99,
+   "age_peer_score": 64.5,
+   "age_peer_years": [
+    2022,
+    2025
    ]
   },
   {
@@ -4030,8 +4111,8 @@
    "playable_since": "2019-11-05",
    "days_playable": 2548,
    "is_free": false,
-   "players_now": 3486,
-   "total_reviews": 98295,
+   "players_now": 3473,
+   "total_reviews": 98293,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 108.4,
@@ -4112,7 +4193,7 @@
    "playable_since": "2019-03-29",
    "days_playable": 2769,
    "is_free": false,
-   "players_now": 1319,
+   "players_now": 1328,
    "total_reviews": 29673,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -4194,7 +4275,7 @@
    "playable_since": "2025-05-08",
    "days_playable": 537,
    "is_free": false,
-   "players_now": 601,
+   "players_now": 604,
    "total_reviews": 8160,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -4249,8 +4330,8 @@
      "count": 1
     }
    ],
-   "age_x": 1.44,
-   "age_peer_score": 38.9,
+   "age_x": 1.39,
+   "age_peer_score": 40.3,
    "age_peer_years": [
     2024,
     2025
@@ -4275,7 +4356,7 @@
    "playable_since": "2022-02-09",
    "days_playable": 1721,
    "is_free": false,
-   "players_now": 558,
+   "players_now": 563,
    "total_reviews": 12817,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -4287,11 +4368,11 @@
    "median_at_review": 27.4,
    "median_after_review": 4.7,
    "avg_last_2w": 3.0,
-   "active_pct": 27.4,
+   "active_pct": 27.2,
    "heavy_pct": 18.4,
    "recommended_pct": 85.0,
    "sample_span_days": 96.5,
-   "score": 53.4,
+   "score": 53.3,
    "distribution": [
     {
      "label": "0-2",
@@ -4330,8 +4411,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.63,
-   "age_peer_score": 84.3,
+   "age_x": 0.65,
+   "age_peer_score": 81.4,
    "age_peer_years": [
     2018,
     2024
@@ -4356,7 +4437,7 @@
    "playable_since": "2026-09-29",
    "days_playable": 28,
    "is_free": false,
-   "players_now": 786,
+   "players_now": 808,
    "total_reviews": 4714,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -4368,11 +4449,11 @@
    "median_at_review": 16.8,
    "median_after_review": 3.3,
    "avg_last_2w": 22.0,
-   "active_pct": 94.0,
+   "active_pct": 93.8,
    "heavy_pct": 4.2,
    "recommended_pct": 82.8,
    "sample_span_days": 12.8,
-   "score": 52.9,
+   "score": 52.8,
    "distribution": [
     {
      "label": "0-2",
@@ -4411,8 +4492,8 @@
      "count": 0
     }
    ],
-   "age_x": 2.23,
-   "age_peer_score": 23.8,
+   "age_x": 2.15,
+   "age_peer_score": 24.6,
    "age_peer_years": [
     2026,
     2026
@@ -4438,7 +4519,7 @@
    "playable_since": "2018-09-13",
    "days_playable": 2966,
    "is_free": false,
-   "players_now": 51,
+   "players_now": 53,
    "total_reviews": 3809,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -4520,23 +4601,23 @@
    "playable_since": "2026-10-13",
    "days_playable": 14,
    "is_free": false,
-   "players_now": 14748,
-   "total_reviews": 6798,
+   "players_now": 14985,
+   "total_reviews": 6802,
    "review_score_desc": "Mixed",
    "sample": 500,
    "avg": 32.9,
-   "median": 25.8,
-   "p90": 68.5,
+   "median": 25.7,
+   "p90": 68.3,
    "max": 219.1,
-   "avg_at_review": 28.7,
-   "median_at_review": 21.0,
+   "avg_at_review": 28.6,
+   "median_at_review": 20.9,
    "median_after_review": 2.5,
-   "avg_last_2w": 32.9,
-   "active_pct": 100.0,
+   "avg_last_2w": 32.8,
+   "active_pct": 99.8,
    "heavy_pct": 3.2,
-   "recommended_pct": 65.4,
+   "recommended_pct": 65.8,
    "sample_span_days": 3.0,
-   "score": 51.5,
+   "score": 51.4,
    "distribution": [
     {
      "label": "0-2",
@@ -4548,7 +4629,7 @@
     },
     {
      "label": "10-25",
-     "count": 157
+     "count": 158
     },
     {
      "label": "25-50",
@@ -4556,7 +4637,7 @@
     },
     {
      "label": "50-100",
-     "count": 87
+     "count": 86
     },
     {
      "label": "100-250",
@@ -4575,8 +4656,8 @@
      "count": 0
     }
    ],
-   "age_x": 2.17,
-   "age_peer_score": 23.8,
+   "age_x": 2.09,
+   "age_peer_score": 24.6,
    "age_peer_years": [
     2026,
     2026
@@ -4602,7 +4683,7 @@
    "playable_since": "2023-08-10",
    "days_playable": 1174,
    "is_free": false,
-   "players_now": 493,
+   "players_now": 487,
    "total_reviews": 7958,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -4657,8 +4738,8 @@
      "count": 1
     }
    ],
-   "age_x": 0.69,
-   "age_peer_score": 73.7,
+   "age_x": 0.73,
+   "age_peer_score": 69.1,
    "age_peer_years": [
     2022,
     2024
@@ -4683,21 +4764,21 @@
    "playable_since": "2024-02-20",
    "days_playable": 980,
    "is_free": false,
-   "players_now": 3168,
-   "total_reviews": 84758,
+   "players_now": 3190,
+   "total_reviews": 84760,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 62.1,
    "median": 29.4,
-   "p90": 127.9,
+   "p90": 128.0,
    "max": 1507.9,
-   "avg_at_review": 51.6,
+   "avg_at_review": 51.7,
    "median_at_review": 20.1,
    "median_after_review": 3.2,
-   "avg_last_2w": 10.9,
+   "avg_last_2w": 11.0,
    "active_pct": 71.8,
    "heavy_pct": 14.8,
-   "recommended_pct": 86.8,
+   "recommended_pct": 86.6,
    "sample_span_days": 24.8,
    "score": 50.6,
    "distribution": [
@@ -4707,11 +4788,11 @@
     },
     {
      "label": "2-10",
-     "count": 82
+     "count": 81
     },
     {
      "label": "10-25",
-     "count": 140
+     "count": 141
     },
     {
      "label": "25-50",
@@ -4738,8 +4819,8 @@
      "count": 2
     }
    ],
-   "age_x": 0.78,
-   "age_peer_score": 64.6,
+   "age_x": 0.79,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2025
@@ -4764,7 +4845,7 @@
    "playable_since": "2022-08-11",
    "days_playable": 1538,
    "is_free": false,
-   "players_now": 2132,
+   "players_now": 2127,
    "total_reviews": 131113,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -4775,7 +4856,7 @@
    "avg_at_review": 33.6,
    "median_at_review": 18.6,
    "median_after_review": 1.3,
-   "avg_last_2w": 13.9,
+   "avg_last_2w": 13.8,
    "active_pct": 86.2,
    "heavy_pct": 6.8,
    "recommended_pct": 95.4,
@@ -4819,8 +4900,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.57,
-   "age_peer_score": 81.5,
+   "age_x": 0.59,
+   "age_peer_score": 79.2,
    "age_peer_years": [
     2019,
     2024
@@ -4845,7 +4926,7 @@
    "playable_since": "2015-03-12",
    "days_playable": 4247,
    "is_free": false,
-   "players_now": 418,
+   "players_now": 435,
    "total_reviews": 18207,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -4873,11 +4954,11 @@
     },
     {
      "label": "10-25",
-     "count": 151
+     "count": 150
     },
     {
      "label": "25-50",
-     "count": 100
+     "count": 101
     },
     {
      "label": "50-100",
@@ -4927,8 +5008,8 @@
    "playable_since": "2026-07-31",
    "days_playable": 88,
    "is_free": false,
-   "players_now": 389,
-   "total_reviews": 3742,
+   "players_now": 395,
+   "total_reviews": 3743,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 47.4,
@@ -4937,13 +5018,13 @@
    "max": 451.5,
    "avg_at_review": 36.1,
    "median_at_review": 24.2,
-   "median_after_review": 0.9,
-   "avg_last_2w": 4.4,
-   "active_pct": 26.4,
+   "median_after_review": 1.0,
+   "avg_last_2w": 4.5,
+   "active_pct": 26.6,
    "heavy_pct": 9.2,
    "recommended_pct": 83.2,
    "sample_span_days": 53.3,
-   "score": 44.6,
+   "score": 44.7,
    "distribution": [
     {
      "label": "0-2",
@@ -4982,8 +5063,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.76,
-   "age_peer_score": 25.4,
+   "age_x": 1.7,
+   "age_peer_score": 26.3,
    "age_peer_years": [
     2025,
     2026
@@ -5009,23 +5090,23 @@
    "playable_since": "2017-12-01",
    "days_playable": 3252,
    "is_free": false,
-   "players_now": 2073,
-   "total_reviews": 19315,
+   "players_now": 2041,
+   "total_reviews": 19314,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 68.6,
-   "median": 26.1,
+   "median": 25.9,
    "p90": 129.7,
    "max": 2330.1,
    "avg_at_review": 58.6,
    "median_at_review": 18.0,
-   "median_after_review": 3.9,
+   "median_after_review": 3.8,
    "avg_last_2w": 9.5,
-   "active_pct": 70.4,
+   "active_pct": 70.6,
    "heavy_pct": 14.2,
    "recommended_pct": 92.8,
    "sample_span_days": 53.8,
-   "score": 44.5,
+   "score": 44.2,
    "distribution": [
     {
      "label": "0-2",
@@ -5037,11 +5118,11 @@
     },
     {
      "label": "10-25",
-     "count": 163
+     "count": 164
     },
     {
      "label": "25-50",
-     "count": 110
+     "count": 109
     },
     {
      "label": "50-100",
@@ -5064,7 +5145,7 @@
      "count": 2
     }
    ],
-   "age_x": 0.67,
+   "age_x": 0.66,
    "age_peer_score": 66.5,
    "age_peer_years": [
     2008,
@@ -5090,7 +5171,7 @@
    "playable_since": "2026-08-13",
    "days_playable": 75,
    "is_free": false,
-   "players_now": 1675,
+   "players_now": 1744,
    "total_reviews": 5892,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -5145,8 +5226,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.77,
-   "age_peer_score": 24.6,
+   "age_x": 1.71,
+   "age_peer_score": 25.4,
    "age_peer_years": [
     2026,
     2026
@@ -5172,8 +5253,8 @@
    "playable_since": "2024-04-11",
    "days_playable": 929,
    "is_free": false,
-   "players_now": 813,
-   "total_reviews": 18812,
+   "players_now": 818,
+   "total_reviews": 18813,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 66.4,
@@ -5184,15 +5265,15 @@
    "median_at_review": 24.6,
    "median_after_review": 3.4,
    "avg_last_2w": 3.1,
-   "active_pct": 26.8,
+   "active_pct": 27.0,
    "heavy_pct": 15.2,
-   "recommended_pct": 82.0,
-   "sample_span_days": 83.7,
-   "score": 42.1,
+   "recommended_pct": 82.2,
+   "sample_span_days": 84.2,
+   "score": 42.2,
    "distribution": [
     {
      "label": "0-2",
-     "count": 17
+     "count": 16
     },
     {
      "label": "2-10",
@@ -5200,7 +5281,7 @@
     },
     {
      "label": "10-25",
-     "count": 122
+     "count": 123
     },
     {
      "label": "25-50",
@@ -5227,92 +5308,10 @@
      "count": 2
     }
    ],
-   "age_x": 0.64,
-   "age_peer_score": 65.5,
+   "age_x": 0.65,
+   "age_peer_score": 64.5,
    "age_peer_years": [
     2022,
-    2025
-   ]
-  },
-  {
-   "appid": 2570210,
-   "name": "Eden Crafters",
-   "tags": [
-    "Automation",
-    "Base Building"
-   ],
-   "steam_tags": [
-    "Automation",
-    "Open World Survival Craft",
-    "Base Building",
-    "Crafting",
-    "Sandbox"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570210/9887c3a4f9b82d9e32c14b07bfe122c63326b707/header.jpg?t=1791903755",
-   "release_date": "2026-05-07",
-   "days_since_release": 173,
-   "playable_since": "2024-10-16",
-   "days_playable": 741,
-   "is_free": false,
-   "players_now": 348,
-   "total_reviews": 2764,
-   "review_score_desc": "Very Positive",
-   "sample": 500,
-   "avg": 71.3,
-   "median": 34.0,
-   "p90": 165.2,
-   "max": 1923.8,
-   "avg_at_review": 47.4,
-   "median_at_review": 19.8,
-   "median_after_review": 3.5,
-   "avg_last_2w": 3.6,
-   "active_pct": 23.8,
-   "heavy_pct": 18.4,
-   "recommended_pct": 78.6,
-   "sample_span_days": 180.9,
-   "score": 42.1,
-   "distribution": [
-    {
-     "label": "0-2",
-     "count": 38
-    },
-    {
-     "label": "2-10",
-     "count": 65
-    },
-    {
-     "label": "10-25",
-     "count": 93
-    },
-    {
-     "label": "25-50",
-     "count": 131
-    },
-    {
-     "label": "50-100",
-     "count": 81
-    },
-    {
-     "label": "100-250",
-     "count": 67
-    },
-    {
-     "label": "250-500",
-     "count": 16
-    },
-    {
-     "label": "500-1000",
-     "count": 8
-    },
-    {
-     "label": "1000+",
-     "count": 1
-    }
-   ],
-   "age_x": 0.65,
-   "age_peer_score": 64.6,
-   "age_peer_years": [
-    2023,
     2025
    ]
   },
@@ -5336,7 +5335,7 @@
    "playable_since": "2016-05-05",
    "days_playable": 3827,
    "is_free": false,
-   "players_now": 72,
+   "players_now": 69,
    "total_reviews": 8172,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -5399,6 +5398,88 @@
    ]
   },
   {
+   "appid": 2570210,
+   "name": "Eden Crafters",
+   "tags": [
+    "Automation",
+    "Base Building"
+   ],
+   "steam_tags": [
+    "Automation",
+    "Open World Survival Craft",
+    "Base Building",
+    "Crafting",
+    "Sandbox"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570210/9887c3a4f9b82d9e32c14b07bfe122c63326b707/header.jpg?t=1791903755",
+   "release_date": "2026-05-07",
+   "days_since_release": 173,
+   "playable_since": "2024-10-16",
+   "days_playable": 741,
+   "is_free": false,
+   "players_now": 359,
+   "total_reviews": 2765,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 71.1,
+   "median": 33.7,
+   "p90": 165.2,
+   "max": 1923.8,
+   "avg_at_review": 47.4,
+   "median_at_review": 19.7,
+   "median_after_review": 3.5,
+   "avg_last_2w": 3.5,
+   "active_pct": 23.6,
+   "heavy_pct": 18.2,
+   "recommended_pct": 78.6,
+   "sample_span_days": 179.8,
+   "score": 41.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 38
+    },
+    {
+     "label": "2-10",
+     "count": 65
+    },
+    {
+     "label": "10-25",
+     "count": 94
+    },
+    {
+     "label": "25-50",
+     "count": 131
+    },
+    {
+     "label": "50-100",
+     "count": 81
+    },
+    {
+     "label": "100-250",
+     "count": 66
+    },
+    {
+     "label": "250-500",
+     "count": 16
+    },
+    {
+     "label": "500-1000",
+     "count": 8
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "age_x": 0.64,
+   "age_peer_score": 64.5,
+   "age_peer_years": [
+    2023,
+    2025
+   ]
+  },
+  {
    "appid": 1206560,
    "name": "WorldBox - God Simulator",
    "tags": [
@@ -5417,7 +5498,7 @@
    "playable_since": "2021-12-02",
    "days_playable": 1790,
    "is_free": false,
-   "players_now": 2032,
+   "players_now": 2015,
    "total_reviews": 57619,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -5472,8 +5553,8 @@
      "count": 4
     }
    ],
-   "age_x": 0.5,
-   "age_peer_score": 81.5,
+   "age_x": 0.52,
+   "age_peer_score": 79.2,
    "age_peer_years": [
     2018,
     2023
@@ -5499,7 +5580,7 @@
    "playable_since": "2025-09-16",
    "days_playable": 406,
    "is_free": false,
-   "players_now": 102,
+   "players_now": 108,
    "total_reviews": 1701,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -5554,8 +5635,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.02,
-   "age_peer_score": 39.9,
+   "age_x": 0.86,
+   "age_peer_score": 47.0,
    "age_peer_years": [
     2024,
     2026
@@ -5581,7 +5662,7 @@
    "playable_since": "2024-08-15",
    "days_playable": 803,
    "is_free": false,
-   "players_now": 897,
+   "players_now": 889,
    "total_reviews": 15540,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -5591,7 +5672,7 @@
    "max": 1128.4,
    "avg_at_review": 46.9,
    "median_at_review": 17.2,
-   "median_after_review": 5.6,
+   "median_after_review": 5.7,
    "avg_last_2w": 5.0,
    "active_pct": 30.8,
    "heavy_pct": 15.6,
@@ -5637,7 +5718,7 @@
     }
    ],
    "age_x": 0.62,
-   "age_peer_score": 64.6,
+   "age_peer_score": 64.5,
    "age_peer_years": [
     2023,
     2025
@@ -5662,19 +5743,19 @@
    "playable_since": "2018-04-24",
    "days_playable": 3108,
    "is_free": false,
-   "players_now": 2257,
-   "total_reviews": 138245,
+   "players_now": 2169,
+   "total_reviews": 138247,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 44.9,
    "median": 24.4,
    "p90": 98.7,
    "max": 510.8,
-   "avg_at_review": 37.4,
+   "avg_at_review": 37.5,
    "median_at_review": 17.3,
-   "median_after_review": 1.7,
+   "median_after_review": 1.6,
    "avg_last_2w": 8.3,
-   "active_pct": 62.8,
+   "active_pct": 63.0,
    "heavy_pct": 10.0,
    "recommended_pct": 93.2,
    "sample_span_days": 22.5,
@@ -5686,11 +5767,11 @@
     },
     {
      "label": "2-10",
-     "count": 74
+     "count": 75
     },
     {
      "label": "10-25",
-     "count": 172
+     "count": 171
     },
     {
      "label": "25-50",
@@ -5744,7 +5825,7 @@
    "playable_since": "2024-03-19",
    "days_playable": 952,
    "is_free": false,
-   "players_now": 195,
+   "players_now": 190,
    "total_reviews": 4806,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -5799,8 +5880,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.58,
-   "age_peer_score": 64.6,
+   "age_x": 0.59,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2025
@@ -5826,7 +5907,7 @@
    "playable_since": "2025-08-22",
    "days_playable": 431,
    "is_free": false,
-   "players_now": 999,
+   "players_now": 1060,
    "total_reviews": 14916,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -5881,8 +5962,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.91,
-   "age_peer_score": 41.3,
+   "age_x": 0.77,
+   "age_peer_score": 48.9,
    "age_peer_years": [
     2024,
     2026
@@ -5908,7 +5989,7 @@
    "playable_since": "2013-03-20",
    "days_playable": 4969,
    "is_free": false,
-   "players_now": 793,
+   "players_now": 791,
    "total_reviews": 73954,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -5989,7 +6070,7 @@
    "playable_since": "2024-02-13",
    "days_playable": 987,
    "is_free": false,
-   "players_now": 305,
+   "players_now": 316,
    "total_reviews": 4657,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -6044,8 +6125,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.56,
-   "age_peer_score": 64.6,
+   "age_x": 0.57,
+   "age_peer_score": 63.8,
    "age_peer_years": [
     2022,
     2025
@@ -6072,7 +6153,7 @@
    "playable_since": "2026-04-16",
    "days_playable": 194,
    "is_free": false,
-   "players_now": 40,
+   "players_now": 39,
    "total_reviews": 1115,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -6154,8 +6235,8 @@
    "playable_since": "2018-12-11",
    "days_playable": 2877,
    "is_free": false,
-   "players_now": 5347,
-   "total_reviews": 41640,
+   "players_now": 4948,
+   "total_reviews": 41641,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 27.6,
@@ -6236,7 +6317,7 @@
    "playable_since": "2025-11-10",
    "days_playable": 351,
    "is_free": false,
-   "players_now": 342,
+   "players_now": 367,
    "total_reviews": 2564,
    "review_score_desc": "Mixed",
    "sample": 500,
@@ -6317,22 +6398,22 @@
    "playable_since": "2026-08-24",
    "days_playable": 64,
    "is_free": false,
-   "players_now": 386,
-   "total_reviews": 1952,
+   "players_now": 394,
+   "total_reviews": 1953,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
-   "avg": 26.2,
+   "avg": 26.3,
    "median": 19.5,
    "p90": 53.3,
    "max": 196.6,
    "avg_at_review": 18.1,
    "median_at_review": 10.9,
-   "median_after_review": 3.4,
+   "median_after_review": 3.3,
    "avg_last_2w": 12.0,
-   "active_pct": 75.0,
+   "active_pct": 75.2,
    "heavy_pct": 1.6,
    "recommended_pct": 94.0,
-   "sample_span_days": 27.0,
+   "sample_span_days": 26.9,
    "score": 34.1,
    "distribution": [
     {
@@ -6372,8 +6453,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.44,
-   "age_peer_score": 23.8,
+   "age_x": 1.37,
+   "age_peer_score": 25.0,
    "age_peer_years": [
     2026,
     2026
@@ -6399,23 +6480,23 @@
    "playable_since": "2026-08-10",
    "days_playable": 78,
    "is_free": false,
-   "players_now": 211,
+   "players_now": 201,
    "total_reviews": 4323,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 26.0,
    "median": 21.9,
    "p90": 49.1,
-   "max": 408.3,
+   "max": 408.7,
    "avg_at_review": 18.0,
    "median_at_review": 11.7,
    "median_after_review": 2.6,
    "avg_last_2w": 7.7,
-   "active_pct": 55.8,
+   "active_pct": 55.4,
    "heavy_pct": 1.4,
    "recommended_pct": 88.6,
    "sample_span_days": 23.2,
-   "score": 34.1,
+   "score": 34.0,
    "distribution": [
     {
      "label": "0-2",
@@ -6454,8 +6535,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.39,
-   "age_peer_score": 24.6,
+   "age_x": 1.34,
+   "age_peer_score": 25.4,
    "age_peer_years": [
     2026,
     2026
@@ -6480,7 +6561,7 @@
    "playable_since": "2025-10-24",
    "days_playable": 368,
    "is_free": false,
-   "players_now": 975,
+   "players_now": 978,
    "total_reviews": 13246,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -6508,11 +6589,11 @@
     },
     {
      "label": "10-25",
-     "count": 120
+     "count": 119
     },
     {
      "label": "25-50",
-     "count": 97
+     "count": 98
     },
     {
      "label": "50-100",
@@ -6535,11 +6616,92 @@
      "count": 0
     }
    ],
-   "age_x": 0.93,
-   "age_peer_score": 36.0,
+   "age_x": 0.86,
+   "age_peer_score": 39.1,
    "age_peer_years": [
     2025,
     2026
+   ]
+  },
+  {
+   "appid": 1874490,
+   "name": "Potionomics",
+   "tags": [
+    "Tycoon"
+   ],
+   "steam_tags": [
+    "Deckbuilding",
+    "Dating Sim",
+    "Capitalism",
+    "Simulation",
+    "Fantasy"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874490/header.jpg?t=1750960791",
+   "release_date": "2022-10-17",
+   "days_since_release": 1471,
+   "playable_since": "2022-10-17",
+   "days_playable": 1471,
+   "is_free": false,
+   "players_now": 49,
+   "total_reviews": 7450,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 41.1,
+   "median": 32.0,
+   "p90": 74.2,
+   "max": 516.5,
+   "avg_at_review": 34.1,
+   "median_at_review": 26.9,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.6,
+   "active_pct": 3.6,
+   "heavy_pct": 5.6,
+   "recommended_pct": 86.6,
+   "sample_span_days": 345.1,
+   "score": 33.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 66
+    },
+    {
+     "label": "10-25",
+     "count": 105
+    },
+    {
+     "label": "25-50",
+     "count": 203
+    },
+    {
+     "label": "50-100",
+     "count": 85
+    },
+    {
+     "label": "100-250",
+     "count": 24
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "age_x": 0.42,
+   "age_peer_score": 79.2,
+   "age_peer_years": [
+    2020,
+    2024
    ]
   },
   {
@@ -6562,7 +6724,7 @@
    "playable_since": "2025-11-03",
    "days_playable": 358,
    "is_free": false,
-   "players_now": 210,
+   "players_now": 209,
    "total_reviews": 3394,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -6617,8 +6779,8 @@
      "count": 1
     }
    ],
-   "age_x": 0.92,
-   "age_peer_score": 36.0,
+   "age_x": 0.85,
+   "age_peer_score": 39.1,
    "age_peer_years": [
     2025,
     2026
@@ -6644,22 +6806,22 @@
    "playable_since": "2016-11-17",
    "days_playable": 3631,
    "is_free": false,
-   "players_now": 564,
-   "total_reviews": 72293,
+   "players_now": 576,
+   "total_reviews": 72294,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 90.3,
    "median": 25.1,
    "p90": 164.2,
    "max": 8755.6,
-   "avg_at_review": 78.3,
+   "avg_at_review": 78.4,
    "median_at_review": 17.0,
    "median_after_review": 1.1,
    "avg_last_2w": 3.0,
-   "active_pct": 28.8,
+   "active_pct": 29.0,
    "heavy_pct": 16.0,
    "recommended_pct": 86.8,
-   "sample_span_days": 104.6,
+   "sample_span_days": 104.3,
    "score": 32.4,
    "distribution": [
     {
@@ -6676,11 +6838,11 @@
     },
     {
      "label": "25-50",
-     "count": 96
+     "count": 95
     },
     {
      "label": "50-100",
-     "count": 75
+     "count": 76
     },
     {
      "label": "100-250",
@@ -6726,7 +6888,7 @@
    "playable_since": "2025-09-11",
    "days_playable": 411,
    "is_free": false,
-   "players_now": 138,
+   "players_now": 155,
    "total_reviews": 1399,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -6781,8 +6943,8 @@
      "count": 1
     }
    ],
-   "age_x": 0.78,
-   "age_peer_score": 41.3,
+   "age_x": 0.67,
+   "age_peer_score": 48.4,
    "age_peer_years": [
     2024,
     2026
@@ -6808,17 +6970,17 @@
    "playable_since": "2026-10-14",
    "days_playable": 13,
    "is_free": true,
-   "players_now": 4322,
+   "players_now": 4295,
    "total_reviews": 2612,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 23.5,
    "median": 15.7,
-   "p90": 53.6,
-   "max": 205.5,
+   "p90": 53.7,
+   "max": 206.0,
    "avg_at_review": 16.6,
    "median_at_review": 10.9,
-   "median_after_review": 2.7,
+   "median_after_review": 2.8,
    "avg_last_2w": 23.5,
    "active_pct": 100.0,
    "heavy_pct": 2.6,
@@ -6863,8 +7025,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.32,
-   "age_peer_score": 23.8,
+   "age_x": 1.27,
+   "age_peer_score": 24.6,
    "age_peer_years": [
     2026,
     2026
@@ -6889,7 +7051,7 @@
    "playable_since": "2024-10-10",
    "days_playable": 747,
    "is_free": false,
-   "players_now": 177,
+   "players_now": 185,
    "total_reviews": 4260,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -6944,8 +7106,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.48,
-   "age_peer_score": 64.6,
+   "age_x": 0.49,
+   "age_peer_score": 64.5,
    "age_peer_years": [
     2023,
     2025
@@ -6971,7 +7133,7 @@
    "playable_since": "2026-09-04",
    "days_playable": 53,
    "is_free": false,
-   "players_now": 109,
+   "players_now": 105,
    "total_reviews": 1472,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -7026,8 +7188,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.23,
-   "age_peer_score": 23.8,
+   "age_x": 1.19,
+   "age_peer_score": 24.6,
    "age_peer_years": [
     2026,
     2026
@@ -7052,7 +7214,7 @@
    "playable_since": "2026-06-08",
    "days_playable": 141,
    "is_free": false,
-   "players_now": 290,
+   "players_now": 288,
    "total_reviews": 4822,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -7107,8 +7269,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.0,
-   "age_peer_score": 28.2,
+   "age_x": 0.9,
+   "age_peer_score": 31.2,
    "age_peer_years": [
     2025,
     2026
@@ -7135,7 +7297,7 @@
    "playable_since": "2021-10-11",
    "days_playable": 1842,
    "is_free": false,
-   "players_now": 316,
+   "players_now": 311,
    "total_reviews": 8141,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -7190,8 +7352,8 @@
      "count": 3
     }
    ],
-   "age_x": 0.33,
-   "age_peer_score": 81.5,
+   "age_x": 0.34,
+   "age_peer_score": 79.2,
    "age_peer_years": [
     2018,
     2023
@@ -7216,7 +7378,7 @@
    "playable_since": "2026-08-06",
    "days_playable": 82,
    "is_free": false,
-   "players_now": 921,
+   "players_now": 930,
    "total_reviews": 12230,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -7274,7 +7436,7 @@
    "age_x": 1.07,
    "age_peer_score": 25.4,
    "age_peer_years": [
-    2025,
+    2026,
     2026
    ]
   },
@@ -7298,7 +7460,7 @@
    "playable_since": "2025-07-10",
    "days_playable": 474,
    "is_free": false,
-   "players_now": 69,
+   "players_now": 67,
    "total_reviews": 1581,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -7353,11 +7515,92 @@
      "count": 0
     }
    ],
-   "age_x": 0.68,
-   "age_peer_score": 39.1,
+   "age_x": 0.65,
+   "age_peer_score": 41.0,
    "age_peer_years": [
     2024,
     2025
+   ]
+  },
+  {
+   "appid": 2085660,
+   "name": "Devices Tycoon",
+   "tags": [
+    "Tycoon"
+   ],
+   "steam_tags": [
+    "Simulation",
+    "Strategy",
+    "Sandbox",
+    "Capitalism",
+    "Realistic"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085660/cfbec389b36849ce4a04b5f19e4a88ca68c73d16/header.jpg?t=1792166456",
+   "release_date": "2026-10-16",
+   "days_since_release": 11,
+   "playable_since": "2026-10-16",
+   "days_playable": 11,
+   "is_free": false,
+   "players_now": 93,
+   "total_reviews": 445,
+   "review_score_desc": "Very Positive",
+   "sample": 445,
+   "avg": 15.0,
+   "median": 12.8,
+   "p90": 29.3,
+   "max": 192.6,
+   "avg_at_review": 7.5,
+   "median_at_review": 5.5,
+   "median_after_review": 4.4,
+   "avg_last_2w": 15.0,
+   "active_pct": 100.0,
+   "heavy_pct": 0.2,
+   "recommended_pct": 89.9,
+   "sample_span_days": 10.8,
+   "score": 25.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 42
+    },
+    {
+     "label": "2-10",
+     "count": 131
+    },
+    {
+     "label": "10-25",
+     "count": 200
+    },
+    {
+     "label": "25-50",
+     "count": 65
+    },
+    {
+     "label": "50-100",
+     "count": 6
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "age_x": 1.04,
+   "age_peer_score": 24.6,
+   "age_peer_years": [
+    2026,
+    2026
    ]
   },
   {
@@ -7379,7 +7622,7 @@
    "playable_since": "2025-12-04",
    "days_playable": 327,
    "is_free": false,
-   "players_now": 170,
+   "players_now": 167,
    "total_reviews": 4569,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -7442,87 +7685,6 @@
    ]
   },
   {
-   "appid": 1601580,
-   "name": "Frostpunk 2",
-   "tags": [
-    "City Builder"
-   ],
-   "steam_tags": [
-    "City Builder",
-    "Strategy",
-    "Survival",
-    "Resource Management",
-    "Post-apocalyptic"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/header.jpg?t=1792058316",
-   "release_date": "2024-09-20",
-   "days_since_release": 767,
-   "playable_since": "2024-09-20",
-   "days_playable": 767,
-   "is_free": false,
-   "players_now": 596,
-   "total_reviews": 27445,
-   "review_score_desc": "Mostly Positive",
-   "sample": 500,
-   "avg": 40.4,
-   "median": 18.8,
-   "p90": 82.9,
-   "max": 1343.3,
-   "avg_at_review": 33.5,
-   "median_at_review": 13.8,
-   "median_after_review": 0.5,
-   "avg_last_2w": 3.9,
-   "active_pct": 34.2,
-   "heavy_pct": 7.6,
-   "recommended_pct": 67.8,
-   "sample_span_days": 52.8,
-   "score": 25.3,
-   "distribution": [
-    {
-     "label": "0-2",
-     "count": 35
-    },
-    {
-     "label": "2-10",
-     "count": 115
-    },
-    {
-     "label": "10-25",
-     "count": 150
-    },
-    {
-     "label": "25-50",
-     "count": 97
-    },
-    {
-     "label": "50-100",
-     "count": 65
-    },
-    {
-     "label": "100-250",
-     "count": 31
-    },
-    {
-     "label": "250-500",
-     "count": 3
-    },
-    {
-     "label": "500-1000",
-     "count": 3
-    },
-    {
-     "label": "1000+",
-     "count": 1
-    }
-   ],
-   "age_x": 0.39,
-   "age_peer_score": 64.6,
-   "age_peer_years": [
-    2023,
-    2025
-   ]
-  },
-  {
    "appid": 2426530,
    "name": "Nova Roma",
    "tags": [
@@ -7542,7 +7704,7 @@
    "playable_since": "2026-03-26",
    "days_playable": 215,
    "is_free": false,
-   "players_now": 254,
+   "players_now": 263,
    "total_reviews": 2570,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -7605,6 +7767,87 @@
    ]
   },
   {
+   "appid": 1601580,
+   "name": "Frostpunk 2",
+   "tags": [
+    "City Builder"
+   ],
+   "steam_tags": [
+    "City Builder",
+    "Strategy",
+    "Survival",
+    "Resource Management",
+    "Post-apocalyptic"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/header.jpg?t=1792058316",
+   "release_date": "2024-09-20",
+   "days_since_release": 767,
+   "playable_since": "2024-09-20",
+   "days_playable": 767,
+   "is_free": false,
+   "players_now": 597,
+   "total_reviews": 27445,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 40.4,
+   "median": 18.8,
+   "p90": 82.9,
+   "max": 1343.3,
+   "avg_at_review": 33.5,
+   "median_at_review": 13.8,
+   "median_after_review": 0.5,
+   "avg_last_2w": 3.9,
+   "active_pct": 34.0,
+   "heavy_pct": 7.6,
+   "recommended_pct": 67.8,
+   "sample_span_days": 52.8,
+   "score": 25.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 35
+    },
+    {
+     "label": "2-10",
+     "count": 115
+    },
+    {
+     "label": "10-25",
+     "count": 150
+    },
+    {
+     "label": "25-50",
+     "count": 97
+    },
+    {
+     "label": "50-100",
+     "count": 65
+    },
+    {
+     "label": "100-250",
+     "count": 31
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 3
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "age_x": 0.39,
+   "age_peer_score": 64.5,
+   "age_peer_years": [
+    2023,
+    2025
+   ]
+  },
+  {
    "appid": 17390,
    "name": "SPORE™",
    "tags": [
@@ -7623,12 +7866,12 @@
    "playable_since": "2008-12-19",
    "days_playable": 6521,
    "is_free": false,
-   "players_now": 493,
-   "total_reviews": 73120,
+   "players_now": 495,
+   "total_reviews": 73119,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 42.5,
-   "median": 17.3,
+   "median": 17.4,
    "p90": 87.2,
    "max": 1993.3,
    "avg_at_review": 37.0,
@@ -7639,7 +7882,7 @@
    "heavy_pct": 9.2,
    "recommended_pct": 92.8,
    "sample_span_days": 38.8,
-   "score": 24.9,
+   "score": 25.0,
    "distribution": [
     {
      "label": "0-2",
@@ -7678,7 +7921,7 @@
      "count": 1
     }
    ],
-   "age_x": 0.37,
+   "age_x": 0.38,
    "age_peer_score": 66.5,
    "age_peer_years": [
     2013,
@@ -7704,14 +7947,14 @@
    "playable_since": "2026-07-16",
    "days_playable": 103,
    "is_free": false,
-   "players_now": 443,
+   "players_now": 458,
    "total_reviews": 2084,
    "review_score_desc": "Very Positive",
    "sample": 500,
    "avg": 27.5,
    "median": 19.5,
    "p90": 52.6,
-   "max": 442.7,
+   "max": 443.2,
    "avg_at_review": 18.5,
    "median_at_review": 12.3,
    "median_after_review": 2.6,
@@ -7759,8 +8002,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.86,
-   "age_peer_score": 28.8,
+   "age_x": 0.78,
+   "age_peer_score": 31.6,
    "age_peer_years": [
     2025,
     2026
@@ -7797,7 +8040,7 @@
    "median_at_review": 11.8,
    "median_after_review": 1.9,
    "avg_last_2w": 3.6,
-   "active_pct": 53.8,
+   "active_pct": 53.6,
    "heavy_pct": 0.8,
    "recommended_pct": 75.0,
    "sample_span_days": 34.5,
@@ -7840,8 +8083,8 @@
      "count": 0
     }
    ],
-   "age_x": 1.03,
-   "age_peer_score": 23.8,
+   "age_x": 0.98,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -7866,7 +8109,7 @@
    "playable_since": "2025-09-16",
    "days_playable": 406,
    "is_free": false,
-   "players_now": 244,
+   "players_now": 264,
    "total_reviews": 7250,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
@@ -7876,13 +8119,13 @@
    "max": 285.9,
    "avg_at_review": 22.4,
    "median_at_review": 13.5,
-   "median_after_review": 2.5,
+   "median_after_review": 2.6,
    "avg_last_2w": 1.8,
-   "active_pct": 21.2,
+   "active_pct": 21.4,
    "heavy_pct": 4.0,
    "recommended_pct": 93.4,
    "sample_span_days": 99.6,
-   "score": 23.8,
+   "score": 23.9,
    "distribution": [
     {
      "label": "0-2",
@@ -7921,8 +8164,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.58,
-   "age_peer_score": 41.3,
+   "age_x": 0.49,
+   "age_peer_score": 48.4,
    "age_peer_years": [
     2024,
     2026
@@ -7948,12 +8191,12 @@
    "playable_since": "2026-10-22",
    "days_playable": 5,
    "is_free": false,
-   "players_now": 2381,
+   "players_now": 2300,
    "total_reviews": 511,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
    "avg": 15.9,
-   "median": 11.5,
+   "median": 11.6,
    "p90": 37.4,
    "max": 96.3,
    "avg_at_review": 8.7,
@@ -7964,7 +8207,7 @@
    "heavy_pct": 0.0,
    "recommended_pct": 77.4,
    "sample_span_days": 4.6,
-   "score": 23.0,
+   "score": 23.1,
    "distribution": [
     {
      "label": "0-2",
@@ -7976,11 +8219,11 @@
     },
     {
      "label": "10-25",
-     "count": 156
+     "count": 154
     },
     {
      "label": "25-50",
-     "count": 95
+     "count": 97
     },
     {
      "label": "50-100",
@@ -8003,8 +8246,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.94,
-   "age_peer_score": 24.6,
+   "age_x": 0.92,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -8029,7 +8272,7 @@
    "playable_since": "2024-06-18",
    "days_playable": 861,
    "is_free": false,
-   "players_now": 157,
+   "players_now": 158,
    "total_reviews": 2820,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8084,8 +8327,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.35,
-   "age_peer_score": 64.6,
+   "age_x": 0.36,
+   "age_peer_score": 64.5,
    "age_peer_years": [
     2023,
     2025
@@ -8110,7 +8353,7 @@
    "playable_since": "2025-01-13",
    "days_playable": 652,
    "is_free": false,
-   "players_now": 57,
+   "players_now": 56,
    "total_reviews": 965,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8166,7 +8409,7 @@
     }
    ],
    "age_x": 0.37,
-   "age_peer_score": 60.1,
+   "age_peer_score": 60.0,
    "age_peer_years": [
     2024,
     2025
@@ -8193,11 +8436,11 @@
    "playable_since": "2026-10-16",
    "days_playable": 11,
    "is_free": false,
-   "players_now": 139,
+   "players_now": 145,
    "total_reviews": 236,
    "review_score_desc": "Mixed",
    "sample": 236,
-   "avg": 18.3,
+   "avg": 18.4,
    "median": 11.0,
    "p90": 42.3,
    "max": 97.2,
@@ -8248,8 +8491,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.89,
-   "age_peer_score": 24.6,
+   "age_x": 0.87,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -8275,8 +8518,8 @@
    "playable_since": "2026-10-14",
    "days_playable": 13,
    "is_free": false,
-   "players_now": 384,
-   "total_reviews": 695,
+   "players_now": 364,
+   "total_reviews": 694,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
    "avg": 12.1,
@@ -8330,8 +8573,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.85,
-   "age_peer_score": 24.6,
+   "age_x": 0.83,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -8356,7 +8599,7 @@
    "playable_since": "2026-07-09",
    "days_playable": 110,
    "is_free": false,
-   "players_now": 543,
+   "players_now": 542,
    "total_reviews": 8355,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8368,7 +8611,7 @@
    "median_at_review": 10.5,
    "median_after_review": 0.0,
    "avg_last_2w": 5.6,
-   "active_pct": 71.8,
+   "active_pct": 71.6,
    "heavy_pct": 0.0,
    "recommended_pct": 92.6,
    "sample_span_days": 17.9,
@@ -8411,8 +8654,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.71,
-   "age_peer_score": 28.8,
+   "age_x": 0.61,
+   "age_peer_score": 33.5,
    "age_peer_years": [
     2025,
     2026
@@ -8437,7 +8680,7 @@
    "playable_since": "2024-08-09",
    "days_playable": 809,
    "is_free": true,
-   "players_now": 6802,
+   "players_now": 6567,
    "total_reviews": 100809,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8447,7 +8690,7 @@
    "max": 224.7,
    "avg_at_review": 16.9,
    "median_at_review": 7.8,
-   "median_after_review": 1.1,
+   "median_after_review": 1.2,
    "avg_last_2w": 9.5,
    "active_pct": 87.8,
    "heavy_pct": 2.4,
@@ -8493,7 +8736,7 @@
     }
    ],
    "age_x": 0.31,
-   "age_peer_score": 64.6,
+   "age_peer_score": 64.5,
    "age_peer_years": [
     2023,
     2025
@@ -8519,7 +8762,7 @@
    "playable_since": "2026-03-05",
    "days_playable": 236,
    "is_free": false,
-   "players_now": 171,
+   "players_now": 173,
    "total_reviews": 3260,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8574,8 +8817,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.66,
-   "age_peer_score": 30.2,
+   "age_x": 0.61,
+   "age_peer_score": 32.7,
    "age_peer_years": [
     2025,
     2026
@@ -8601,35 +8844,35 @@
    "playable_since": "2026-10-23",
    "days_playable": 4,
    "is_free": false,
-   "players_now": 41671,
-   "total_reviews": 1603,
+   "players_now": 43451,
+   "total_reviews": 1612,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
    "avg": 12.9,
-   "median": 9.7,
+   "median": 9.8,
    "p90": 27.4,
-   "max": 77.8,
+   "max": 78.3,
    "avg_at_review": 10.6,
-   "median_at_review": 7.6,
+   "median_at_review": 7.7,
    "median_after_review": 0.5,
    "avg_last_2w": 12.9,
    "active_pct": 100.0,
    "heavy_pct": 0.0,
-   "recommended_pct": 80.6,
+   "recommended_pct": 80.2,
    "sample_span_days": 1.1,
-   "score": 19.5,
+   "score": 19.6,
    "distribution": [
     {
      "label": "0-2",
-     "count": 21
+     "count": 22
     },
     {
      "label": "2-10",
-     "count": 238
+     "count": 235
     },
     {
      "label": "10-25",
-     "count": 184
+     "count": 186
     },
     {
      "label": "25-50",
@@ -8656,8 +8899,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.79,
-   "age_peer_score": 24.6,
+   "age_x": 0.78,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -8683,7 +8926,7 @@
    "playable_since": "2025-11-12",
    "days_playable": 349,
    "is_free": false,
-   "players_now": 31,
+   "players_now": 35,
    "total_reviews": 515,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8765,7 +9008,7 @@
    "playable_since": "2023-10-16",
    "days_playable": 1107,
    "is_free": false,
-   "players_now": 92,
+   "players_now": 94,
    "total_reviews": 3192,
    "review_score_desc": "Very Positive",
    "sample": 500,
@@ -8820,8 +9063,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.27,
-   "age_peer_score": 69.1,
+   "age_x": 0.29,
+   "age_peer_score": 64.9,
    "age_peer_years": [
     2022,
     2024
@@ -8847,13 +9090,13 @@
    "playable_since": "2026-09-25",
    "days_playable": 32,
    "is_free": false,
-   "players_now": 129,
+   "players_now": 131,
    "total_reviews": 619,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
    "avg": 18.4,
    "median": 12.9,
-   "p90": 38.2,
+   "p90": 38.3,
    "max": 173.3,
    "avg_at_review": 12.2,
    "median_at_review": 8.8,
@@ -8902,91 +9145,10 @@
      "count": 0
     }
    ],
-   "age_x": 0.7,
-   "age_peer_score": 24.6,
+   "age_x": 0.68,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
-    2026
-   ]
-  },
-  {
-   "appid": 2774040,
-   "name": "The Boss Gangster: Criminal Empire",
-   "tags": [
-    "Management"
-   ],
-   "steam_tags": [
-    "Management",
-    "Economy",
-    "Simulation",
-    "Sandbox",
-    "Resource Management"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/633657e57def1d539ef868eb0c8d10fa1102dc33/header_alt_assets_2.jpg?t=1793109032",
-   "release_date": "2026-10-27",
-   "days_since_release": 0,
-   "playable_since": "2025-10-31",
-   "days_playable": 361,
-   "is_free": false,
-   "players_now": 291,
-   "total_reviews": 489,
-   "review_score_desc": "Very Positive",
-   "sample": 489,
-   "avg": 26.9,
-   "median": 15.2,
-   "p90": 61.8,
-   "max": 513.1,
-   "avg_at_review": 15.4,
-   "median_at_review": 7.9,
-   "median_after_review": 3.3,
-   "avg_last_2w": 1.5,
-   "active_pct": 12.1,
-   "heavy_pct": 4.1,
-   "recommended_pct": 83.4,
-   "sample_span_days": 359.9,
-   "score": 17.0,
-   "distribution": [
-    {
-     "label": "0-2",
-     "count": 67
-    },
-    {
-     "label": "2-10",
-     "count": 117
-    },
-    {
-     "label": "10-25",
-     "count": 144
-    },
-    {
-     "label": "25-50",
-     "count": 97
-    },
-    {
-     "label": "50-100",
-     "count": 44
-    },
-    {
-     "label": "100-250",
-     "count": 17
-    },
-    {
-     "label": "250-500",
-     "count": 2
-    },
-    {
-     "label": "500-1000",
-     "count": 1
-    },
-    {
-     "label": "1000+",
-     "count": 0
-    }
-   ],
-   "age_x": 0.47,
-   "age_peer_score": 36.0,
-   "age_peer_years": [
-    2025,
     2026
    ]
   },
@@ -8994,7 +9156,8 @@
    "appid": 3031880,
    "name": "Car Park Capital",
    "tags": [
-    "City Builder"
+    "City Builder",
+    "Tycoon"
    ],
    "steam_tags": [
     "Early Access",
@@ -9009,14 +9172,14 @@
    "playable_since": "2026-10-09",
    "days_playable": 18,
    "is_free": false,
-   "players_now": 94,
+   "players_now": 101,
    "total_reviews": 1689,
    "review_score_desc": "Overwhelmingly Positive",
    "sample": 500,
    "avg": 10.4,
    "median": 8.5,
    "p90": 18.9,
-   "max": 60.4,
+   "max": 60.9,
    "avg_at_review": 7.9,
    "median_at_review": 6.5,
    "median_after_review": 0.8,
@@ -9064,10 +9227,91 @@
      "count": 0
     }
    ],
-   "age_x": 0.68,
-   "age_peer_score": 24.6,
+   "age_x": 0.67,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
+    2026
+   ]
+  },
+  {
+   "appid": 2774040,
+   "name": "The Boss Gangster: Criminal Empire",
+   "tags": [
+    "Management"
+   ],
+   "steam_tags": [
+    "Management",
+    "Economy",
+    "Simulation",
+    "Sandbox",
+    "Resource Management"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/633657e57def1d539ef868eb0c8d10fa1102dc33/header_alt_assets_2.jpg?t=1793109032",
+   "release_date": "2026-10-27",
+   "days_since_release": 0,
+   "playable_since": "2025-10-31",
+   "days_playable": 361,
+   "is_free": false,
+   "players_now": 317,
+   "total_reviews": 491,
+   "review_score_desc": "Very Positive",
+   "sample": 491,
+   "avg": 26.8,
+   "median": 15.0,
+   "p90": 61.7,
+   "max": 513.3,
+   "avg_at_review": 15.4,
+   "median_at_review": 7.8,
+   "median_after_review": 3.3,
+   "avg_last_2w": 1.5,
+   "active_pct": 12.4,
+   "heavy_pct": 4.1,
+   "recommended_pct": 83.5,
+   "sample_span_days": 360.7,
+   "score": 16.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 69
+    },
+    {
+     "label": "2-10",
+     "count": 117
+    },
+    {
+     "label": "10-25",
+     "count": 144
+    },
+    {
+     "label": "25-50",
+     "count": 97
+    },
+    {
+     "label": "50-100",
+     "count": 44
+    },
+    {
+     "label": "100-250",
+     "count": 17
+    },
+    {
+     "label": "250-500",
+     "count": 2
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "age_x": 0.43,
+   "age_peer_score": 39.1,
+   "age_peer_years": [
+    2025,
     2026
    ]
   },
@@ -9091,7 +9335,7 @@
    "playable_since": "2026-06-08",
    "days_playable": 141,
    "is_free": false,
-   "players_now": 55,
+   "players_now": 52,
    "total_reviews": 477,
    "review_score_desc": "Very Positive",
    "sample": 477,
@@ -9146,8 +9390,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.57,
-   "age_peer_score": 28.8,
+   "age_x": 0.52,
+   "age_peer_score": 31.2,
    "age_peer_years": [
     2025,
     2026
@@ -9172,7 +9416,7 @@
    "playable_since": "2026-10-15",
    "days_playable": 12,
    "is_free": false,
-   "players_now": 22,
+   "players_now": 23,
    "total_reviews": 89,
    "review_score_desc": "Very Positive",
    "sample": 89,
@@ -9227,8 +9471,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.64,
-   "age_peer_score": 24.6,
+   "age_x": 0.63,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -9253,7 +9497,7 @@
    "playable_since": "2025-10-29",
    "days_playable": 363,
    "is_free": false,
-   "players_now": 18,
+   "players_now": 19,
    "total_reviews": 260,
    "review_score_desc": "Very Positive",
    "sample": 260,
@@ -9308,8 +9552,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.41,
-   "age_peer_score": 36.0,
+   "age_x": 0.38,
+   "age_peer_score": 39.1,
    "age_peer_years": [
     2025,
     2026
@@ -9334,7 +9578,7 @@
    "playable_since": "2026-04-09",
    "days_playable": 201,
    "is_free": false,
-   "players_now": 37,
+   "players_now": 40,
    "total_reviews": 478,
    "review_score_desc": "Very Positive",
    "sample": 478,
@@ -9415,7 +9659,7 @@
    "playable_since": "2026-03-31",
    "days_playable": 210,
    "is_free": false,
-   "players_now": 83,
+   "players_now": 80,
    "total_reviews": 1017,
    "review_score_desc": "Mostly Positive",
    "sample": 500,
@@ -9471,7 +9715,7 @@
     }
    ],
    "age_x": 0.41,
-   "age_peer_score": 32.7,
+   "age_peer_score": 33.3,
    "age_peer_years": [
     2025,
     2026
@@ -9496,7 +9740,7 @@
    "playable_since": "2026-10-20",
    "days_playable": 7,
    "is_free": false,
-   "players_now": 151,
+   "players_now": 145,
    "total_reviews": 175,
    "review_score_desc": "Mixed",
    "sample": 175,
@@ -9504,9 +9748,9 @@
    "median": 6.6,
    "p90": 32.8,
    "max": 551.7,
-   "avg_at_review": 10.6,
+   "avg_at_review": 10.8,
    "median_at_review": 3.9,
-   "median_after_review": 0.3,
+   "median_after_review": 0.2,
    "avg_last_2w": 12.3,
    "active_pct": 100.0,
    "heavy_pct": 1.1,
@@ -9551,8 +9795,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.54,
-   "age_peer_score": 24.6,
+   "age_x": 0.53,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -9583,7 +9827,7 @@
    "total_reviews": 230,
    "review_score_desc": "Very Positive",
    "sample": 230,
-   "avg": 19.3,
+   "avg": 19.4,
    "median": 9.4,
    "p90": 41.5,
    "max": 234.3,
@@ -9661,14 +9905,14 @@
    "playable_since": "2025-06-06",
    "days_playable": 508,
    "is_free": false,
-   "players_now": 320,
+   "players_now": 314,
    "total_reviews": 450,
    "review_score_desc": "Mostly Positive",
    "sample": 450,
-   "avg": 16.4,
+   "avg": 16.5,
    "median": 9.1,
    "p90": 32.7,
-   "max": 346.2,
+   "max": 346.8,
    "avg_at_review": 8.4,
    "median_at_review": 5.3,
    "median_after_review": 2.4,
@@ -9716,8 +9960,8 @@
      "count": 0
     }
    ],
-   "age_x": 0.3,
-   "age_peer_score": 39.1,
+   "age_x": 0.28,
+   "age_peer_score": 41.0,
    "age_peer_years": [
     2024,
     2025
@@ -9742,7 +9986,7 @@
    "playable_since": "2026-10-21",
    "days_playable": 6,
    "is_free": false,
-   "players_now": 131,
+   "players_now": 120,
    "total_reviews": 119,
    "review_score_desc": "Very Positive",
    "sample": 119,
@@ -9798,7 +10042,7 @@
     }
    ],
    "age_x": 0.3,
-   "age_peer_score": 24.6,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
@@ -9823,10 +10067,10 @@
    "playable_since": "2026-10-26",
    "days_playable": 1,
    "is_free": false,
-   "players_now": 121,
-   "total_reviews": 76,
+   "players_now": 117,
+   "total_reviews": 77,
    "review_score_desc": "Very Positive",
-   "sample": 76,
+   "sample": 77,
    "avg": 2.4,
    "median": 2.2,
    "p90": 3.9,
@@ -9838,8 +10082,8 @@
    "active_pct": 100.0,
    "heavy_pct": 0.0,
    "recommended_pct": 97.4,
-   "sample_span_days": 0.9,
-   "score": 4.4,
+   "sample_span_days": 1.0,
+   "score": 4.5,
    "distribution": [
     {
      "label": "0-2",
@@ -9847,7 +10091,7 @@
     },
     {
      "label": "2-10",
-     "count": 43
+     "count": 44
     },
     {
      "label": "10-25",
@@ -9879,7 +10123,7 @@
     }
    ],
    "age_x": 0.18,
-   "age_peer_score": 24.6,
+   "age_peer_score": 25.1,
    "age_peer_years": [
     2026,
     2026
