@@ -7,7 +7,25 @@
   "release_date": "2026-10-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-13"
+  "first_review": "2026-10-13",
+  "steam_tags": [
+   "Simulation",
+   "Strategy",
+   "Casual",
+   "Sandbox",
+   "City Builder",
+   "Zoo",
+   "Animals",
+   "Management",
+   "Building",
+   "Cute",
+   "Realistic",
+   "Economy",
+   "Nature",
+   "Family Friendly",
+   "Multiplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "294100": {
   "name": "RimWorld",
@@ -17,7 +35,25 @@
   "release_date": "2018-10-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-07-15"
+  "first_review": "2016-07-15",
+  "steam_tags": [
+   "Colony Sim",
+   "Base Building",
+   "Survival",
+   "Strategy",
+   "Sandbox",
+   "Management",
+   "Singleplayer",
+   "Moddable",
+   "Simulation",
+   "Sci-fi",
+   "Story Rich",
+   "Replay Value",
+   "Open World",
+   "2D",
+   "Procedural Generation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2688950": {
   "name": "Planet Coaster 2",
@@ -27,7 +63,25 @@
   "release_date": "2024-11-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-11-06"
+  "first_review": "2024-11-06",
+  "steam_tags": [
+   "Simulation",
+   "Sandbox",
+   "Strategy",
+   "Building",
+   "City Builder",
+   "3D",
+   "Singleplayer",
+   "Economy",
+   "God Game",
+   "Management",
+   "Realistic",
+   "Online Co-Op",
+   "Colorful",
+   "Family Friendly",
+   "Atmospheric"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1466860": {
   "name": "Age of Empires IV: Anniversary Edition",
@@ -37,7 +91,25 @@
   "release_date": "2021-10-28",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-10-28"
+  "first_review": "2021-10-28",
+  "steam_tags": [
+   "Strategy",
+   "RTS",
+   "Base Building",
+   "War",
+   "Multiplayer",
+   "Medieval",
+   "Singleplayer",
+   "Resource Management",
+   "City Builder",
+   "Historical",
+   "Action RTS",
+   "PvP",
+   "PvE",
+   "Co-op",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1295660": {
   "name": "Sid Meier's Civilization VII",
@@ -47,7 +119,25 @@
   "release_date": "2025-02-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-02-05"
+  "first_review": "2025-02-05",
+  "steam_tags": [
+   "Grand Strategy",
+   "Strategy",
+   "City Builder",
+   "4X",
+   "Historical",
+   "Military",
+   "Multiplayer",
+   "Simulation",
+   "Diplomacy",
+   "War",
+   "Economy",
+   "Turn-Based Tactics",
+   "Turn-Based Strategy",
+   "Tactical",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "427520": {
   "name": "Factorio",
@@ -57,7 +147,25 @@
   "release_date": "2020-08-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-02-25"
+  "first_review": "2016-02-25",
+  "steam_tags": [
+   "Automation",
+   "Base Building",
+   "Resource Management",
+   "Sandbox",
+   "Crafting",
+   "Strategy",
+   "Multiplayer",
+   "Survival",
+   "Management",
+   "Open World",
+   "Building",
+   "Co-op",
+   "2D",
+   "Moddable",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "949230": {
   "name": "Cities: Skylines II",
@@ -67,7 +175,25 @@
   "release_date": "2023-10-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-10-24"
+  "first_review": "2023-10-24",
+  "steam_tags": [
+   "City Builder",
+   "Simulation",
+   "Building",
+   "Sandbox",
+   "Management",
+   "Singleplayer",
+   "Economy",
+   "Strategy",
+   "Realistic",
+   "Moddable",
+   "Resource Management",
+   "Relaxing",
+   "Transportation",
+   "Casual",
+   "Atmospheric"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4025700": {
   "name": "Heartopia",
@@ -77,7 +203,25 @@
   "release_date": "2026-01-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-01-17"
+  "first_review": "2026-01-17",
+  "steam_tags": [
+   "Free to Play",
+   "Life Sim",
+   "Multiplayer",
+   "Artificial Intelligence",
+   "Cute",
+   "Casual",
+   "Relaxing",
+   "Character Customization",
+   "City Builder",
+   "Simulation",
+   "Cozy",
+   "Cartoony",
+   "3D Platformer",
+   "Third Person",
+   "Immersive Sim"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "813780": {
   "name": "Age of Empires II: Definitive Edition",
@@ -87,7 +231,25 @@
   "release_date": "2019-11-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-11-14"
+  "first_review": "2019-11-14",
+  "steam_tags": [
+   "Strategy",
+   "RTS",
+   "City Builder",
+   "Multiplayer",
+   "Base Building",
+   "Historical",
+   "Singleplayer",
+   "Medieval",
+   "Resource Management",
+   "Classic",
+   "Tactical",
+   "Real-Time",
+   "Co-op",
+   "Remake",
+   "Isometric"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3010170": {
   "name": "Fangtopia",
@@ -97,7 +259,25 @@
   "release_date": "2026-10-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-26"
+  "first_review": "2026-10-26",
+  "steam_tags": [
+   "Relaxing",
+   "City Builder",
+   "Cozy",
+   "Puzzle",
+   "Turn-Based Strategy",
+   "Casual",
+   "Logic",
+   "Board Game",
+   "Strategy",
+   "Sandbox",
+   "Simulation",
+   "Resource Management",
+   "Minimalist",
+   "Family Friendly",
+   "Fantasy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3493540": {
   "name": "Transport Fever 3",
@@ -107,7 +287,25 @@
   "release_date": "2026-09-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-29"
+  "first_review": "2026-09-29",
+  "steam_tags": [
+   "Simulation",
+   "Transportation",
+   "Management",
+   "City Builder",
+   "Casual",
+   "Strategy",
+   "Economy",
+   "Trains",
+   "Realistic",
+   "Sandbox",
+   "Time Management",
+   "Procedural Generation",
+   "Resource Management",
+   "3D",
+   "Grand Strategy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3905010": {
   "name": "ONE PIECE: Grand Gourmet",
@@ -117,7 +315,25 @@
   "release_date": "2026-10-22",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-22"
+  "first_review": "2026-10-22",
+  "steam_tags": [
+   "Casual",
+   "Simulation",
+   "Colony Sim",
+   "City Builder",
+   "Pixel Graphics",
+   "Farming Sim",
+   "Idler",
+   "Anime",
+   "2D",
+   "Immersive Sim",
+   "Cooking",
+   "Cute",
+   "Fantasy",
+   "Gothic",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "255710": {
   "name": "Cities: Skylines",
@@ -127,7 +343,25 @@
   "release_date": "2015-03-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2015-03-10"
+  "first_review": "2015-03-10",
+  "steam_tags": [
+   "City Builder",
+   "Simulation",
+   "Building",
+   "Management",
+   "Strategy",
+   "Sandbox",
+   "Singleplayer",
+   "Economy",
+   "Moddable",
+   "Resource Management",
+   "Mod",
+   "Realistic",
+   "Replay Value",
+   "Casual",
+   "Modern"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2958130": {
   "name": "Jurassic World Evolution 3",
@@ -137,7 +371,25 @@
   "release_date": "2025-10-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-10-21"
+  "first_review": "2025-10-21",
+  "steam_tags": [
+   "Simulation",
+   "Dinosaurs",
+   "Strategy",
+   "Sandbox",
+   "City Builder",
+   "Sequel",
+   "Management",
+   "Action",
+   "Resource Management",
+   "Economy",
+   "Atmospheric",
+   "Sci-fi",
+   "Survival",
+   "Base Building",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2456740": {
   "name": "inZOI",
@@ -147,7 +399,25 @@
   "release_date": "2025-03-27",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-03-28"
+  "first_review": "2025-03-28",
+  "steam_tags": [
+   "Life Sim",
+   "Character Customization",
+   "Simulation",
+   "Realistic",
+   "Singleplayer",
+   "Building",
+   "Family Friendly",
+   "Romance",
+   "Sandbox",
+   "Sexual Content",
+   "Dating Sim",
+   "Immersive Sim",
+   "Modern",
+   "Cats",
+   "City Builder"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "289070": {
   "name": "Sid Meier’s Civilization® VI",
@@ -157,7 +427,25 @@
   "release_date": "2016-10-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-10-20"
+  "first_review": "2016-10-20",
+  "steam_tags": [
+   "Strategy",
+   "Turn-Based Strategy",
+   "Multiplayer",
+   "Historical",
+   "Grand Strategy",
+   "Singleplayer",
+   "Turn-Based",
+   "4X",
+   "City Builder",
+   "War",
+   "Simulation",
+   "Tactical",
+   "Management",
+   "Building",
+   "Online Co-Op"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1643310": {
   "name": "Dungeons 4",
@@ -167,7 +455,25 @@
   "release_date": "2023-11-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-11-09"
+  "first_review": "2023-11-09",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Simulation",
+   "RTS",
+   "Strategy RPG",
+   "Real Time Tactics",
+   "Co-op",
+   "Online Co-Op",
+   "Multiplayer",
+   "PvE",
+   "Fantasy",
+   "Level Editor",
+   "Dark Humor",
+   "3D",
+   "Funny"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3031880": {
   "name": "Car Park Capital",
@@ -177,7 +483,25 @@
   "release_date": "2026-10-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-09"
+  "first_review": "2026-10-09",
+  "steam_tags": [
+   "Early Access",
+   "City Builder",
+   "Isometric",
+   "Capitalism",
+   "Simulation",
+   "Automobile Sim",
+   "Retro",
+   "1990's",
+   "2.5D",
+   "Pixel Graphics",
+   "Colorful",
+   "Building",
+   "Base Building",
+   "Management",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "463530": {
   "name": "Empires of the Undergrowth",
@@ -187,7 +511,25 @@
   "release_date": "2024-06-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2017-12-01"
+  "first_review": "2017-12-01",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "Base Building",
+   "City Builder",
+   "Grand Strategy",
+   "Colony Sim",
+   "Building",
+   "Management",
+   "Sandbox",
+   "Historical",
+   "Economy",
+   "Resource Management",
+   "Survival",
+   "Open World",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1162750": {
   "name": "Songs of Syx",
@@ -197,7 +539,25 @@
   "release_date": "2020-09-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2020-09-21"
+  "first_review": "2020-09-21",
+  "steam_tags": [
+   "Early Access",
+   "City Builder",
+   "Colony Sim",
+   "Strategy",
+   "Sandbox",
+   "Grand Strategy",
+   "Base Building",
+   "4X",
+   "Building",
+   "Singleplayer",
+   "Top-Down",
+   "Simulation",
+   "Combat",
+   "Survival",
+   "Moddable"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1363080": {
   "name": "Manor Lords",
@@ -207,7 +567,25 @@
   "release_date": "2024-04-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-04-26"
+  "first_review": "2024-04-26",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Simulation",
+   "Base Building",
+   "Grand Strategy",
+   "Historical",
+   "Management",
+   "Building",
+   "Sandbox",
+   "Resource Management",
+   "Colony Sim",
+   "Economy",
+   "Open World",
+   "Survival",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "492720": {
   "name": "Tropico 6",
@@ -217,7 +595,25 @@
   "release_date": "2019-03-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-03-29"
+  "first_review": "2019-03-29",
+  "steam_tags": [
+   "City Builder",
+   "Strategy",
+   "Simulation",
+   "Economy",
+   "Management",
+   "Political Sim",
+   "Sandbox",
+   "Multiplayer",
+   "Building",
+   "Singleplayer",
+   "Funny",
+   "Co-op",
+   "Choices Matter",
+   "Diplomacy",
+   "Destruction"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4075620": {
   "name": "Combolands: Roguelike Citybuilder",
@@ -227,7 +623,25 @@
   "release_date": "2026-08-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-24"
+  "first_review": "2026-08-24",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Roguelite",
+   "Roguelike",
+   "Roguelike Deckbuilder",
+   "Pixel Graphics",
+   "Deckbuilding",
+   "2D",
+   "Singleplayer",
+   "Card Game",
+   "Turn-Based",
+   "Card Battler",
+   "Turn-Based Strategy",
+   "Replay Value",
+   "Casual"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1062090": {
   "name": "Timberborn",
@@ -237,7 +651,25 @@
   "release_date": "2026-03-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-09-15"
+  "first_review": "2021-09-15",
+  "steam_tags": [
+   "City Builder",
+   "Colony Sim",
+   "Voxel",
+   "Sandbox",
+   "Automation",
+   "Building",
+   "Nature",
+   "Management",
+   "Base Building",
+   "Survival",
+   "Strategy",
+   "Physics",
+   "Science",
+   "Farming Sim",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "703080": {
   "name": "Planet Zoo",
@@ -247,7 +679,25 @@
   "release_date": "2019-11-05",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-11-05"
+  "first_review": "2019-11-05",
+  "steam_tags": [
+   "Management",
+   "Zoo",
+   "Simulation",
+   "Building",
+   "Sandbox",
+   "Nature",
+   "City Builder",
+   "Economy",
+   "Singleplayer",
+   "Realistic",
+   "Multiplayer",
+   "Family Friendly",
+   "Cute",
+   "Resource Management",
+   "Strategy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2185060": {
   "name": "Two Point Museum",
@@ -257,7 +707,25 @@
   "release_date": "2025-03-04",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-02-27"
+  "first_review": "2025-02-27",
+  "steam_tags": [
+   "Simulation",
+   "Casual",
+   "Building",
+   "Strategy",
+   "City Builder",
+   "Sandbox",
+   "Life Sim",
+   "Management",
+   "Cartoony",
+   "Exploration",
+   "Cute",
+   "Economy",
+   "Isometric",
+   "Comedy",
+   "Family Friendly"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3469910": {
   "name": "Star Trek: Outposts Unknown",
@@ -267,7 +735,25 @@
   "release_date": "2026-10-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-20"
+  "first_review": "2026-10-20",
+  "steam_tags": [
+   "Strategy",
+   "Colony Sim",
+   "Resource Management",
+   "Narrative",
+   "Simulation",
+   "City Builder",
+   "Sci-fi",
+   "Base Building",
+   "Building",
+   "Management",
+   "Futuristic",
+   "Singleplayer",
+   "RTS",
+   "Real-Time with Pause",
+   "Space"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "690830": {
   "name": "Foundation",
@@ -277,7 +763,25 @@
   "release_date": "2025-01-31",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-02-01"
+  "first_review": "2019-02-01",
+  "steam_tags": [
+   "City Builder",
+   "Simulation",
+   "Medieval",
+   "Strategy",
+   "Sandbox",
+   "Management",
+   "Resource Management",
+   "Building",
+   "Relaxing",
+   "Economy",
+   "Atmospheric",
+   "Indie",
+   "Colony Sim",
+   "Base Building",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "466560": {
   "name": "Northgard: Definitive Edition",
@@ -287,7 +791,25 @@
   "release_date": "2018-03-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2017-02-22"
+  "first_review": "2017-02-22",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "RTS",
+   "Simulation",
+   "Base Building",
+   "Multiplayer",
+   "Colony Sim",
+   "Building",
+   "Economy",
+   "Tactical",
+   "War",
+   "Management",
+   "4X",
+   "Co-op",
+   "PvP"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1702010": {
   "name": "Sengoku Dynasty",
@@ -297,7 +819,25 @@
   "release_date": "2024-11-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-08-10"
+  "first_review": "2023-08-10",
+  "steam_tags": [
+   "City Builder",
+   "Open World",
+   "Survival",
+   "Base Building",
+   "Medieval",
+   "Life Sim",
+   "Multiplayer",
+   "Building",
+   "Crafting",
+   "RPG",
+   "Exploration",
+   "Co-op",
+   "Historical",
+   "Online Co-Op",
+   "First-Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3274580": {
   "name": "Anno 117: Pax Romana",
@@ -307,7 +847,25 @@
   "release_date": "2025-11-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-11-12"
+  "first_review": "2025-11-12",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Simulation",
+   "Sandbox",
+   "RTS",
+   "Economy",
+   "Building",
+   "Historical",
+   "Exploration",
+   "Choose Your Own Adventure",
+   "Management",
+   "Resource Management",
+   "Multiplayer",
+   "Choices Matter",
+   "Rome"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1853440": {
   "name": "Tropico 7",
@@ -327,7 +885,25 @@
   "release_date": "2024-09-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-09-20"
+  "first_review": "2024-09-20",
+  "steam_tags": [
+   "City Builder",
+   "Strategy",
+   "Survival",
+   "Resource Management",
+   "Post-apocalyptic",
+   "Simulation",
+   "Singleplayer",
+   "Steampunk",
+   "Management",
+   "Base Building",
+   "Atmospheric",
+   "Choices Matter",
+   "Sequel",
+   "Political Sim",
+   "Colony Sim"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "933110": {
   "name": "Age of Empires III: Definitive Edition",
@@ -337,7 +913,25 @@
   "release_date": "2020-10-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2020-10-15"
+  "first_review": "2020-10-15",
+  "steam_tags": [
+   "Strategy",
+   "Base Building",
+   "RTS",
+   "Multiplayer",
+   "Military",
+   "City Builder",
+   "Historical",
+   "War",
+   "Singleplayer",
+   "Free to Play",
+   "Resource Management",
+   "PvP",
+   "Combat",
+   "3D",
+   "Online Co-Op"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1465460": {
   "name": "Infection Free Zone",
@@ -347,7 +941,25 @@
   "release_date": "2024-04-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-04-11"
+  "first_review": "2024-04-11",
+  "steam_tags": [
+   "Early Access",
+   "Base Building",
+   "Post-apocalyptic",
+   "Zombies",
+   "City Builder",
+   "Strategy",
+   "Management",
+   "Survival",
+   "Simulation",
+   "RTS",
+   "Colony Sim",
+   "Outbreak Sim",
+   "Sandbox",
+   "Singleplayer",
+   "Time Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1594320": {
   "name": "Captain of Industry",
@@ -357,7 +969,25 @@
   "release_date": "2022-05-31",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-05-31"
+  "first_review": "2022-05-31",
+  "steam_tags": [
+   "Automation",
+   "Resource Management",
+   "Base Building",
+   "Simulation",
+   "Strategy",
+   "Economy",
+   "Management",
+   "Building",
+   "City Builder",
+   "Early Access",
+   "Colony Sim",
+   "Singleplayer",
+   "Mining",
+   "Indie",
+   "Transportation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2934220": {
   "name": "Monsters are Coming!",
@@ -367,7 +997,25 @@
   "release_date": "2025-11-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-11-20"
+  "first_review": "2025-11-20",
+  "steam_tags": [
+   "Action",
+   "Roguelite",
+   "Tower Defense",
+   "Top-Down",
+   "Bullet Hell",
+   "Action Roguelike",
+   "Combat",
+   "Score Attack",
+   "Base Building",
+   "Hack and Slash",
+   "Building",
+   "Arcade",
+   "Indie",
+   "Survival",
+   "City Builder"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1812450": {
   "name": "Bellwright",
@@ -377,7 +1025,25 @@
   "release_date": "2024-04-23",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-04-23"
+  "first_review": "2024-04-23",
+  "steam_tags": [
+   "Survival",
+   "Open World",
+   "City Builder",
+   "Medieval",
+   "Crafting",
+   "Online Co-Op",
+   "Multiplayer",
+   "Building",
+   "Simulation",
+   "Co-op",
+   "RPG",
+   "Strategy",
+   "Life Sim",
+   "Exploration",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3222640": {
   "name": "Wild West Pioneers",
@@ -387,7 +1053,25 @@
   "release_date": "2026-09-25",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-25"
+  "first_review": "2026-09-25",
+  "steam_tags": [
+   "Early Access",
+   "City Builder",
+   "Simulation",
+   "Colony Sim",
+   "Sandbox",
+   "Strategy",
+   "Exploration",
+   "3D",
+   "Atmospheric",
+   "Building",
+   "4X",
+   "Economy",
+   "Base Building",
+   "Survival",
+   "Historical"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1649950": {
   "name": "News Tower",
@@ -397,7 +1081,25 @@
   "release_date": "2025-11-18",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-02-13"
+  "first_review": "2024-02-13",
+  "steam_tags": [
+   "Management",
+   "Simulation",
+   "Strategy",
+   "Sandbox",
+   "Building",
+   "Historical",
+   "Resource Management",
+   "2D",
+   "Economy",
+   "City Builder",
+   "Time Management",
+   "Choices Matter",
+   "Crafting",
+   "Capitalism",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "493340": {
   "name": "Planet Coaster",
@@ -407,7 +1109,25 @@
   "release_date": "2016-11-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-11-17"
+  "first_review": "2016-11-17",
+  "steam_tags": [
+   "Simulation",
+   "Building",
+   "Management",
+   "Sandbox",
+   "Family Friendly",
+   "Relaxing",
+   "Strategy",
+   "Singleplayer",
+   "Economy",
+   "Realistic",
+   "Funny",
+   "Great Soundtrack",
+   "Atmospheric",
+   "Colorful",
+   "Third Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3215050": {
   "name": "Surviving Mars: Relaunched",
@@ -417,7 +1137,25 @@
   "release_date": "2025-11-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-11-10"
+  "first_review": "2025-11-10",
+  "steam_tags": [
+   "Simulation",
+   "Strategy",
+   "Colony Sim",
+   "City Builder",
+   "Exploration",
+   "Immersive Sim",
+   "Realistic",
+   "Top-Down",
+   "Space",
+   "Mars",
+   "Economy",
+   "Building",
+   "Management",
+   "Moddable",
+   "Open World"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3115220": {
   "name": "Town to City",
@@ -427,7 +1165,25 @@
   "release_date": "2026-05-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-09-16"
+  "first_review": "2025-09-16",
+  "steam_tags": [
+   "City Builder",
+   "Building",
+   "Cozy",
+   "Voxel",
+   "Relaxing",
+   "Cute",
+   "Strategy",
+   "Management",
+   "Economy",
+   "Sandbox",
+   "Colorful",
+   "Casual",
+   "Family Friendly",
+   "Simulation",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "24010": {
   "name": "Train Simulator Classic",
@@ -437,7 +1193,25 @@
   "release_date": "2015-09-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2010-10-19"
+  "first_review": "2010-10-19",
+  "steam_tags": [
+   "Simulation",
+   "Trains",
+   "Singleplayer",
+   "Realistic",
+   "Driving",
+   "Relaxing",
+   "Casual",
+   "Open World",
+   "Moddable",
+   "Building",
+   "Sandbox",
+   "Level Editor",
+   "TrackIR",
+   "Atmospheric",
+   "Transportation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "975370": {
   "name": "Dwarf Fortress",
@@ -447,7 +1221,25 @@
   "release_date": "2022-12-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-12-06"
+  "first_review": "2022-12-06",
+  "steam_tags": [
+   "Dwarves",
+   "Colony Sim",
+   "Base Building",
+   "Simulation",
+   "Strategy",
+   "City Builder",
+   "Sandbox",
+   "Management",
+   "Building",
+   "Survival",
+   "Roguelike",
+   "Open World",
+   "Procedural Generation",
+   "Resource Management",
+   "Fantasy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1588530": {
   "name": "Dungeon Alchemist",
@@ -457,7 +1249,25 @@
   "release_date": "2022-03-31",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-03-31"
+  "first_review": "2022-03-31",
+  "steam_tags": [
+   "Early Access",
+   "RPG",
+   "CRPG",
+   "Tabletop",
+   "Software",
+   "Procedural Generation",
+   "City Builder",
+   "Utilities",
+   "2.5D",
+   "2D",
+   "3D",
+   "Isometric",
+   "Top-Down",
+   "Dragons",
+   "Base Building"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2001070": {
   "name": "Heart of the Machine",
@@ -487,7 +1297,25 @@
   "release_date": "2025-11-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-11-06"
+  "first_review": "2025-11-06",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "City Builder",
+   "Base Building",
+   "Colony Sim",
+   "Grand Strategy",
+   "Management",
+   "Building",
+   "Sandbox",
+   "Historical",
+   "Economy",
+   "Resource Management",
+   "Open World",
+   "Survival",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1044720": {
   "name": "Farthest Frontier",
@@ -497,7 +1325,25 @@
   "release_date": "2025-10-23",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-08-09"
+  "first_review": "2022-08-09",
+  "steam_tags": [
+   "Building",
+   "City Builder",
+   "Strategy",
+   "Resource Management",
+   "Medieval",
+   "Agriculture",
+   "Economy",
+   "Historical",
+   "4X",
+   "Colony Sim",
+   "Base Building",
+   "RTS",
+   "Immersive Sim",
+   "Farming",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2646460": {
   "name": "Soulmask",
@@ -507,7 +1353,25 @@
   "release_date": "2026-04-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-05-31"
+  "first_review": "2024-05-31",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Base Building",
+   "Crafting",
+   "Open World",
+   "PvE",
+   "PvP",
+   "Hunting",
+   "Sandbox",
+   "Singleplayer",
+   "Adventure",
+   "Action-Adventure",
+   "Automation",
+   "Co-op",
+   "Exploration"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1313140": {
   "name": "Cult of the Lamb",
@@ -517,7 +1381,25 @@
   "release_date": "2022-08-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-08-11"
+  "first_review": "2022-08-11",
+  "steam_tags": [
+   "Base Building",
+   "Action Roguelike",
+   "Cute",
+   "Cult",
+   "Singleplayer",
+   "Dungeon Crawler",
+   "Roguelite",
+   "Colony Sim",
+   "Character Customization",
+   "Dark Humor",
+   "Building",
+   "2D",
+   "Adventure",
+   "Action",
+   "Faith"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1206560": {
   "name": "WorldBox - God Simulator",
@@ -527,7 +1409,25 @@
   "release_date": "2021-12-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-12-02"
+  "first_review": "2021-12-02",
+  "steam_tags": [
+   "Sandbox",
+   "God Game",
+   "Simulation",
+   "Pixel Graphics",
+   "Colony Sim",
+   "Destruction",
+   "Life Sim",
+   "Building",
+   "Artificial Intelligence",
+   "Fantasy",
+   "Political Sim",
+   "Indie",
+   "Medieval",
+   "Relaxing",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2239710": {
   "name": "Into the Dead: Our Darkest Days",
@@ -537,7 +1437,25 @@
   "release_date": "2025-04-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-04-09"
+  "first_review": "2025-04-09",
+  "steam_tags": [
+   "Zombies",
+   "Survival Horror",
+   "Post-apocalyptic",
+   "Horror",
+   "Action",
+   "Psychological Horror",
+   "2.5D",
+   "Choices Matter",
+   "Nonlinear",
+   "Multiple Endings",
+   "Story Rich",
+   "Atmospheric",
+   "Perma Death",
+   "Crafting",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2763740": {
   "name": "Revolution Idle",
@@ -547,7 +1465,25 @@
   "release_date": "2025-05-01",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-10-11"
+  "first_review": "2024-10-11",
+  "steam_tags": [
+   "Incremental",
+   "Idler",
+   "Free to Play",
+   "Casual",
+   "Simulation",
+   "Automation",
+   "Minimalist",
+   "2D",
+   "Indie",
+   "Management",
+   "Singleplayer",
+   "Relaxing",
+   "Futuristic",
+   "Resource Management",
+   "Time Manipulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1419170": {
   "name": "My Singing Monsters",
@@ -557,7 +1493,25 @@
   "release_date": "2021-03-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-03-24"
+  "first_review": "2021-03-24",
+  "steam_tags": [
+   "Creature Collector",
+   "Casual",
+   "Simulation",
+   "Free to Play",
+   "Farming Sim",
+   "Colony Sim",
+   "Cute",
+   "Cartoony",
+   "Collectathon",
+   "Colorful",
+   "Family Friendly",
+   "2.5D",
+   "Building",
+   "Relaxing",
+   "Music"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1898300": {
   "name": "ASKA",
@@ -567,7 +1521,25 @@
   "release_date": "2024-06-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-06-20"
+  "first_review": "2024-06-20",
+  "steam_tags": [
+   "Early Access",
+   "Survival",
+   "Colony Sim",
+   "Open World Survival Craft",
+   "Multiplayer",
+   "Base Building",
+   "Vikings",
+   "Sandbox",
+   "Online Co-Op",
+   "Crafting",
+   "Co-op",
+   "Building",
+   "Singleplayer",
+   "Simulation",
+   "Open World"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "457140": {
   "name": "Oxygen Not Included",
@@ -577,7 +1549,25 @@
   "release_date": "2019-07-30",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2017-05-18"
+  "first_review": "2017-05-18",
+  "steam_tags": [
+   "Colony Sim",
+   "Base Building",
+   "Survival",
+   "Resource Management",
+   "Building",
+   "Singleplayer",
+   "Management",
+   "2D",
+   "Sandbox",
+   "Simulation",
+   "Strategy",
+   "Space",
+   "Indie",
+   "Sci-fi",
+   "Difficult"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "17390": {
   "name": "SPORE™",
@@ -587,7 +1577,25 @@
   "release_date": "2008-12-19",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2010-11-19"
+  "first_review": "2010-11-19",
+  "steam_tags": [
+   "God Game",
+   "Open World",
+   "Sandbox",
+   "Colony Sim",
+   "Simulation",
+   "Exploration",
+   "Space",
+   "Casual",
+   "Science",
+   "Cute",
+   "Funny",
+   "Aliens",
+   "Sci-fi",
+   "Adventure",
+   "Cartoony"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1067360": {
   "name": "Pax Autocratica",
@@ -597,7 +1605,25 @@
   "release_date": "2026-08-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-10"
+  "first_review": "2026-08-10",
+  "steam_tags": [
+   "Early Access",
+   "Base Building",
+   "Action Roguelike",
+   "Colony Sim",
+   "Crafting",
+   "Vehicular Combat",
+   "Mechs",
+   "Automation",
+   "Military",
+   "Survival",
+   "Cult",
+   "Management",
+   "Roguelite",
+   "PvE",
+   "Building"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2798330": {
   "name": "Dungeon Settlers",
@@ -607,7 +1633,25 @@
   "release_date": "2026-09-04",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-04"
+  "first_review": "2026-09-04",
+  "steam_tags": [
+   "Early Access",
+   "Dungeon Crawler",
+   "Colony Sim",
+   "Strategy",
+   "Management",
+   "Base Building",
+   "Survival",
+   "Simulation",
+   "Medieval",
+   "Character Customization",
+   "Dark Fantasy",
+   "RPG",
+   "Party-Based RPG",
+   "Tactical RPG",
+   "Pixel Graphics"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3590290": {
   "name": "DIVE or DIE - Children of Rain",
@@ -617,7 +1661,25 @@
   "release_date": "2026-07-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-21"
+  "first_review": "2026-07-21",
+  "steam_tags": [
+   "Underwater",
+   "Lovecraftian",
+   "Exploration",
+   "Horror",
+   "Action-Adventure",
+   "Survival Horror",
+   "Roguelite",
+   "Crafting",
+   "Survival",
+   "Psychological Horror",
+   "Post-apocalyptic",
+   "Adventure",
+   "Dark",
+   "Management",
+   "Side Scroller"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1270580": {
   "name": "Mind Over Magic",
@@ -627,7 +1689,25 @@
   "release_date": "2025-02-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-12-14"
+  "first_review": "2023-12-14",
+  "steam_tags": [
+   "Survival",
+   "Building",
+   "Colony Sim",
+   "Management",
+   "Simulation",
+   "Nonlinear",
+   "Base Building",
+   "Crafting",
+   "Dragons",
+   "Tactical RPG",
+   "Stylized",
+   "Singleplayer",
+   "Economy",
+   "Fantasy",
+   "Procedural Generation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "233450": {
   "name": "Prison Architect",
@@ -637,7 +1717,25 @@
   "release_date": "2015-10-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2013-03-20"
+  "first_review": "2013-03-20",
+  "steam_tags": [
+   "Simulation",
+   "Building",
+   "Sandbox",
+   "Base Building",
+   "Colony Sim",
+   "Strategy",
+   "Management",
+   "City Builder",
+   "2D",
+   "Top-Down",
+   "Multiplayer",
+   "Resource Management",
+   "Economy",
+   "Singleplayer",
+   "Moddable"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2570210": {
   "name": "Eden Crafters",
@@ -647,7 +1745,25 @@
   "release_date": "2026-05-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-10-16"
+  "first_review": "2024-10-16",
+  "steam_tags": [
+   "Automation",
+   "Open World Survival Craft",
+   "Base Building",
+   "Crafting",
+   "Sandbox",
+   "Open World",
+   "Building",
+   "Online Co-Op",
+   "Survival",
+   "Adventure",
+   "Co-op",
+   "Space",
+   "Exploration",
+   "3D",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1029780": {
   "name": "Going Medieval",
@@ -657,7 +1773,25 @@
   "release_date": "2026-03-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-06-01"
+  "first_review": "2021-06-01",
+  "steam_tags": [
+   "Colony Sim",
+   "Base Building",
+   "Strategy",
+   "Voxel",
+   "Survival",
+   "Management",
+   "City Builder",
+   "Singleplayer",
+   "Sandbox",
+   "Nature",
+   "RTS",
+   "Economy",
+   "Moddable",
+   "Historical",
+   "Real Time Tactics"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2426530": {
   "name": "Nova Roma",
@@ -667,7 +1801,25 @@
   "release_date": "2026-03-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-03-26"
+  "first_review": "2026-03-26",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "City Builder",
+   "Base Building",
+   "Grand Strategy",
+   "Historical",
+   "Management",
+   "Building",
+   "Sandbox",
+   "Economy",
+   "Colony Sim",
+   "Resource Management",
+   "Open World",
+   "Survival",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2768380": {
   "name": "Repterra",
@@ -677,7 +1829,25 @@
   "release_date": "2026-08-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-04-28"
+  "first_review": "2026-04-28",
+  "steam_tags": [
+   "Real-Time with Pause",
+   "Base Building",
+   "Dinosaurs",
+   "RTS",
+   "Tower Defense",
+   "City Builder",
+   "Strategy",
+   "PvE",
+   "Resource Management",
+   "Isometric",
+   "Survival",
+   "Building",
+   "Singleplayer",
+   "Colony Sim",
+   "Survival Horror"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2308690": {
   "name": "Ground of Aces – The World War II Airbase Builder",
@@ -687,7 +1857,25 @@
   "release_date": "2025-07-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-07-10"
+  "first_review": "2025-07-10",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "Base Building",
+   "World War II",
+   "Colony Sim",
+   "City Builder",
+   "Building",
+   "Management",
+   "Resource Management",
+   "Survival",
+   "RTS",
+   "Military",
+   "Historical",
+   "War",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "323190": {
   "name": "Frostpunk",
@@ -697,7 +1885,25 @@
   "release_date": "2018-04-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-04-24"
+  "first_review": "2018-04-24",
+  "steam_tags": [
+   "City Builder",
+   "Survival",
+   "Resource Management",
+   "Strategy",
+   "Post-apocalyptic",
+   "Colony Sim",
+   "Steampunk",
+   "Building",
+   "Base Building",
+   "Singleplayer",
+   "Management",
+   "Simulation",
+   "Choices Matter",
+   "Atmospheric",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2213700": {
   "name": "Sintopia",
@@ -707,7 +1913,25 @@
   "release_date": "2026-04-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-04-16"
+  "first_review": "2026-04-16",
+  "steam_tags": [
+   "Management",
+   "God Game",
+   "Automation",
+   "Simulation",
+   "Base Building",
+   "Resource Management",
+   "1980s",
+   "Dark Humor",
+   "Strategy",
+   "City Builder",
+   "Satire",
+   "Building",
+   "Cartoon",
+   "Funny",
+   "Colorful"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "701160": {
   "name": "Kingdom Two Crowns",
@@ -717,7 +1941,25 @@
   "release_date": "2018-12-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-12-11"
+  "first_review": "2018-12-11",
+  "steam_tags": [
+   "Tower Defense",
+   "Minimalist",
+   "City Builder",
+   "Building",
+   "Base Building",
+   "Singleplayer",
+   "Medieval",
+   "Strategy",
+   "Fantasy",
+   "Atmospheric",
+   "Co-op",
+   "Colony Sim",
+   "Survival",
+   "Controller",
+   "Adventure"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1336490": {
   "name": "Against the Storm",
@@ -727,7 +1969,25 @@
   "release_date": "2023-12-08",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-11-01"
+  "first_review": "2022-11-01",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "City Builder",
+   "Base Building",
+   "Building",
+   "Grand Strategy",
+   "Management",
+   "Resource Management",
+   "Colony Sim",
+   "Historical",
+   "Sandbox",
+   "Roguelite",
+   "Open World",
+   "Survival",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2438680": {
   "name": "Airborne Empire",
@@ -737,7 +1997,25 @@
   "release_date": "2026-04-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-01-13"
+  "first_review": "2025-01-13",
+  "steam_tags": [
+   "City Builder",
+   "Open World",
+   "RPG",
+   "Exploration",
+   "Resource Management",
+   "Casual",
+   "Colony Sim",
+   "Family Friendly",
+   "Strategy",
+   "Sandbox",
+   "Adventure",
+   "Combat",
+   "Real-Time with Pause",
+   "Relaxing",
+   "RTS"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1486940": {
   "name": "EarthX 2",
@@ -747,7 +2025,25 @@
   "release_date": "2026-10-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-15"
+  "first_review": "2026-10-15",
+  "steam_tags": [
+   "Early Access",
+   "Simulation",
+   "Space Sim",
+   "Automation",
+   "Mining",
+   "Strategy",
+   "Base Building",
+   "Colony Sim",
+   "Resource Management",
+   "Real Time Tactics",
+   "Casual",
+   "Time Management",
+   "Management",
+   "3D",
+   "Transportation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3132870": {
   "name": "DarkSwitch",
@@ -777,7 +2073,25 @@
   "release_date": "2025-07-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-07-15"
+  "first_review": "2025-07-15",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Real Time Tactics",
+   "Medieval",
+   "Colony Sim",
+   "Building",
+   "War",
+   "Sandbox",
+   "Tower Defense",
+   "Base Building",
+   "RTS",
+   "Economy",
+   "PvP",
+   "2D",
+   "Historical"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1368140": {
   "name": "Corsair Cove",
@@ -786,7 +2100,26 @@
   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1792743724",
   "release_date": "2026-07-31",
   "coming_soon": false,
-  "fetched": "2026-10-27"
+  "fetched": "2026-10-27",
+  "first_review": "2026-07-31",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "City Builder",
+   "Base Building",
+   "Grand Strategy",
+   "Historical",
+   "Management",
+   "Building",
+   "Pirates",
+   "Economy",
+   "Sandbox",
+   "Colony Sim",
+   "Open World",
+   "Survival",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1272320": {
   "name": "Diplomacy is Not an Option",
@@ -796,7 +2129,25 @@
   "release_date": "2024-10-04",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-02-09"
+  "first_review": "2022-02-09",
+  "steam_tags": [
+   "Resource Management",
+   "Medieval",
+   "Historical",
+   "Zombies",
+   "Base Building",
+   "Colony Sim",
+   "RTS",
+   "Difficult",
+   "Survival",
+   "Action RTS",
+   "Tower Defense",
+   "Strategy",
+   "War",
+   "Simulation",
+   "PvE"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4356430": {
   "name": "NBA 2K27",
@@ -806,7 +2157,25 @@
   "release_date": "2026-09-03",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-26"
+  "first_review": "2026-08-26",
+  "steam_tags": [
+   "Sports",
+   "Simulation",
+   "Basketball",
+   "3D",
+   "PvP",
+   "Gambling",
+   "Character Customization",
+   "Multiplayer",
+   "Co-op",
+   "Singleplayer",
+   "Local Co-Op",
+   "Local Multiplayer",
+   "Online Co-Op",
+   "Controller",
+   "eSports"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4019220": {
   "name": "Dressmaker",
@@ -816,7 +2185,25 @@
   "release_date": "2026-09-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-21"
+  "first_review": "2026-09-21",
+  "steam_tags": [
+   "Crafting",
+   "Design & Illustration",
+   "Cozy",
+   "Job Simulator",
+   "Simulation",
+   "Relaxing",
+   "Life Sim",
+   "Management",
+   "Singleplayer",
+   "Casual",
+   "Cute",
+   "Colorful",
+   "Stylized",
+   "Shop Keeper",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "5228920": {
   "name": "Brick by Brick: Tidy Up the Small Town!",
@@ -826,7 +2213,25 @@
   "release_date": "2026-10-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-15"
+  "first_review": "2026-10-15",
+  "steam_tags": [
+   "Casual",
+   "Simulation",
+   "Collectathon",
+   "Online Co-Op",
+   "Organizing",
+   "Relaxing",
+   "Incremental",
+   "Cleaning",
+   "Multiplayer",
+   "3D",
+   "Co-op",
+   "First-Person",
+   "Singleplayer",
+   "Management",
+   "Indie"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "281990": {
   "name": "Stellaris",
@@ -836,7 +2241,25 @@
   "release_date": "2016-05-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-05-09"
+  "first_review": "2016-05-09",
+  "steam_tags": [
+   "Space",
+   "Strategy",
+   "Grand Strategy",
+   "Sci-fi",
+   "4X",
+   "Exploration",
+   "Sandbox",
+   "Simulation",
+   "Multiplayer",
+   "Real-Time with Pause",
+   "Singleplayer",
+   "Moddable",
+   "Management",
+   "Diplomacy",
+   "Military"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1158310": {
   "name": "Crusader Kings III",
@@ -846,7 +2269,25 @@
   "release_date": "2020-09-01",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2020-09-01"
+  "first_review": "2020-09-01",
+  "steam_tags": [
+   "Strategy",
+   "Medieval",
+   "Grand Strategy",
+   "Simulation",
+   "RPG",
+   "Historical",
+   "Management",
+   "Character Customization",
+   "Life Sim",
+   "Sandbox",
+   "Choices Matter",
+   "RTS",
+   "War",
+   "Singleplayer",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "270880": {
   "name": "American Truck Simulator",
@@ -856,7 +2297,25 @@
   "release_date": "2016-02-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-02-02"
+  "first_review": "2016-02-02",
+  "steam_tags": [
+   "Automobile Sim",
+   "Driving",
+   "Open World",
+   "Simulation",
+   "Transportation",
+   "Realistic",
+   "Moddable",
+   "Relaxing",
+   "Exploration",
+   "Economy",
+   "Management",
+   "Atmospheric",
+   "Immersive Sim",
+   "Multiplayer",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2300320": {
   "name": "Farming Simulator 25",
@@ -866,7 +2325,25 @@
   "release_date": "2024-11-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-11-12"
+  "first_review": "2024-11-12",
+  "steam_tags": [
+   "Simulation",
+   "Farming Sim",
+   "Multiplayer",
+   "Realistic",
+   "3D",
+   "Economy",
+   "First-Person",
+   "Time Management",
+   "Building",
+   "Management",
+   "Third Person",
+   "Immersive Sim",
+   "Relaxing",
+   "Online Co-Op",
+   "Atmospheric"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1476970": {
   "name": "IdleOn - The Incremental MMO",
@@ -876,7 +2353,25 @@
   "release_date": "2025-11-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-04-02"
+  "first_review": "2021-04-02",
+  "steam_tags": [
+   "Idler",
+   "Free to Play",
+   "Incremental",
+   "MMORPG",
+   "Multiplayer",
+   "Pixel Graphics",
+   "RPG",
+   "Management",
+   "Crafting",
+   "Resource Management",
+   "Sandbox",
+   "Indie",
+   "Massively Multiplayer",
+   "Casual",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3024130": {
   "name": "PAO PAO",
@@ -886,7 +2381,25 @@
   "release_date": "2026-10-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-26"
+  "first_review": "2026-10-26",
+  "steam_tags": [
+   "Early Access",
+   "Life Sim",
+   "Co-op",
+   "Cooking",
+   "Cozy",
+   "Management",
+   "Farming Sim",
+   "Online Co-Op",
+   "Exploration",
+   "Building",
+   "Relaxing",
+   "Decorating",
+   "Fishing",
+   "Crafting",
+   "Character Customization"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3164500": {
   "name": "Schedule I",
@@ -896,7 +2409,25 @@
   "release_date": "2025-03-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-03-24"
+  "first_review": "2025-03-24",
+  "steam_tags": [
+   "Simulation",
+   "Crime",
+   "Co-op",
+   "Management",
+   "Multiplayer",
+   "Open World",
+   "First-Person",
+   "Crafting",
+   "Automation",
+   "Base Building",
+   "Action",
+   "Building",
+   "Stealth",
+   "Strategy",
+   "Character Customization"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3965430": {
   "name": "The Mailroom",
@@ -906,7 +2437,25 @@
   "release_date": "2026-10-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-26"
+  "first_review": "2026-10-26",
+  "steam_tags": [
+   "Horror",
+   "Psychological Horror",
+   "Puzzle",
+   "Immersive Sim",
+   "Management",
+   "Casual",
+   "Atmospheric",
+   "Life Sim",
+   "Walking Simulator",
+   "First-Person",
+   "Comedy",
+   "3D",
+   "Linear",
+   "Story Rich",
+   "Investigation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3224770": {
   "name": "Umamusume: Pretty Derby",
@@ -916,7 +2465,25 @@
   "release_date": "2025-06-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-06-25"
+  "first_review": "2025-06-25",
+  "steam_tags": [
+   "Anime",
+   "Horses",
+   "Cute",
+   "Free to Play",
+   "Gambling",
+   "Racing",
+   "Roguelite",
+   "Sports",
+   "Management",
+   "Simulation",
+   "Roguelike",
+   "Funny",
+   "Visual Novel",
+   "Story Rich",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "784080": {
   "name": "MechWarrior 5: Mercenaries",
@@ -926,7 +2493,25 @@
   "release_date": "2021-05-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-05-27"
+  "first_review": "2021-05-27",
+  "steam_tags": [
+   "Mechs",
+   "Simulation",
+   "FPS",
+   "Action",
+   "Shooter",
+   "Co-op",
+   "Vehicular Combat",
+   "First-Person",
+   "Singleplayer",
+   "Moddable",
+   "Destruction",
+   "3D",
+   "Online Co-Op",
+   "Combat",
+   "Futuristic"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "236850": {
   "name": "Europa Universalis IV",
@@ -946,7 +2531,25 @@
   "release_date": "2022-10-25",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-10-25"
+  "first_review": "2022-10-25",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "Grand Strategy",
+   "Economy",
+   "Political Sim",
+   "Historical",
+   "Capitalism",
+   "Diplomacy",
+   "Management",
+   "Resource Management",
+   "Moddable",
+   "Real-Time with Pause",
+   "Alternate History",
+   "Automation",
+   "Military"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3419520": {
   "name": "Quarantine Zone: The Last Check",
@@ -956,7 +2559,25 @@
   "release_date": "2026-01-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-01-12"
+  "first_review": "2026-01-12",
+  "steam_tags": [
+   "Simulation",
+   "Zombies",
+   "Singleplayer",
+   "Post-apocalyptic",
+   "Choices Matter",
+   "First-Person",
+   "Realistic",
+   "3D",
+   "Military",
+   "Resource Management",
+   "Atmospheric",
+   "Management",
+   "Dark Humor",
+   "Immersive Sim",
+   "Base Building"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "602960": {
   "name": "Barotrauma",
@@ -966,7 +2587,25 @@
   "release_date": "2023-03-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-06-05"
+  "first_review": "2019-06-05",
+  "steam_tags": [
+   "Co-op",
+   "Multiplayer",
+   "Survival",
+   "Submarine",
+   "Survival Horror",
+   "2D",
+   "Horror",
+   "Underwater",
+   "Simulation",
+   "Sci-fi",
+   "Management",
+   "Strategy",
+   "Action",
+   "Difficult",
+   "Moddable"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "568220": {
   "name": "Lobotomy Corporation | Monster Management Simulation",
@@ -976,7 +2615,25 @@
   "release_date": "2018-04-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-12-16"
+  "first_review": "2016-12-16",
+  "steam_tags": [
+   "Management",
+   "Difficult",
+   "Psychological Horror",
+   "Story Rich",
+   "Simulation",
+   "Horror",
+   "Gore",
+   "Singleplayer",
+   "Great Soundtrack",
+   "Indie",
+   "Strategy",
+   "2D",
+   "Cute",
+   "Lovecraftian",
+   "Anime"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4421010": {
   "name": "Bills Must Be Paid",
@@ -986,7 +2643,25 @@
   "release_date": "2026-07-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-29"
+  "first_review": "2026-07-29",
+  "steam_tags": [
+   "Incremental",
+   "Roguelite",
+   "Capitalism",
+   "Strategy",
+   "Relaxing",
+   "Gambling",
+   "Idler",
+   "Indie",
+   "Casual",
+   "Management",
+   "Arcade",
+   "Colorful",
+   "Resource Management",
+   "3D",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1488490": {
   "name": "Nivalis Nights",
@@ -996,7 +2671,25 @@
   "release_date": "2026-09-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-29"
+  "first_review": "2026-09-29",
+  "steam_tags": [
+   "Cyberpunk",
+   "Simulation",
+   "Life Sim",
+   "Management",
+   "Atmospheric",
+   "Immersive Sim",
+   "Farming Sim",
+   "Relaxing",
+   "Fishing",
+   "RPG",
+   "Cooking",
+   "Romance",
+   "Story Rich",
+   "Inventory Management",
+   "Time Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3812600": {
   "name": "ReStory: Chill Electronics Repairs",
@@ -1006,7 +2699,25 @@
   "release_date": "2026-08-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-06"
+  "first_review": "2026-08-06",
+  "steam_tags": [
+   "Job Simulator",
+   "Cozy",
+   "Management",
+   "Economy",
+   "Singleplayer",
+   "Indie",
+   "Relaxing",
+   "Building",
+   "Shop Keeper",
+   "Simulation",
+   "Crafting",
+   "Dialogue Heavy",
+   "Choices Matter",
+   "3D",
+   "Multiple Endings"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3740090": {
   "name": "Bruisers 2D Boxing",
@@ -1016,7 +2727,25 @@
   "release_date": "2026-10-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-21"
+  "first_review": "2026-10-21",
+  "steam_tags": [
+   "Early Access",
+   "RPG",
+   "Boxing",
+   "Sports",
+   "2D",
+   "Pixel Graphics",
+   "2D Fighter",
+   "Crime",
+   "Gambling",
+   "Controller",
+   "Retro",
+   "Arcade",
+   "Dark",
+   "Management",
+   "Character Customization"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "951240": {
   "name": "Obenseuer",
@@ -1026,7 +2755,25 @@
   "release_date": "2018-12-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-12-11"
+  "first_review": "2018-12-11",
+  "steam_tags": [
+   "Indie",
+   "Survival",
+   "Life Sim",
+   "RPG",
+   "Early Access",
+   "Management",
+   "Dystopian",
+   "Strategy RPG",
+   "Adventure",
+   "Building",
+   "Mystery",
+   "Open World",
+   "Singleplayer",
+   "Investigation",
+   "Hidden Object"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3070070": {
   "name": "TCG Card Shop Simulator",
@@ -1036,7 +2783,25 @@
   "release_date": "2026-09-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-09-15"
+  "first_review": "2024-09-15",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Economy",
+   "Singleplayer",
+   "Collectathon",
+   "Trading Card Game",
+   "Capitalism",
+   "Card Game",
+   "Shop Keeper",
+   "Trading",
+   "Life Sim",
+   "3D",
+   "Relaxing",
+   "First-Person",
+   "Early Access"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4380490": {
   "name": "Cat Mail Co.",
@@ -1046,7 +2811,25 @@
   "release_date": "2026-07-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-09"
+  "first_review": "2026-07-09",
+  "steam_tags": [
+   "Relaxing",
+   "Management",
+   "Simulation",
+   "Cozy",
+   "Online Co-Op",
+   "Cats",
+   "Multiplayer",
+   "Cute",
+   "Co-op",
+   "Life Sim",
+   "Atmospheric",
+   "Stylized",
+   "Colorful",
+   "Singleplayer",
+   "First-Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1783560": {
   "name": "The Last Caretaker",
@@ -1056,7 +2839,25 @@
   "release_date": "2025-11-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-11-06"
+  "first_review": "2025-11-06",
+  "steam_tags": [
+   "Early Access",
+   "Survival",
+   "Crafting",
+   "Base Building",
+   "Automation",
+   "Open World",
+   "Sandbox",
+   "Singleplayer",
+   "First-Person",
+   "Resource Management",
+   "Management",
+   "Exploration",
+   "Atmospheric",
+   "Simulation",
+   "Post-apocalyptic"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4594150": {
   "name": "Sir, We Have an Orc Problem",
@@ -1066,7 +2867,25 @@
   "release_date": "2026-07-28",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-28"
+  "first_review": "2026-07-28",
+  "steam_tags": [
+   "Tower Defense",
+   "Incremental",
+   "War",
+   "Roguelite",
+   "Military",
+   "PvE",
+   "Physics",
+   "Management",
+   "Base Building",
+   "Strategy",
+   "2D",
+   "Top-Down",
+   "Roguelike",
+   "Simulation",
+   "Dark Fantasy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2948190": {
   "name": "World of Sea Battle",
@@ -1076,7 +2895,25 @@
   "release_date": "2025-10-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-10-21"
+  "first_review": "2025-10-21",
+  "steam_tags": [
+   "Early Access",
+   "Massively Multiplayer",
+   "Open World",
+   "Pirates",
+   "Naval Combat",
+   "Action",
+   "Exploration",
+   "Sailing",
+   "Sandbox",
+   "PvP",
+   "PvE",
+   "3D",
+   "Third Person",
+   "Atmospheric",
+   "Alternate History"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4098030": {
   "name": "Shipping Store Simulator 2037",
@@ -1086,7 +2923,25 @@
   "release_date": "2026-10-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-14"
+  "first_review": "2026-10-14",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Automation",
+   "Shop Keeper",
+   "Resource Management",
+   "Singleplayer",
+   "Economy",
+   "Job Simulator",
+   "Robots",
+   "Building",
+   "First-Person",
+   "Immersive Sim",
+   "Life Sim",
+   "Futuristic",
+   "Adventure"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "637090": {
   "name": "BATTLETECH",
@@ -1096,7 +2951,25 @@
   "release_date": "2018-04-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-04-24"
+  "first_review": "2018-04-24",
+  "steam_tags": [
+   "Mechs",
+   "Strategy",
+   "Turn-Based Tactics",
+   "Turn-Based",
+   "Sci-fi",
+   "Turn-Based Strategy",
+   "Tactical",
+   "Robots",
+   "Action",
+   "Singleplayer",
+   "Character Customization",
+   "Space",
+   "RPG",
+   "Management",
+   "Futuristic"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2670630": {
   "name": "Supermarket Simulator",
@@ -1106,7 +2979,25 @@
   "release_date": "2025-06-19",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-02-20"
+  "first_review": "2024-02-20",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Multiplayer",
+   "Economy",
+   "Singleplayer",
+   "Trading",
+   "First-Person",
+   "Life Sim",
+   "Immersive Sim",
+   "Building",
+   "Capitalism",
+   "Resource Management",
+   "3D",
+   "Sandbox",
+   "Realistic"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "613100": {
   "name": "House Flipper",
@@ -1116,7 +3007,25 @@
   "release_date": "2018-05-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-05-17"
+  "first_review": "2018-05-17",
+  "steam_tags": [
+   "Cleaning",
+   "Simulation",
+   "Design & Illustration",
+   "Singleplayer",
+   "Multiplayer",
+   "Building",
+   "Relaxing",
+   "Sandbox",
+   "Casual",
+   "Decorating",
+   "Immersive Sim",
+   "Education",
+   "First-Person",
+   "Organizing",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3293260": {
   "name": "Waterpark Simulator",
@@ -1126,7 +3035,25 @@
   "release_date": "2026-07-31",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-08-22"
+  "first_review": "2025-08-22",
+  "steam_tags": [
+   "Simulation",
+   "Multiplayer",
+   "Management",
+   "Co-op",
+   "Singleplayer",
+   "Sandbox",
+   "Economy",
+   "Building",
+   "Immersive Sim",
+   "Capitalism",
+   "Funny",
+   "Life Sim",
+   "First-Person",
+   "Crafting",
+   "Comedy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1868140": {
   "name": "DAVE THE DIVER",
@@ -1146,7 +3073,25 @@
   "release_date": "2026-10-23",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-23"
+  "first_review": "2026-10-23",
+  "steam_tags": [
+   "Indie",
+   "Automation",
+   "Base Building",
+   "Co-op",
+   "Job Simulator",
+   "Open World",
+   "Simulation",
+   "Space",
+   "Exploration",
+   "Incremental",
+   "Driving",
+   "Physics",
+   "Space Sim",
+   "Relaxing",
+   "Cleaning"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "730": {
   "name": "Counter-Strike 2",
@@ -1228,7 +3173,25 @@
   "release_date": "2024-07-25",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2013-12-13"
+  "first_review": "2013-12-13",
+  "steam_tags": [
+   "Survival",
+   "Zombies",
+   "Multiplayer",
+   "Open World",
+   "Open World Survival Craft",
+   "Base Building",
+   "Post-apocalyptic",
+   "Online Co-Op",
+   "Voxel",
+   "Building",
+   "Exploration",
+   "Sandbox",
+   "FPS",
+   "Simulation",
+   "Horror"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1086940": {
   "name": "Baldur's Gate 3",
@@ -1445,7 +3408,25 @@
   "release_date": "2024-09-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2020-06-08"
+  "first_review": "2020-06-08",
+  "steam_tags": [
+   "Base Building",
+   "Automation",
+   "Open World",
+   "Crafting",
+   "Multiplayer",
+   "Co-op",
+   "Building",
+   "Resource Management",
+   "Sandbox",
+   "Exploration",
+   "Open World Survival Craft",
+   "Adventure",
+   "Survival",
+   "First-Person",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3219630": {
   "name": "Halloween: The Game",
@@ -1500,7 +3481,25 @@
   "release_date": "2026-07-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-01-19"
+  "first_review": "2024-01-19",
+  "steam_tags": [
+   "Open World",
+   "Survival",
+   "Creature Collector",
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Online Co-Op",
+   "Crafting",
+   "Indie",
+   "Co-op",
+   "Adventure",
+   "Base Building",
+   "Sandbox",
+   "Automation",
+   "Building",
+   "Third-Person Shooter"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4732690": {
   "name": "Arknights: Endfield",
@@ -1510,7 +3509,25 @@
   "release_date": "2026-10-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-14"
+  "first_review": "2026-10-14",
+  "steam_tags": [
+   "Anime",
+   "Automation",
+   "Base Building",
+   "Action",
+   "Adventure",
+   "RPG",
+   "Action-Adventure",
+   "Free to Play",
+   "Building",
+   "Exploration",
+   "Combat",
+   "Story Rich",
+   "Tower Defense",
+   "Action RPG",
+   "Third Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1284190": {
   "name": "The Planet Crafter",
@@ -1520,7 +3537,25 @@
   "release_date": "2024-04-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-03-24"
+  "first_review": "2022-03-24",
+  "steam_tags": [
+   "Base Building",
+   "Open World Survival Craft",
+   "Survival",
+   "Online Co-Op",
+   "Co-op",
+   "Building",
+   "Crafting",
+   "Space",
+   "Open World",
+   "Exploration",
+   "Automation",
+   "Sandbox",
+   "Resource Management",
+   "First-Person",
+   "Sci-fi"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "5258340": {
   "name": "One Million Coins",
@@ -1530,7 +3565,25 @@
   "release_date": "2026-10-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-14"
+  "first_review": "2026-10-14",
+  "steam_tags": [
+   "Casual",
+   "Incremental",
+   "Exploration",
+   "Action Roguelike",
+   "3D",
+   "First-Person",
+   "Cartoony",
+   "Stylized",
+   "Singleplayer",
+   "Automation",
+   "Building",
+   "Indie",
+   "Resource Management",
+   "Capybaras",
+   "Cozy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4358690": {
   "name": "Graveyard Keeper 2",
@@ -1540,7 +3593,25 @@
   "release_date": "2026-09-22",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-22"
+  "first_review": "2026-09-22",
+  "steam_tags": [
+   "Sandbox",
+   "Building",
+   "Medieval",
+   "Capitalism",
+   "Crafting",
+   "Automation",
+   "Pixel Graphics",
+   "Agriculture",
+   "Casual",
+   "2.5D",
+   "Dark Humor",
+   "Simulation",
+   "Dark Comedy",
+   "Zombies",
+   "Post-apocalyptic"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4369130": {
   "name": "Chop Chop Inc.",
@@ -1550,7 +3621,25 @@
   "release_date": "2026-08-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-07"
+  "first_review": "2026-08-07",
+  "steam_tags": [
+   "Job Simulator",
+   "Crafting",
+   "Comedy",
+   "First-Person",
+   "Relaxing",
+   "Exploration",
+   "Resource Management",
+   "Funny",
+   "Simulation",
+   "Atmospheric",
+   "Building",
+   "Life Sim",
+   "3D",
+   "Immersive Sim",
+   "Stylized"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2060160": {
   "name": "The Farmer Was Replaced",
@@ -1560,7 +3649,25 @@
   "release_date": "2025-10-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-02-11"
+  "first_review": "2023-02-11",
+  "steam_tags": [
+   "Programming",
+   "Automation",
+   "Education",
+   "Idler",
+   "Logic",
+   "Puzzle",
+   "Text-Based",
+   "Farming Sim",
+   "Minimalist",
+   "Resource Management",
+   "Farming",
+   "Simulation",
+   "Artificial Intelligence",
+   "Sandbox",
+   "Strategy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2162800": {
   "name": "shapez 2 - Factory",
@@ -1570,7 +3677,25 @@
   "release_date": "2026-04-23",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-08-15"
+  "first_review": "2024-08-15",
+  "steam_tags": [
+   "Automation",
+   "Management",
+   "Building",
+   "Strategy",
+   "Futuristic",
+   "Simulation",
+   "Puzzle",
+   "Sandbox",
+   "Crafting",
+   "Base Building",
+   "Transportation",
+   "Logic",
+   "3D",
+   "Casual",
+   "Sci-fi"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4364930": {
   "name": "Birb",
@@ -1580,7 +3705,25 @@
   "release_date": "2026-10-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-02"
+  "first_review": "2026-10-02",
+  "steam_tags": [
+   "Incremental",
+   "Casual",
+   "Idler",
+   "Arcade",
+   "2D",
+   "Relaxing",
+   "Dark Fantasy",
+   "Management",
+   "Lovecraftian",
+   "Indie",
+   "Mythology",
+   "Singleplayer",
+   "Multiplayer",
+   "Automation",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3669570": {
   "name": "Alchemy Factory",
@@ -1590,7 +3733,25 @@
   "release_date": "2026-09-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-12-12"
+  "first_review": "2025-12-12",
+  "steam_tags": [
+   "Automation",
+   "Medieval",
+   "Building",
+   "Sandbox",
+   "Strategy",
+   "Multiplayer",
+   "Casual",
+   "Singleplayer",
+   "Crafting",
+   "Base Building",
+   "First-Person",
+   "Simulation",
+   "3D",
+   "Resource Management",
+   "Co-op"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4557380": {
   "name": "Batomon Showdown",
@@ -1600,7 +3761,25 @@
   "release_date": "2026-09-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-15"
+  "first_review": "2026-09-15",
+  "steam_tags": [
+   "Auto Battler",
+   "Creature Collector",
+   "Asynchronous Multiplayer",
+   "Strategy",
+   "Deckbuilding",
+   "Roguelike",
+   "PvP",
+   "2D",
+   "Card Battler",
+   "Pixel Graphics",
+   "Dragons",
+   "Horses",
+   "Relaxing",
+   "Casual",
+   "Anime"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1169040": {
   "name": "Necesse",
@@ -1610,7 +3789,25 @@
   "release_date": "2025-10-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-12-13"
+  "first_review": "2019-12-13",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Pixel Graphics",
+   "Multiplayer",
+   "Open World",
+   "Sandbox",
+   "Survival",
+   "Crafting",
+   "Adventure",
+   "Indie",
+   "RPG",
+   "Co-op",
+   "Building",
+   "Base Building",
+   "Action",
+   "Exploration"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2764460": {
   "name": "Sandustry",
@@ -1620,7 +3817,25 @@
   "release_date": "2026-08-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-13"
+  "first_review": "2026-08-13",
+  "steam_tags": [
+   "Sandbox",
+   "Automation",
+   "Crafting",
+   "Open World",
+   "Open World Survival Craft",
+   "Building",
+   "Exploration",
+   "Survival",
+   "Adventure",
+   "Simulation",
+   "Base Building",
+   "Strategy",
+   "Action",
+   "RPG",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "293760": {
   "name": "Automation - The Car Company Tycoon Game",
@@ -1630,7 +3845,25 @@
   "release_date": "2015-03-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2015-03-12"
+  "first_review": "2015-03-12",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Building",
+   "Sandbox",
+   "Automobile Sim",
+   "Realistic",
+   "Crafting",
+   "Strategy",
+   "Early Access",
+   "Moddable",
+   "Education",
+   "Racing",
+   "Indie",
+   "Automation",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1805110": {
   "name": "Solarpunk™",
@@ -1640,7 +3873,25 @@
   "release_date": "2026-06-08",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-06-08"
+  "first_review": "2026-06-08",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Co-op",
+   "Base Building",
+   "Crafting",
+   "Building",
+   "Online Co-Op",
+   "Multiplayer",
+   "Sandbox",
+   "Open World",
+   "Survival",
+   "Cozy",
+   "Relaxing",
+   "Farming Sim",
+   "Simulation",
+   "Automation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "573090": {
   "name": "Stormworks: Build and Rescue",
@@ -1650,7 +3901,25 @@
   "release_date": "2020-09-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-02-28"
+  "first_review": "2018-02-28",
+  "steam_tags": [
+   "Sandbox",
+   "Building",
+   "Open World",
+   "Base Building",
+   "Physics",
+   "Immersive Sim",
+   "Flight",
+   "Automation",
+   "Programming",
+   "Sailing",
+   "Exploration",
+   "PvP",
+   "Naval",
+   "Trains",
+   "Survival"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4364730": {
   "name": "IGTAP: an Incremental Game That's Also a Platformer",
@@ -1660,7 +3929,25 @@
   "release_date": "2026-09-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-21"
+  "first_review": "2026-09-21",
+  "steam_tags": [
+   "Incremental",
+   "2D Platformer",
+   "Idler",
+   "Precision Platformer",
+   "Automation",
+   "Management",
+   "Economy",
+   "Exploration",
+   "Platformer",
+   "2D",
+   "Controller",
+   "Adventure",
+   "Simulation",
+   "Singleplayer",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "5085740": {
   "name": "Needle In A Haystack",
@@ -1670,7 +3957,25 @@
   "release_date": "2026-09-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-29"
+  "first_review": "2026-09-29",
+  "steam_tags": [
+   "Hidden Object",
+   "Online Co-Op",
+   "Simulation",
+   "Funny",
+   "Casual",
+   "Physics",
+   "Incremental",
+   "Automation",
+   "Comedy",
+   "Stylized",
+   "Multiplayer",
+   "Resource Management",
+   "First-Person",
+   "Co-op",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4731620": {
   "name": "Fortune Mill",
@@ -1680,7 +3985,25 @@
   "release_date": "2026-06-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-06-02"
+  "first_review": "2026-06-02",
+  "steam_tags": [
+   "Incremental",
+   "Idler",
+   "Automation",
+   "Pixel Graphics",
+   "Economy",
+   "Simulation",
+   "Resource Management",
+   "Casual",
+   "Gambling",
+   "Loot",
+   "Relaxing",
+   "Indie",
+   "Singleplayer",
+   "2D",
+   "Sandbox"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4614210": {
   "name": "Crack the Pack",
@@ -1690,7 +4013,25 @@
   "release_date": "2026-10-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-02"
+  "first_review": "2026-10-02",
+  "steam_tags": [
+   "Action",
+   "Casual",
+   "Simulation",
+   "Arcade",
+   "Card Game",
+   "Incremental",
+   "Collectathon",
+   "Idler",
+   "2D",
+   "Pixel Graphics",
+   "Minimalist",
+   "Relaxing",
+   "Automation",
+   "Indie",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4210580": {
   "name": "Ore Factory Squad ⛏️",
@@ -1700,7 +4041,25 @@
   "release_date": "2026-07-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-16"
+  "first_review": "2026-07-16",
+  "steam_tags": [
+   "Simulation",
+   "Mining",
+   "Online Co-Op",
+   "Sandbox",
+   "Automation",
+   "Co-op",
+   "Building",
+   "Management",
+   "Exploration",
+   "Economy",
+   "Immersive Sim",
+   "Base Building",
+   "First-Person",
+   "Atmospheric",
+   "Crafting"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2104890": {
   "name": "RoadCraft",
@@ -1710,7 +4069,25 @@
   "release_date": "2025-05-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-05-20"
+  "first_review": "2025-05-20",
+  "steam_tags": [
+   "Simulation",
+   "Building",
+   "Driving",
+   "Physics",
+   "Online Co-Op",
+   "Adventure",
+   "Automobile Sim",
+   "Multiplayer",
+   "Automation",
+   "Nature",
+   "Exploration",
+   "Co-op",
+   "Destruction",
+   "Transportation",
+   "Immersive Sim"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "361420": {
   "name": "ASTRONEER",
@@ -1720,7 +4097,25 @@
   "release_date": "2019-02-05",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-12-16"
+  "first_review": "2016-12-16",
+  "steam_tags": [
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Open World",
+   "Space",
+   "Survival",
+   "Exploration",
+   "Base Building",
+   "Co-op",
+   "Sandbox",
+   "Adventure",
+   "Building",
+   "Crafting",
+   "Automation",
+   "Sci-fi",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2488370": {
   "name": "Cash Cleaner Simulator",
@@ -1730,7 +4125,25 @@
   "release_date": "2025-05-08",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-05-08"
+  "first_review": "2025-05-08",
+  "steam_tags": [
+   "Immersive Sim",
+   "Sandbox",
+   "Automation",
+   "Crime",
+   "Management",
+   "Physics",
+   "First-Person",
+   "Life Sim",
+   "Cleaning",
+   "Dark Humor",
+   "Relaxing",
+   "Organizing",
+   "Controller",
+   "Multiple Endings",
+   "Casual"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4026250": {
   "name": "Project P.I.T.T.",
@@ -1740,7 +4153,25 @@
   "release_date": "2026-08-19",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-19"
+  "first_review": "2026-08-19",
+  "steam_tags": [
+   "Physics",
+   "Incremental",
+   "Sandbox",
+   "Automation",
+   "Capitalism",
+   "First-Person",
+   "3D",
+   "Dark Comedy",
+   "Casual",
+   "Satire",
+   "Simulation",
+   "Pixel Graphics",
+   "Stylized",
+   "Singleplayer",
+   "Action"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1677110": {
   "name": "Lightyear Frontier",
@@ -1750,7 +4181,25 @@
   "release_date": "2024-03-19",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-03-19"
+  "first_review": "2024-03-19",
+  "steam_tags": [
+   "Early Access",
+   "Farming Sim",
+   "Open World Survival Craft",
+   "Base Building",
+   "Automation",
+   "Crafting",
+   "Building",
+   "Online Co-Op",
+   "Relaxing",
+   "Open World",
+   "Mechs",
+   "Mining",
+   "Co-op",
+   "Resource Management",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2938460": {
   "name": "Police Chief Simulator",
@@ -1760,7 +4209,25 @@
   "release_date": "2026-09-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-17"
+  "first_review": "2026-09-17",
+  "steam_tags": [
+   "Simulation",
+   "First-Person",
+   "Management",
+   "Life Sim",
+   "Immersive Sim",
+   "Sandbox",
+   "Automation",
+   "Political Sim",
+   "Investigation",
+   "Detective",
+   "Strategy",
+   "Noir",
+   "3D",
+   "Casual",
+   "Relaxing"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2195120": {
   "name": "Go-Go Town!",
@@ -1770,7 +4237,25 @@
   "release_date": "2026-07-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-06-18"
+  "first_review": "2024-06-18",
+  "steam_tags": [
+   "Simulation",
+   "City Builder",
+   "Decorating",
+   "Life Sim",
+   "Building",
+   "Management",
+   "Sandbox",
+   "Funny",
+   "Fishing",
+   "Indie",
+   "Exploration",
+   "Casual",
+   "Automation",
+   "Job Simulator",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3618390": {
   "name": "Gamblers Table",
@@ -1780,7 +4265,25 @@
   "release_date": "2026-01-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-01-11"
+  "first_review": "2026-01-11",
+  "steam_tags": [
+   "Incremental",
+   "Automation",
+   "Minimalist",
+   "Management",
+   "Gambling",
+   "Cute",
+   "Capitalism",
+   "Economy",
+   "Idler",
+   "Casual",
+   "Simulation",
+   "Resource Management",
+   "Top-Down",
+   "Relaxing",
+   "Strategy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3846120": {
   "name": "MineMogul",
@@ -1790,7 +4293,25 @@
   "release_date": "2025-12-04",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-12-04"
+  "first_review": "2025-12-04",
+  "steam_tags": [
+   "Early Access",
+   "Automation",
+   "Building",
+   "Physics",
+   "Mining",
+   "Strategy",
+   "Crafting",
+   "Simulation",
+   "Base Building",
+   "Management",
+   "Sandbox",
+   "Resource Management",
+   "Indie",
+   "Underground",
+   "Casual"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4170200": {
   "name": "Data Center",
@@ -1800,7 +4321,25 @@
   "release_date": "2026-03-31",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-03-31"
+  "first_review": "2026-03-31",
+  "steam_tags": [
+   "Simulation",
+   "Automation",
+   "Hardware",
+   "Logic",
+   "Job Simulator",
+   "Incremental",
+   "Management",
+   "Economy",
+   "Sandbox",
+   "Time Management",
+   "Resource Management",
+   "Building",
+   "Programming",
+   "Science",
+   "First-Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4324480": {
   "name": "Dirty Business",
@@ -1820,7 +4359,25 @@
   "release_date": "2015-03-30",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2015-03-30"
+  "first_review": "2015-03-30",
+  "steam_tags": [
+   "Idler",
+   "Incremental",
+   "Automation",
+   "Capitalism",
+   "Economy",
+   "Management",
+   "Space",
+   "Tutorial",
+   "Character Customization",
+   "Strategy",
+   "2D",
+   "First-Person",
+   "Funny",
+   "Relaxing",
+   "Action"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4338180": {
   "name": "Dearbnb",
@@ -1830,7 +4387,25 @@
   "release_date": "2026-10-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-21"
+  "first_review": "2026-10-21",
+  "steam_tags": [
+   "Early Access",
+   "Cozy",
+   "Relaxing",
+   "Management",
+   "Design & Illustration",
+   "Casual",
+   "Cute",
+   "Economy",
+   "Minimalist",
+   "Cartoon",
+   "Top-Down",
+   "Colorful",
+   "Funny",
+   "Singleplayer",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1267910": {
   "name": "Melvor Idle",
@@ -1840,7 +4415,25 @@
   "release_date": "2021-11-18",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2020-11-20"
+  "first_review": "2020-11-20",
+  "steam_tags": [
+   "Idler",
+   "RPG",
+   "Casual",
+   "Indie",
+   "Singleplayer",
+   "Adventure",
+   "2D",
+   "Mining",
+   "Automation",
+   "Crafting",
+   "Minimalist",
+   "Fantasy",
+   "Magic",
+   "Cartoon",
+   "Combat"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1203620": {
   "name": "Enshrouded",
@@ -1850,7 +4443,25 @@
   "release_date": "2026-10-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-01-24"
+  "first_review": "2024-01-24",
+  "steam_tags": [
+   "Open World",
+   "Survival",
+   "Base Building",
+   "Multiplayer",
+   "Online Co-Op",
+   "Crafting",
+   "RPG",
+   "Adventure",
+   "Exploration",
+   "Building",
+   "Action RPG",
+   "Fantasy",
+   "Singleplayer",
+   "Sandbox",
+   "Character Customization"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1151340": {
   "name": "Fallout 76",
@@ -1860,7 +4471,25 @@
   "release_date": "2020-04-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2020-04-14"
+  "first_review": "2020-04-14",
+  "steam_tags": [
+   "Open World",
+   "Multiplayer",
+   "Post-apocalyptic",
+   "RPG",
+   "Dark Comedy",
+   "Capitalism",
+   "Survival",
+   "Base Building",
+   "Co-op",
+   "Shooter",
+   "MMORPG",
+   "Horror",
+   "Singleplayer",
+   "Exploration",
+   "FPS"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1867240": {
   "name": "WARDOGS",
@@ -1870,7 +4499,25 @@
   "release_date": "2026-09-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-10"
+  "first_review": "2026-09-10",
+  "steam_tags": [
+   "Early Access",
+   "FPS",
+   "Military",
+   "Multiplayer",
+   "Action",
+   "Tactical",
+   "PvP",
+   "Realistic",
+   "Shooter",
+   "Combat",
+   "Wargame",
+   "Simulation",
+   "Massively Multiplayer",
+   "Team-Based",
+   "Modern"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2139460": {
   "name": "Once Human",
@@ -1880,7 +4527,25 @@
   "release_date": "2024-07-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-07-09"
+  "first_review": "2024-07-09",
+  "steam_tags": [
+   "Open World",
+   "Free to Play",
+   "Multiplayer",
+   "Survival",
+   "Action",
+   "Co-op",
+   "Open World Survival Craft",
+   "Exploration",
+   "Building",
+   "Crafting",
+   "Base Building",
+   "Adventure",
+   "Shooter",
+   "First-Person",
+   "Sandbox"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1737870": {
   "name": "REKA",
@@ -1890,7 +4555,25 @@
   "release_date": "2026-10-26",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-09-12"
+  "first_review": "2024-09-12",
+  "steam_tags": [
+   "Building",
+   "Character Customization",
+   "Indie",
+   "Singleplayer",
+   "Exploration",
+   "Magic",
+   "Crafting",
+   "Atmospheric",
+   "Dark Fantasy",
+   "Adventure",
+   "Cozy",
+   "Sandbox",
+   "Open World",
+   "Casual",
+   "Story Rich"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1374490": {
   "name": "RuneScape: Dragonwilds",
@@ -1900,7 +4583,25 @@
   "release_date": "2026-09-15",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-04-15"
+  "first_review": "2025-04-15",
+  "steam_tags": [
+   "Open World",
+   "Survival",
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Co-op",
+   "Online Co-Op",
+   "Crafting",
+   "Early Access",
+   "Building",
+   "Base Building",
+   "Exploration",
+   "Adventure",
+   "RPG",
+   "Action",
+   "Fantasy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1326470": {
   "name": "Sons Of The Forest",
@@ -1910,7 +4611,25 @@
   "release_date": "2024-02-22",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-02-23"
+  "first_review": "2023-02-23",
+  "steam_tags": [
+   "Survival",
+   "Open World",
+   "Multiplayer",
+   "Co-op",
+   "Survival Horror",
+   "Base Building",
+   "Horror",
+   "Crafting",
+   "Building",
+   "First-Person",
+   "Exploration",
+   "Adventure",
+   "Singleplayer",
+   "Atmospheric",
+   "Sandbox"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2399830": {
   "name": "ARK: Survival Ascended",
@@ -1920,7 +4639,25 @@
   "release_date": "2023-10-25",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-10-26"
+  "first_review": "2023-10-26",
+  "steam_tags": [
+   "Survival",
+   "Open World",
+   "Multiplayer",
+   "Dinosaurs",
+   "Base Building",
+   "Crafting",
+   "Building",
+   "Adventure",
+   "Sandbox",
+   "Action",
+   "Character Customization",
+   "PvE",
+   "Singleplayer",
+   "PvP",
+   "Massively Multiplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1604030": {
   "name": "V Rising",
@@ -1930,7 +4667,25 @@
   "release_date": "2024-05-08",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-05-17"
+  "first_review": "2022-05-17",
+  "steam_tags": [
+   "Survival",
+   "Open World",
+   "Base Building",
+   "Vampires",
+   "Multiplayer",
+   "Crafting",
+   "Online Co-Op",
+   "PvE",
+   "Building",
+   "Character Customization",
+   "PvP",
+   "Sandbox",
+   "Exploration",
+   "Action-Adventure",
+   "Dark Fantasy"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "892970": {
   "name": "Valheim",
@@ -1940,7 +4695,25 @@
   "release_date": "2026-09-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-02-02"
+  "first_review": "2021-02-02",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Online Co-Op",
+   "Open World",
+   "Multiplayer",
+   "Building",
+   "Crafting",
+   "Base Building",
+   "Exploration",
+   "Co-op",
+   "Adventure",
+   "Difficult",
+   "Mythology",
+   "Sandbox",
+   "PvE"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "264710": {
   "name": "Subnautica",
@@ -1950,7 +4723,25 @@
   "release_date": "2018-01-23",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2014-03-21"
+  "first_review": "2014-03-21",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Horror",
+   "Underwater",
+   "Open World",
+   "Exploration",
+   "Crafting",
+   "Singleplayer",
+   "Base Building",
+   "Adventure",
+   "First-Person",
+   "Multiplayer",
+   "Sci-fi",
+   "Atmospheric",
+   "Aliens"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1962700": {
   "name": "Subnautica 2",
@@ -1960,7 +4751,25 @@
   "release_date": "2026-05-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-05-14"
+  "first_review": "2026-05-14",
+  "steam_tags": [
+   "Multiplayer",
+   "Survival",
+   "Horror",
+   "Underwater",
+   "Exploration",
+   "Co-op",
+   "Open World",
+   "Survival Horror",
+   "First-Person",
+   "Adventure",
+   "Atmospheric",
+   "Early Access",
+   "Psychological Horror",
+   "Sci-fi",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2661300": {
   "name": "Grounded 2",
@@ -1970,7 +4779,25 @@
   "release_date": "2025-07-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-07-29"
+  "first_review": "2025-07-29",
+  "steam_tags": [
+   "Survival",
+   "Multiplayer",
+   "Base Building",
+   "Adventure",
+   "Open World",
+   "Co-op",
+   "Action",
+   "Open World Survival Craft",
+   "Exploration",
+   "Crafting",
+   "Early Access",
+   "Sandbox",
+   "Online Co-Op",
+   "RPG",
+   "First-Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1766060": {
   "name": "HumanitZ",
@@ -1980,7 +4807,25 @@
   "release_date": "2026-02-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-09-18"
+  "first_review": "2023-09-18",
+  "steam_tags": [
+   "Survival",
+   "Zombies",
+   "Open World",
+   "Multiplayer",
+   "Base Building",
+   "Crafting",
+   "Sandbox",
+   "Isometric",
+   "Post-apocalyptic",
+   "Shooter",
+   "PvP",
+   "Online Co-Op",
+   "RPG",
+   "Singleplayer",
+   "Horror"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1458140": {
   "name": "Pacific Drive",
@@ -1990,7 +4835,25 @@
   "release_date": "2024-02-21",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-02-22"
+  "first_review": "2024-02-22",
+  "steam_tags": [
+   "Driving",
+   "Survival",
+   "Exploration",
+   "Story Rich",
+   "Survival Horror",
+   "Crafting",
+   "Atmospheric",
+   "Sci-fi",
+   "Adventure",
+   "First-Person",
+   "Post-apocalyptic",
+   "Action",
+   "Base Building",
+   "Transportation",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1172710": {
   "name": "Dune: Awakening",
@@ -2000,7 +4863,25 @@
   "release_date": "2025-06-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-06-05"
+  "first_review": "2025-06-05",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Exploration",
+   "Story Rich",
+   "Base Building",
+   "Adventure",
+   "Sandbox",
+   "PvE",
+   "Singleplayer",
+   "Crafting",
+   "Multiplayer",
+   "Open World",
+   "RPG",
+   "Sci-fi",
+   "Building"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "427410": {
   "name": "Abiotic Factor",
@@ -2010,7 +4891,25 @@
   "release_date": "2025-07-22",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-05-02"
+  "first_review": "2024-05-02",
+  "steam_tags": [
+   "Survival",
+   "Online Co-Op",
+   "Open World Survival Craft",
+   "Crafting",
+   "Base Building",
+   "Sci-fi",
+   "Exploration",
+   "Co-op Campaign",
+   "Multiplayer",
+   "First-Person",
+   "Sandbox",
+   "Science",
+   "FPS",
+   "Early Access",
+   "Building"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1149460": {
   "name": "ICARUS",
@@ -2020,7 +4919,25 @@
   "release_date": "2021-12-03",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-12-03"
+  "first_review": "2021-12-03",
+  "steam_tags": [
+   "Survival",
+   "Open World Survival Craft",
+   "Multiplayer",
+   "Base Building",
+   "Online Co-Op",
+   "Crafting",
+   "Open World",
+   "Exploration",
+   "Co-op",
+   "Building",
+   "PvE",
+   "First-Person",
+   "Space",
+   "Realistic",
+   "Sandbox"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2679100": {
   "name": "Witchspire",
@@ -2030,7 +4947,25 @@
   "release_date": "2026-06-10",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-06-10"
+  "first_review": "2026-06-10",
+  "steam_tags": [
+   "Early Access",
+   "Adventure",
+   "Open World Survival Craft",
+   "Fantasy",
+   "Creature Collector",
+   "Online Co-Op",
+   "Action-Adventure",
+   "Magic",
+   "Crafting",
+   "Base Building",
+   "Open World",
+   "Combat",
+   "Controller",
+   "Inventory Management",
+   "Multiplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1190970": {
   "name": "House Flipper 2",
@@ -2040,7 +4975,25 @@
   "release_date": "2023-12-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-12-14"
+  "first_review": "2023-12-14",
+  "steam_tags": [
+   "Co-op",
+   "Relaxing",
+   "Decorating",
+   "Casual",
+   "Immersive Sim",
+   "Simulation",
+   "Design & Illustration",
+   "Building",
+   "First-Person",
+   "Cleaning",
+   "Family Friendly",
+   "Base Building",
+   "Singleplayer",
+   "Online Co-Op",
+   "Organizing"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "648800": {
   "name": "Raft",
@@ -2050,7 +5003,25 @@
   "release_date": "2022-06-20",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-05-23"
+  "first_review": "2018-05-23",
+  "steam_tags": [
+   "Survival",
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Co-op",
+   "Crafting",
+   "Open World",
+   "Building",
+   "Base Building",
+   "Online Co-Op",
+   "Adventure",
+   "Sandbox",
+   "First-Person",
+   "Singleplayer",
+   "Underwater",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2254990": {
   "name": "Permafrost",
@@ -2060,7 +5031,25 @@
   "release_date": "2026-10-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-09"
+  "first_review": "2026-10-09",
+  "steam_tags": [
+   "Early Access",
+   "Survival",
+   "Open World Survival Craft",
+   "Online Co-Op",
+   "Exploration",
+   "Crafting",
+   "Multiplayer",
+   "Building",
+   "Co-op",
+   "Post-apocalyptic",
+   "Open World",
+   "Action",
+   "Third Person",
+   "Action-Adventure",
+   "Adventure"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "346110": {
   "name": "ARK: Survival Evolved",
@@ -2070,7 +5059,25 @@
   "release_date": "2017-08-27",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2015-06-02"
+  "first_review": "2015-06-02",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Multiplayer",
+   "Open World",
+   "Dinosaurs",
+   "Crafting",
+   "Building",
+   "Adventure",
+   "Base Building",
+   "Co-op",
+   "Action",
+   "Sandbox",
+   "First-Person",
+   "Massively Multiplayer",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1995520": {
   "name": "Pax Dei",
@@ -2090,7 +5097,25 @@
   "release_date": "2025-10-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-10-24"
+  "first_review": "2025-10-24",
+  "steam_tags": [
+   "Early Access",
+   "Survival",
+   "Open World",
+   "Zombies",
+   "Base Building",
+   "Multiplayer",
+   "Post-apocalyptic",
+   "Co-op",
+   "Exploration",
+   "Crafting",
+   "Sandbox",
+   "RPG",
+   "Simulation",
+   "Survival Horror",
+   "Action"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3041230": {
   "name": "Windrose",
@@ -2100,7 +5125,25 @@
   "release_date": "2026-04-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-04-14"
+  "first_review": "2026-04-14",
+  "steam_tags": [
+   "Early Access",
+   "Pirates",
+   "Online Co-Op",
+   "Open World Survival Craft",
+   "Survival",
+   "Crafting",
+   "PvE",
+   "Exploration",
+   "Naval Combat",
+   "Building",
+   "Sailing",
+   "Open World",
+   "Base Building",
+   "Massively Multiplayer",
+   "Adventure"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "962130": {
   "name": "Grounded",
@@ -2119,7 +5162,25 @@
   "release_date": "2019-04-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2019-04-16"
+  "first_review": "2019-04-16",
+  "steam_tags": [
+   "City Builder",
+   "Strategy",
+   "Simulation",
+   "Economy",
+   "Multiplayer",
+   "Resource Management",
+   "Sandbox",
+   "RTS",
+   "Co-op",
+   "Singleplayer",
+   "Management",
+   "Historical",
+   "Exploration",
+   "Building",
+   "Choose Your Own Adventure"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2295060": {
   "name": "Beyond These Stars",
@@ -2129,7 +5190,25 @@
   "release_date": "2026-10-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-16"
+  "first_review": "2026-10-16",
+  "steam_tags": [
+   "Strategy",
+   "Simulation",
+   "City Builder",
+   "Base Building",
+   "Colony Sim",
+   "Building",
+   "Management",
+   "Sandbox",
+   "Resource Management",
+   "Survival",
+   "Economy",
+   "Automation",
+   "Open World",
+   "Sci-fi",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4883590": {
   "name": "iRacing® Studios NASCAR 26",
@@ -2139,7 +5218,25 @@
   "release_date": "2026-09-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-15"
+  "first_review": "2026-09-15",
+  "steam_tags": [
+   "Racing",
+   "Simulation",
+   "Driving",
+   "Automobile Sim",
+   "Sports",
+   "Realistic",
+   "Arcade",
+   "Multiplayer",
+   "Management",
+   "Physics",
+   "PvP",
+   "Singleplayer",
+   "3D",
+   "Third Person",
+   "Artificial Intelligence"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4450620": {
   "name": "GRAIN ROT",
@@ -2149,7 +5246,25 @@
   "release_date": "2026-08-07",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-07"
+  "first_review": "2026-08-07",
+  "steam_tags": [
+   "Online Co-Op",
+   "First-Person",
+   "Survival Horror",
+   "Building",
+   "Action Roguelike",
+   "Base Building",
+   "Procedural Generation",
+   "Crafting",
+   "PvE",
+   "Roguelite",
+   "Comedy",
+   "Horror",
+   "Physics",
+   "Loot",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3948120": {
   "name": "Scritchy Scratchy",
@@ -2159,7 +5274,25 @@
   "release_date": "2026-03-18",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-03-18"
+  "first_review": "2026-03-18",
+  "steam_tags": [
+   "Incremental",
+   "Gambling",
+   "Idler",
+   "Resource Management",
+   "Roguelite",
+   "Arcade",
+   "Relaxing",
+   "Simulation",
+   "Management",
+   "Economy",
+   "Capitalism",
+   "Minimalist",
+   "Retro",
+   "Casual",
+   "Old School"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1331550": {
   "name": "Big Ambitions",
@@ -2169,7 +5302,25 @@
   "release_date": "2026-08-28",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-03-10"
+  "first_review": "2023-03-10",
+  "steam_tags": [
+   "Management",
+   "Economy",
+   "Simulation",
+   "Capitalism",
+   "Life Sim",
+   "Sandbox",
+   "Singleplayer",
+   "Resource Management",
+   "Time Management",
+   "Inventory Management",
+   "Immersive Sim",
+   "3D",
+   "Top-Down",
+   "Third Person",
+   "Open World"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3355800": {
   "name": "Bank Simulator",
@@ -2179,7 +5330,25 @@
   "release_date": "2025-06-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-06-06"
+  "first_review": "2025-06-06",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Economy",
+   "Job Simulator",
+   "Capitalism",
+   "Shop Keeper",
+   "First-Person",
+   "Casual",
+   "Life Sim",
+   "Immersive Sim",
+   "Singleplayer",
+   "Resource Management",
+   "Trading",
+   "Relaxing",
+   "Time Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4159680": {
   "name": "Barfender: CO-OP Bar Simulator",
@@ -2189,7 +5358,25 @@
   "release_date": "2026-10-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-12"
+  "first_review": "2026-10-12",
+  "steam_tags": [
+   "Early Access",
+   "Simulation",
+   "Online Co-Op",
+   "Sandbox",
+   "Multiplayer",
+   "Resource Management",
+   "Co-op",
+   "Building",
+   "Management",
+   "Funny",
+   "Immersive Sim",
+   "Character Customization",
+   "Life Sim",
+   "Economy",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3819640": {
   "name": "Megastore Simulator",
@@ -2199,7 +5386,25 @@
   "release_date": "2026-02-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-02-02"
+  "first_review": "2026-02-02",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Life Sim",
+   "Economy",
+   "Immersive Sim",
+   "Crafting",
+   "Singleplayer",
+   "First-Person",
+   "Trading",
+   "Building",
+   "Capitalism",
+   "Resource Management",
+   "Shop Keeper",
+   "Casual",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3602570": {
   "name": "Horsey Game",
@@ -2209,7 +5414,25 @@
   "release_date": "2026-02-18",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-02-18"
+  "first_review": "2026-02-18",
+  "steam_tags": [
+   "Simulation",
+   "Creature Collector",
+   "Life Sim",
+   "Sandbox",
+   "2D",
+   "Colorful",
+   "Pixel Graphics",
+   "Horses",
+   "Agriculture",
+   "Gambling",
+   "Capitalism",
+   "Management",
+   "Nature",
+   "Science",
+   "Transhumanism"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1210320": {
   "name": "Potion Craft: Alchemist Simulator",
@@ -2219,7 +5442,25 @@
   "release_date": "2022-12-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2021-09-21"
+  "first_review": "2021-09-21",
+  "steam_tags": [
+   "Crafting",
+   "Singleplayer",
+   "Relaxing",
+   "Simulation",
+   "Medieval",
+   "Management",
+   "Indie",
+   "2D",
+   "Resource Management",
+   "Sandbox",
+   "Casual",
+   "RPG",
+   "Life Sim",
+   "Hand-drawn",
+   "Trading"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3361510": {
   "name": "Coal LLC",
@@ -2229,7 +5470,25 @@
   "release_date": "2025-09-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-09-12"
+  "first_review": "2025-09-12",
+  "steam_tags": [
+   "Management",
+   "Mining",
+   "Roguelite",
+   "Capitalism",
+   "Economy",
+   "Time Management",
+   "Roguelike",
+   "Perma Death",
+   "Underground",
+   "Nature",
+   "2D",
+   "Strategy",
+   "Pixel Graphics",
+   "Simulation",
+   "Procedural Generation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2350790": {
   "name": "Moonlighter 2: The Endless Vault",
@@ -2239,7 +5498,25 @@
   "release_date": "2026-09-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-11-19"
+  "first_review": "2025-11-19",
+  "steam_tags": [
+   "Shop Keeper",
+   "RPG",
+   "Action-Adventure",
+   "Roguelike",
+   "Roguelite",
+   "Inventory Management",
+   "Action",
+   "Procedural Generation",
+   "Exploration",
+   "Hack and Slash",
+   "Action Roguelike",
+   "Action RPG",
+   "Singleplayer",
+   "Adventure",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "600480": {
   "name": "Megaquarium",
@@ -2249,7 +5526,25 @@
   "release_date": "2018-09-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2018-09-13"
+  "first_review": "2018-09-13",
+  "steam_tags": [
+   "Simulation",
+   "Casual",
+   "Building",
+   "Sandbox",
+   "Management",
+   "Underwater",
+   "Creature Collector",
+   "Cute",
+   "Relaxing",
+   "Resource Management",
+   "Indie",
+   "Moddable",
+   "Economy",
+   "Family Friendly",
+   "Fishing"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2749950": {
   "name": "Esports Manager 2026",
@@ -2259,7 +5554,25 @@
   "release_date": "2026-07-06",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-06"
+  "first_review": "2026-07-06",
+  "steam_tags": [
+   "eSports",
+   "Management",
+   "Simulation",
+   "Strategy",
+   "Team-Based",
+   "Economy",
+   "Resource Management",
+   "Time Management",
+   "Tactical",
+   "Singleplayer",
+   "Realistic",
+   "Tutorial",
+   "Minimalist",
+   "Colorful",
+   "2D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1442430": {
   "name": "Storage Hunter Simulator",
@@ -2269,7 +5582,25 @@
   "release_date": "2025-11-27",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-10-10"
+  "first_review": "2024-10-10",
+  "steam_tags": [
+   "Immersive Sim",
+   "Shop Keeper",
+   "Online Co-Op",
+   "Job Simulator",
+   "Capitalism",
+   "Economy",
+   "Driving",
+   "Management",
+   "Trading",
+   "3D",
+   "First-Person",
+   "Relaxing",
+   "Casual",
+   "Simulation",
+   "Multiplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4173620": {
   "name": "I Know a Guy: Shady Life Simulator",
@@ -2279,7 +5610,25 @@
   "release_date": "2026-09-25",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-04-01"
+  "first_review": "2026-04-01",
+  "steam_tags": [
+   "Simulation",
+   "Co-op",
+   "Cooking",
+   "Crime",
+   "Character Customization",
+   "First-Person",
+   "Economy",
+   "Singleplayer",
+   "Immersive Sim",
+   "Stealth",
+   "Capitalism",
+   "Management",
+   "Building",
+   "Comedy",
+   "Trading"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2977260": {
   "name": "The Guild 1 Remake: Europa 1410",
@@ -2289,7 +5638,25 @@
   "release_date": "2026-09-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-17"
+  "first_review": "2026-09-17",
+  "steam_tags": [
+   "Simulation",
+   "Strategy",
+   "Sandbox",
+   "Strategy RPG",
+   "Immersive Sim",
+   "Political Sim",
+   "3D",
+   "Time Management",
+   "Economy",
+   "Top-Down",
+   "Colorful",
+   "Building",
+   "Realistic",
+   "Medieval",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4304930": {
   "name": "Chef Knight",
@@ -2299,7 +5666,25 @@
   "release_date": "2026-06-01",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-06-01"
+  "first_review": "2026-06-01",
+  "steam_tags": [
+   "Incremental",
+   "Strategy",
+   "Simulation",
+   "Casual",
+   "Resource Management",
+   "Management",
+   "Hand-drawn",
+   "Idler",
+   "2D",
+   "Fantasy",
+   "Action",
+   "Singleplayer",
+   "Cooking",
+   "Arcade",
+   "Cute"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3547270": {
   "name": "Worming from Home",
@@ -2309,7 +5694,25 @@
   "release_date": "2026-09-04",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-09-04"
+  "first_review": "2026-09-04",
+  "steam_tags": [
+   "Simulation",
+   "Funny",
+   "Sandbox",
+   "Physics",
+   "Comedy",
+   "Casual",
+   "Memes",
+   "Adventure",
+   "Cute",
+   "Action",
+   "Management",
+   "Satire",
+   "Singleplayer",
+   "Capitalism",
+   "Exploration"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3398110": {
   "name": "The Walking Trade",
@@ -2319,7 +5722,25 @@
   "release_date": "2026-03-05",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-03-05"
+  "first_review": "2026-03-05",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Economy",
+   "Post-apocalyptic",
+   "Sandbox",
+   "Building",
+   "Crafting",
+   "Capitalism",
+   "Survival",
+   "Immersive Sim",
+   "FPS",
+   "Base Building",
+   "Physics",
+   "Shooter",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2709570": {
   "name": "Supermarket Together",
@@ -2329,7 +5750,25 @@
   "release_date": "2024-08-09",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2024-08-09"
+  "first_review": "2024-08-09",
+  "steam_tags": [
+   "Simulation",
+   "Online Co-Op",
+   "Multiplayer",
+   "Free to Play",
+   "Management",
+   "Economy",
+   "Singleplayer",
+   "Life Sim",
+   "Trading",
+   "First-Person",
+   "Immersive Sim",
+   "Building",
+   "Capitalism",
+   "Sandbox",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4626940": {
   "name": "Scratch the Ticket",
@@ -2339,7 +5778,25 @@
   "release_date": "2026-08-13",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-08-13"
+  "first_review": "2026-08-13",
+  "steam_tags": [
+   "Gambling",
+   "Simulation",
+   "Idler",
+   "Incremental",
+   "Casual",
+   "Economy",
+   "Relaxing",
+   "3D",
+   "First-Person",
+   "Strategy",
+   "Resource Management",
+   "Management",
+   "Singleplayer",
+   "Capitalism",
+   "Logic"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4094120": {
   "name": "Microlandia",
@@ -2349,7 +5806,24 @@
   "release_date": "2025-12-03",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-12-04"
+  "first_review": "2025-12-04",
+  "steam_tags": [
+   "City Builder",
+   "Economy",
+   "Political Sim",
+   "Capitalism",
+   "Management",
+   "Resource Management",
+   "Simulation",
+   "Strategy",
+   "Voxel",
+   "Cozy",
+   "Relaxing",
+   "Retro",
+   "Building",
+   "Transportation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "453090": {
   "name": "Parkitect",
@@ -2359,7 +5833,25 @@
   "release_date": "2018-11-29",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2016-05-05"
+  "first_review": "2016-05-05",
+  "steam_tags": [
+   "Relaxing",
+   "Level Editor",
+   "Simulation",
+   "Management",
+   "Building",
+   "Strategy",
+   "Singleplayer",
+   "Economy",
+   "Retro",
+   "Family Friendly",
+   "Nostalgia",
+   "Time Management",
+   "Multiplayer",
+   "Isometric",
+   "City Builder"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4356780": {
   "name": "Screen Stocks",
@@ -2369,7 +5861,25 @@
   "release_date": "2026-10-27",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-27"
+  "first_review": "2026-10-27",
+  "steam_tags": [
+   "Incremental",
+   "Minimalist",
+   "Idler",
+   "1990's",
+   "Retro",
+   "Simulation",
+   "2D",
+   "Resource Management",
+   "Multiplayer",
+   "Management",
+   "Massively Multiplayer",
+   "Pixel Graphics",
+   "Singleplayer",
+   "Shop Keeper",
+   "Online Co-Op"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1937780": {
   "name": "Total War: PHARAOH",
@@ -2379,7 +5889,25 @@
   "release_date": "2023-10-11",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2023-10-11"
+  "first_review": "2023-10-11",
+  "steam_tags": [
+   "Strategy",
+   "RTS",
+   "Grand Strategy",
+   "Tactical",
+   "Action",
+   "War",
+   "Singleplayer",
+   "Multiplayer",
+   "Atmospheric",
+   "Turn-Based Strategy",
+   "PvP",
+   "Historical",
+   "4X",
+   "Capitalism",
+   "Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4381180": {
   "name": "Coin Harvest",
@@ -2389,7 +5917,25 @@
   "release_date": "2026-10-19",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-19"
+  "first_review": "2026-10-19",
+  "steam_tags": [
+   "Desktop Companion",
+   "Idler",
+   "Incremental",
+   "Automation",
+   "Management",
+   "Economy",
+   "Resource Management",
+   "Simulation",
+   "Casual",
+   "Relaxing",
+   "Physics",
+   "Arcade",
+   "3D",
+   "Isometric",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4156580": {
   "name": "Weed Supermarket Simulator",
@@ -2399,7 +5945,25 @@
   "release_date": "2026-08-12",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-04-09"
+  "first_review": "2026-04-09",
+  "steam_tags": [
+   "Simulation",
+   "Casual",
+   "Immersive Sim",
+   "Management",
+   "Sandbox",
+   "Farming Sim",
+   "Economy",
+   "Resource Management",
+   "Trading",
+   "Inventory Management",
+   "Capitalism",
+   "Realistic",
+   "Building",
+   "3D",
+   "First-Person"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4164900": {
   "name": "Gacha Capsule Shop Simulator - Akihabara",
@@ -2409,7 +5973,25 @@
   "release_date": "2026-06-08",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-06-08"
+  "first_review": "2026-06-08",
+  "steam_tags": [
+   "Simulation",
+   "Anime",
+   "Management",
+   "Economy",
+   "Collectathon",
+   "Capitalism",
+   "Casual",
+   "Life Sim",
+   "First-Person",
+   "3D",
+   "Early Access",
+   "Indie",
+   "Singleplayer",
+   "Shop Keeper",
+   "Automation"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1602000": {
   "name": "Hotel Architect",
@@ -2419,7 +6001,25 @@
   "release_date": "2026-05-14",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-05-20"
+  "first_review": "2025-05-20",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Building",
+   "City Builder",
+   "Casual",
+   "Sandbox",
+   "Decorating",
+   "Economy",
+   "Strategy",
+   "Relaxing",
+   "Singleplayer",
+   "3D",
+   "Capitalism",
+   "Family Friendly",
+   "Funny"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "3726250": {
   "name": "My Little Cafe Nightmare",
@@ -2429,7 +6029,25 @@
   "release_date": "2026-06-02",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-10-29"
+  "first_review": "2025-10-29",
+  "steam_tags": [
+   "Shop Keeper",
+   "Job Simulator",
+   "Capitalism",
+   "Simulation",
+   "Cozy",
+   "Crafting",
+   "Economy",
+   "Management",
+   "Cooking",
+   "Cleaning",
+   "Base Building",
+   "Building",
+   "Trading",
+   "First-Person",
+   "Decorating"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2659050": {
   "name": "Movies Tycoon",
@@ -2449,7 +6067,25 @@
   "release_date": "2025-05-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2025-05-16"
+  "first_review": "2025-05-16",
+  "steam_tags": [
+   "Shop Keeper",
+   "Sandbox",
+   "Economy",
+   "Management",
+   "First-Person",
+   "Open World",
+   "Team-Based",
+   "Casual",
+   "Simulation",
+   "Realistic",
+   "Resource Management",
+   "Co-op",
+   "Online Co-Op",
+   "Multiplayer",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "1874490": {
   "name": "Potionomics",
@@ -2459,7 +6095,25 @@
   "release_date": "2022-10-17",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2022-10-17"
+  "first_review": "2022-10-17",
+  "steam_tags": [
+   "Deckbuilding",
+   "Dating Sim",
+   "Capitalism",
+   "Simulation",
+   "Fantasy",
+   "Female Protagonist",
+   "Indie",
+   "RPG",
+   "Crafting",
+   "Resource Management",
+   "Card Game",
+   "Strategy",
+   "Management",
+   "Romance",
+   "Time Management"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "2085660": {
   "name": "Devices Tycoon",
@@ -2469,7 +6123,25 @@
   "release_date": "2026-10-16",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-10-16"
+  "first_review": "2026-10-16",
+  "steam_tags": [
+   "Simulation",
+   "Strategy",
+   "Sandbox",
+   "Capitalism",
+   "Realistic",
+   "Life Sim",
+   "RTS",
+   "Time Management",
+   "2D",
+   "Isometric",
+   "Trading",
+   "Management",
+   "Stylized",
+   "Game Development",
+   "Modern"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4668890": {
   "name": "Mall Together",
@@ -2479,7 +6151,25 @@
   "release_date": "2026-07-24",
   "coming_soon": false,
   "fetched": "2026-10-27",
-  "first_review": "2026-07-24"
+  "first_review": "2026-07-24",
+  "steam_tags": [
+   "Life Sim",
+   "Casual",
+   "Online Co-Op",
+   "Shop Keeper",
+   "Simulation",
+   "Management",
+   "Multiplayer",
+   "Design & Illustration",
+   "Organizing",
+   "Immersive Sim",
+   "First-Person",
+   "Realistic",
+   "Collectathon",
+   "Decorating",
+   "Capitalism"
+  ],
+  "tags_fetched": "2026-10-27"
  },
  "4508020": {
   "name": "Hole Is Mine",
@@ -2510,5 +6200,313 @@
   "coming_soon": false,
   "fetched": "2026-10-27",
   "first_review": "2015-06-05"
+ },
+ "4487060": {
+  "name": "Northgard Battlegrounds",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487060/9cc00535c9374b13057ca31385e9e34304a25699/header_alt_assets_4.jpg?t=1793111634",
+  "release_date": "2026-10-27",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-10-27",
+  "steam_tags": [
+   "Early Access",
+   "Strategy",
+   "Casual",
+   "Auto Battler",
+   "City Builder",
+   "Base Building",
+   "PvP",
+   "Singleplayer",
+   "Asynchronous Multiplayer",
+   "Simulation",
+   "Multiplayer",
+   "Fantasy",
+   "Roguelike",
+   "Tactical",
+   "Deckbuilding"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "784150": {
+  "name": "Workers & Resources: Soviet Republic",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg?t=1792743078",
+  "release_date": "2024-06-20",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2019-03-15",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Simulation",
+   "Base Building",
+   "Grand Strategy",
+   "Historical",
+   "Building",
+   "Management",
+   "Economy",
+   "Colony Sim",
+   "Sandbox",
+   "Resource Management",
+   "Open World",
+   "Survival",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "1509510": {
+  "name": "Settlement Survival",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/header.jpg?t=1790929457",
+  "release_date": "2022-10-24",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2021-10-11",
+  "steam_tags": [
+   "City Builder",
+   "Building",
+   "Colony Sim",
+   "Survival",
+   "Management",
+   "Simulation",
+   "Sandbox",
+   "Exploration",
+   "Strategy",
+   "Resource Management",
+   "Base Building",
+   "Indie",
+   "Medieval",
+   "Agriculture",
+   "Economy"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "2774040": {
+  "name": "The Boss Gangster: Criminal Empire",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774040/633657e57def1d539ef868eb0c8d10fa1102dc33/header_alt_assets_2.jpg?t=1793109032",
+  "release_date": "2026-10-27",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-10-31",
+  "steam_tags": [
+   "Management",
+   "Economy",
+   "Simulation",
+   "Sandbox",
+   "Resource Management",
+   "Action",
+   "RPG",
+   "Immersive Sim",
+   "3D",
+   "Strategy",
+   "Villain Protagonist",
+   "Open World",
+   "Crime",
+   "Character Customization",
+   "Combat"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "3375110": {
+  "name": "Tiny Eden",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/5eeea4916eb09d7e1c58550beb2319fda88c07a0/header_alt_assets_0.jpg?t=1792757419",
+  "release_date": "2026-09-07",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-09-07",
+  "steam_tags": [
+   "Relaxing",
+   "Simulation",
+   "Cozy",
+   "Singleplayer",
+   "Casual",
+   "Farming Sim",
+   "Sandbox",
+   "Life Sim",
+   "Indie",
+   "Crafting",
+   "Cute",
+   "Family Friendly",
+   "3D",
+   "Atmospheric",
+   "Nature"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "1366540": {
+  "name": "Dyson Sphere Program",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/2521472f3f71b6f179515fdcfa33d27c212ba3ce/header.jpg?t=1776523171",
+  "release_date": "2021-01-20",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2021-01-21",
+  "steam_tags": [
+   "Automation",
+   "Space",
+   "Base Building",
+   "Building",
+   "Resource Management",
+   "Open World",
+   "Simulation",
+   "Sci-fi",
+   "Management",
+   "Sandbox",
+   "Strategy",
+   "City Builder",
+   "Singleplayer",
+   "Space Sim",
+   "3D"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "2237970": {
+  "name": "Outpath",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237970/66166b038702e2f1884209d94606d2a15945272b/header.jpg?t=1792598092",
+  "release_date": "2023-10-16",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2023-10-16",
+  "steam_tags": [
+   "Automation",
+   "Base Building",
+   "Crafting",
+   "Sandbox",
+   "Resource Management",
+   "Co-op",
+   "Incremental",
+   "Online Co-Op",
+   "First-Person",
+   "Exploration",
+   "Multiplayer",
+   "Simulation",
+   "Building",
+   "Relaxing",
+   "Idler"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "3622640": {
+  "name": "Vending Machine Co.",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3622640/9fab777cd6936df8ed5c7d518e312fe10487435b/header.jpg?t=1791447483",
+  "release_date": "2026-04-25",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2026-04-25",
+  "steam_tags": [
+   "Job Simulator",
+   "Wholesome",
+   "Simulation",
+   "Casual",
+   "Anime",
+   "Cozy",
+   "Management",
+   "Organizing",
+   "Colorful",
+   "Inventory Management",
+   "Economy",
+   "Shop Keeper",
+   "Relaxing",
+   "Idler",
+   "Cute"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "3467040": {
+  "name": "Bookshop Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467040/2d2a4d580acb178c1478cdd23d3630a1a4245ebc/header_alt_assets_1.jpg?t=1784578538",
+  "release_date": "2026-07-20",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-09-16",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Economy",
+   "Singleplayer",
+   "Trading",
+   "Parody",
+   "Cozy",
+   "Capitalism",
+   "Cats",
+   "Funny",
+   "Life Sim",
+   "3D",
+   "Immersive Sim",
+   "First-Person",
+   "Colorful"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "3180150": {
+  "name": "Mall Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/23bfd0f0136ae49c12b1221a3cd8a057f80654ce/header.jpg?t=1773323848",
+  "release_date": "2025-11-03",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-11-03",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Economy",
+   "Capitalism",
+   "Immersive Sim",
+   "Life Sim",
+   "Trading",
+   "Resource Management",
+   "Singleplayer",
+   "First-Person",
+   "Casual",
+   "Building",
+   "Inventory Management",
+   "Sandbox",
+   "Relaxing"
+  ],
+  "tags_fetched": "2026-10-27"
+ },
+ "3524750": {
+  "name": "Tabletop Game Shop Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524750/57217e9101536355f55a06ebb69120dc96e4174e/header.jpg?t=1779978104",
+  "release_date": "2026-05-28",
+  "coming_soon": false,
+  "fetched": "2026-10-27",
+  "first_review": "2025-11-12",
+  "steam_tags": [
+   "Simulation",
+   "Shop Keeper",
+   "Collectathon",
+   "Immersive Sim",
+   "Management",
+   "Capitalism",
+   "Job Simulator",
+   "Life Sim",
+   "First-Person",
+   "3D",
+   "Fantasy",
+   "Automation",
+   "Resource Management",
+   "Inventory Management",
+   "Early Access"
+  ],
+  "tags_fetched": "2026-10-27"
  }
 }
