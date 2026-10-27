@@ -97,8 +97,7 @@ class Steam:
         tags = self.get_json(f"{STORE}/tagdata/populartags/english") or []
         by_name = {t["name"].lower(): t["tagid"] for t in tags}
         out = {}
-        for e in entries:
-            name, parts = (e, [e]) if isinstance(e, str) else (e["name"], e["steam_tags"])
+        for name, parts in self._searches(entries):
             ids = []
             for p in parts:
                 tid = by_name.get(p.lower())
@@ -107,8 +106,23 @@ class Steam:
                     break
                 ids.append(str(tid))
             else:
-                out[name] = ",".join(ids)    # Steam search treats a list as "all of these"
+                # Steam search treats a list of tag IDs as "all of these".
+                # A custom genre with several rules gets one search per rule.
+                key = name if name not in out else f"{name} #{sum(k.startswith(name) for k in out) + 1}"
+                out[key] = ",".join(ids)
         return out
+
+    @staticmethod
+    def _searches(entries: list) -> list[tuple[str, list[str]]]:
+        found = []
+        for e in entries:
+            if isinstance(e, str):
+                found.append((e, [e]))
+            elif e.get("any_of"):
+                found += [(e["name"], rule["steam_tags"]) for rule in e["any_of"]]
+            else:
+                found.append((e["name"], e["steam_tags"]))
+        return found
 
     def top_games_for_tag(self, tag_id: str, count: int) -> list[tuple[int, str]]:
         games: list[tuple[int, str]] = []
@@ -436,7 +450,9 @@ def main() -> int:
         log(f"  {name}: {len(found)} games")
         for appid, title in found:
             g = games.setdefault(appid, {"name": title, "tags": []})
-            g["tags"].append(name)
+            genre = name.split(" #")[0]
+            if genre not in g["tags"]:
+                g["tags"].append(genre)
     for appid in cfg.get("extra_appids", []):
         games.setdefault(int(appid), {"name": None, "tags": ["Extra"]})
     for appid in exclude:
@@ -554,7 +570,7 @@ def main() -> int:
         "reviews_per_game": target,
         "heavy_player_hours": heavy,
         "age_peers": int(cfg.get("age_peers", 30)),
-        "tags": list(tag_ids.keys()),
+        "tags": [e if isinstance(e, str) else e["name"] for e in cfg.get("tags", [])],
         "review_endpoint": steam.review_endpoint,
         "games": results,
     })
