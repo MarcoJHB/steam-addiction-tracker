@@ -1,0 +1,104 @@
+{
+ "generated_at": "2026-10-28T13:48:56+00:00",
+ "release_cutoff": "2016-10-28",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 1129580,
+   "name": "Medieval Dynasty",
+   "tags": [
+    "Building",
+    "Crafting",
+    "Multiplayer",
+    "Medieval",
+    "Survival",
+    "Co-op",
+    "Open World",
+    "Base Building",
+    "Sandbox",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2021-09-23",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1792138818",
+   "first_review": "2020-09-17",
+   "status": "ranked",
+   "total_reviews": 52835,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 143.4,
+   "median": 57.7,
+   "p90": 260.8,
+   "max": 8183.3,
+   "avg_at_review": 123.7,
+   "median_at_review": 41.9,
+   "median_after_review": 6.9,
+   "avg_last_2w": 17.5,
+   "active_pct": 62.2,
+   "heavy_pct": 30.8,
+   "recommended_pct": 84.8,
+   "sample_span_days": 35.0,
+   "score": 93.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 8
+    },
+    {
+     "label": "2-10",
+     "count": 41
+    },
+    {
+     "label": "10-25",
+     "count": 76
+    },
+    {
+     "label": "25-50",
+     "count": 96
+    },
+    {
+     "label": "50-100",
+     "count": 125
+    },
+    {
+     "label": "100-250",
+     "count": 98
+    },
+    {
+     "label": "250-500",
+     "count": 30
+    },
+    {
+     "label": "500-1000",
+     "count": 16
+    },
+    {
+     "label": "1000+",
+     "count": 10
+    }
+   ],
+   "players_now": 2477
+  }
+ ],
+ "excluded": []
+}
