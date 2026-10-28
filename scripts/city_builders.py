@@ -52,6 +52,8 @@ def main() -> int:
     ap.add_argument("--min-reviews", type=int, default=100)
     ap.add_argument("--extra", default="", help="comma-separated app IDs to add to the pool")
     ap.add_argument("--only-extra", action="store_true", help="skip the top-seller pool, only measure --extra")
+    ap.add_argument("--label", default="", help="suffix for the output file name")
+    ap.add_argument("--force-extra", action="store_true", help="with --only-extra: measure the games even if they fail the tag rule")
     args = ap.parse_args()
 
     steam = collect.Steam(delay=0.6)
@@ -75,9 +77,9 @@ def main() -> int:
         top5 = tags[:5]
         core = next((t for t in top5 if t in CORE), None)
         banned = [t for t in top5 if t in BANNED]
-        rec = {"appid": appid, "name": title, "tags": tags, "core_tag": core,
+        rec = {"appid": appid, "name": title, "tags": tags, "core_tag": core or "(hand-picked)",
                "core_pos": top5.index(core) + 1 if core else None, "banned": banned}
-        if not core or banned:
+        if (not core or banned) and not (args.only_extra and args.force_extra):
             rec["status"] = "excluded: " + (", ".join(banned) + " in top 5 tags" if banned else "no City Builder/Colony Sim in top 5 tags")
             out.append(rec)
             continue
@@ -111,7 +113,7 @@ def main() -> int:
         collect.log(f"[{i}/{len(pool)}] {rec['name']}: avg {stats['avg']}h, median {stats['median']}h, max {stats['max']}h")
 
     OUT_DIR.mkdir(exist_ok=True)
-    path = OUT_DIR / f"city-builders-{collect.today()}{'-extra' if args.only_extra else ''}.json"
+    path = OUT_DIR / f"city-builders-{collect.today()}{('-' + args.label) if args.label else ('-extra' if args.only_extra else '')}.json"
     ranked = sorted((r for r in out if r["status"] == "ranked"), key=lambda r: -r["avg"])
     rest = [r for r in out if r["status"] != "ranked"]
     path.write_text(json.dumps({
