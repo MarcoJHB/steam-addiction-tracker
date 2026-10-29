@@ -1,0 +1,1663 @@
+{
+ "generated_at": "2026-10-29T09:36:30+00:00",
+ "release_cutoff": "2016-10-28",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 1594320,
+   "name": "Captain of Industry",
+   "tags": [
+    "Automation",
+    "Resource Management",
+    "Base Building",
+    "Simulation",
+    "Strategy",
+    "Economy",
+    "Management",
+    "Building",
+    "City Builder",
+    "Early Access"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-05-31",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594320/9a604b771ff99f83f21020ac2c0a2a54a7d18627/header.jpg?t=1784572847",
+   "first_review": "2022-05-31",
+   "status": "ranked",
+   "total_reviews": 11785,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 304.8,
+   "median": 127.5,
+   "p90": 767.3,
+   "max": 5816.9,
+   "avg_at_review": 242.0,
+   "median_at_review": 75.8,
+   "median_after_review": 19.0,
+   "avg_last_2w": 12.8,
+   "active_pct": 41.2,
+   "heavy_pct": 56.8,
+   "recommended_pct": 89.8,
+   "sample_span_days": 92.0,
+   "score": 180.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 21
+    },
+    {
+     "label": "10-25",
+     "count": 37
+    },
+    {
+     "label": "25-50",
+     "count": 59
+    },
+    {
+     "label": "50-100",
+     "count": 87
+    },
+    {
+     "label": "100-250",
+     "count": 124
+    },
+    {
+     "label": "250-500",
+     "count": 71
+    },
+    {
+     "label": "500-1000",
+     "count": 49
+    },
+    {
+     "label": "1000+",
+     "count": 40
+    }
+   ],
+   "players_now": 1586
+  },
+  {
+   "appid": 544550,
+   "name": "Stationeers",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Automation",
+    "Survival",
+    "Physics",
+    "Colony Sim",
+    "Logic",
+    "Building",
+    "Sandbox",
+    "Crafting"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2017-12-12",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544550/header.jpg?t=1787270003",
+   "first_review": "2017-12-12",
+   "status": "ranked",
+   "total_reviews": 9349,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 295.2,
+   "median": 148.0,
+   "p90": 675.4,
+   "max": 5970.1,
+   "avg_at_review": 229.5,
+   "median_at_review": 90.5,
+   "median_after_review": 24.9,
+   "avg_last_2w": 5.4,
+   "active_pct": 24.4,
+   "heavy_pct": 59.6,
+   "recommended_pct": 90.0,
+   "sample_span_days": 217.9,
+   "score": 184.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 15
+    },
+    {
+     "label": "2-10",
+     "count": 32
+    },
+    {
+     "label": "10-25",
+     "count": 29
+    },
+    {
+     "label": "25-50",
+     "count": 39
+    },
+    {
+     "label": "50-100",
+     "count": 87
+    },
+    {
+     "label": "100-250",
+     "count": 134
+    },
+    {
+     "label": "250-500",
+     "count": 85
+    },
+    {
+     "label": "500-1000",
+     "count": 55
+    },
+    {
+     "label": "1000+",
+     "count": 24
+    }
+   ],
+   "players_now": 199
+  },
+  {
+   "appid": 955900,
+   "name": "Amazing Cultivation Simulator",
+   "tags": [
+    "Simulation",
+    "Martial Arts",
+    "Sandbox",
+    "RPG",
+    "Strategy",
+    "Xianxia",
+    "Mythology",
+    "Colony Sim",
+    "Survival",
+    "Wuxia"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2020-11-24",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955900/header.jpg?t=1774513735",
+   "first_review": "2019-01-11",
+   "status": "ranked",
+   "total_reviews": 23655,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 237.1,
+   "median": 113.0,
+   "p90": 602.6,
+   "max": 4401.1,
+   "avg_at_review": 194.7,
+   "median_at_review": 74.4,
+   "median_after_review": 4.4,
+   "avg_last_2w": 3.3,
+   "active_pct": 13.4,
+   "heavy_pct": 51.8,
+   "recommended_pct": 79.0,
+   "sample_span_days": 368.7,
+   "score": 128.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 24
+    },
+    {
+     "label": "2-10",
+     "count": 40
+    },
+    {
+     "label": "10-25",
+     "count": 47
+    },
+    {
+     "label": "25-50",
+     "count": 51
+    },
+    {
+     "label": "50-100",
+     "count": 79
+    },
+    {
+     "label": "100-250",
+     "count": 118
+    },
+    {
+     "label": "250-500",
+     "count": 75
+    },
+    {
+     "label": "500-1000",
+     "count": 45
+    },
+    {
+     "label": "1000+",
+     "count": 21
+    }
+   ],
+   "players_now": 353
+  },
+  {
+   "appid": 1700870,
+   "name": "Clanfolk",
+   "tags": [
+    "Farming Sim",
+    "Pixel Graphics",
+    "Life Sim",
+    "RPG",
+    "Relaxing",
+    "Simulation",
+    "Agriculture",
+    "Crafting",
+    "Sandbox",
+    "Colony Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-07-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700870/header.jpg?t=1792743532",
+   "first_review": "2022-07-14",
+   "status": "ranked",
+   "total_reviews": 4096,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 214.8,
+   "median": 85.6,
+   "p90": 463.8,
+   "max": 4110.6,
+   "avg_at_review": 165.8,
+   "median_at_review": 57.0,
+   "median_after_review": 15.7,
+   "avg_last_2w": 2.5,
+   "active_pct": 16.4,
+   "heavy_pct": 46.0,
+   "recommended_pct": 92.0,
+   "sample_span_days": 279.7,
+   "score": 99.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 20
+    },
+    {
+     "label": "2-10",
+     "count": 21
+    },
+    {
+     "label": "10-25",
+     "count": 41
+    },
+    {
+     "label": "25-50",
+     "count": 83
+    },
+    {
+     "label": "50-100",
+     "count": 105
+    },
+    {
+     "label": "100-250",
+     "count": 129
+    },
+    {
+     "label": "250-500",
+     "count": 57
+    },
+    {
+     "label": "500-1000",
+     "count": 26
+    },
+    {
+     "label": "1000+",
+     "count": 18
+    }
+   ],
+   "players_now": 153
+  },
+  {
+   "appid": 233860,
+   "name": "Kenshi",
+   "tags": [
+    "Open World",
+    "Sandbox",
+    "Survival",
+    "RPG",
+    "Strategy RPG",
+    "Immersive Sim",
+    "Post-apocalyptic",
+    "Simulation",
+    "Crafting",
+    "Samurai"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2018-12-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/fa72ac8a032fd876780cd5b554e4c03b4976ef74/header.jpg?t=1779293333",
+   "first_review": "2013-03-21",
+   "status": "ranked",
+   "total_reviews": 117719,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 192.8,
+   "median": 88.5,
+   "p90": 433.7,
+   "max": 5064.6,
+   "avg_at_review": 175.7,
+   "median_at_review": 66.1,
+   "median_after_review": 6.3,
+   "avg_last_2w": 25.9,
+   "active_pct": 79.6,
+   "heavy_pct": 46.4,
+   "recommended_pct": 94.8,
+   "sample_span_days": 18.4,
+   "score": 159.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 29
+    },
+    {
+     "label": "10-25",
+     "count": 49
+    },
+    {
+     "label": "25-50",
+     "count": 80
+    },
+    {
+     "label": "50-100",
+     "count": 98
+    },
+    {
+     "label": "100-250",
+     "count": 136
+    },
+    {
+     "label": "250-500",
+     "count": 56
+    },
+    {
+     "label": "500-1000",
+     "count": 21
+    },
+    {
+     "label": "1000+",
+     "count": 19
+    }
+   ],
+   "players_now": 2973
+  },
+  {
+   "appid": 1324130,
+   "name": "Stranded: Alien Dawn",
+   "tags": [
+    "Base Building",
+    "Survival",
+    "Simulation",
+    "Strategy",
+    "Crafting",
+    "Colony Sim",
+    "3D",
+    "Combat",
+    "Management",
+    "Hunting"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2023-04-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/header.jpg?t=1759746262",
+   "first_review": "2022-10-12",
+   "status": "ranked",
+   "total_reviews": 11474,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 185.6,
+   "median": 70.4,
+   "p90": 414.1,
+   "max": 4050.2,
+   "avg_at_review": 149.6,
+   "median_at_review": 44.8,
+   "median_after_review": 6.6,
+   "avg_last_2w": 5.2,
+   "active_pct": 17.0,
+   "heavy_pct": 37.8,
+   "recommended_pct": 73.0,
+   "sample_span_days": 169.1,
+   "score": 82.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 19
+    },
+    {
+     "label": "2-10",
+     "count": 36
+    },
+    {
+     "label": "10-25",
+     "count": 68
+    },
+    {
+     "label": "25-50",
+     "count": 83
+    },
+    {
+     "label": "50-100",
+     "count": 105
+    },
+    {
+     "label": "100-250",
+     "count": 93
+    },
+    {
+     "label": "250-500",
+     "count": 50
+    },
+    {
+     "label": "500-1000",
+     "count": 25
+    },
+    {
+     "label": "1000+",
+     "count": 21
+    }
+   ],
+   "players_now": 360
+  },
+  {
+   "appid": 1066780,
+   "name": "Transport Fever 2",
+   "tags": [
+    "Simulation",
+    "Strategy",
+    "Management",
+    "Transportation",
+    "Trains",
+    "City Builder",
+    "Economy",
+    "Sandbox",
+    "Building",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2019-12-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066780/header.jpg?t=1727104059",
+   "first_review": "2019-12-11",
+   "status": "ranked",
+   "total_reviews": 33406,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 168.9,
+   "median": 57.4,
+   "p90": 307.7,
+   "max": 4859.9,
+   "avg_at_review": 153.8,
+   "median_at_review": 40.4,
+   "median_after_review": 5.2,
+   "avg_last_2w": 10.3,
+   "active_pct": 53.0,
+   "heavy_pct": 30.6,
+   "recommended_pct": 87.6,
+   "sample_span_days": 32.9,
+   "score": 87.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 32
+    },
+    {
+     "label": "10-25",
+     "count": 73
+    },
+    {
+     "label": "25-50",
+     "count": 112
+    },
+    {
+     "label": "50-100",
+     "count": 114
+    },
+    {
+     "label": "100-250",
+     "count": 87
+    },
+    {
+     "label": "250-500",
+     "count": 33
+    },
+    {
+     "label": "500-1000",
+     "count": 19
+    },
+    {
+     "label": "1000+",
+     "count": 14
+    }
+   ],
+   "players_now": 2059
+  },
+  {
+   "appid": 466560,
+   "name": "Northgard: Definitive Edition",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "RTS",
+    "Simulation",
+    "Base Building",
+    "Multiplayer",
+    "Colony Sim",
+    "Building",
+    "Economy",
+    "Tactical"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "release_date": "2018-03-07",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/7989bec670ec7ada9a19803e89c29cc0fb6aa5d5/header_alt_assets_19.jpg?t=1791289604",
+   "first_review": "2017-02-22",
+   "status": "ranked",
+   "total_reviews": 68911,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 162.6,
+   "median": 53.3,
+   "p90": 431.9,
+   "max": 3460.7,
+   "avg_at_review": 144.9,
+   "median_at_review": 39.7,
+   "median_after_review": 3.2,
+   "avg_last_2w": 4.1,
+   "active_pct": 32.0,
+   "heavy_pct": 35.8,
+   "recommended_pct": 69.4,
+   "sample_span_days": 94.3,
+   "score": 70.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 18
+    },
+    {
+     "label": "2-10",
+     "count": 60
+    },
+    {
+     "label": "10-25",
+     "count": 91
+    },
+    {
+     "label": "25-50",
+     "count": 67
+    },
+    {
+     "label": "50-100",
+     "count": 85
+    },
+    {
+     "label": "100-250",
+     "count": 90
+    },
+    {
+     "label": "250-500",
+     "count": 49
+    },
+    {
+     "label": "500-1000",
+     "count": 25
+    },
+    {
+     "label": "1000+",
+     "count": 15
+    }
+   ],
+   "players_now": 913
+  },
+  {
+   "appid": 1054510,
+   "name": "Survivalist: Invisible Strain",
+   "tags": [
+    "Open World Survival Craft",
+    "Colony Sim",
+    "RPG",
+    "RTS",
+    "Base Building",
+    "Post-apocalyptic",
+    "Third Person",
+    "Action",
+    "Character Customization",
+    "Choices Matter"
+   ],
+   "core_tag": "Colony Sim",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "release_date": "2025-04-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054510/b5fa4e6e32fbd38f0c269077533b40e8381f44bd/header.jpg?t=1787147810",
+   "first_review": "2020-06-01",
+   "status": "ranked",
+   "total_reviews": 4620,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 103.6,
+   "median": 55.2,
+   "p90": 251.5,
+   "max": 2285.8,
+   "avg_at_review": 65.2,
+   "median_at_review": 27.4,
+   "median_after_review": 9.7,
+   "avg_last_2w": 3.9,
+   "active_pct": 15.2,
+   "heavy_pct": 29.6,
+   "recommended_pct": 81.8,
+   "sample_span_days": 237.6,
+   "score": 63.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 39
+    },
+    {
+     "label": "2-10",
+     "count": 48
+    },
+    {
+     "label": "10-25",
+     "count": 66
+    },
+    {
+     "label": "25-50",
+     "count": 78
+    },
+    {
+     "label": "50-100",
+     "count": 121
+    },
+    {
+     "label": "100-250",
+     "count": 97
+    },
+    {
+     "label": "250-500",
+     "count": 41
+    },
+    {
+     "label": "500-1000",
+     "count": 7
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 136
+  },
+  {
+   "appid": 1643310,
+   "name": "Dungeons 4",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "RTS",
+    "Strategy RPG",
+    "Real Time Tactics",
+    "Co-op",
+    "Online Co-Op",
+    "Multiplayer",
+    "PvE"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "release_date": "2023-11-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643310/header.jpg?t=1786957609",
+   "first_review": "2023-11-09",
+   "status": "ranked",
+   "total_reviews": 3355,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 85.6,
+   "median": 44.0,
+   "p90": 156.7,
+   "max": 5786.2,
+   "avg_at_review": 60.5,
+   "median_at_review": 30.4,
+   "median_after_review": 5.9,
+   "avg_last_2w": 1.0,
+   "active_pct": 7.4,
+   "heavy_pct": 20.6,
+   "recommended_pct": 75.6,
+   "sample_span_days": 433.0,
+   "score": 47.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 17
+    },
+    {
+     "label": "2-10",
+     "count": 32
+    },
+    {
+     "label": "10-25",
+     "count": 84
+    },
+    {
+     "label": "25-50",
+     "count": 152
+    },
+    {
+     "label": "50-100",
+     "count": 112
+    },
+    {
+     "label": "100-250",
+     "count": 78
+    },
+    {
+     "label": "250-500",
+     "count": 18
+    },
+    {
+     "label": "500-1000",
+     "count": 5
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "players_now": 72
+  },
+  {
+   "appid": 1857080,
+   "name": "The Last Starship",
+   "tags": [
+    "Space",
+    "Simulation",
+    "Building",
+    "Strategy",
+    "Sandbox",
+    "Sci-fi",
+    "Base Building",
+    "Singleplayer",
+    "Management",
+    "Colony Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-02-03",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857080/header.jpg?t=1781879350",
+   "first_review": "2023-02-15",
+   "status": "ranked",
+   "total_reviews": 1715,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 69.4,
+   "median": 37.3,
+   "p90": 150.7,
+   "max": 1445.7,
+   "avg_at_review": 42.7,
+   "median_at_review": 22.1,
+   "median_after_review": 4.9,
+   "avg_last_2w": 1.3,
+   "active_pct": 9.8,
+   "heavy_pct": 17.2,
+   "recommended_pct": 74.8,
+   "sample_span_days": 250.6,
+   "score": 40.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 21
+    },
+    {
+     "label": "2-10",
+     "count": 63
+    },
+    {
+     "label": "10-25",
+     "count": 99
+    },
+    {
+     "label": "25-50",
+     "count": 120
+    },
+    {
+     "label": "50-100",
+     "count": 111
+    },
+    {
+     "label": "100-250",
+     "count": 59
+    },
+    {
+     "label": "250-500",
+     "count": 19
+    },
+    {
+     "label": "500-1000",
+     "count": 7
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 75
+  },
+  {
+   "appid": 1272320,
+   "name": "Diplomacy is Not an Option",
+   "tags": [
+    "Resource Management",
+    "Medieval",
+    "Historical",
+    "Zombies",
+    "Base Building",
+    "Colony Sim",
+    "RTS",
+    "Difficult",
+    "Survival",
+    "Action RTS"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2024-10-04",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/4edf2d1ccc30f555fe41731fb8f442989307a310/header_alt_assets_8.jpg?t=1790874354",
+   "first_review": "2022-02-09",
+   "status": "ranked",
+   "total_reviews": 12822,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 66.4,
+   "median": 42.3,
+   "p90": 135.8,
+   "max": 896.9,
+   "avg_at_review": 49.1,
+   "median_at_review": 27.6,
+   "median_after_review": 4.8,
+   "avg_last_2w": 3.0,
+   "active_pct": 27.6,
+   "heavy_pct": 19.0,
+   "recommended_pct": 85.0,
+   "sample_span_days": 96.8,
+   "score": 54.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 52
+    },
+    {
+     "label": "10-25",
+     "count": 91
+    },
+    {
+     "label": "25-50",
+     "count": 136
+    },
+    {
+     "label": "50-100",
+     "count": 113
+    },
+    {
+     "label": "100-250",
+     "count": 78
+    },
+    {
+     "label": "250-500",
+     "count": 11
+    },
+    {
+     "label": "500-1000",
+     "count": 6
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 341
+  },
+  {
+   "appid": 1455840,
+   "name": "Dorfromantik",
+   "tags": [
+    "Puzzle",
+    "Relaxing",
+    "City Builder",
+    "Casual",
+    "Turn-Based Strategy",
+    "Board Game",
+    "Strategy",
+    "Sandbox",
+    "Resource Management",
+    "Simulation"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 3,
+   "banned": [
+    "Turn-Based Strategy"
+   ],
+   "release_date": "2022-04-28",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/header.jpg?t=1786951108",
+   "first_review": "2021-03-25",
+   "status": "ranked",
+   "total_reviews": 29717,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 63.2,
+   "median": 18.5,
+   "p90": 118.4,
+   "max": 3183.5,
+   "avg_at_review": 53.6,
+   "median_at_review": 13.0,
+   "median_after_review": 1.3,
+   "avg_last_2w": 1.7,
+   "active_pct": 23.0,
+   "heavy_pct": 12.4,
+   "recommended_pct": 93.8,
+   "sample_span_days": 139.2,
+   "score": 22.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 26
+    },
+    {
+     "label": "2-10",
+     "count": 140
+    },
+    {
+     "label": "10-25",
+     "count": 131
+    },
+    {
+     "label": "25-50",
+     "count": 83
+    },
+    {
+     "label": "50-100",
+     "count": 58
+    },
+    {
+     "label": "100-250",
+     "count": 35
+    },
+    {
+     "label": "250-500",
+     "count": 18
+    },
+    {
+     "label": "500-1000",
+     "count": 5
+    },
+    {
+     "label": "1000+",
+     "count": 4
+    }
+   ],
+   "players_now": 248
+  },
+  {
+   "appid": 3052730,
+   "name": "Here Comes The Swarm",
+   "tags": [
+    "Early Access",
+    "Strategy",
+    "Survival",
+    "Base Building",
+    "RTS",
+    "Colony Sim",
+    "Resource Management",
+    "Real-Time with Pause",
+    "Action RTS",
+    "Tower Defense"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "release_date": "2026-03-05",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/0a29e0af9359705894c9b1bf7c483721af2ee619/header.jpg?t=1793208341",
+   "first_review": "2026-03-05",
+   "status": "ranked",
+   "total_reviews": 390,
+   "review_score_desc": "Very Positive",
+   "sample": 390,
+   "avg": 54.1,
+   "median": 25.4,
+   "p90": 121.7,
+   "max": 999.4,
+   "avg_at_review": 26.5,
+   "median_at_review": 10.0,
+   "median_after_review": 8.4,
+   "avg_last_2w": 1.0,
+   "active_pct": 11.3,
+   "heavy_pct": 13.6,
+   "recommended_pct": 85.9,
+   "sample_span_days": 235.9,
+   "score": 28.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 33
+    },
+    {
+     "label": "2-10",
+     "count": 73
+    },
+    {
+     "label": "10-25",
+     "count": 87
+    },
+    {
+     "label": "25-50",
+     "count": 91
+    },
+    {
+     "label": "50-100",
+     "count": 53
+    },
+    {
+     "label": "100-250",
+     "count": 39
+    },
+    {
+     "label": "250-500",
+     "count": 10
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 49
+  },
+  {
+   "appid": 2213700,
+   "name": "Sintopia",
+   "tags": [
+    "Management",
+    "God Game",
+    "Automation",
+    "Simulation",
+    "Base Building",
+    "Resource Management",
+    "1980s",
+    "Dark Humor",
+    "Strategy",
+    "City Builder"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-04-16",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/e0ec26bd058154ce1e7a24e2e0d4ffcc90fe731d/header.jpg?t=1785921001",
+   "first_review": "2026-04-16",
+   "status": "ranked",
+   "total_reviews": 1116,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 51.8,
+   "median": 33.3,
+   "p90": 113.0,
+   "max": 698.9,
+   "avg_at_review": 32.7,
+   "median_at_review": 23.6,
+   "median_after_review": 3.0,
+   "avg_last_2w": 0.6,
+   "active_pct": 5.6,
+   "heavy_pct": 10.8,
+   "recommended_pct": 78.4,
+   "sample_span_days": 178.9,
+   "score": 35.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 28
+    },
+    {
+     "label": "2-10",
+     "count": 55
+    },
+    {
+     "label": "10-25",
+     "count": 113
+    },
+    {
+     "label": "25-50",
+     "count": 147
+    },
+    {
+     "label": "50-100",
+     "count": 103
+    },
+    {
+     "label": "100-250",
+     "count": 39
+    },
+    {
+     "label": "250-500",
+     "count": 11
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 34
+  },
+  {
+   "appid": 803050,
+   "name": "Per Aspera",
+   "tags": [
+    "Online Co-Op",
+    "Real-Time",
+    "Management",
+    "Strategy",
+    "Base Building",
+    "Automation",
+    "City Builder",
+    "Colony Sim",
+    "Moddable",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2020-12-03",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803050/header.jpg?t=1776065690",
+   "first_review": "2020-12-03",
+   "status": "ranked",
+   "total_reviews": 5794,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 47.0,
+   "median": 27.7,
+   "p90": 106.9,
+   "max": 511.0,
+   "avg_at_review": 36.3,
+   "median_at_review": 22.9,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.4,
+   "active_pct": 3.4,
+   "heavy_pct": 11.2,
+   "recommended_pct": 76.6,
+   "sample_span_days": 668.5,
+   "score": 28.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 18
+    },
+    {
+     "label": "2-10",
+     "count": 54
+    },
+    {
+     "label": "10-25",
+     "count": 147
+    },
+    {
+     "label": "25-50",
+     "count": 135
+    },
+    {
+     "label": "50-100",
+     "count": 90
+    },
+    {
+     "label": "100-250",
+     "count": 47
+    },
+    {
+     "label": "250-500",
+     "count": 7
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 31
+  },
+  {
+   "appid": 2461280,
+   "name": "Lessaria: Fantasy Kingdom Sim",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "City Builder",
+    "Simulation",
+    "Colony Sim",
+    "Management",
+    "Fantasy",
+    "Tower Defense",
+    "RPG",
+    "Sandbox"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "release_date": "2025-10-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/f342966fff3d1a892a020c9ebfd2e96433947f74/header.jpg?t=1785339330",
+   "first_review": "2025-10-20",
+   "status": "ranked",
+   "total_reviews": 3098,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 20.3,
+   "median": 17.7,
+   "p90": 35.6,
+   "max": 158.5,
+   "avg_at_review": 14.6,
+   "median_at_review": 11.5,
+   "median_after_review": 1.3,
+   "avg_last_2w": 0.6,
+   "active_pct": 8.0,
+   "heavy_pct": 1.0,
+   "recommended_pct": 75.8,
+   "sample_span_days": 208.5,
+   "score": 19.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 27
+    },
+    {
+     "label": "2-10",
+     "count": 95
+    },
+    {
+     "label": "10-25",
+     "count": 242
+    },
+    {
+     "label": "25-50",
+     "count": 115
+    },
+    {
+     "label": "50-100",
+     "count": 16
+    },
+    {
+     "label": "100-250",
+     "count": 5
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 28
+  },
+  {
+   "appid": 1134100,
+   "name": "Frozenheim",
+   "tags": [
+    "Economy",
+    "Resource Management",
+    "Base Building",
+    "Co-op",
+    "PvP",
+    "Online Co-Op",
+    "Vikings",
+    "Colony Sim",
+    "Simulation",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-06-16",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/header.jpg?t=1790098076",
+   "first_review": "2021-05-20",
+   "status": "ranked",
+   "total_reviews": 3935,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 16.5,
+   "median": 9.1,
+   "p90": 36.2,
+   "max": 343.6,
+   "avg_at_review": 12.8,
+   "median_at_review": 6.8,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.2,
+   "active_pct": 2.0,
+   "heavy_pct": 0.4,
+   "recommended_pct": 60.6,
+   "sample_span_days": 678.2,
+   "score": 9.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 61
+    },
+    {
+     "label": "2-10",
+     "count": 205
+    },
+    {
+     "label": "10-25",
+     "count": 137
+    },
+    {
+     "label": "25-50",
+     "count": 68
+    },
+    {
+     "label": "50-100",
+     "count": 27
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 15
+  },
+  {
+   "appid": 3179120,
+   "name": "Monastery: Ora et Labora",
+   "tags": [
+    "Early Access",
+    "Management",
+    "Simulation",
+    "Building",
+    "Sandbox",
+    "Colony Sim",
+    "Resource Management",
+    "Base Building",
+    "Medieval",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-09-24",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179120/cdc60046c2fcc2426b21947549b2375a108c4582/header.jpg?t=1790951736",
+   "first_review": "2026-09-24",
+   "status": "ranked",
+   "total_reviews": 138,
+   "review_score_desc": "Very Positive",
+   "sample": 138,
+   "avg": 15.0,
+   "median": 9.3,
+   "p90": 29.6,
+   "max": 116.2,
+   "avg_at_review": 8.7,
+   "median_at_review": 6.7,
+   "median_after_review": 1.3,
+   "avg_last_2w": 2.1,
+   "active_pct": 23.2,
+   "heavy_pct": 0.7,
+   "recommended_pct": 89.1,
+   "sample_span_days": 34.0,
+   "score": 11.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 14
+    },
+    {
+     "label": "2-10",
+     "count": 60
+    },
+    {
+     "label": "10-25",
+     "count": 45
+    },
+    {
+     "label": "25-50",
+     "count": 11
+    },
+    {
+     "label": "50-100",
+     "count": 7
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 7
+  },
+  {
+   "appid": 2379910,
+   "name": "Dystopika",
+   "tags": [
+    "Cyberpunk",
+    "Sandbox",
+    "Dystopian",
+    "Sci-fi",
+    "Noir",
+    "City Builder",
+    "Atmospheric",
+    "Singleplayer",
+    "Futuristic",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2024-06-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379910/3ace3076a7af9add02ad4be8362a71e14041195f/header.jpg?t=1791103288",
+   "first_review": "2024-06-21",
+   "status": "ranked",
+   "total_reviews": 3551,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 11.3,
+   "median": 4.4,
+   "p90": 24.4,
+   "max": 166.9,
+   "avg_at_review": 7.1,
+   "median_at_review": 3.0,
+   "median_after_review": 0.4,
+   "avg_last_2w": 0.3,
+   "active_pct": 12.0,
+   "heavy_pct": 1.6,
+   "recommended_pct": 91.0,
+   "sample_span_days": 295.5,
+   "score": 4.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 152
+    },
+    {
+     "label": "2-10",
+     "count": 212
+    },
+    {
+     "label": "10-25",
+     "count": 86
+    },
+    {
+     "label": "25-50",
+     "count": 28
+    },
+    {
+     "label": "50-100",
+     "count": 14
+    },
+    {
+     "label": "100-250",
+     "count": 8
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 7
+  }
+ ],
+ "excluded": [
+  {
+   "appid": 257170,
+   "name": "Rebuild 3: Gangs of Deadsville",
+   "tags": [
+    "Colony Sim",
+    "Survival",
+    "4X",
+    "Strategy",
+    "Post-apocalyptic",
+    "RPG",
+    "City Builder",
+    "Zombies",
+    "Choices Matter",
+    "Turn-Based Strategy"
+   ],
+   "core_tag": "Colony Sim",
+   "core_pos": 1,
+   "banned": [
+    "4X"
+   ],
+   "release_date": "2015-05-29",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257170/header.jpg?t=1684873048",
+   "status": "excluded: released before 2016-10-28"
+  }
+ ]
+}
