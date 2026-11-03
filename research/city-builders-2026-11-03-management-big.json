@@ -1,0 +1,606 @@
+{
+ "generated_at": "2026-11-03T08:25:12+00:00",
+ "release_cutoff": "2021-11-03",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 2252570,
+   "name": "Football Manager 2024",
+   "tags": [
+    "Simulation",
+    "Sports",
+    "Management",
+    "Football (Soccer)",
+    "Strategy",
+    "Multiplayer",
+    "Economy",
+    "Real Time Tactics",
+    "eSports",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2023-11-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252570/header.jpg?t=1763646323",
+   "first_review": "2023-11-06",
+   "status": "ranked",
+   "total_reviews": 28714,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 1247.6,
+   "median": 764.6,
+   "p90": 2854.6,
+   "max": 24214.8,
+   "avg_at_review": 1155.1,
+   "median_at_review": 693.1,
+   "median_after_review": 36.6,
+   "avg_last_2w": 17.5,
+   "active_pct": 58.6,
+   "heavy_pct": 90.4,
+   "recommended_pct": 93.8,
+   "sample_span_days": 111.2,
+   "score": 1212.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 0
+    },
+    {
+     "label": "2-10",
+     "count": 6
+    },
+    {
+     "label": "10-25",
+     "count": 11
+    },
+    {
+     "label": "25-50",
+     "count": 9
+    },
+    {
+     "label": "50-100",
+     "count": 22
+    },
+    {
+     "label": "100-250",
+     "count": 60
+    },
+    {
+     "label": "250-500",
+     "count": 79
+    },
+    {
+     "label": "500-1000",
+     "count": 105
+    },
+    {
+     "label": "1000+",
+     "count": 208
+    }
+   ],
+   "players_now": 7614
+  },
+  {
+   "appid": 3551340,
+   "name": "Football Manager 26",
+   "tags": [
+    "Simulation",
+    "Sports",
+    "Strategy",
+    "Football (Soccer)",
+    "Management",
+    "Multiplayer",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2025-11-04",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551340/7d28b9aa8dcfcd96593d112736f58b4b1d3cc7a4/header.jpg?t=1781176251",
+   "first_review": "2025-11-04",
+   "status": "ranked",
+   "total_reviews": 36684,
+   "review_score_desc": "Mostly Negative",
+   "sample": 500,
+   "avg": 385.6,
+   "median": 173.0,
+   "p90": 1061.7,
+   "max": 4759.6,
+   "avg_at_review": 352.1,
+   "median_at_review": 142.8,
+   "median_after_review": 10.4,
+   "avg_last_2w": 21.6,
+   "active_pct": 75.4,
+   "heavy_pct": 65.4,
+   "recommended_pct": 63.0,
+   "sample_span_days": 37.6,
+   "score": 303.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 3
+    },
+    {
+     "label": "2-10",
+     "count": 15
+    },
+    {
+     "label": "10-25",
+     "count": 33
+    },
+    {
+     "label": "25-50",
+     "count": 49
+    },
+    {
+     "label": "50-100",
+     "count": 73
+    },
+    {
+     "label": "100-250",
+     "count": 126
+    },
+    {
+     "label": "250-500",
+     "count": 84
+    },
+    {
+     "label": "500-1000",
+     "count": 57
+    },
+    {
+     "label": "1000+",
+     "count": 60
+    }
+   ],
+   "players_now": 8685
+  },
+  {
+   "appid": 2688950,
+   "name": "Planet Coaster 2",
+   "tags": [
+    "Simulation",
+    "Sandbox",
+    "Strategy",
+    "Building",
+    "City Builder",
+    "3D",
+    "Singleplayer",
+    "Economy",
+    "God Game",
+    "Management"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2024-11-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/header.jpg?t=1793271625",
+   "first_review": "2024-11-06",
+   "status": "ranked",
+   "total_reviews": 15144,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 115.5,
+   "median": 36.4,
+   "p90": 272.6,
+   "max": 2255.1,
+   "avg_at_review": 98.1,
+   "median_at_review": 23.9,
+   "median_after_review": 5.0,
+   "avg_last_2w": 10.8,
+   "active_pct": 70.0,
+   "heavy_pct": 22.2,
+   "recommended_pct": 85.2,
+   "sample_span_days": 50.8,
+   "score": 61.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 78
+    },
+    {
+     "label": "10-25",
+     "count": 111
+    },
+    {
+     "label": "25-50",
+     "count": 95
+    },
+    {
+     "label": "50-100",
+     "count": 89
+    },
+    {
+     "label": "100-250",
+     "count": 57
+    },
+    {
+     "label": "250-500",
+     "count": 25
+    },
+    {
+     "label": "500-1000",
+     "count": 16
+    },
+    {
+     "label": "1000+",
+     "count": 13
+    }
+   ],
+   "players_now": 878
+  },
+  {
+   "appid": 2185060,
+   "name": "Two Point Museum",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Building",
+    "Strategy",
+    "City Builder",
+    "Sandbox",
+    "Life Sim",
+    "Management",
+    "Cartoony",
+    "Exploration"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2025-03-04",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/f518d1aa2754296e280ba3fe0d2bd4392fa6e3eb/header.jpg?t=1793195000",
+   "first_review": "2025-02-27",
+   "status": "ranked",
+   "total_reviews": 13923,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 89.0,
+   "median": 55.5,
+   "p90": 186.5,
+   "max": 1617.3,
+   "avg_at_review": 69.8,
+   "median_at_review": 32.1,
+   "median_after_review": 6.8,
+   "avg_last_2w": 10.3,
+   "active_pct": 56.4,
+   "heavy_pct": 28.4,
+   "recommended_pct": 94.8,
+   "sample_span_days": 48.2,
+   "score": 86.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 6
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 98
+    },
+    {
+     "label": "25-50",
+     "count": 82
+    },
+    {
+     "label": "50-100",
+     "count": 128
+    },
+    {
+     "label": "100-250",
+     "count": 115
+    },
+    {
+     "label": "250-500",
+     "count": 20
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 934
+  },
+  {
+   "appid": 2958130,
+   "name": "Jurassic World Evolution 3",
+   "tags": [
+    "Simulation",
+    "Dinosaurs",
+    "Strategy",
+    "Sandbox",
+    "City Builder",
+    "Sequel",
+    "Management",
+    "Action",
+    "Resource Management",
+    "Economy"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2025-10-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/df39f8c59232633e8e01ab63313b095402bdd0d5/header.jpg?t=1790687062",
+   "first_review": "2025-10-21",
+   "status": "ranked",
+   "total_reviews": 14222,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 70.3,
+   "median": 39.0,
+   "p90": 144.9,
+   "max": 1815.4,
+   "avg_at_review": 58.8,
+   "median_at_review": 29.0,
+   "median_after_review": 3.9,
+   "avg_last_2w": 6.9,
+   "active_pct": 60.8,
+   "heavy_pct": 15.8,
+   "recommended_pct": 90.4,
+   "sample_span_days": 34.6,
+   "score": 62.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 5
+    },
+    {
+     "label": "2-10",
+     "count": 37
+    },
+    {
+     "label": "10-25",
+     "count": 117
+    },
+    {
+     "label": "25-50",
+     "count": 151
+    },
+    {
+     "label": "50-100",
+     "count": 111
+    },
+    {
+     "label": "100-250",
+     "count": 57
+    },
+    {
+     "label": "250-500",
+     "count": 17
+    },
+    {
+     "label": "500-1000",
+     "count": 3
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "players_now": 471
+  },
+  {
+   "appid": 1244460,
+   "name": "Jurassic World Evolution 2",
+   "tags": [
+    "Dinosaurs",
+    "Building",
+    "Management",
+    "Simulation",
+    "Sandbox",
+    "Singleplayer",
+    "Strategy",
+    "City Builder",
+    "Economy",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2021-11-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg?t=1750957701",
+   "first_review": "2021-11-09",
+   "status": "ranked",
+   "total_reviews": 47372,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 62.9,
+   "median": 33.1,
+   "p90": 129.4,
+   "max": 1223.7,
+   "avg_at_review": 50.9,
+   "median_at_review": 24.3,
+   "median_after_review": 1.7,
+   "avg_last_2w": 3.6,
+   "active_pct": 32.0,
+   "heavy_pct": 14.4,
+   "recommended_pct": 93.8,
+   "sample_span_days": 67.7,
+   "score": 43.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 8
+    },
+    {
+     "label": "2-10",
+     "count": 65
+    },
+    {
+     "label": "10-25",
+     "count": 136
+    },
+    {
+     "label": "25-50",
+     "count": 122
+    },
+    {
+     "label": "50-100",
+     "count": 97
+    },
+    {
+     "label": "100-250",
+     "count": 52
+    },
+    {
+     "label": "250-500",
+     "count": 14
+    },
+    {
+     "label": "500-1000",
+     "count": 3
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 277
+  },
+  {
+   "appid": 3219030,
+   "name": "Planet Zoo 2",
+   "tags": [
+    "Simulation",
+    "Strategy",
+    "Casual",
+    "Sandbox",
+    "City Builder",
+    "Zoo",
+    "Animals",
+    "Building",
+    "Management",
+    "Cute"
+   ],
+   "core_tag": "City Builder",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-10-13",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1793011606",
+   "first_review": "2026-10-13",
+   "status": "ranked",
+   "total_reviews": 7441,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 41.8,
+   "median": 31.2,
+   "p90": 89.1,
+   "max": 345.9,
+   "avg_at_review": 35.7,
+   "median_at_review": 26.4,
+   "median_after_review": 2.7,
+   "avg_last_2w": 28.6,
+   "active_pct": 98.4,
+   "heavy_pct": 8.0,
+   "recommended_pct": 74.2,
+   "sample_span_days": 5.2,
+   "score": 61.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 14
+    },
+    {
+     "label": "2-10",
+     "count": 65
+    },
+    {
+     "label": "10-25",
+     "count": 129
+    },
+    {
+     "label": "25-50",
+     "count": 145
+    },
+    {
+     "label": "50-100",
+     "count": 107
+    },
+    {
+     "label": "100-250",
+     "count": 39
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 5123
+  }
+ ],
+ "excluded": [
+  {
+   "appid": 4530370,
+   "name": "Football Manager 27",
+   "tags": [
+    "Simulation",
+    "Sports",
+    "Strategy",
+    "eSports",
+    "Strategy RPG",
+    "Football (Soccer)",
+    "Real Time Tactics",
+    "Immersive Sim",
+    "Management",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-11-10",
+   "type": "game",
+   "coming_soon": true,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1793296899",
+   "status": "excluded: not a released game"
+  }
+ ]
+}
