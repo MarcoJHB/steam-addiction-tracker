@@ -1,0 +1,104 @@
+{
+ "generated_at": "2026-11-03T10:15:06+00:00",
+ "release_cutoff": "2021-11-03",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 2300320,
+   "name": "Farming Simulator 25",
+   "tags": [
+    "Simulation",
+    "Farming Sim",
+    "Multiplayer",
+    "Realistic",
+    "3D",
+    "Economy",
+    "First-Person",
+    "Time Management",
+    "Building",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2024-11-12",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1793106374",
+   "first_review": "2024-11-12",
+   "status": "ranked",
+   "total_reviews": 60803,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 246.8,
+   "median": 78.1,
+   "p90": 755.3,
+   "max": 3584.5,
+   "avg_at_review": 234.1,
+   "median_at_review": 61.8,
+   "median_after_review": 6.4,
+   "avg_last_2w": 30.2,
+   "active_pct": 96.8,
+   "heavy_pct": 43.4,
+   "recommended_pct": 90.8,
+   "sample_span_days": 9.0,
+   "score": 153.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 3
+    },
+    {
+     "label": "2-10",
+     "count": 34
+    },
+    {
+     "label": "10-25",
+     "count": 67
+    },
+    {
+     "label": "25-50",
+     "count": 85
+    },
+    {
+     "label": "50-100",
+     "count": 94
+    },
+    {
+     "label": "100-250",
+     "count": 92
+    },
+    {
+     "label": "250-500",
+     "count": 56
+    },
+    {
+     "label": "500-1000",
+     "count": 33
+    },
+    {
+     "label": "1000+",
+     "count": 36
+    }
+   ],
+   "players_now": 17899
+  }
+ ],
+ "excluded": []
+}
