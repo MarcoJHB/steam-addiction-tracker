@@ -1,0 +1,5157 @@
+{
+ "generated_at": "2026-11-03T09:11:46+00:00",
+ "release_cutoff": "2021-11-03",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "Job Simulator"
+ ],
+ "core_tags": [
+  "Job Simulator"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 2786550,
+   "name": "CURE - A Hospital Simulator",
+   "tags": [
+    "Early Access",
+    "Medical Sim",
+    "Job Simulator",
+    "Online Co-Op",
+    "Zombies",
+    "Management",
+    "Immersive Sim",
+    "Outbreak Sim",
+    "Survival",
+    "Economy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2025-11-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2786550/640bec2b64914df0b68d250c5bcbf3d7414c318e/header.jpg?t=1793033776",
+   "first_review": "2025-11-20",
+   "status": "ranked",
+   "total_reviews": 1035,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 52.2,
+   "median": 22.5,
+   "p90": 109.9,
+   "max": 1265.9,
+   "avg_at_review": 26.2,
+   "median_at_review": 11.9,
+   "median_after_review": 6.7,
+   "avg_last_2w": 1.7,
+   "active_pct": 20.6,
+   "heavy_pct": 11.2,
+   "recommended_pct": 87.0,
+   "sample_span_days": 225.2,
+   "score": 27.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 23
+    },
+    {
+     "label": "2-10",
+     "count": 105
+    },
+    {
+     "label": "10-25",
+     "count": 138
+    },
+    {
+     "label": "25-50",
+     "count": 96
+    },
+    {
+     "label": "50-100",
+     "count": 82
+    },
+    {
+     "label": "100-250",
+     "count": 41
+    },
+    {
+     "label": "250-500",
+     "count": 11
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "players_now": 39
+  },
+  {
+   "appid": 1442430,
+   "name": "Storage Hunter Simulator",
+   "tags": [
+    "Immersive Sim",
+    "Shop Keeper",
+    "Online Co-Op",
+    "Job Simulator",
+    "Capitalism",
+    "Economy",
+    "Driving",
+    "Management",
+    "Trading",
+    "3D"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-11-27",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/7e80101e998d9bed0bac2fe7c73f4a13b1150a14/header.jpg?t=1788881598",
+   "first_review": "2024-10-10",
+   "status": "ranked",
+   "total_reviews": 4264,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 42.3,
+   "median": 28.3,
+   "p90": 88.6,
+   "max": 612.6,
+   "avg_at_review": 27.9,
+   "median_at_review": 14.9,
+   "median_after_review": 2.8,
+   "avg_last_2w": 0.8,
+   "active_pct": 9.0,
+   "heavy_pct": 7.0,
+   "recommended_pct": 70.8,
+   "sample_span_days": 214.8,
+   "score": 30.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 37
+    },
+    {
+     "label": "2-10",
+     "count": 88
+    },
+    {
+     "label": "10-25",
+     "count": 104
+    },
+    {
+     "label": "25-50",
+     "count": 135
+    },
+    {
+     "label": "50-100",
+     "count": 101
+    },
+    {
+     "label": "100-250",
+     "count": 28
+    },
+    {
+     "label": "250-500",
+     "count": 6
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 85
+  },
+  {
+   "appid": 3969150,
+   "name": "Beauty Store Simulator",
+   "tags": [
+    "Simulation",
+    "Life Sim",
+    "Immersive Sim",
+    "Job Simulator",
+    "3D",
+    "Casual",
+    "Singleplayer",
+    "Shop Keeper",
+    "Realistic",
+    "First-Person"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-04-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969150/de6d45ba3a4a6b86f367f8746e5d63510ca127b5/header.jpg?t=1790168697",
+   "first_review": "2026-04-10",
+   "status": "ranked",
+   "total_reviews": 204,
+   "review_score_desc": "Very Positive",
+   "sample": 204,
+   "avg": 40.3,
+   "median": 20.8,
+   "p90": 103.3,
+   "max": 428.1,
+   "avg_at_review": 21.2,
+   "median_at_review": 9.9,
+   "median_after_review": 5.1,
+   "avg_last_2w": 1.0,
+   "active_pct": 8.3,
+   "heavy_pct": 10.8,
+   "recommended_pct": 86.3,
+   "sample_span_days": 203.2,
+   "score": 22.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 55
+    },
+    {
+     "label": "25-50",
+     "count": 39
+    },
+    {
+     "label": "50-100",
+     "count": 28
+    },
+    {
+     "label": "100-250",
+     "count": 19
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 15
+  },
+  {
+   "appid": 4019220,
+   "name": "Dressmaker",
+   "tags": [
+    "Crafting",
+    "Design & Illustration",
+    "Cozy",
+    "Job Simulator",
+    "Simulation",
+    "Relaxing",
+    "Life Sim",
+    "Casual",
+    "Singleplayer",
+    "Management"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-09-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1792401675",
+   "first_review": "2026-09-21",
+   "status": "ranked",
+   "total_reviews": 20840,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 33.2,
+   "median": 23.3,
+   "p90": 71.5,
+   "max": 238.7,
+   "avg_at_review": 30.4,
+   "median_at_review": 20.0,
+   "median_after_review": 1.5,
+   "avg_last_2w": 20.0,
+   "active_pct": 97.8,
+   "heavy_pct": 4.6,
+   "recommended_pct": 99.2,
+   "sample_span_days": 2.5,
+   "score": 46.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 4
+    },
+    {
+     "label": "2-10",
+     "count": 107
+    },
+    {
+     "label": "10-25",
+     "count": 153
+    },
+    {
+     "label": "25-50",
+     "count": 135
+    },
+    {
+     "label": "50-100",
+     "count": 78
+    },
+    {
+     "label": "100-250",
+     "count": 23
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 7637
+  },
+  {
+   "appid": 2749770,
+   "name": "Galaxy Burger",
+   "tags": [
+    "Cooking",
+    "Simulation",
+    "Cozy",
+    "Co-op",
+    "Job Simulator",
+    "Casual",
+    "Online Co-Op",
+    "Cute",
+    "Multiplayer",
+    "2D"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2024-08-23",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749770/header.jpg?t=1775218073",
+   "first_review": "2024-08-23",
+   "status": "ranked",
+   "total_reviews": 2881,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 33.0,
+   "median": 16.4,
+   "p90": 87.5,
+   "max": 680.9,
+   "avg_at_review": 21.7,
+   "median_at_review": 8.7,
+   "median_after_review": 2.8,
+   "avg_last_2w": 0.6,
+   "active_pct": 12.4,
+   "heavy_pct": 8.0,
+   "recommended_pct": 94.6,
+   "sample_span_days": 335.1,
+   "score": 18.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 29
+    },
+    {
+     "label": "2-10",
+     "count": 141
+    },
+    {
+     "label": "10-25",
+     "count": 144
+    },
+    {
+     "label": "25-50",
+     "count": 89
+    },
+    {
+     "label": "50-100",
+     "count": 57
+    },
+    {
+     "label": "100-250",
+     "count": 37
+    },
+    {
+     "label": "250-500",
+     "count": 2
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 35
+  },
+  {
+   "appid": 4170200,
+   "name": "Data Center",
+   "tags": [
+    "Simulation",
+    "Automation",
+    "Hardware",
+    "Logic",
+    "Job Simulator",
+    "Incremental",
+    "Management",
+    "Economy",
+    "Sandbox",
+    "Time Management"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-03-31",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0608b0774dad1ac38875db0389f719c99f6ccf63/header.jpg?t=1793657148",
+   "first_review": "2026-03-31",
+   "status": "ranked",
+   "total_reviews": 1031,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 28.6,
+   "median": 11.7,
+   "p90": 64.2,
+   "max": 840.9,
+   "avg_at_review": 16.3,
+   "median_at_review": 7.3,
+   "median_after_review": 1.7,
+   "avg_last_2w": 1.3,
+   "active_pct": 19.4,
+   "heavy_pct": 6.2,
+   "recommended_pct": 77.2,
+   "sample_span_days": 200.1,
+   "score": 14.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 68
+    },
+    {
+     "label": "2-10",
+     "count": 158
+    },
+    {
+     "label": "10-25",
+     "count": 138
+    },
+    {
+     "label": "25-50",
+     "count": 62
+    },
+    {
+     "label": "50-100",
+     "count": 43
+    },
+    {
+     "label": "100-250",
+     "count": 27
+    },
+    {
+     "label": "250-500",
+     "count": 2
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 46
+  },
+  {
+   "appid": 2291760,
+   "name": "Papa's Freezeria Deluxe",
+   "tags": [
+    "Cooking",
+    "Time Management",
+    "Simulation",
+    "Casual",
+    "Job Simulator",
+    "Strategy",
+    "Character Customization",
+    "Management",
+    "Singleplayer",
+    "Indie"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2023-03-31",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/header.jpg?t=1700157490",
+   "first_review": "2023-03-31",
+   "status": "ranked",
+   "total_reviews": 13487,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 26.3,
+   "median": 18.1,
+   "p90": 51.5,
+   "max": 228.8,
+   "avg_at_review": 19.4,
+   "median_at_review": 10.4,
+   "median_after_review": 1.4,
+   "avg_last_2w": 1.2,
+   "active_pct": 27.6,
+   "heavy_pct": 2.8,
+   "recommended_pct": 99.4,
+   "sample_span_days": 116.7,
+   "score": 23.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 11
+    },
+    {
+     "label": "2-10",
+     "count": 130
+    },
+    {
+     "label": "10-25",
+     "count": 158
+    },
+    {
+     "label": "25-50",
+     "count": 147
+    },
+    {
+     "label": "50-100",
+     "count": 40
+    },
+    {
+     "label": "100-250",
+     "count": 14
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 54
+  },
+  {
+   "appid": 1715280,
+   "name": "AirportSim",
+   "tags": [
+    "Job Simulator",
+    "Hobby Sim",
+    "Flight",
+    "Simulation",
+    "Immersive Sim",
+    "Sandbox",
+    "Realistic",
+    "Education",
+    "Atmospheric",
+    "Life Sim"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2023-10-19",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715280/header.jpg?t=1729256349",
+   "first_review": "2023-10-19",
+   "status": "ranked",
+   "total_reviews": 1705,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 24.6,
+   "median": 12.3,
+   "p90": 48.1,
+   "max": 1730.0,
+   "avg_at_review": 15.9,
+   "median_at_review": 7.3,
+   "median_after_review": 1.9,
+   "avg_last_2w": 0.1,
+   "active_pct": 4.6,
+   "heavy_pct": 3.0,
+   "recommended_pct": 59.4,
+   "sample_span_days": 670.3,
+   "score": 12.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 39
+    },
+    {
+     "label": "2-10",
+     "count": 175
+    },
+    {
+     "label": "10-25",
+     "count": 167
+    },
+    {
+     "label": "25-50",
+     "count": 73
+    },
+    {
+     "label": "50-100",
+     "count": 31
+    },
+    {
+     "label": "100-250",
+     "count": 13
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 7
+  },
+  {
+   "appid": 4369130,
+   "name": "Chop Chop Inc.",
+   "tags": [
+    "Job Simulator",
+    "Crafting",
+    "Comedy",
+    "First-Person",
+    "Relaxing",
+    "Exploration",
+    "Resource Management",
+    "Funny",
+    "Simulation",
+    "Atmospheric"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-08-07",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/8bceabf2e3a7a845696baf18c09b377684d116ae/header.jpg?t=1793011392",
+   "first_review": "2026-08-07",
+   "status": "ranked",
+   "total_reviews": 1620,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 20.7,
+   "median": 18.8,
+   "p90": 33.2,
+   "max": 156.8,
+   "avg_at_review": 17.5,
+   "median_at_review": 15.8,
+   "median_after_review": 0.0,
+   "avg_last_2w": 1.6,
+   "active_pct": 20.4,
+   "heavy_pct": 0.6,
+   "recommended_pct": 92.2,
+   "sample_span_days": 55.5,
+   "score": 22.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 58
+    },
+    {
+     "label": "10-25",
+     "count": 298
+    },
+    {
+     "label": "25-50",
+     "count": 122
+    },
+    {
+     "label": "50-100",
+     "count": 7
+    },
+    {
+     "label": "100-250",
+     "count": 3
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 96
+  },
+  {
+   "appid": 3726250,
+   "name": "My Little Cafe Nightmare",
+   "tags": [
+    "Shop Keeper",
+    "Job Simulator",
+    "Capitalism",
+    "Simulation",
+    "Cozy",
+    "Crafting",
+    "Economy",
+    "Management",
+    "Cooking",
+    "Cleaning"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-06-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3726250/1e14ea2b65384d5d2324a26f6bfcc2b086f318fc/header_alt_assets_6.jpg?t=1793588295",
+   "first_review": "2025-10-29",
+   "status": "ranked",
+   "total_reviews": 262,
+   "review_score_desc": "Very Positive",
+   "sample": 262,
+   "avg": 20.6,
+   "median": 13.6,
+   "p90": 43.9,
+   "max": 197.8,
+   "avg_at_review": 11.1,
+   "median_at_review": 6.8,
+   "median_after_review": 2.2,
+   "avg_last_2w": 0.8,
+   "active_pct": 11.8,
+   "heavy_pct": 1.9,
+   "recommended_pct": 92.0,
+   "sample_span_days": 369.3,
+   "score": 15.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 31
+    },
+    {
+     "label": "2-10",
+     "count": 76
+    },
+    {
+     "label": "10-25",
+     "count": 90
+    },
+    {
+     "label": "25-50",
+     "count": 45
+    },
+    {
+     "label": "50-100",
+     "count": 15
+    },
+    {
+     "label": "100-250",
+     "count": 5
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 9
+  },
+  {
+   "appid": 5306540,
+   "name": "Groundwork Simulator",
+   "tags": [
+    "Simulation",
+    "Sandbox",
+    "Job Simulator",
+    "Mining",
+    "Physics",
+    "Building",
+    "Open World",
+    "Co-op",
+    "Driving",
+    "Transportation"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-10-22",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306540/64674a7e52a9ea471b11731fb65425370550c032/header.jpg?t=1793005696",
+   "first_review": "2026-10-22",
+   "status": "ranked",
+   "total_reviews": 962,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 19.3,
+   "median": 14.5,
+   "p90": 41.5,
+   "max": 192.3,
+   "avg_at_review": 9.1,
+   "median_at_review": 5.8,
+   "median_after_review": 5.5,
+   "avg_last_2w": 19.3,
+   "active_pct": 100.0,
+   "heavy_pct": 0.8,
+   "recommended_pct": 82.8,
+   "sample_span_days": 9.8,
+   "score": 28.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 71
+    },
+    {
+     "label": "2-10",
+     "count": 112
+    },
+    {
+     "label": "10-25",
+     "count": 181
+    },
+    {
+     "label": "25-50",
+     "count": 106
+    },
+    {
+     "label": "50-100",
+     "count": 26
+    },
+    {
+     "label": "100-250",
+     "count": 4
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 279
+  },
+  {
+   "appid": 3355800,
+   "name": "Bank Simulator",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Economy",
+    "Job Simulator",
+    "Capitalism",
+    "Shop Keeper",
+    "First-Person",
+    "Casual",
+    "Life Sim",
+    "Immersive Sim"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-06-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4f8767ce7d72cafa26587f5c181e5815226faed5/header.jpg?t=1793298452",
+   "first_review": "2025-06-06",
+   "status": "ranked",
+   "total_reviews": 475,
+   "review_score_desc": "Mostly Positive",
+   "sample": 475,
+   "avg": 17.2,
+   "median": 9.6,
+   "p90": 33.5,
+   "max": 360.8,
+   "avg_at_review": 8.9,
+   "median_at_review": 5.4,
+   "median_after_review": 2.4,
+   "avg_last_2w": 4.1,
+   "active_pct": 33.1,
+   "heavy_pct": 2.3,
+   "recommended_pct": 76.2,
+   "sample_span_days": 514.1,
+   "score": 12.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 48
+    },
+    {
+     "label": "2-10",
+     "count": 196
+    },
+    {
+     "label": "10-25",
+     "count": 150
+    },
+    {
+     "label": "25-50",
+     "count": 53
+    },
+    {
+     "label": "50-100",
+     "count": 17
+    },
+    {
+     "label": "100-250",
+     "count": 10
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 118
+  },
+  {
+   "appid": 3938640,
+   "name": "Ugoku Sushi Bar",
+   "tags": [
+    "Cooking",
+    "Casual",
+    "Job Simulator",
+    "Anime",
+    "Cozy",
+    "Cute",
+    "Strategy",
+    "Minigames",
+    "Simulation",
+    "Management"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-07-29",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938640/e9ee163f764a211953d9dc472b4220090fb3bde1/header.jpg?t=1793655280",
+   "first_review": "2026-07-29",
+   "status": "ranked",
+   "total_reviews": 423,
+   "review_score_desc": "Very Positive",
+   "sample": 423,
+   "avg": 17.1,
+   "median": 12.5,
+   "p90": 30.7,
+   "max": 297.4,
+   "avg_at_review": 9.8,
+   "median_at_review": 6.5,
+   "median_after_review": 2.9,
+   "avg_last_2w": 1.2,
+   "active_pct": 15.1,
+   "heavy_pct": 0.9,
+   "recommended_pct": 88.7,
+   "sample_span_days": 96.5,
+   "score": 14.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 39
+    },
+    {
+     "label": "2-10",
+     "count": 139
+    },
+    {
+     "label": "10-25",
+     "count": 151
+    },
+    {
+     "label": "25-50",
+     "count": 83
+    },
+    {
+     "label": "50-100",
+     "count": 7
+    },
+    {
+     "label": "100-250",
+     "count": 3
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 57
+  },
+  {
+   "appid": 2631140,
+   "name": "Weed Shop 4: Highland",
+   "tags": [
+    "Early Access",
+    "Immersive Sim",
+    "Job Simulator",
+    "Shop Keeper",
+    "Management",
+    "PvE",
+    "Farming Sim",
+    "Life Sim",
+    "3D",
+    "First-Person"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-04-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631140/d156341630d1777cb73354876466fc72ad27de93/header.jpg?t=1792637262",
+   "first_review": "2026-04-20",
+   "status": "ranked",
+   "total_reviews": 234,
+   "review_score_desc": "Mixed",
+   "sample": 234,
+   "avg": 16.9,
+   "median": 1.4,
+   "p90": 48.8,
+   "max": 336.4,
+   "avg_at_review": 7.5,
+   "median_at_review": 0.8,
+   "median_after_review": 0.4,
+   "avg_last_2w": 1.9,
+   "active_pct": 21.8,
+   "heavy_pct": 3.8,
+   "recommended_pct": 57.7,
+   "sample_span_days": 195.7,
+   "score": 1.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 135
+    },
+    {
+     "label": "2-10",
+     "count": 41
+    },
+    {
+     "label": "10-25",
+     "count": 14
+    },
+    {
+     "label": "25-50",
+     "count": 21
+    },
+    {
+     "label": "50-100",
+     "count": 14
+    },
+    {
+     "label": "100-250",
+     "count": 8
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 7
+  },
+  {
+   "appid": 3622640,
+   "name": "Vending Machine Co.",
+   "tags": [
+    "Job Simulator",
+    "Wholesome",
+    "Simulation",
+    "Casual",
+    "Anime",
+    "Cozy",
+    "Management",
+    "Organizing",
+    "Colorful",
+    "Inventory Management"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-04-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3622640/9fab777cd6936df8ed5c7d518e312fe10487435b/header.jpg?t=1793655526",
+   "first_review": "2026-04-25",
+   "status": "ranked",
+   "total_reviews": 556,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 16.3,
+   "median": 10.3,
+   "p90": 31.1,
+   "max": 252.8,
+   "avg_at_review": 10.5,
+   "median_at_review": 6.5,
+   "median_after_review": 0.9,
+   "avg_last_2w": 0.2,
+   "active_pct": 3.8,
+   "heavy_pct": 1.2,
+   "recommended_pct": 84.6,
+   "sample_span_days": 190.9,
+   "score": 10.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 45
+    },
+    {
+     "label": "2-10",
+     "count": 197
+    },
+    {
+     "label": "10-25",
+     "count": 181
+    },
+    {
+     "label": "25-50",
+     "count": 57
+    },
+    {
+     "label": "50-100",
+     "count": 14
+    },
+    {
+     "label": "100-250",
+     "count": 5
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 17
+  },
+  {
+   "appid": 3812600,
+   "name": "ReStory: Chill Electronics Repairs",
+   "tags": [
+    "Job Simulator",
+    "Cozy",
+    "Management",
+    "Economy",
+    "Singleplayer",
+    "Indie",
+    "Relaxing",
+    "Building",
+    "Shop Keeper",
+    "Simulation"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-08-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/a0e671f412783ac7fc153376fd0a7aaa52643f18/header_alt_assets_1.jpg?t=1793202338",
+   "first_review": "2026-08-06",
+   "status": "ranked",
+   "total_reviews": 12636,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 16.0,
+   "median": 13.2,
+   "p90": 29.9,
+   "max": 76.1,
+   "avg_at_review": 13.3,
+   "median_at_review": 10.8,
+   "median_after_review": 0.3,
+   "avg_last_2w": 11.0,
+   "active_pct": 90.8,
+   "heavy_pct": 0.0,
+   "recommended_pct": 92.0,
+   "sample_span_days": 9.4,
+   "score": 25.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 158
+    },
+    {
+     "label": "10-25",
+     "count": 257
+    },
+    {
+     "label": "25-50",
+     "count": 59
+    },
+    {
+     "label": "50-100",
+     "count": 14
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 1371
+  },
+  {
+   "appid": 3357960,
+   "name": "KuloNiku: Bowl Up!",
+   "tags": [
+    "Cooking",
+    "Simulation",
+    "Management",
+    "Job Simulator",
+    "Immersive Sim",
+    "Indie",
+    "Singleplayer",
+    "Time Management",
+    "Life Sim",
+    "Wholesome"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-04-07",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357960/f26df061f756e1810fae07c436df384305107d11/header.jpg?t=1793361781",
+   "first_review": "2026-04-07",
+   "status": "ranked",
+   "total_reviews": 2831,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 15.3,
+   "median": 13.8,
+   "p90": 26.0,
+   "max": 104.0,
+   "avg_at_review": 11.5,
+   "median_at_review": 10.1,
+   "median_after_review": 1.0,
+   "avg_last_2w": 2.3,
+   "active_pct": 32.4,
+   "heavy_pct": 0.2,
+   "recommended_pct": 95.4,
+   "sample_span_days": 84.2,
+   "score": 18.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 20
+    },
+    {
+     "label": "2-10",
+     "count": 139
+    },
+    {
+     "label": "10-25",
+     "count": 282
+    },
+    {
+     "label": "25-50",
+     "count": 50
+    },
+    {
+     "label": "50-100",
+     "count": 8
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 53
+  },
+  {
+   "appid": 2860450,
+   "name": "Happy Sheepies",
+   "tags": [
+    "Job Simulator",
+    "Wholesome",
+    "Simulation",
+    "Anime",
+    "Management",
+    "Cozy",
+    "Organizing",
+    "Colorful",
+    "Relaxing",
+    "Casual"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2024-07-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860450/1a5f54592265dde0df576619c399c184351eadd2/header.jpg?t=1791335733",
+   "first_review": "2024-07-08",
+   "status": "ranked",
+   "total_reviews": 623,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 13.7,
+   "median": 8.9,
+   "p90": 25.9,
+   "max": 197.6,
+   "avg_at_review": 10.5,
+   "median_at_review": 7.3,
+   "median_after_review": 0.4,
+   "avg_last_2w": 0.2,
+   "active_pct": 4.4,
+   "heavy_pct": 1.0,
+   "recommended_pct": 88.2,
+   "sample_span_days": 833.1,
+   "score": 9.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 24
+    },
+    {
+     "label": "2-10",
+     "count": 256
+    },
+    {
+     "label": "10-25",
+     "count": 163
+    },
+    {
+     "label": "25-50",
+     "count": 41
+    },
+    {
+     "label": "50-100",
+     "count": 11
+    },
+    {
+     "label": "100-250",
+     "count": 5
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 7
+  },
+  {
+   "appid": 3962270,
+   "name": "Perfume Atelier",
+   "tags": [
+    "Casual",
+    "Job Simulator",
+    "Cozy",
+    "Simulation",
+    "Shop Keeper",
+    "Crafting",
+    "Inventory Management",
+    "Wholesome",
+    "Management",
+    "Cute"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-02-07",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962270/b959b3337994270fd97a004b7d5250827baf7e80/header.jpg?t=1793656340",
+   "first_review": "2026-02-07",
+   "status": "ranked",
+   "total_reviews": 289,
+   "review_score_desc": "Very Positive",
+   "sample": 289,
+   "avg": 12.7,
+   "median": 10.9,
+   "p90": 24.2,
+   "max": 198.1,
+   "avg_at_review": 8.7,
+   "median_at_review": 7.1,
+   "median_after_review": 0.2,
+   "avg_last_2w": 0.4,
+   "active_pct": 5.9,
+   "heavy_pct": 0.3,
+   "recommended_pct": 90.0,
+   "sample_span_days": 260.0,
+   "score": 11.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 29
+    },
+    {
+     "label": "2-10",
+     "count": 99
+    },
+    {
+     "label": "10-25",
+     "count": 136
+    },
+    {
+     "label": "25-50",
+     "count": 21
+    },
+    {
+     "label": "50-100",
+     "count": 3
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 9
+  },
+  {
+   "appid": 3521410,
+   "name": "Cats & Cups",
+   "tags": [
+    "Casual",
+    "Job Simulator",
+    "Cats",
+    "Cozy",
+    "Simulation",
+    "Shop Keeper",
+    "Wholesome",
+    "Hobby Sim",
+    "Cute",
+    "Strategy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2025-11-01",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521410/cf2b991b350980654144b33c03440a8911443426/header.jpg?t=1793655386",
+   "first_review": "2025-11-01",
+   "status": "ranked",
+   "total_reviews": 1275,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 12.5,
+   "median": 10.3,
+   "p90": 21.4,
+   "max": 98.6,
+   "avg_at_review": 9.2,
+   "median_at_review": 7.5,
+   "median_after_review": 0.7,
+   "avg_last_2w": 0.3,
+   "active_pct": 9.4,
+   "heavy_pct": 0.0,
+   "recommended_pct": 92.0,
+   "sample_span_days": 235.9,
+   "score": 11.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 41
+    },
+    {
+     "label": "2-10",
+     "count": 197
+    },
+    {
+     "label": "10-25",
+     "count": 223
+    },
+    {
+     "label": "25-50",
+     "count": 27
+    },
+    {
+     "label": "50-100",
+     "count": 12
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 17
+  },
+  {
+   "appid": 3496000,
+   "name": "Ship, Inc.",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Cozy",
+    "Job Simulator",
+    "Wholesome",
+    "Organizing",
+    "Life Sim",
+    "Strategy",
+    "Hidden Object",
+    "Colorful"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-06-23",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496000/d1feb892b127dda2e907f14635d636cc0d3d87c4/header.jpg?t=1793655433",
+   "first_review": "2025-06-23",
+   "status": "ranked",
+   "total_reviews": 2502,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 10.0,
+   "median": 7.2,
+   "p90": 19.0,
+   "max": 112.8,
+   "avg_at_review": 7.7,
+   "median_at_review": 5.4,
+   "median_after_review": 0.2,
+   "avg_last_2w": 0.2,
+   "active_pct": 6.0,
+   "heavy_pct": 0.2,
+   "recommended_pct": 80.4,
+   "sample_span_days": 223.2,
+   "score": 7.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 41
+    },
+    {
+     "label": "2-10",
+     "count": 279
+    },
+    {
+     "label": "10-25",
+     "count": 155
+    },
+    {
+     "label": "25-50",
+     "count": 20
+    },
+    {
+     "label": "50-100",
+     "count": 4
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 44
+  },
+  {
+   "appid": 3939700,
+   "name": "Treasure Beach",
+   "tags": [
+    "Relaxing",
+    "Job Simulator",
+    "Hidden Object",
+    "Cleaning",
+    "Cozy",
+    "Shop Keeper",
+    "Simulation",
+    "Cute",
+    "Life Sim",
+    "Loot"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-06-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939700/cf8882cbf184cc014012d1db88615d2c34a0f810/header.jpg?t=1793655233",
+   "first_review": "2026-06-20",
+   "status": "ranked",
+   "total_reviews": 320,
+   "review_score_desc": "Very Positive",
+   "sample": 320,
+   "avg": 9.8,
+   "median": 9.2,
+   "p90": 18.0,
+   "max": 56.1,
+   "avg_at_review": 7.8,
+   "median_at_review": 7.0,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.3,
+   "active_pct": 4.4,
+   "heavy_pct": 0.0,
+   "recommended_pct": 82.8,
+   "sample_span_days": 132.5,
+   "score": 9.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 34
+    },
+    {
+     "label": "2-10",
+     "count": 145
+    },
+    {
+     "label": "10-25",
+     "count": 135
+    },
+    {
+     "label": "25-50",
+     "count": 5
+    },
+    {
+     "label": "50-100",
+     "count": 1
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 10
+  },
+  {
+   "appid": 3894850,
+   "name": "Nothing To Declare",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Job Simulator",
+    "Investigation",
+    "Flight",
+    "Cozy",
+    "Wholesome",
+    "Relaxing",
+    "Cute",
+    "Family Friendly"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-07-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/cc1972873f77525f2aaaf84c6ccb88ac66521771/header.jpg?t=1793655334",
+   "first_review": "2026-07-25",
+   "status": "ranked",
+   "total_reviews": 295,
+   "review_score_desc": "Mostly Positive",
+   "sample": 295,
+   "avg": 8.7,
+   "median": 4.4,
+   "p90": 15.3,
+   "max": 509.1,
+   "avg_at_review": 5.3,
+   "median_at_review": 3.6,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.3,
+   "active_pct": 5.8,
+   "heavy_pct": 0.3,
+   "recommended_pct": 76.6,
+   "sample_span_days": 100.8,
+   "score": 4.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 55
+    },
+    {
+     "label": "2-10",
+     "count": 185
+    },
+    {
+     "label": "10-25",
+     "count": 44
+    },
+    {
+     "label": "25-50",
+     "count": 8
+    },
+    {
+     "label": "50-100",
+     "count": 2
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 14
+  },
+  {
+   "appid": 3098060,
+   "name": "Business Simulator 2026",
+   "tags": [
+    "Economy",
+    "Capitalism",
+    "Management",
+    "Job Simulator",
+    "Simulation",
+    "Strategy",
+    "Time Management",
+    "Immersive Sim",
+    "Life Sim",
+    "Singleplayer"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-11-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098060/32606cb87ade76b868430382b836158100fb5de0/header.jpg?t=1793614153",
+   "first_review": "2025-11-10",
+   "status": "ranked",
+   "total_reviews": 192,
+   "review_score_desc": "Mostly Positive",
+   "sample": 192,
+   "avg": 8.7,
+   "median": 5.8,
+   "p90": 19.8,
+   "max": 56.6,
+   "avg_at_review": 6.6,
+   "median_at_review": 3.9,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.1,
+   "active_pct": 3.1,
+   "heavy_pct": 0.0,
+   "recommended_pct": 72.9,
+   "sample_span_days": 357.4,
+   "score": 6.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 37
+    },
+    {
+     "label": "2-10",
+     "count": 91
+    },
+    {
+     "label": "10-25",
+     "count": 55
+    },
+    {
+     "label": "25-50",
+     "count": 8
+    },
+    {
+     "label": "50-100",
+     "count": 1
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 3
+  },
+  {
+   "appid": 3428570,
+   "name": "Teller's Duty",
+   "tags": [
+    "Simulation",
+    "Story Rich",
+    "Choices Matter",
+    "Dystopian",
+    "Job Simulator",
+    "Time Management",
+    "Narrative",
+    "Dark Humor",
+    "Atmospheric",
+    "Economy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-06-12",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428570/82177a40a233754d732140a06a5316e41c7c5916/header.jpg?t=1790672764",
+   "first_review": "2026-06-12",
+   "status": "ranked",
+   "total_reviews": 418,
+   "review_score_desc": "Mostly Positive",
+   "sample": 418,
+   "avg": 8.3,
+   "median": 6.3,
+   "p90": 14.2,
+   "max": 156.5,
+   "avg_at_review": 6.5,
+   "median_at_review": 5.5,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.0,
+   "active_pct": 1.4,
+   "heavy_pct": 0.5,
+   "recommended_pct": 72.5,
+   "sample_span_days": 141.2,
+   "score": 6.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 35
+    },
+    {
+     "label": "2-10",
+     "count": 295
+    },
+    {
+     "label": "10-25",
+     "count": 72
+    },
+    {
+     "label": "25-50",
+     "count": 13
+    },
+    {
+     "label": "50-100",
+     "count": 1
+    },
+    {
+     "label": "100-250",
+     "count": 2
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 5
+  },
+  {
+   "appid": 3415230,
+   "name": "Witchy Business",
+   "tags": [
+    "Magic",
+    "Job Simulator",
+    "Cartoony",
+    "Cozy",
+    "Simulation",
+    "Wholesome",
+    "RPG",
+    "Casual",
+    "Shop Keeper",
+    "Cute"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2025-09-22",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415230/a06876ba7b3077bf5e7eb95ff27b18335425be62/header.jpg?t=1793655699",
+   "first_review": "2025-09-22",
+   "status": "ranked",
+   "total_reviews": 1100,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 8.1,
+   "median": 7.4,
+   "p90": 12.6,
+   "max": 49.2,
+   "avg_at_review": 7.0,
+   "median_at_review": 6.7,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.3,
+   "active_pct": 4.4,
+   "heavy_pct": 0.0,
+   "recommended_pct": 85.2,
+   "sample_span_days": 301.5,
+   "score": 7.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 41
+    },
+    {
+     "label": "2-10",
+     "count": 355
+    },
+    {
+     "label": "10-25",
+     "count": 97
+    },
+    {
+     "label": "25-50",
+     "count": 7
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 8
+  },
+  {
+   "appid": 3891400,
+   "name": "Mixed Spirits: Bartender",
+   "tags": [
+    "Job Simulator",
+    "Cozy",
+    "Shop Keeper",
+    "Simulation",
+    "Casual",
+    "Management",
+    "Indie",
+    "Wholesome",
+    "Economy",
+    "Hobby Sim"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-09-15",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891400/0b5b178f5749ff8988f68afb43e590bc7a57cfce/header.jpg?t=1793655147",
+   "first_review": "2026-09-15",
+   "status": "ranked",
+   "total_reviews": 229,
+   "review_score_desc": "Very Positive",
+   "sample": 229,
+   "avg": 8.0,
+   "median": 7.2,
+   "p90": 15.0,
+   "max": 43.5,
+   "avg_at_review": 5.3,
+   "median_at_review": 3.8,
+   "median_after_review": 1.1,
+   "avg_last_2w": 0.6,
+   "active_pct": 19.7,
+   "heavy_pct": 0.0,
+   "recommended_pct": 86.5,
+   "sample_span_days": 48.8,
+   "score": 8.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 31
+    },
+    {
+     "label": "2-10",
+     "count": 133
+    },
+    {
+     "label": "10-25",
+     "count": 61
+    },
+    {
+     "label": "25-50",
+     "count": 4
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 24
+  },
+  {
+   "appid": 4022090,
+   "name": "Monk Took Book",
+   "tags": [
+    "Organizing",
+    "Casual",
+    "Online Co-Op",
+    "Job Simulator",
+    "Cozy",
+    "Puzzle",
+    "Simulation",
+    "Medieval",
+    "Immersive Sim",
+    "First-Person"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-09-03",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022090/e1d0476ce520ae225b30919625d0668ff0682873/header.jpg?t=1788659349",
+   "first_review": "2026-09-03",
+   "status": "ranked",
+   "total_reviews": 194,
+   "review_score_desc": "Very Positive",
+   "sample": 194,
+   "avg": 7.7,
+   "median": 6.5,
+   "p90": 13.5,
+   "max": 109.7,
+   "avg_at_review": 5.0,
+   "median_at_review": 3.9,
+   "median_after_review": 0.7,
+   "avg_last_2w": 0.7,
+   "active_pct": 8.8,
+   "heavy_pct": 0.5,
+   "recommended_pct": 97.9,
+   "sample_span_days": 59.4,
+   "score": 7.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 21
+    },
+    {
+     "label": "2-10",
+     "count": 125
+    },
+    {
+     "label": "10-25",
+     "count": 46
+    },
+    {
+     "label": "25-50",
+     "count": 1
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 0
+  },
+  {
+   "appid": 3204250,
+   "name": "Lost But Found",
+   "tags": [
+    "Simulation",
+    "Organizing",
+    "Job Simulator",
+    "Casual",
+    "Wholesome",
+    "Strategy",
+    "Hidden Object",
+    "Cute",
+    "Colorful",
+    "Economy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2024-11-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204250/header.jpg?t=1793655722",
+   "first_review": "2024-11-25",
+   "status": "ranked",
+   "total_reviews": 2645,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 7.7,
+   "median": 5.2,
+   "p90": 15.9,
+   "max": 106.5,
+   "avg_at_review": 6.4,
+   "median_at_review": 4.2,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.1,
+   "active_pct": 3.2,
+   "heavy_pct": 0.2,
+   "recommended_pct": 64.4,
+   "sample_span_days": 314.6,
+   "score": 5.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 85
+    },
+    {
+     "label": "2-10",
+     "count": 280
+    },
+    {
+     "label": "10-25",
+     "count": 122
+    },
+    {
+     "label": "25-50",
+     "count": 12
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 21
+  },
+  {
+   "appid": 4954910,
+   "name": "Scam With Your Friends",
+   "tags": [
+    "Early Access",
+    "Artificial Intelligence",
+    "Online Co-Op",
+    "Voice Control",
+    "Job Simulator",
+    "Funny",
+    "Dark Comedy",
+    "Co-op",
+    "Simulation",
+    "Comedy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-10-15",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
+   "first_review": "2026-10-15",
+   "status": "ranked",
+   "total_reviews": 5030,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 6.8,
+   "median": 5.1,
+   "p90": 12.6,
+   "max": 194.1,
+   "avg_at_review": 5.4,
+   "median_at_review": 3.9,
+   "median_after_review": 0.3,
+   "avg_last_2w": 6.2,
+   "active_pct": 97.0,
+   "heavy_pct": 0.2,
+   "recommended_pct": 76.4,
+   "sample_span_days": 4.5,
+   "score": 10.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 95
+    },
+    {
+     "label": "2-10",
+     "count": 316
+    },
+    {
+     "label": "10-25",
+     "count": 79
+    },
+    {
+     "label": "25-50",
+     "count": 8
+    },
+    {
+     "label": "50-100",
+     "count": 1
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 939
+  },
+  {
+   "appid": 3896300,
+   "name": "Toll Booth Simulator",
+   "tags": [
+    "Job Simulator",
+    "Simulation",
+    "Action",
+    "Life Sim",
+    "Crime",
+    "Strategy",
+    "Management",
+    "First-Person",
+    "Exploration",
+    "Comedy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-04-27",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896300/745a728689cbfecd9347b900dab32f63aaa8107d/header.jpg?t=1792511622",
+   "first_review": "2026-04-27",
+   "status": "ranked",
+   "total_reviews": 121,
+   "review_score_desc": "Mostly Positive",
+   "sample": 121,
+   "avg": 5.8,
+   "median": 3.1,
+   "p90": 11.5,
+   "max": 44.6,
+   "avg_at_review": 4.2,
+   "median_at_review": 2.5,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.0,
+   "active_pct": 0.8,
+   "heavy_pct": 0.0,
+   "recommended_pct": 74.4,
+   "sample_span_days": 182.1,
+   "score": 3.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 38
+    },
+    {
+     "label": "2-10",
+     "count": 66
+    },
+    {
+     "label": "10-25",
+     "count": 13
+    },
+    {
+     "label": "25-50",
+     "count": 4
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 1
+  },
+  {
+   "appid": 3415240,
+   "name": "Cozy Organizer",
+   "tags": [
+    "Cozy",
+    "Organizing",
+    "Wholesome",
+    "Job Simulator",
+    "Casual",
+    "Puzzle",
+    "Relaxing",
+    "Cute",
+    "Sandbox",
+    "Simulation"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-09-13",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415240/99af98d7e42e1e0ff1ce3b6a29b790e2faf28936/header.jpg?t=1793655674",
+   "first_review": "2025-09-13",
+   "status": "ranked",
+   "total_reviews": 754,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 3.0,
+   "median": 2.4,
+   "p90": 5.3,
+   "max": 43.1,
+   "avg_at_review": 2.6,
+   "median_at_review": 2.3,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.0,
+   "active_pct": 2.2,
+   "heavy_pct": 0.0,
+   "recommended_pct": 69.6,
+   "sample_span_days": 405.7,
+   "score": 2.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 172
+    },
+    {
+     "label": "2-10",
+     "count": 319
+    },
+    {
+     "label": "10-25",
+     "count": 8
+    },
+    {
+     "label": "25-50",
+     "count": 1
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 1
+  },
+  {
+   "appid": 5067360,
+   "name": "Thank You Bus Driver",
+   "tags": [
+    "Driving",
+    "Roguelite",
+    "Job Simulator",
+    "Time Management",
+    "Destruction",
+    "Automobile Sim",
+    "Comedy",
+    "Offroad",
+    "First-Person",
+    "Surreal"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-10-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067360/def92c9dbefce68b5741098ea486f15060547635/header.jpg?t=1793061120",
+   "first_review": "2026-10-14",
+   "status": "ranked",
+   "total_reviews": 257,
+   "review_score_desc": "Very Positive",
+   "sample": 257,
+   "avg": 2.3,
+   "median": 1.9,
+   "p90": 4.4,
+   "max": 13.5,
+   "avg_at_review": 1.9,
+   "median_at_review": 1.2,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.6,
+   "active_pct": 42.4,
+   "heavy_pct": 0.0,
+   "recommended_pct": 94.2,
+   "sample_span_days": 19.4,
+   "score": 2.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 132
+    },
+    {
+     "label": "2-10",
+     "count": 122
+    },
+    {
+     "label": "10-25",
+     "count": 3
+    },
+    {
+     "label": "25-50",
+     "count": 0
+    },
+    {
+     "label": "50-100",
+     "count": 0
+    },
+    {
+     "label": "100-250",
+     "count": 0
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 3
+  }
+ ],
+ "excluded": [
+  {
+   "appid": 4348910,
+   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+   "tags": [
+    "Shop Keeper",
+    "Simulation",
+    "Trading",
+    "Cyberpunk",
+    "Management",
+    "Crafting",
+    "Inventory Management",
+    "Job Simulator",
+    "Economy",
+    "Choices Matter"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5335510,
+   "name": "Moon Sweepers",
+   "tags": [
+    "Indie",
+    "Automation",
+    "Incremental",
+    "Co-op",
+    "Job Simulator",
+    "Base Building",
+    "Simulation",
+    "Artificial Intelligence",
+    "Open World",
+    "Space"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 3981100,
+   "name": "Leaf it Alone",
+   "tags": [
+    "Relaxing",
+    "Cleaning",
+    "Simulation",
+    "Incremental",
+    "Casual",
+    "Cozy",
+    "Singleplayer",
+    "Indie",
+    "First-Person",
+    "Job Simulator"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 5088440,
+   "name": "Rip It! Card Collector",
+   "tags": [
+    "Incremental",
+    "Collectathon",
+    "Simulation",
+    "Organizing",
+    "Relaxing",
+    "Job Simulator",
+    "Indie",
+    "3D",
+    "Atmospheric",
+    "Casual"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 3070070,
+   "name": "TCG Card Shop Simulator",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Economy",
+    "Singleplayer",
+    "Collectathon",
+    "Trading Card Game",
+    "Capitalism",
+    "Card Game",
+    "Shop Keeper",
+    "Trading"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3683940,
+   "name": "Replay Value: Second Hand Games",
+   "tags": [
+    "Job Simulator",
+    "Trading",
+    "Shop Keeper",
+    "Organizing",
+    "Wholesome",
+    "Cozy",
+    "Casual",
+    "Gaming",
+    "Hobby Sim",
+    "Simulation"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-11-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683940/202af77664679e1f12cb81ab4dd1b087235bef1b/header.jpg?t=1793633880",
+   "first_review": "2026-11-02",
+   "status": "excluded: only 54 recent reviews"
+  },
+  {
+   "appid": 2482760,
+   "name": "Hunting Simulator 3",
+   "tags": [
+    "Hunting",
+    "Open World",
+    "Simulation",
+    "Realistic",
+    "First-Person",
+    "Singleplayer",
+    "Exploration",
+    "Nature",
+    "Adventure",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3393280,
+   "name": "Anime Shop Simulator ✨",
+   "tags": [
+    "Simulation",
+    "Anime",
+    "Online Co-Op",
+    "Card Game",
+    "Casual",
+    "Management",
+    "Shop Keeper",
+    "First-Person",
+    "Life Sim",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4992070,
+   "name": "Sort Them Ducks",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Organizing",
+    "Incremental",
+    "Job Simulator",
+    "Hidden Object",
+    "Collectathon",
+    "Cleaning",
+    "3D",
+    "Sandbox"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 5064340,
+   "name": "DinoBones: Tidy Up the Museum",
+   "tags": [
+    "Relaxing",
+    "Casual",
+    "Organizing",
+    "Simulation",
+    "Collectathon",
+    "Puzzle",
+    "Job Simulator",
+    "Cleaning",
+    "Physics",
+    "Cozy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4512570,
+   "name": "A Game About Chopping Trees",
+   "tags": [
+    "Simulation",
+    "Relaxing",
+    "Cozy",
+    "Exploration",
+    "Nature",
+    "Atmospheric",
+    "Stylized",
+    "Casual",
+    "Job Simulator",
+    "First-Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4098030,
+   "name": "Shipping Store Simulator 2037",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Automation",
+    "Shop Keeper",
+    "Resource Management",
+    "Singleplayer",
+    "Job Simulator",
+    "Economy",
+    "Robots",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5009390,
+   "name": "BOB LOGISTICS",
+   "tags": [
+    "Job Simulator",
+    "First-Person",
+    "Automation",
+    "Relaxing",
+    "Story Rich",
+    "Exploration",
+    "Incremental",
+    "Organizing",
+    "Simulation",
+    "Atmospheric"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-11-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009390/7d7c1a52f31eed8cfdaf4ea524ba8c70738b3454/header.jpg?t=1793671204",
+   "first_review": "2026-11-02",
+   "status": "excluded: only 17 recent reviews"
+  },
+  {
+   "appid": 1258080,
+   "name": "Shop Titans",
+   "tags": [
+    "Idler",
+    "Shop Keeper",
+    "Crafting",
+    "Medieval",
+    "Management",
+    "Base Building",
+    "Economy",
+    "Trading",
+    "Character Customization",
+    "RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Idler"
+   ],
+   "status": "excluded: Idler in top 5 tags"
+  },
+  {
+   "appid": 2572040,
+   "name": "Woodo",
+   "tags": [
+    "Cozy",
+    "Wholesome",
+    "Cute",
+    "Singleplayer",
+    "3D",
+    "Relaxing",
+    "Family Friendly",
+    "Puzzle",
+    "Casual",
+    "Emotional"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3669570,
+   "name": "Alchemy Factory",
+   "tags": [
+    "Automation",
+    "Medieval",
+    "Building",
+    "Sandbox",
+    "Multiplayer",
+    "Strategy",
+    "Casual",
+    "Singleplayer",
+    "Crafting",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3396010,
+   "name": "Black Friday Janitor: Clean the Whole Mall",
+   "tags": [
+    "Organizing",
+    "Relaxing",
+    "Simulation",
+    "Incremental",
+    "Atmospheric",
+    "Cleaning",
+    "Casual",
+    "Job Simulator",
+    "Realistic",
+    "Collectathon"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 2916430,
+   "name": "Fast Food Simulator",
+   "tags": [
+    "Simulation",
+    "Online Co-Op",
+    "Cooking",
+    "Multiplayer",
+    "Management",
+    "Co-op",
+    "Indie",
+    "First-Person",
+    "Singleplayer",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 839870,
+   "name": "Wilmot's Warehouse",
+   "tags": [
+    "Indie",
+    "Casual",
+    "Simulation",
+    "Puzzle",
+    "Adventure",
+    "Management",
+    "Local Co-Op",
+    "Inventory Management",
+    "Minimalist",
+    "Family Friendly"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4800590,
+   "name": "Supermarket Chaos",
+   "tags": [
+    "Organizing",
+    "Relaxing",
+    "Collectathon",
+    "Puzzle",
+    "Casual",
+    "Walking Simulator",
+    "Incremental",
+    "Immersive Sim",
+    "Simulation",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2658510,
+   "name": "Animal Shelter 2",
+   "tags": [
+    "Simulation",
+    "Dogs",
+    "Cats",
+    "Cute",
+    "Multiplayer",
+    "Family Friendly",
+    "Realistic",
+    "Job Simulator",
+    "Casual",
+    "Life Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3168520,
+   "name": "BloomTale",
+   "tags": [
+    "Casual",
+    "Relaxing",
+    "Cute",
+    "Immersive Sim",
+    "Story Rich",
+    "Point & Click",
+    "Singleplayer",
+    "Cozy",
+    "Shop Keeper",
+    "Nature"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3819640,
+   "name": "Megastore Simulator",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Life Sim",
+    "Economy",
+    "Immersive Sim",
+    "Crafting",
+    "Singleplayer",
+    "First-Person",
+    "Trading",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4935510,
+   "name": "Cellar Keeper",
+   "tags": [
+    "Relaxing",
+    "Organizing",
+    "Collectathon",
+    "Casual",
+    "Simulation",
+    "Puzzle",
+    "Indie",
+    "Hidden Object",
+    "Artificial Intelligence",
+    "Cleaning"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4742920,
+   "name": "Arcade & Motel Simulator Together",
+   "tags": [
+    "Early Access",
+    "Simulation",
+    "Job Simulator",
+    "Casual",
+    "Party Game",
+    "Multiplayer",
+    "Arcade",
+    "RPG",
+    "Party-Based RPG",
+    "Life Sim"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-10-30",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742920/c29ad3bca1753b075127c83e9c0ee836ff6b38e4/header.jpg?t=1793378286",
+   "first_review": "2026-10-30",
+   "status": "excluded: only 18 recent reviews"
+  },
+  {
+   "appid": 2756770,
+   "name": "Tavern Manager Simulator 🍻",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Economy",
+    "Singleplayer",
+    "Adventure",
+    "Building",
+    "Resource Management",
+    "First-Person",
+    "Fantasy",
+    "Sandbox"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 1119730,
+   "name": "Ranch Simulator: Build, Hunt, Farm",
+   "tags": [
+    "Simulation",
+    "Multiplayer",
+    "Online Co-Op",
+    "Farming Sim",
+    "Open World",
+    "Farming",
+    "Job Simulator",
+    "Co-op",
+    "Realistic",
+    "Sandbox"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3547270,
+   "name": "Worming from Home",
+   "tags": [
+    "Simulation",
+    "Funny",
+    "Sandbox",
+    "Physics",
+    "Comedy",
+    "Casual",
+    "Memes",
+    "Adventure",
+    "Cute",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3375990,
+   "name": "PC Cafe Simulator",
+   "tags": [
+    "Early Access",
+    "Simulation",
+    "Management",
+    "Shop Keeper",
+    "Online Co-Op",
+    "Multiplayer",
+    "Immersive Sim",
+    "Job Simulator",
+    "Hobby Sim",
+    "Cooking"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3705900,
+   "name": "President Simulator",
+   "tags": [
+    "Immersive Sim",
+    "Political Sim",
+    "Job Simulator",
+    "Sandbox",
+    "Automation",
+    "Capitalism",
+    "Economy",
+    "Management",
+    "Trading",
+    "Life Sim"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-10-28",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3705900/901e69507fd99cefdc032a099aedf17743325da3/header.jpg?t=1793227051",
+   "first_review": "2026-10-28",
+   "status": "excluded: only 76 recent reviews"
+  },
+  {
+   "appid": 2742710,
+   "name": "Cozy Cleaner",
+   "tags": [
+    "Cleaning",
+    "Relaxing",
+    "Cozy",
+    "Casual",
+    "Simulation",
+    "Job Simulator",
+    "Cute",
+    "Wholesome",
+    "Base Building",
+    "Colorful"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2305640,
+   "name": "Bladesong",
+   "tags": [
+    "Early Access",
+    "Shop Keeper",
+    "Crafting",
+    "Medieval",
+    "RPG",
+    "Story Rich",
+    "Design & Illustration",
+    "3D",
+    "Atmospheric",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3582250,
+   "name": "Farm to Table",
+   "tags": [
+    "Early Access",
+    "Cooking",
+    "Farming Sim",
+    "Base Building",
+    "Management",
+    "Cozy",
+    "Indie",
+    "Open World",
+    "Crafting",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2195120,
+   "name": "Go-Go Town!",
+   "tags": [
+    "Simulation",
+    "City Builder",
+    "Decorating",
+    "Life Sim",
+    "Building",
+    "Management",
+    "Sandbox",
+    "Funny",
+    "Fishing",
+    "Indie"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4072240,
+   "name": "Woman Simulator",
+   "tags": [
+    "Simulation",
+    "Cooking",
+    "RPG",
+    "Relaxing",
+    "Life Sim",
+    "Immersive Sim",
+    "Adventure",
+    "Job Simulator",
+    "Funny",
+    "Dark Humor"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3690030,
+   "name": "The Last Gas Station",
+   "tags": [
+    "Shop Keeper",
+    "Cozy",
+    "Management",
+    "Pixel Graphics",
+    "Mystery",
+    "Colorful",
+    "Investigation",
+    "Cute",
+    "2D",
+    "Trading"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4132330,
+   "name": "Pizza House Simulator🍕",
+   "tags": [
+    "Cooking",
+    "Multiplayer",
+    "Co-op",
+    "Simulation",
+    "Online Co-Op",
+    "Life Sim",
+    "First-Person",
+    "Management",
+    "Immersive Sim",
+    "Character Customization"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2331280,
+   "name": "Medieval Crafter: Blacksmith",
+   "tags": [
+    "Time Management",
+    "Crafting",
+    "Simulation",
+    "Management",
+    "Strategy",
+    "Mining",
+    "Resource Management",
+    "Medieval",
+    "Dwarves",
+    "Indie"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4819030,
+   "name": "Deal Flipper",
+   "tags": [
+    "Early Access",
+    "Simulation",
+    "Trading",
+    "Management",
+    "Capitalism",
+    "Economy",
+    "Job Simulator",
+    "Singleplayer",
+    "Shop Keeper",
+    "Casual"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 1787960,
+   "name": "Milling machine simulator",
+   "tags": [
+    "Simulation",
+    "Hobby Sim",
+    "Realistic",
+    "Education",
+    "Sandbox",
+    "Physics",
+    "Crafting",
+    "Job Simulator",
+    "Programming",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3624790,
+   "name": "Letter Lost",
+   "tags": [
+    "Mystery",
+    "Horror",
+    "Story Rich",
+    "Dark",
+    "Adventure",
+    "Choices Matter",
+    "Puzzle",
+    "Lovecraftian",
+    "Escape Room",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 448280,
+   "name": "Job Simulator",
+   "tags": [
+    "VR",
+    "Simulation",
+    "Horror",
+    "Psychological Horror",
+    "Funny",
+    "First-Person",
+    "Singleplayer",
+    "Robots",
+    "Comedy",
+    "Physics"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4466850,
+   "name": "Where is My Pet?",
+   "tags": [
+    "Job Simulator",
+    "Hidden Object",
+    "Casual",
+    "Wholesome",
+    "Point & Click",
+    "Cozy",
+    "Strategy",
+    "Colorful",
+    "Relaxing",
+    "Family Friendly"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-10-26",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466850/1d614c08652bde459d4214c7df4f0fc9a105c855/header.jpg?t=1793655124",
+   "first_review": "2026-10-26",
+   "status": "excluded: only 75 recent reviews"
+  },
+  {
+   "appid": 4656700,
+   "name": "Papa's Mocharia Deluxe",
+   "tags": [
+    "Casual",
+    "Cooking",
+    "Strategy",
+    "Simulation",
+    "Time Management",
+    "Action",
+    "Management",
+    "2D",
+    "Colorful",
+    "Family Friendly"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5233490,
+   "name": "Sort The Bunnies",
+   "tags": [
+    "Organizing",
+    "Simulation",
+    "Casual",
+    "Cozy",
+    "Incremental",
+    "Collectathon",
+    "Hidden Object",
+    "Wholesome",
+    "Puzzle",
+    "Cleaning"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 5323350,
+   "name": "European Truck Manager",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "Job Simulator",
+    "Economy",
+    "Time Management",
+    "Automation",
+    "Singleplayer",
+    "2D",
+    "Immersive Sim",
+    "Driving"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-11-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323350/96cfb0f9179abc7f7aecba6c948c4a21fec4ca46/header.jpg?t=1793635353",
+   "first_review": "2026-11-02",
+   "status": "excluded: only 5 recent reviews"
+  },
+  {
+   "appid": 2710530,
+   "name": "Rug Cleaning Simulator",
+   "tags": [
+    "Cleaning",
+    "Job Simulator",
+    "Relaxing",
+    "Simulation",
+    "First-Person",
+    "Shop Keeper",
+    "Cozy",
+    "Management",
+    "Economy",
+    "Casual"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-10-28",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710530/98d69a96d1bed1ddd4e11523e46b5a6a668c4b96/header.jpg?t=1793206825",
+   "first_review": "2026-10-28",
+   "status": "excluded: only 45 recent reviews"
+  },
+  {
+   "appid": 1644940,
+   "name": "Loddlenaut",
+   "tags": [
+    "Underwater",
+    "Relaxing",
+    "Cute",
+    "Open World",
+    "Colorful",
+    "Adventure",
+    "Cozy",
+    "Creature Collector",
+    "3D",
+    "Cleaning"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3412160,
+   "name": "The House Always Wins",
+   "tags": [
+    "Simulation",
+    "Co-op",
+    "Funny",
+    "Management",
+    "Economy",
+    "Online Co-Op",
+    "Job Simulator",
+    "Building",
+    "Life Sim",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 770810,
+   "name": "Good Pizza, Great Pizza - Cozy Cooking Simulator",
+   "tags": [
+    "Funny",
+    "Management",
+    "Time Management",
+    "Cooking",
+    "Cozy",
+    "Simulation",
+    "Relaxing",
+    "Casual",
+    "Indie",
+    "Job Simulator"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5013160,
+   "name": "Hubble Bubble",
+   "tags": [
+    "Shop Keeper",
+    "Online Co-Op",
+    "Simulation",
+    "Management",
+    "Funny",
+    "Time Management",
+    "Co-op",
+    "Physics",
+    "First-Person",
+    "Comedy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3150440,
+   "name": "Laundry Store Simulator",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Time Management",
+    "Realistic",
+    "First-Person",
+    "Comedy",
+    "Economy",
+    "3D",
+    "Sandbox",
+    "Funny"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5365190,
+   "name": "Tidy Tails",
+   "tags": [
+    "Casual",
+    "Relaxing",
+    "Simulation",
+    "Organizing",
+    "Incremental",
+    "Job Simulator",
+    "Hidden Object",
+    "3D",
+    "Puzzle",
+    "Sandbox"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 4071650,
+   "name": "Stream Train",
+   "tags": [
+    "Online Co-Op",
+    "Horror",
+    "Funny",
+    "Trains",
+    "Investigation",
+    "Dark Comedy",
+    "Atmospheric",
+    "Co-op",
+    "Comedy",
+    "Physics"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3310570,
+   "name": "Night Plane",
+   "tags": [
+    "Psychological Horror",
+    "Horror",
+    "Indie",
+    "Atmospheric",
+    "Retro",
+    "Simulation",
+    "Choices Matter",
+    "Comedy",
+    "Immersive Sim",
+    "Job Simulator"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 868360,
+   "name": "Project Hospital",
+   "tags": [
+    "Management",
+    "Medical Sim",
+    "City Builder",
+    "Job Simulator",
+    "Simulation",
+    "Sandbox",
+    "Strategy",
+    "Building",
+    "Education",
+    "Economy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2018-10-30",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/header.jpg?t=1782218252",
+   "status": "excluded: released before 2021-11-03"
+  },
+  {
+   "appid": 2881370,
+   "name": "Thank You For Your Application",
+   "tags": [
+    "Point & Click",
+    "2D",
+    "Pixel Graphics",
+    "Dystopian",
+    "Singleplayer",
+    "Capitalism",
+    "Choices Matter",
+    "Multiple Endings",
+    "Indie",
+    "RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 1915380,
+   "name": "Garden Life: A Cozy Simulator",
+   "tags": [
+    "Relaxing",
+    "Simulation",
+    "Cozy",
+    "Singleplayer",
+    "Casual",
+    "Farming Sim",
+    "Indie",
+    "Sandbox",
+    "Cute",
+    "Family Friendly"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2336220,
+   "name": "Feed the Cups",
+   "tags": [
+    "Cute",
+    "Simulation",
+    "Cooking",
+    "Online Co-Op",
+    "Crafting",
+    "Local Co-Op",
+    "2D",
+    "Management",
+    "Multiplayer",
+    "Co-op"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5306810,
+   "name": "Just Kukuruza",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Incremental",
+    "First-Person",
+    "Relaxing",
+    "Physics",
+    "Job Simulator",
+    "Dark Humor",
+    "3D",
+    "Atmospheric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 3017730,
+   "name": "Unbox the Room",
+   "tags": [
+    "Relaxing",
+    "Decorating",
+    "Organizing",
+    "Cozy",
+    "Cute",
+    "Casual",
+    "Isometric",
+    "Pixel Graphics",
+    "Family Friendly",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3119540,
+   "name": "Scriptorium: Master of Manuscripts",
+   "tags": [
+    "Decorating",
+    "Design & Illustration",
+    "Casual",
+    "Medieval",
+    "Animals",
+    "Stylized",
+    "Organizing",
+    "Simulation",
+    "Cleaning",
+    "Colorful"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3524750,
+   "name": "Tabletop Game Shop Simulator",
+   "tags": [
+    "Simulation",
+    "Shop Keeper",
+    "Collectathon",
+    "Immersive Sim",
+    "Management",
+    "Capitalism",
+    "Job Simulator",
+    "Life Sim",
+    "First-Person",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3688130,
+   "name": "Moldwasher",
+   "tags": [
+    "Cleaning",
+    "Cozy",
+    "Relaxing",
+    "Casual",
+    "Arcade",
+    "2D",
+    "Simulation",
+    "Pixel Graphics",
+    "Cute",
+    "Isometric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 1541370,
+   "name": "Ultimate Theater Simulator",
+   "tags": [
+    "Simulation",
+    "Life Sim",
+    "Sandbox",
+    "Time Management",
+    "3D",
+    "First-Person",
+    "Stylized",
+    "Automation",
+    "Building",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5317700,
+   "name": "GemCremental",
+   "tags": [
+    "Incremental",
+    "Simulation",
+    "Hobby Sim",
+    "Magic",
+    "Crafting",
+    "Casual",
+    "Job Simulator",
+    "Idler",
+    "Cozy",
+    "Female Protagonist"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 2069070,
+   "name": "Hay! One Billion!",
+   "tags": [
+    "Incremental",
+    "Simulation",
+    "Relaxing",
+    "Cozy",
+    "Job Simulator",
+    "Singleplayer",
+    "3D",
+    "Indie"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 2251220,
+   "name": "High Times",
+   "tags": [
+    "Dialogue Heavy",
+    "Dating Sim",
+    "Visual Novel",
+    "Cooking",
+    "Casual",
+    "Choices Matter",
+    "Relaxing",
+    "Cozy",
+    "Shop Keeper",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 1559600,
+   "name": "The Ranch of Rivershine",
+   "tags": [
+    "Simulation",
+    "Horses",
+    "Farming Sim",
+    "Life Sim",
+    "3D",
+    "Cute",
+    "Colorful",
+    "Agriculture",
+    "Nature",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3259470,
+   "name": "Papa's Pizzeria Deluxe",
+   "tags": [
+    "Cooking",
+    "Simulation",
+    "Casual",
+    "Time Management",
+    "Strategy",
+    "Character Customization",
+    "Management",
+    "Action",
+    "Singleplayer",
+    "Family Friendly"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5371170,
+   "name": "My Gaming Shop",
+   "tags": [
+    "Simulation",
+    "Life Sim",
+    "Job Simulator",
+    "First-Person",
+    "Management",
+    "Economy",
+    "Base Building",
+    "Indie",
+    "Early Access",
+    "Singleplayer"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-10-30",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371170/c6b2118e7c164b21ac6a0c16fbb727362722f813/header.jpg?t=1793345741",
+   "first_review": "2026-10-30",
+   "status": "excluded: only 17 recent reviews"
+  },
+  {
+   "appid": 2487060,
+   "name": "Anonymous Hacker Simulator",
+   "tags": [
+    "Simulation",
+    "Hacking",
+    "Typing",
+    "Immersive Sim",
+    "Crime",
+    "Sandbox",
+    "Detective",
+    "Stealth",
+    "Life Sim",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3311670,
+   "name": "Bento Blocks",
+   "tags": [
+    "Puzzle",
+    "Logic",
+    "Cooking",
+    "Cozy",
+    "Wholesome",
+    "Relaxing",
+    "Casual",
+    "Job Simulator",
+    "Singleplayer",
+    "Point & Click"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5144470,
+   "name": "Game Market Mayhem",
+   "tags": [
+    "Organizing",
+    "Casual",
+    "Relaxing",
+    "Simulation",
+    "Puzzle",
+    "Collectathon",
+    "Cleaning",
+    "Immersive Sim",
+    "Incremental",
+    "Inventory Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 1354830,
+   "name": "Cat Cafe Manager",
+   "tags": [
+    "Cozy",
+    "Simulation",
+    "Management",
+    "Strategy",
+    "Shop Keeper",
+    "Job Simulator",
+    "Life Sim",
+    "Building",
+    "Cats",
+    "Relaxing"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3469750,
+   "name": "Military Incremental Complex",
+   "tags": [
+    "Incremental",
+    "Idler",
+    "Simulation",
+    "Automation",
+    "Capitalism",
+    "Economy",
+    "Management",
+    "Military",
+    "1990's",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental",
+    "Idler"
+   ],
+   "status": "excluded: Incremental, Idler in top 5 tags"
+  },
+  {
+   "appid": 1473260,
+   "name": "Black Gold: Oil Drilling Simulator",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Automation",
+    "Resource Management",
+    "Building",
+    "Realistic",
+    "Crafting",
+    "Management",
+    "First-Person",
+    "Atmospheric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5272850,
+   "name": "Piecework: The Jigsaw Museum",
+   "tags": [
+    "Casual",
+    "Relaxing",
+    "Simulation",
+    "Organizing",
+    "Collectathon",
+    "Puzzle",
+    "Hidden Object",
+    "Cozy",
+    "First-Person",
+    "Indie"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5338870,
+   "name": "Tidy Tech",
+   "tags": [
+    "Simulation",
+    "Casual",
+    "Organizing",
+    "Incremental",
+    "Job Simulator",
+    "Hidden Object",
+    "Collectathon",
+    "Cleaning",
+    "3D",
+    "Sandbox"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 5,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 4969270,
+   "name": "Jarkeeper",
+   "tags": [
+    "Casual",
+    "Simulation",
+    "Organizing",
+    "Cozy",
+    "Puzzle",
+    "Job Simulator",
+    "First-Person",
+    "Atmospheric",
+    "Gothic",
+    "Magic"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2904040,
+   "name": "Cheap Car Repair",
+   "tags": [
+    "Automobile Sim",
+    "Simulation",
+    "1990's",
+    "Funny",
+    "Immersive Sim",
+    "Relaxing",
+    "First-Person",
+    "Singleplayer",
+    "Puzzle",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4058290,
+   "name": "Wormies",
+   "tags": [
+    "Casual",
+    "Relaxing",
+    "Cozy",
+    "Simulation",
+    "Cute",
+    "2D",
+    "Colorful",
+    "Wholesome",
+    "Indie",
+    "Point & Click"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4199050,
+   "name": "Slop Simulator",
+   "tags": [
+    "Cooking",
+    "Co-op",
+    "Funny",
+    "Character Customization",
+    "Comedy",
+    "Sandbox",
+    "3D Platformer",
+    "First-Person",
+    "Simulation",
+    "Crafting"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2702260,
+   "name": "Map Map - A Game About Maps",
+   "tags": [
+    "Puzzle",
+    "Exploration",
+    "Relaxing",
+    "Casual",
+    "Cozy",
+    "Adventure",
+    "Cute",
+    "Indie",
+    "Cartoon",
+    "Sandbox"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4907570,
+   "name": "Pickup Point Simulator",
+   "tags": [
+    "Simulation",
+    "Job Simulator",
+    "Organizing",
+    "Casual",
+    "Life Sim",
+    "Shop Keeper",
+    "Immersive Sim",
+    "Relaxing",
+    "Management",
+    "Realistic"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-11-01",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4907570/32de8a21b2d36bccdb577076c3e5a4892790c322/header.jpg?t=1793532027",
+   "first_review": "2026-11-01",
+   "status": "excluded: only 2 recent reviews"
+  },
+  {
+   "appid": 5284390,
+   "name": "Wildfire Command '98",
+   "tags": [
+    "Flight",
+    "Action RTS",
+    "Job Simulator",
+    "RTS",
+    "Action-Adventure",
+    "Strategy",
+    "3D",
+    "Historical",
+    "Controller",
+    "Procedural Generation"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 420000,
+   "name": "Home Design 3D",
+   "tags": [
+    "Immersive Sim",
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Education",
+    "Sandbox",
+    "Building",
+    "Utilities",
+    "Physics",
+    "Software",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4930980,
+   "name": "Garage: Tidy Up!",
+   "tags": [
+    "Relaxing",
+    "Collectathon",
+    "Simulation",
+    "Organizing",
+    "Puzzle",
+    "Indie",
+    "Casual",
+    "Walking Simulator",
+    "Immersive Sim",
+    "Incremental"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5291460,
+   "name": "Empty The Lake!",
+   "tags": [
+    "Simulation",
+    "Incremental",
+    "Casual",
+    "Point & Click",
+    "Nature",
+    "Collectathon",
+    "Stylized",
+    "First-Person",
+    "Colorful",
+    "Cozy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 874440,
+   "name": "Border Bots VR",
+   "tags": [
+    "VR",
+    "Simulation",
+    "Hidden Object",
+    "Puzzle",
+    "Indie",
+    "Singleplayer",
+    "Comedy",
+    "Robots",
+    "Dark Comedy",
+    "Sci-fi"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3330210,
+   "name": "Kinny and the Cosmic Cauldron",
+   "tags": [
+    "Roguelike Deckbuilder",
+    "Deckbuilding",
+    "Strategy",
+    "Physics",
+    "Turn-Based Strategy",
+    "Roguelike",
+    "Cooking",
+    "Job Simulator",
+    "Replay Value",
+    "Perma Death"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Turn-Based Strategy"
+   ],
+   "status": "excluded: Turn-Based Strategy in top 5 tags"
+  },
+  {
+   "appid": 3153020,
+   "name": "Skatehouse",
+   "tags": [
+    "Skateboarding",
+    "Management",
+    "Simulation",
+    "Singleplayer",
+    "Immersive Sim",
+    "Sports",
+    "Capitalism",
+    "Economy",
+    "BMX",
+    "Skating"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2004080,
+   "name": "Furnish Master",
+   "tags": [
+    "Early Access",
+    "Colorful",
+    "Sandbox",
+    "Design & Illustration",
+    "Building",
+    "Job Simulator",
+    "Cozy",
+    "Moddable",
+    "Relaxing",
+    "Cute"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2390230,
+   "name": "The Chef's Shift",
+   "tags": [
+    "Cooking",
+    "Typing",
+    "Time Management",
+    "Crime",
+    "Simulation",
+    "Difficult",
+    "Singleplayer",
+    "Management",
+    "Dark Humor",
+    "Job Simulator"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5223600,
+   "name": "Potrero - Football life sim",
+   "tags": [
+    "Sports",
+    "Football (Soccer)",
+    "RPG",
+    "Text-Based",
+    "Choices Matter",
+    "Simulation",
+    "Indie",
+    "Multiple Endings",
+    "Choose Your Own Adventure",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2429930,
+   "name": "Power Network Tycoon",
+   "tags": [
+    "City Builder",
+    "Simulation",
+    "Physics",
+    "Resource Management",
+    "Education",
+    "Indie",
+    "Capitalism",
+    "Job Simulator",
+    "Colony Sim",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5326250,
+   "name": "Guild Master",
+   "tags": [
+    "RPG",
+    "Automation",
+    "Incremental",
+    "Job Simulator",
+    "Colony Sim",
+    "Crafting",
+    "Management",
+    "Idler",
+    "Strategy",
+    "Economy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 4,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 2836100,
+   "name": "Gemporium: A Cute Mining Sim",
+   "tags": [
+    "Mining",
+    "Cartoon",
+    "Simulation",
+    "Cute",
+    "Life Sim",
+    "Hand-drawn",
+    "Management",
+    "Time Management",
+    "Resource Management",
+    "Colorful"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5331160,
+   "name": "Television Dynasty Manager",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Strategy",
+    "Economy",
+    "Historical",
+    "Job Simulator",
+    "Sandbox",
+    "Capitalism",
+    "Resource Management",
+    "Time Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3943690,
+   "name": "Plush Parade",
+   "tags": [
+    "Casual",
+    "Simulation",
+    "Creature Collector",
+    "Sandbox",
+    "Point & Click",
+    "Management",
+    "Cute",
+    "3D",
+    "Crafting",
+    "Time Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4813880,
+   "name": "Uptime: A Cloud Provider Sim",
+   "tags": [
+    "Immersive Sim",
+    "Sandbox",
+    "Automation",
+    "Building",
+    "Management",
+    "Base Building",
+    "Time Management",
+    "3D",
+    "First-Person",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2749000,
+   "name": "Inn Tycoon",
+   "tags": [
+    "Management",
+    "Medieval",
+    "Simulation",
+    "Building",
+    "Cozy",
+    "Resource Management",
+    "Relaxing",
+    "Sandbox",
+    "Economy",
+    "Capitalism"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3720580,
+   "name": "Supermarket Guard Simulator",
+   "tags": [
+    "Job Simulator",
+    "Simulation",
+    "Action",
+    "Casual",
+    "Management",
+    "Crime",
+    "Life Sim",
+    "Exploration",
+    "Automation",
+    "Comedy"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-10-16",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3720580/6fd565eefce5b4502b88f39cab582728a1159aa7/header_alt_assets_3.jpg?t=1792231559",
+   "first_review": "2026-10-16",
+   "status": "excluded: only 15 recent reviews"
+  },
+  {
+   "appid": 4190960,
+   "name": "LOST & FOUND",
+   "tags": [
+    "Job Simulator",
+    "Organizing",
+    "Time Management",
+    "Incremental",
+    "Online Co-Op",
+    "Simulation",
+    "Multiplayer",
+    "Hidden Object",
+    "Singleplayer",
+    "First-Person"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 1,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 3928990,
+   "name": "Food Processing Simulator",
+   "tags": [
+    "Automation",
+    "Simulation",
+    "Life Sim",
+    "Sandbox",
+    "Immersive Sim",
+    "Time Management",
+    "Inventory Management",
+    "Resource Management",
+    "Management",
+    "Job Simulator"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2959610,
+   "name": "Cabin Crew Life Simulator",
+   "tags": [
+    "Early Access",
+    "Simulation",
+    "Life Sim",
+    "Flight",
+    "Indie",
+    "3D",
+    "First-Person",
+    "Funny",
+    "Casual",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3453600,
+   "name": "Supercar Collection Simulator",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Multiplayer",
+    "Economy",
+    "Singleplayer",
+    "Trading",
+    "Collectathon",
+    "Trading Card Game",
+    "Immersive Sim",
+    "Racing"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2194730,
+   "name": "ServiceIT: You can do IT",
+   "tags": [
+    "Simulation",
+    "Education",
+    "Programming",
+    "Hacking",
+    "3D",
+    "Sandbox",
+    "Management",
+    "First-Person",
+    "Family Friendly",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3748640,
+   "name": "Wasteland Bites",
+   "tags": [
+    "Horror",
+    "Cooking",
+    "Simulation",
+    "Time Management",
+    "Post-apocalyptic",
+    "Shop Keeper",
+    "Jump Scare",
+    "First-Person",
+    "Point & Click",
+    "Survival Horror"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3484750,
+   "name": "Tailor Simulator",
+   "tags": [
+    "Shop Keeper",
+    "Economy",
+    "Management",
+    "Capitalism",
+    "Immersive Sim",
+    "Simulation",
+    "Life Sim",
+    "Relaxing",
+    "Casual",
+    "Job Simulator"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4138930,
+   "name": "GameZone - Game Store Simulator",
+   "tags": [
+    "Simulation",
+    "Shop Keeper",
+    "Management",
+    "Relaxing",
+    "Casual",
+    "Job Simulator",
+    "Multiplayer",
+    "Economy",
+    "Singleplayer",
+    "First-Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3959530,
+   "name": "Landscaper Simulator",
+   "tags": [
+    "Cleaning",
+    "Simulation",
+    "Relaxing",
+    "Casual",
+    "Cozy",
+    "Immersive Sim",
+    "Nature",
+    "Job Simulator",
+    "Funny",
+    "First-Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 4158870,
+   "name": "Japanese Rural Life Adventure",
+   "tags": [
+    "Life Sim",
+    "Farming Sim",
+    "Simulation",
+    "Pixel Graphics",
+    "City Builder",
+    "Immersive Sim",
+    "Nature",
+    "Agriculture",
+    "Adventure",
+    "Story Rich"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5437500,
+   "name": "Order, My Lord! Tidy Up the Dungeon",
+   "tags": [
+    "Organizing",
+    "Simulation",
+    "Job Simulator",
+    "Puzzle",
+    "Casual",
+    "Relaxing",
+    "Automation",
+    "Medieval",
+    "Dark Fantasy",
+    "3D"
+   ],
+   "core_tag": "Job Simulator",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-11-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437500/195630b14d9f92010e5555d0335ab22a802f869d/header.jpg?t=1793655619",
+   "first_review": "2026-11-02",
+   "status": "excluded: only 0 recent reviews"
+  },
+  {
+   "appid": 4148630,
+   "name": "Dragon Dinner",
+   "tags": [
+    "Time Management",
+    "Cozy",
+    "Simulation",
+    "Roguelike",
+    "Character Customization",
+    "Cute",
+    "Cooking",
+    "Dragons",
+    "Funny",
+    "Choices Matter"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3614460,
+   "name": "Hypermarket Simulator",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Economy",
+    "Shop Keeper",
+    "First-Person",
+    "Organizing",
+    "Resource Management",
+    "Job Simulator",
+    "Capitalism",
+    "Trading"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 5113530,
+   "name": "Megastore Chaos",
+   "tags": [
+    "Organizing",
+    "Relaxing",
+    "Collectathon",
+    "Puzzle",
+    "Simulation",
+    "Hidden Object",
+    "Cleaning",
+    "First-Person",
+    "Job Simulator",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 2649080,
+   "name": "Coffee Caravan",
+   "tags": [
+    "Management",
+    "Cooking",
+    "Time Management",
+    "Strategy",
+    "Simulation",
+    "Cozy",
+    "Roguelite",
+    "Building",
+    "Job Simulator",
+    "Cute"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3951340,
+   "name": "Tiny Bakery",
+   "tags": [
+    "Cooking",
+    "Casual",
+    "Relaxing",
+    "Family Friendly",
+    "Singleplayer",
+    "Colorful",
+    "Crafting",
+    "Fantasy",
+    "Building",
+    "Cute"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  },
+  {
+   "appid": 3804930,
+   "name": "Burger Shift: Team Rush",
+   "tags": [
+    "Simulation",
+    "Online Co-Op",
+    "Multiplayer",
+    "Cooking",
+    "Indie",
+    "Management",
+    "Co-op",
+    "First-Person",
+    "3D",
+    "Early Access"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Job Simulator in top 5 tags"
+  }
+ ]
+}
