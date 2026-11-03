@@ -1,0 +1,106 @@
+{
+ "generated_at": "2026-11-03T10:08:51+00:00",
+ "release_cutoff": "2021-11-03",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 5335510,
+   "name": "Moon Sweepers",
+   "tags": [
+    "Indie",
+    "Automation",
+    "Incremental",
+    "Co-op",
+    "Job Simulator",
+    "Base Building",
+    "Artificial Intelligence",
+    "Simulation",
+    "Open World",
+    "Space"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "release_date": "2026-10-23",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
+   "first_review": "2026-10-23",
+   "status": "ranked",
+   "total_reviews": 5644,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 22.0,
+   "median": 16.2,
+   "p90": 49.1,
+   "max": 139.2,
+   "avg_at_review": 20.8,
+   "median_at_review": 14.2,
+   "median_after_review": 0.0,
+   "avg_last_2w": 22.0,
+   "active_pct": 100.0,
+   "heavy_pct": 0.4,
+   "recommended_pct": 77.0,
+   "sample_span_days": 1.0,
+   "score": 32.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 151
+    },
+    {
+     "label": "10-25",
+     "count": 172
+    },
+    {
+     "label": "25-50",
+     "count": 119
+    },
+    {
+     "label": "50-100",
+     "count": 44
+    },
+    {
+     "label": "100-250",
+     "count": 2
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 31947
+  }
+ ],
+ "excluded": []
+}
