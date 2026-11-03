@@ -1,4 +1,4 @@
-name: Research run (city builders)
+name: Research run (genre rankings)
 
 # One-off data pulls for videos. Start it from the Actions tab with "Run workflow".
 on:
@@ -16,6 +16,15 @@ on:
       label:
         description: "Name for the output file when measuring specific games"
         default: "extra"
+      pool_tags:
+        description: "Steam tags to pull top sellers from (comma-separated); empty = City Builder,Colony Sim"
+        default: ""
+      prefix:
+        description: "Output file name prefix"
+        default: "city-builders"
+      pool:
+        description: "Top sellers per pool tag"
+        default: "300"
 
 concurrency:
   group: refresh            # never runs at the same time as the daily tracker
@@ -38,7 +47,7 @@ jobs:
           if [ -n "${{ inputs.extra }}" ]; then
             python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}" --extra "${{ inputs.extra }}" --only-extra --force-extra --label "${{ inputs.label }}"
           else
-            python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}"
+            python scripts/city_builders.py --years "${{ inputs.years }}" --reviews "${{ inputs.reviews }}" --pool "${{ inputs.pool }}" --pool-tags "${{ inputs.pool_tags }}" --prefix "${{ inputs.prefix }}"
           fi
       - name: Commit results
         run: |

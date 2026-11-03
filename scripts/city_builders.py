@@ -54,7 +54,16 @@ def main() -> int:
     ap.add_argument("--only-extra", action="store_true", help="skip the top-seller pool, only measure --extra")
     ap.add_argument("--label", default="", help="suffix for the output file name")
     ap.add_argument("--force-extra", action="store_true", help="with --only-extra: measure the games even if they fail the tag rule")
+    ap.add_argument("--pool-tags", default="", help="comma-separated Steam tags to pull top sellers from (default: City Builder,Colony Sim)")
+    ap.add_argument("--core-tags", default="", help="comma-separated tags, one of which must be in a game's top 5 (default: same as pool tags)")
+    ap.add_argument("--prefix", default="city-builders", help="output file name prefix")
     args = ap.parse_args()
+    global POOL_TAGS, CORE
+    if args.pool_tags:
+        POOL_TAGS = [t.strip() for t in args.pool_tags.split(",") if t.strip()]
+        CORE = set(POOL_TAGS)
+    if args.core_tags:
+        CORE = {t.strip() for t in args.core_tags.split(",") if t.strip()}
 
     steam = collect.Steam(delay=0.6)
     cutoff = (datetime.now(timezone.utc) - timedelta(days=365.25 * args.years)).strftime("%Y-%m-%d")
@@ -80,7 +89,7 @@ def main() -> int:
         rec = {"appid": appid, "name": title, "tags": tags, "core_tag": core or "(hand-picked)",
                "core_pos": top5.index(core) + 1 if core else None, "banned": banned}
         if (not core or banned) and not (args.only_extra and args.force_extra):
-            rec["status"] = "excluded: " + (", ".join(banned) + " in top 5 tags" if banned else "no City Builder/Colony Sim in top 5 tags")
+            rec["status"] = "excluded: " + (", ".join(banned) + " in top 5 tags" if banned else "no " + "/".join(sorted(CORE)) + " in top 5 tags")
             out.append(rec)
             continue
 
@@ -113,7 +122,7 @@ def main() -> int:
         collect.log(f"[{i}/{len(pool)}] {rec['name']}: avg {stats['avg']}h, median {stats['median']}h, max {stats['max']}h")
 
     OUT_DIR.mkdir(exist_ok=True)
-    path = OUT_DIR / f"city-builders-{collect.today()}{('-' + args.label) if args.label else ('-extra' if args.only_extra else '')}.json"
+    path = OUT_DIR / f"{args.prefix}-{collect.today()}{('-' + args.label) if args.label else ('-extra' if args.only_extra else '')}.json"
     ranked = sorted((r for r in out if r["status"] == "ranked"), key=lambda r: -r["avg"])
     rest = [r for r in out if r["status"] != "ranked"]
     path.write_text(json.dumps({
