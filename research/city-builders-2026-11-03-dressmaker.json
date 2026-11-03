@@ -1,0 +1,104 @@
+{
+ "generated_at": "2026-11-03T09:00:53+00:00",
+ "release_cutoff": "2021-11-03",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 4019220,
+   "name": "Dressmaker",
+   "tags": [
+    "Crafting",
+    "Design & Illustration",
+    "Cozy",
+    "Job Simulator",
+    "Simulation",
+    "Relaxing",
+    "Life Sim",
+    "Casual",
+    "Singleplayer",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-09-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1792401675",
+   "first_review": "2026-09-21",
+   "status": "ranked",
+   "total_reviews": 20835,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 33.0,
+   "median": 23.0,
+   "p90": 71.5,
+   "max": 238.7,
+   "avg_at_review": 30.3,
+   "median_at_review": 20.0,
+   "median_after_review": 1.5,
+   "avg_last_2w": 19.9,
+   "active_pct": 97.8,
+   "heavy_pct": 4.6,
+   "recommended_pct": 99.2,
+   "sample_span_days": 2.4,
+   "score": 45.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 4
+    },
+    {
+     "label": "2-10",
+     "count": 108
+    },
+    {
+     "label": "10-25",
+     "count": 153
+    },
+    {
+     "label": "25-50",
+     "count": 135
+    },
+    {
+     "label": "50-100",
+     "count": 77
+    },
+    {
+     "label": "100-250",
+     "count": 23
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 7637
+  }
+ ],
+ "excluded": []
+}
