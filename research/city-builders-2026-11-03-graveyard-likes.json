@@ -1,0 +1,716 @@
+{
+ "generated_at": "2026-11-03T09:13:02+00:00",
+ "release_cutoff": "2021-11-03",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 1084600,
+   "name": "My Time at Sandrock",
+   "tags": [
+    "Life Sim",
+    "Building",
+    "Farming Sim",
+    "Multiplayer",
+    "Crafting",
+    "Dating Sim",
+    "Sandbox",
+    "RPG",
+    "Open World",
+    "Character Customization"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2023-11-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/header.jpg?t=1792297629",
+   "first_review": "2022-05-26",
+   "status": "ranked",
+   "total_reviews": 29240,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 174.5,
+   "median": 109.8,
+   "p90": 302.0,
+   "max": 6483.8,
+   "avg_at_review": 140.8,
+   "median_at_review": 75.3,
+   "median_after_review": 4.2,
+   "avg_last_2w": 7.2,
+   "active_pct": 28.8,
+   "heavy_pct": 54.0,
+   "recommended_pct": 84.8,
+   "sample_span_days": 112.2,
+   "score": 141.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 11
+    },
+    {
+     "label": "2-10",
+     "count": 28
+    },
+    {
+     "label": "10-25",
+     "count": 34
+    },
+    {
+     "label": "25-50",
+     "count": 54
+    },
+    {
+     "label": "50-100",
+     "count": 103
+    },
+    {
+     "label": "100-250",
+     "count": 205
+    },
+    {
+     "label": "250-500",
+     "count": 43
+    },
+    {
+     "label": "500-1000",
+     "count": 16
+    },
+    {
+     "label": "1000+",
+     "count": 6
+    }
+   ],
+   "players_now": 840
+  },
+  {
+   "appid": 1432860,
+   "name": "Sun Haven",
+   "tags": [
+    "Farming Sim",
+    "Pixel Graphics",
+    "Multiplayer",
+    "Life Sim",
+    "Dating Sim",
+    "RPG",
+    "Character Customization",
+    "Relaxing",
+    "Adventure",
+    "Fantasy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2023-03-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/header.jpg?t=1741982676",
+   "first_review": "2021-06-25",
+   "status": "ranked",
+   "total_reviews": 25717,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 84.5,
+   "median": 53.0,
+   "p90": 192.5,
+   "max": 2170.9,
+   "avg_at_review": 66.0,
+   "median_at_review": 34.6,
+   "median_after_review": 2.7,
+   "avg_last_2w": 3.3,
+   "active_pct": 24.2,
+   "heavy_pct": 27.4,
+   "recommended_pct": 73.8,
+   "sample_span_days": 96.1,
+   "score": 65.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 20
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 77
+    },
+    {
+     "label": "25-50",
+     "count": 101
+    },
+    {
+     "label": "50-100",
+     "count": 121
+    },
+    {
+     "label": "100-250",
+     "count": 112
+    },
+    {
+     "label": "250-500",
+     "count": 23
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 557
+  },
+  {
+   "appid": 2142790,
+   "name": "Fields of Mistria",
+   "tags": [
+    "Farming Sim",
+    "Dating Sim",
+    "Pixel Graphics",
+    "RPG",
+    "Life Sim",
+    "Romance",
+    "Simulation",
+    "Cute",
+    "Farming",
+    "Relaxing"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-08-05",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/f65314989c7779a45a674bcc950092eed32c0b0f/header.jpg?t=1785944891",
+   "first_review": "2024-08-05",
+   "status": "ranked",
+   "total_reviews": 36765,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 82.4,
+   "median": 69.2,
+   "p90": 162.6,
+   "max": 577.0,
+   "avg_at_review": 71.3,
+   "median_at_review": 54.7,
+   "median_after_review": 4.6,
+   "avg_last_2w": 19.5,
+   "active_pct": 84.0,
+   "heavy_pct": 30.8,
+   "recommended_pct": 93.6,
+   "sample_span_days": 17.7,
+   "score": 127.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 4
+    },
+    {
+     "label": "2-10",
+     "count": 23
+    },
+    {
+     "label": "10-25",
+     "count": 58
+    },
+    {
+     "label": "25-50",
+     "count": 101
+    },
+    {
+     "label": "50-100",
+     "count": 160
+    },
+    {
+     "label": "100-250",
+     "count": 142
+    },
+    {
+     "label": "250-500",
+     "count": 11
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 2045
+  },
+  {
+   "appid": 4358690,
+   "name": "Graveyard Keeper 2",
+   "tags": [
+    "Sandbox",
+    "Building",
+    "Medieval",
+    "Crafting",
+    "Capitalism",
+    "Pixel Graphics",
+    "Automation",
+    "Agriculture",
+    "Casual",
+    "2.5D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2026-09-22",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/d63c37d6289ef7c48d89c0521fb82ac51d7f5ce8/header.jpg?t=1793194709",
+   "first_review": "2026-09-22",
+   "status": "ranked",
+   "total_reviews": 11211,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 64.9,
+   "median": 61.4,
+   "p90": 105.9,
+   "max": 599.2,
+   "avg_at_review": 59.7,
+   "median_at_review": 55.0,
+   "median_after_review": 0.0,
+   "avg_last_2w": 26.4,
+   "active_pct": 93.0,
+   "heavy_pct": 14.0,
+   "recommended_pct": 80.2,
+   "sample_span_days": 9.0,
+   "score": 118.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 9
+    },
+    {
+     "label": "2-10",
+     "count": 29
+    },
+    {
+     "label": "10-25",
+     "count": 55
+    },
+    {
+     "label": "25-50",
+     "count": 102
+    },
+    {
+     "label": "50-100",
+     "count": 235
+    },
+    {
+     "label": "100-250",
+     "count": 65
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 2465
+  },
+  {
+   "appid": 1313140,
+   "name": "Cult of the Lamb",
+   "tags": [
+    "Base Building",
+    "Action Roguelike",
+    "Cute",
+    "Cult",
+    "Singleplayer",
+    "Dungeon Crawler",
+    "Roguelite",
+    "Colony Sim",
+    "Character Customization",
+    "Dark Humor"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-08-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
+   "first_review": "2022-08-11",
+   "status": "ranked",
+   "total_reviews": 131239,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 45.4,
+   "median": 27.3,
+   "p90": 90.9,
+   "max": 1096.8,
+   "avg_at_review": 39.8,
+   "median_at_review": 20.4,
+   "median_after_review": 1.3,
+   "avg_last_2w": 10.4,
+   "active_pct": 79.0,
+   "heavy_pct": 7.2,
+   "recommended_pct": 95.0,
+   "sample_span_days": 15.4,
+   "score": 48.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 7
+    },
+    {
+     "label": "2-10",
+     "count": 87
+    },
+    {
+     "label": "10-25",
+     "count": 147
+    },
+    {
+     "label": "25-50",
+     "count": 118
+    },
+    {
+     "label": "50-100",
+     "count": 105
+    },
+    {
+     "label": "100-250",
+     "count": 30
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 1081
+  },
+  {
+   "appid": 1874490,
+   "name": "Potionomics",
+   "tags": [
+    "Deckbuilding",
+    "Dating Sim",
+    "Capitalism",
+    "Simulation",
+    "Fantasy",
+    "Female Protagonist",
+    "Indie",
+    "RPG",
+    "Crafting",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-10-17",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874490/header.jpg?t=1750960791",
+   "first_review": "2022-10-17",
+   "status": "ranked",
+   "total_reviews": 7452,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 41.1,
+   "median": 31.9,
+   "p90": 74.2,
+   "max": 516.5,
+   "avg_at_review": 34.1,
+   "median_at_review": 26.8,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.4,
+   "active_pct": 3.4,
+   "heavy_pct": 5.6,
+   "recommended_pct": 86.4,
+   "sample_span_days": 351.2,
+   "score": 32.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 14
+    },
+    {
+     "label": "2-10",
+     "count": 66
+    },
+    {
+     "label": "10-25",
+     "count": 105
+    },
+    {
+     "label": "25-50",
+     "count": 202
+    },
+    {
+     "label": "50-100",
+     "count": 85
+    },
+    {
+     "label": "100-250",
+     "count": 24
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 27
+  },
+  {
+   "appid": 1337760,
+   "name": "Potion Permit",
+   "tags": [
+    "Singleplayer",
+    "Colorful",
+    "JRPG",
+    "Pixel Graphics",
+    "Life Sim",
+    "Cozy",
+    "Dating Sim",
+    "Crafting",
+    "Adventure",
+    "Relaxing"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-09-22",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1337760/header.jpg?t=1792077050",
+   "first_review": "2022-09-22",
+   "status": "ranked",
+   "total_reviews": 5499,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 30.7,
+   "median": 27.4,
+   "p90": 54.5,
+   "max": 271.5,
+   "avg_at_review": 25.6,
+   "median_at_review": 22.4,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.5,
+   "active_pct": 4.2,
+   "heavy_pct": 1.0,
+   "recommended_pct": 71.8,
+   "sample_span_days": 332.3,
+   "score": 28.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 15
+    },
+    {
+     "label": "2-10",
+     "count": 64
+    },
+    {
+     "label": "10-25",
+     "count": 140
+    },
+    {
+     "label": "25-50",
+     "count": 216
+    },
+    {
+     "label": "50-100",
+     "count": 60
+    },
+    {
+     "label": "100-250",
+     "count": 4
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 24
+  },
+  {
+   "appid": 1210320,
+   "name": "Potion Craft: Alchemist Simulator",
+   "tags": [
+    "Crafting",
+    "Singleplayer",
+    "Relaxing",
+    "Simulation",
+    "Medieval",
+    "Management",
+    "Indie",
+    "2D",
+    "Resource Management",
+    "Sandbox"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2022-12-13",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1793194728",
+   "first_review": "2021-09-21",
+   "status": "ranked",
+   "total_reviews": 45150,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 29.8,
+   "median": 23.1,
+   "p90": 56.0,
+   "max": 288.2,
+   "avg_at_review": 25.3,
+   "median_at_review": 18.9,
+   "median_after_review": 0.3,
+   "avg_last_2w": 2.9,
+   "active_pct": 28.8,
+   "heavy_pct": 3.2,
+   "recommended_pct": 96.8,
+   "sample_span_days": 45.2,
+   "score": 29.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 3
+    },
+    {
+     "label": "2-10",
+     "count": 75
+    },
+    {
+     "label": "10-25",
+     "count": 204
+    },
+    {
+     "label": "25-50",
+     "count": 154
+    },
+    {
+     "label": "50-100",
+     "count": 48
+    },
+    {
+     "label": "100-250",
+     "count": 15
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 311
+  }
+ ],
+ "excluded": [
+  {
+   "appid": 2484290,
+   "name": "App 2484290",
+   "tags": [],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": null,
+   "type": null,
+   "coming_soon": null,
+   "header_image": null,
+   "status": "excluded: released before 2021-11-03"
+  },
+  {
+   "appid": 2321290,
+   "name": "天羽Online",
+   "tags": [
+    "MMORPG",
+    "Free to Play",
+    "Cartoony",
+    "Fantasy",
+    "Cute",
+    "Character Customization",
+    "Story Rich",
+    "2D",
+    "Massively Multiplayer",
+    "Real Time Tactics"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2023-07-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321290/56343f5bba62cc421f2b0ef4679dae17a37744c5/header.jpg?t=1777657324",
+   "first_review": "2023-07-06",
+   "status": "excluded: only 9 recent reviews"
+  },
+  {
+   "appid": 1416890,
+   "name": "App 1416890",
+   "tags": [],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": null,
+   "type": null,
+   "coming_soon": null,
+   "header_image": null,
+   "status": "excluded: released before 2021-11-03"
+  }
+ ]
+}
