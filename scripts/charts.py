@@ -119,6 +119,60 @@ def number(s: str) -> float | None:
         return None
 
 
+def fill_gaps(games: list[dict], ccfg: dict) -> None:
+    """
+    For months SteamCharts doesn't cover, in order of preference:
+      "s": our own samples of Steam's live player count (players.py, every
+           2 hours), when there are at least `min_samples` for that game.
+      "e": the main page's once-a-day player count (history.json), when there
+           are at least `min_snapshot_days` days. That count is taken at the
+           same early-morning hour every day, so it's scaled by how a
+           SteamCharts monthly average compares with the same daily count for
+           games that have both (median ratio for that month). Marked as an
+           estimate on the page.
+    Values: [avg, peak, source, how many samples or days].
+    """
+    import statistics
+    min_samples = int(ccfg.get("min_samples", 36))
+    min_days = int(ccfg.get("min_snapshot_days", 3))
+
+    samples: dict[str, dict] = {}
+    for f in sorted((DATA_DIR / "players").glob("*.json")):
+        samples[f.stem] = load_json(f, {}).get("games", {})
+
+    daily: dict[str, dict[str, list[int]]] = {}
+    for appid, pts in load_json(DATA_DIR / "history.json", {}).items():
+        for p in pts:
+            if p.get("players") is not None:
+                daily.setdefault(p["d"][:7], {}).setdefault(appid, []).append(p["players"])
+
+    ratios = {}
+    for month, per_game in daily.items():
+        r = [g["monthly"][month][0] / statistics.mean(per_game[str(g["appid"])])
+             for g in games
+             if month in g["monthly"] and len(g["monthly"][month]) == 2
+             and len(per_game.get(str(g["appid"]), [])) >= min_days
+             and statistics.mean(per_game[str(g["appid"])]) > 0]
+        if len(r) >= 10:
+            ratios[month] = statistics.median(r)
+            log(f"  {month}: daily count x {ratios[month]:.2f} = monthly average (from {len(r)} games)")
+
+    filled = 0
+    for g in games:
+        key = str(g["appid"])
+        for month, per_game in samples.items():
+            v = per_game.get(key)
+            if month not in g["monthly"] and v and v[1] >= min_samples:
+                g["monthly"][month] = [round(v[0] / v[1], 1), v[2], "s", v[1]]
+                filled += 1
+        for month, per_game in daily.items():
+            pts = per_game.get(key, [])
+            if month not in g["monthly"] and month in ratios and len(pts) >= min_days:
+                g["monthly"][month] = [round(statistics.mean(pts) * ratios[month], 1), max(pts), "e", len(pts)]
+                filled += 1
+    log(f"  filled {filled} game-months SteamCharts didn't have")
+
+
 def month_add(ym: str, n: int) -> str:
     y, m = map(int, ym.split("-"))
     m += n
@@ -203,16 +257,13 @@ def main() -> int:
             return 1
         if monthly is None:
             old = previous.get(appid)
-            if old:
-                games.append(old)
+            # Keep last run's SteamCharts months; gaps get refilled below.
+            monthly = {m: v[:2] for m, v in (old or {}).get("monthly", {}).items() if len(v) == 2}
             log(f"[{i}/{len(order)}] {name}: SteamCharts failed" + (", kept previous numbers" if old else ""))
-            continue
-        if not monthly:
-            log(f"[{i}/{len(order)}] {name}: no SteamCharts data")
-            continue
+        else:
+            log(f"[{i}/{len(order)}] {name}: {', '.join(cats)} | "
+                + (f"{max(monthly)}: {monthly[max(monthly)][0]:,} avg players" if monthly else "not on SteamCharts"))
 
-        newest = max(monthly)
-        keep = sorted(monthly)[-int(ccfg["months_kept"]) - 1:]
         lg = latest.get(appid, {})
         games.append({
             "appid": appid,
@@ -222,17 +273,21 @@ def main() -> int:
             "genres": genres,
             "categories": cats,
             "steam_tags": (meta.get("steam_tags") or [])[:5],
-            "monthly": {m: monthly[m] for m in keep},
+            "monthly": monthly,
             "median_hours": lg.get("median"),
         })
-        log(f"[{i}/{len(order)}] {name}: {', '.join(cats)} | {newest}: {monthly[newest][0]:,} avg players")
 
     if sc.failed > max(10, sc.ok):
         log(f"\nToo many SteamCharts failures ({sc.failed} failed, {sc.ok} ok). Not overwriting.")
         return 1
     if not games:
-        log("\nNo games with player data. Not overwriting.")
+        log("\nNo games found. Not overwriting.")
         return 1
+
+    # 3. Fill months SteamCharts doesn't have (it skips some new releases).
+    fill_gaps(games, ccfg)
+    for g in games:
+        g["monthly"] = {m: g["monthly"][m] for m in sorted(g["monthly"])[-int(ccfg["months_kept"]) - 1:]}
 
     # The chart month is the last complete calendar month.
     now = datetime.now(timezone.utc)
@@ -247,11 +302,15 @@ def main() -> int:
         "min_avg_players": float(ccfg["min_avg_players"]),
         "genre_top_n": int(cfg.get("genre_top_n", 5)),
         "categories": categories,
-        "source": "SteamCharts monthly averages (steamcharts.com)",
+        "sources": {
+            "steamcharts": "SteamCharts monthly average and peak (Steam's hourly player counts)",
+            "s": "Our own samples of Steam's live player count, every 2 hours",
+            "e": "Estimate from our once-a-day player count, scaled to a full-day average",
+        },
         "games": sorted(games, key=lambda g: -(g["monthly"].get(chart_month) or [0])[0]),
     })
     save_json(CHARTS_META_PATH, cache)
-    log(f"\nSaved {len(games)} games with player data ({skipped} skipped as off-genre or unreleased). "
+    log(f"\nSaved {len(games)} games ({skipped} skipped as off-genre or unreleased). "
         f"Chart month: {chart_month}.")
     return 0
 

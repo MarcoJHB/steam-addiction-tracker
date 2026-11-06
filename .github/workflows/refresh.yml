@@ -41,9 +41,12 @@ jobs:
             echo "No changes"
           else
             git commit -m "Data refresh $(date -u +%Y-%m-%d)"
-            # Code may have been pushed while this run was collecting.
-            git pull --rebase origin main
-            git push
+            # Other workflows push to main too (player samples every 2 hours); retry if one got there first.
+            for i in 1 2 3 4 5; do
+              git pull -q --rebase origin main && git push -q && exit 0
+              sleep $((i * 10))
+            done
+            exit 1
           fi
 
   deploy:
