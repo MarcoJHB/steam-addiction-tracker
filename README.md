@@ -37,6 +37,24 @@ Edit `config.json` on GitHub (pencil icon) and commit. The next daily run picks 
 | `extra_appids` | Steam app IDs to always include, e.g. `[294100]` |
 | `exclude_appids` | App IDs to always leave out |
 
+## Charts tab
+
+`charts.html` ranks the most-played games per category for a calendar month, with arrows against the month before or the same month last year.
+
+**The formula:** a game is in a category if one of its tags is in its own top 5 Steam tags (same rules and exclusions as the main page). Its score is its average concurrent players for the month; at least 50 to qualify; ties go to the higher monthly peak. Movement compares with the same chart rebuilt with the same rules for the comparison month (NEW = not in it).
+
+| Setting (`charts` in config.json) | Meaning |
+| --- | --- |
+| `categories` | Chart name and which of the site's genres count for it |
+| `games_per_tag` | How many top sellers to check per tag |
+| `chart_size` | How many places the chart shows before "Show all" |
+| `min_avg_players` | Minimum average players to qualify |
+
+Player numbers come from SteamCharts' monthly table. For games SteamCharts doesn't track, `scripts/players.py` samples Steam's live count every 2 hours (`docs/data/players/`), and older months are estimated from the daily count; both are marked on the page.
+
+- `charts.yml` runs on the 2nd of every month (or by hand from the Actions tab).
+- `players.yml` runs every 2 hours.
+
 ## Running it
 
 - **Automatically:** every day at 04:23 UTC via GitHub Actions.
