@@ -62,7 +62,7 @@ jobs:
           ref: main
 
       - name: Stamp file links so browsers load the new version
-        run: sed -i "s/?v=[A-Za-z0-9]*\"/?v=${GITHUB_SHA::7}\"/g" docs/index.html
+        run: sed -i "s/?v=[A-Za-z0-9]*\"/?v=${GITHUB_SHA::7}\"/g" docs/*.html
 
       - uses: actions/configure-pages@v5
 

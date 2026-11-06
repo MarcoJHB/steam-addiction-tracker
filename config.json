@@ -88,5 +88,28 @@
   ],
   "request_delay_seconds": 0.7,
   "history_days": 365,
-  "age_peers": 30
+  "age_peers": 30,
+  "charts": {
+    "categories": [
+      {
+        "name": "City Builders & Colony Sims",
+        "genres": [
+          "City Builder",
+          "Colony Sim"
+        ]
+      },
+      {
+        "name": "Management & Tycoon",
+        "genres": [
+          "Management",
+          "Tycoon"
+        ]
+      }
+    ],
+    "games_per_tag": 150,
+    "chart_size": 40,
+    "min_avg_players": 50,
+    "months_kept": 25,
+    "request_delay_seconds": 1.0
+  }
 }

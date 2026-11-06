@@ -1,0 +1,78 @@
+name: Monthly player charts
+
+on:
+  schedule:
+    - cron: "41 6 2 * *"   # 2nd of every month, 06:41 UTC, once last month's numbers are final
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Only check the first N games (blank = all; use 20 for a quick test)"
+        required: false
+        default: ""
+
+# Same group as the daily refresh, so the two never commit at the same time.
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  charts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Collect monthly player numbers
+        run: |
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            python scripts/charts.py --limit "${{ github.event.inputs.limit }}"
+          else
+            python scripts/charts.py
+          fi
+
+      - name: Commit new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/charts.json docs/data/charts-meta.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Charts refresh $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi
+
+  deploy:
+    needs: charts
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Stamp file links so browsers load the new version
+        run: sed -i "s/?v=[A-Za-z0-9]*\"/?v=${GITHUB_SHA::7}\"/g" docs/*.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
