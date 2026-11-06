@@ -8,6 +8,7 @@
   --amber: #F2B544;
   --amber-soft: rgba(242, 181, 68, .18);
   --teal: #5CC8B6;
+  --red: #F07A7A;
   --focus: #9FB6FF;
   --display: "Bricolage Grotesque", system-ui, sans-serif;
   --body: "Instrument Sans", system-ui, sans-serif;
@@ -25,6 +26,7 @@
     --amber: #B87A00;
     --amber-soft: rgba(184, 122, 0, .14);
     --teal: #12806F;
+    --red: #C23B4A;
     --focus: #3355CC;
     color-scheme: light;
   }
@@ -45,7 +47,7 @@ a:hover { color: var(--amber); }
 
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
 
-.top, .controls, main, .how {
+.tabs, .top, .controls, main, .how {
   max-width: 1120px;
   margin: 0 auto;
   padding-left: 24px;
@@ -259,11 +261,69 @@ main { padding-top: 8px; padding-bottom: 48px; }
 .how dd { margin: 0; color: var(--muted); font-size: .93rem; max-width: 60ch; }
 .source { color: var(--muted); font-size: .88rem; margin: 0; }
 
+/* ---- page tabs ---- */
+
+.tabs { display: flex; gap: 6px; padding-top: 22px; }
+.tabs a {
+  font: 600 .92rem var(--body);
+  color: var(--muted);
+  text-decoration: none;
+  padding: 8px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+}
+.tabs a:hover { color: var(--ink); border-color: var(--muted); }
+.tabs a[aria-current=page] { color: var(--ink); border-color: var(--amber); background: var(--amber-soft); }
+.tabs + .top { padding-top: 36px; }
+
+/* ---- charts page ---- */
+
+.formula {
+  margin: 18px 0 8px;
+  padding: 14px 20px;
+  background: var(--bg-raised);
+  border-radius: 10px;
+}
+.formula summary { font: 700 1rem var(--display); cursor: pointer; }
+.formula .steps { margin: 14px 0 10px; padding-left: 1.3rem; display: grid; gap: 8px; color: var(--muted); font-size: .93rem; max-width: 80ch; }
+.formula .steps b { color: var(--ink); }
+.formula .eq { margin: 0; }
+.formula code { font: 500 .85rem ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--ink); background: var(--bg-sunk); padding: 6px 10px; border-radius: 6px; display: inline-block; }
+
+.charts .row-head {
+  grid-template-columns: 2.6rem 3.6rem 120px minmax(160px, 1.1fr) minmax(140px, 1.4fr) 5.5rem;
+  grid-template-areas: "rank mv art title bar value" "rank mv art mini mini mini";
+  text-decoration: none;
+}
+.charts .row:nth-child(-n+3) .rank { color: var(--muted); }
+.charts .row.podium .rank { color: var(--amber); }
+
+.mv { grid-area: mv; font: 700 .82rem var(--body); font-variant-numeric: tabular-nums; white-space: nowrap; text-align: center; padding: 3px 6px; border-radius: 6px; }
+.mv.up { color: var(--teal); }
+.mv.down { color: var(--red); }
+.mv.same { color: var(--muted); }
+.mv.new { color: var(--amber); background: var(--amber-soft); letter-spacing: .04em; }
+.formula .mv { display: inline-block; padding: 0 5px; }
+
+.mini .pos { color: var(--teal); }
+.mini .neg { color: var(--red); }
+
+.more { margin: 22px 0 0; }
+.est { font-size: .75rem; color: var(--amber); text-decoration: underline dotted; text-underline-offset: 2px; cursor: help; }
+
 /* ---- small screens ---- */
 
 @media (max-width: 760px) {
   .top { padding-top: 40px; }
-  .top, .controls, main, .how { padding-left: 16px; padding-right: 16px; }
+  .tabs, .top, .controls, main, .how { padding-left: 16px; padding-right: 16px; }
+  .tabs + .top { padding-top: 24px; }
+  .charts .row-head {
+    grid-template-columns: 2.6rem 76px minmax(0, 1fr) auto;
+    grid-template-areas: "rank art title value" "mv art bar bar" "mini mini mini mini";
+  }
+  .charts .rank { text-align: center; }
+  .mv { font-size: .72rem; padding: 1px 2px; align-self: start; }
+  .seg { flex-wrap: wrap; }
   .row-head {
     grid-template-columns: 1.8rem 76px minmax(0, 1fr) auto;
     grid-template-areas: "rank art title value" "rank art bar bar" "rank mini mini mini";
