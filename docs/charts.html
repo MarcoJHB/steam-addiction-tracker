@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Steam Player Charts</title>
+  <meta name="description" content="The most-played city builders, colony sims, management and tycoon games on Steam, ranked by average players each month.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231A1D33'/%3E%3Crect x='6' y='8' width='20' height='4' rx='2' fill='%23F2B544'/%3E%3Crect x='6' y='14' width='14' height='4' rx='2' fill='%23F2B544' opacity='.75'/%3E%3Crect x='6' y='20' width='9' height='4' rx='2' fill='%23F2B544' opacity='.5'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=dev">
+</head>
+<body>
+  <nav class="tabs" aria-label="Pages">
+    <a href="./">Addiction</a>
+    <a href="charts.html" aria-current="page">Charts</a>
+  </nav>
+
+  <header class="top">
+    <h1>What are people actually playing?</h1>
+    <p class="lede">The most-played city builders, colony sims, management and tycoon games on Steam, ranked by how many
+      people were playing at the same time, on average, across a whole month. Arrows show how each game moved since
+      the month before or the same month last year.</p>
+    <p class="meta" id="meta">Loading the charts…</p>
+  </header>
+
+  <section class="controls" aria-label="Choose a chart">
+    <div class="field">
+      <span id="catLabel">Category</span>
+      <div class="seg" id="cats" role="group" aria-labelledby="catLabel"></div>
+    </div>
+    <label class="field">
+      <span>Month</span>
+      <select id="month"></select>
+    </label>
+    <div class="field">
+      <span id="vsLabel">Arrows compare with</span>
+      <div class="seg" id="vs" role="group" aria-labelledby="vsLabel">
+        <button type="button" data-vs="month" aria-pressed="true">Last month</button>
+        <button type="button" data-vs="year" aria-pressed="false">Last year</button>
+      </div>
+    </div>
+    <button class="ghost" id="csv" type="button">Download CSV</button>
+  </section>
+
+  <main>
+    <details class="formula" id="formula">
+      <summary>How the chart is ranked</summary>
+      <ol class="steps">
+        <li><b>Pool.</b> Every game Steam lists among the top sellers for the category's tags, plus every game on the
+          Addiction page.</li>
+        <li><b>Category.</b> A game belongs to a chart when one of its tags (<span id="fCatTags">…</span>) is in its own
+          top <span class="fTopN">5</span> Steam tags, the ones most players voted for. Games with 4X, RTS,
+          turn-based strategy, incremental, idler or clicker in their top <span class="fTopN">5</span> are left out,
+          same rules as the Addiction page.</li>
+        <li><b>Score.</b> Average players for the month: Steam's player count taken every hour, averaged over every
+          hour of that calendar month (from SteamCharts). For the few games SteamCharts doesn't track, the site
+          samples Steam's live count every 2 hours itself, and those games are marked <abbr class="est">sampled</abbr>.
+          Older months for those games are estimated from a once-a-day count and marked <abbr class="est">est.</abbr></li>
+        <li><b>Minimum.</b> At least <span id="fMin">50</span> average players to qualify.</li>
+        <li><b>Ties.</b> The higher peak for the month goes first.</li>
+        <li><b>Movement.</b> The same chart, built with the same rules, for <span id="fVs">the month before</span>.
+          <span class="mv up">▲ 3</span> means up three places, <span class="mv new">NEW</span> means it wasn't in that
+          chart (not out yet, or under the minimum).</li>
+      </ol>
+      <p class="eq"><code>Rank = sort by AvgPlayers(month) high→low, then PeakPlayers(month) high→low</code></p>
+    </details>
+
+    <ol class="board charts" id="board" aria-live="polite"></ol>
+    <p class="empty" id="empty" hidden></p>
+    <button class="ghost more" id="more" type="button" hidden></button>
+  </main>
+
+  <footer class="how">
+    <h2>Good to know</h2>
+    <dl>
+      <div><dt>Average players</dt><dd>How many people were in the game at the same moment, averaged across the month. A game with 5,000 average players has roughly 5,000 people playing at any given time of day.</dd></div>
+      <div><dt>Peak</dt><dd>The highest number of people playing at once during the month, usually a weekend evening or launch day.</dd></div>
+      <div><dt>Typical player</dt><dd>Median hours played by the game's most recent reviewers, from the Addiction page, shown when the game is tracked there.</dd></div>
+      <div><dt>Keep in mind</dt><dd>Only players on Steam count: Game Pass, Epic, console and offline players aren't included. Past charts are rebuilt with today's tags, so a game whose tags changed may move between categories.</dd></div>
+    </dl>
+    <p class="source">Player counts from <a href="https://steamcharts.com">SteamCharts</a>, which records Steam's own hourly numbers. Tags from the Steam store. Updated on the 2nd of every month. Source and settings on <a href="https://github.com/MarcoJHB/steam-addiction-tracker">GitHub</a>.</p>
+  </footer>
+
+  <template id="rowTpl">
+    <li class="row">
+      <a class="row-head" target="_blank" rel="noopener">
+        <span class="rank"></span>
+        <span class="mv"></span>
+        <img class="art" alt="" loading="lazy" width="120" height="56">
+        <span class="title">
+          <span class="name"></span>
+          <span class="sub"></span>
+        </span>
+        <span class="bar-wrap" aria-hidden="true"><span class="bar"></span></span>
+        <span class="value"></span>
+        <span class="mini">
+          <span><b class="m-peak"></b> peak</span>
+          <span class="m-change"></span>
+          <span class="m-prev"></span>
+          <span class="m-hours"></span>
+        </span>
+      </a>
+    </li>
+  </template>
+
+  <script src="charts.js?v=dev"></script>
+</body>
+</html>
