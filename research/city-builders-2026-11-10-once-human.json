@@ -1,0 +1,104 @@
+{
+ "generated_at": "2026-11-10T11:17:01+00:00",
+ "release_cutoff": "2021-11-10",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "core_tags": [
+  "City Builder",
+  "Colony Sim"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 2139460,
+   "name": "Once Human",
+   "tags": [
+    "Open World",
+    "Multiplayer",
+    "Free to Play",
+    "Survival",
+    "Co-op",
+    "Action",
+    "Open World Survival Craft",
+    "Building",
+    "Exploration",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "release_date": "2024-07-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c18b08a2f93dec32fcc5fa71bc2da44ee42de1f0/header.jpg?t=1792640697",
+   "first_review": "2024-07-09",
+   "status": "ranked",
+   "total_reviews": 195250,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 177.9,
+   "median": 51.2,
+   "p90": 417.7,
+   "max": 4384.6,
+   "avg_at_review": 167.3,
+   "median_at_review": 33.6,
+   "median_after_review": 5.8,
+   "avg_last_2w": 29.6,
+   "active_pct": 96.0,
+   "heavy_pct": 35.4,
+   "recommended_pct": 86.6,
+   "sample_span_days": 5.0,
+   "score": 100.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 17
+    },
+    {
+     "label": "2-10",
+     "count": 53
+    },
+    {
+     "label": "10-25",
+     "count": 88
+    },
+    {
+     "label": "25-50",
+     "count": 88
+    },
+    {
+     "label": "50-100",
+     "count": 77
+    },
+    {
+     "label": "100-250",
+     "count": 93
+    },
+    {
+     "label": "250-500",
+     "count": 45
+    },
+    {
+     "label": "500-1000",
+     "count": 23
+    },
+    {
+     "label": "1000+",
+     "count": 16
+    }
+   ],
+   "players_now": 15963
+  }
+ ],
+ "excluded": []
+}
