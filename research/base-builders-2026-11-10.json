@@ -1,0 +1,9700 @@
+{
+ "generated_at": "2026-11-10T11:16:44+00:00",
+ "release_cutoff": "2021-11-10",
+ "reviews_per_game": 500,
+ "pool_tags": [
+  "Base Building"
+ ],
+ "core_tags": [
+  "Base Building"
+ ],
+ "banned_tags": [
+  "4X",
+  "Clicker",
+  "Idler",
+  "Incremental",
+  "RTS",
+  "Turn-Based Strategy"
+ ],
+ "ranked": [
+  {
+   "appid": 505460,
+   "name": "Foxhole",
+   "tags": [
+    "Massively Multiplayer",
+    "Wargame",
+    "Military",
+    "Base Building",
+    "Open World",
+    "Sandbox",
+    "World War II",
+    "War",
+    "Top-Down",
+    "Strategy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2022-09-28",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505460/3b4805691c442e4bd87a8437ee9e8e486274c29c/header_alt_assets_0.jpg?t=1793798545",
+   "first_review": "2017-07-27",
+   "status": "ranked",
+   "total_reviews": 53444,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 383.2,
+   "median": 70.4,
+   "p90": 994.8,
+   "max": 10469.7,
+   "avg_at_review": 347.1,
+   "median_at_review": 47.0,
+   "median_after_review": 5.7,
+   "avg_last_2w": 18.1,
+   "active_pct": 50.6,
+   "heavy_pct": 45.6,
+   "recommended_pct": 68.6,
+   "sample_span_days": 55.4,
+   "score": 106.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 18
+    },
+    {
+     "label": "2-10",
+     "count": 56
+    },
+    {
+     "label": "10-25",
+     "count": 74
+    },
+    {
+     "label": "25-50",
+     "count": 68
+    },
+    {
+     "label": "50-100",
+     "count": 56
+    },
+    {
+     "label": "100-250",
+     "count": 94
+    },
+    {
+     "label": "250-500",
+     "count": 47
+    },
+    {
+     "label": "500-1000",
+     "count": 38
+    },
+    {
+     "label": "1000+",
+     "count": 49
+    }
+   ],
+   "players_now": 1245
+  },
+  {
+   "appid": 1594320,
+   "name": "Captain of Industry",
+   "tags": [
+    "Automation",
+    "Resource Management",
+    "Base Building",
+    "Simulation",
+    "Strategy",
+    "Economy",
+    "Management",
+    "Building",
+    "City Builder",
+    "Colony Sim"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2022-05-31",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594320/9a604b771ff99f83f21020ac2c0a2a54a7d18627/header.jpg?t=1794024921",
+   "first_review": "2022-05-31",
+   "status": "ranked",
+   "total_reviews": 11848,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 336.5,
+   "median": 129.4,
+   "p90": 767.3,
+   "max": 13413.4,
+   "avg_at_review": 276.9,
+   "median_at_review": 78.1,
+   "median_after_review": 19.4,
+   "avg_last_2w": 14.2,
+   "active_pct": 47.2,
+   "heavy_pct": 57.6,
+   "recommended_pct": 90.2,
+   "sample_span_days": 96.5,
+   "score": 190.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 23
+    },
+    {
+     "label": "10-25",
+     "count": 33
+    },
+    {
+     "label": "25-50",
+     "count": 49
+    },
+    {
+     "label": "50-100",
+     "count": 94
+    },
+    {
+     "label": "100-250",
+     "count": 122
+    },
+    {
+     "label": "250-500",
+     "count": 78
+    },
+    {
+     "label": "500-1000",
+     "count": 47
+    },
+    {
+     "label": "1000+",
+     "count": 41
+    }
+   ],
+   "players_now": 2247
+  },
+  {
+   "appid": 2399830,
+   "name": "ARK: Survival Ascended",
+   "tags": [
+    "Survival",
+    "Open World",
+    "Multiplayer",
+    "Dinosaurs",
+    "Base Building",
+    "Crafting",
+    "Building",
+    "Adventure",
+    "Sandbox",
+    "Action"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2023-10-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1793226168",
+   "first_review": "2023-10-26",
+   "status": "ranked",
+   "total_reviews": 121270,
+   "review_score_desc": "Mixed",
+   "sample": 500,
+   "avg": 274.3,
+   "median": 56.1,
+   "p90": 685.5,
+   "max": 11690.1,
+   "avg_at_review": 267.7,
+   "median_at_review": 46.3,
+   "median_after_review": 3.0,
+   "avg_last_2w": 31.5,
+   "active_pct": 93.6,
+   "heavy_pct": 36.4,
+   "recommended_pct": 52.8,
+   "sample_span_days": 3.3,
+   "score": 108.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 10
+    },
+    {
+     "label": "2-10",
+     "count": 62
+    },
+    {
+     "label": "10-25",
+     "count": 98
+    },
+    {
+     "label": "25-50",
+     "count": 64
+    },
+    {
+     "label": "50-100",
+     "count": 84
+    },
+    {
+     "label": "100-250",
+     "count": 82
+    },
+    {
+     "label": "250-500",
+     "count": 34
+    },
+    {
+     "label": "500-1000",
+     "count": 31
+    },
+    {
+     "label": "1000+",
+     "count": 35
+    }
+   ],
+   "players_now": 18633
+  },
+  {
+   "appid": 526870,
+   "name": "Satisfactory",
+   "tags": [
+    "Base Building",
+    "Automation",
+    "Open World",
+    "Crafting",
+    "Multiplayer",
+    "Co-op",
+    "Building",
+    "Resource Management",
+    "Sandbox",
+    "Exploration"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2024-09-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
+   "first_review": "2020-06-08",
+   "status": "ranked",
+   "total_reviews": 282557,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 237.5,
+   "median": 113.1,
+   "p90": 557.3,
+   "max": 2856.3,
+   "avg_at_review": 227.9,
+   "median_at_review": 102.3,
+   "median_after_review": 3.3,
+   "avg_last_2w": 29.0,
+   "active_pct": 86.2,
+   "heavy_pct": 54.8,
+   "recommended_pct": 94.2,
+   "sample_span_days": 7.9,
+   "score": 210.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 3
+    },
+    {
+     "label": "2-10",
+     "count": 23
+    },
+    {
+     "label": "10-25",
+     "count": 51
+    },
+    {
+     "label": "25-50",
+     "count": 56
+    },
+    {
+     "label": "50-100",
+     "count": 93
+    },
+    {
+     "label": "100-250",
+     "count": 151
+    },
+    {
+     "label": "250-500",
+     "count": 66
+    },
+    {
+     "label": "500-1000",
+     "count": 33
+    },
+    {
+     "label": "1000+",
+     "count": 24
+    }
+   ],
+   "players_now": 10144
+  },
+  {
+   "appid": 975370,
+   "name": "Dwarf Fortress",
+   "tags": [
+    "Dwarves",
+    "Colony Sim",
+    "Base Building",
+    "Simulation",
+    "Strategy",
+    "City Builder",
+    "Sandbox",
+    "Management",
+    "Building",
+    "Survival"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2022-12-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975370/34e18f5695fffd64458b78110930abc5258ccd14/header.jpg?t=1788524920",
+   "first_review": "2022-12-06",
+   "status": "ranked",
+   "total_reviews": 31662,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 236.3,
+   "median": 81.1,
+   "p90": 488.7,
+   "max": 10377.3,
+   "avg_at_review": 207.1,
+   "median_at_review": 57.3,
+   "median_after_review": 5.0,
+   "avg_last_2w": 6.3,
+   "active_pct": 28.6,
+   "heavy_pct": 44.6,
+   "recommended_pct": 89.8,
+   "sample_span_days": 126.1,
+   "score": 104.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 25
+    },
+    {
+     "label": "2-10",
+     "count": 46
+    },
+    {
+     "label": "10-25",
+     "count": 51
+    },
+    {
+     "label": "25-50",
+     "count": 69
+    },
+    {
+     "label": "50-100",
+     "count": 86
+    },
+    {
+     "label": "100-250",
+     "count": 114
+    },
+    {
+     "label": "250-500",
+     "count": 60
+    },
+    {
+     "label": "500-1000",
+     "count": 29
+    },
+    {
+     "label": "1000+",
+     "count": 20
+    }
+   ],
+   "players_now": 493
+  },
+  {
+   "appid": 2646460,
+   "name": "Soulmask",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Base Building",
+    "Crafting",
+    "Open World",
+    "PvE",
+    "PvP",
+    "Hunting",
+    "Singleplayer",
+    "Sandbox"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-04-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/8580b9d3a4f484c8e865a51c89c8307521716151/header_alt_assets_29.jpg?t=1792653046",
+   "first_review": "2024-05-31",
+   "status": "ranked",
+   "total_reviews": 22739,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 235.4,
+   "median": 81.0,
+   "p90": 574.7,
+   "max": 11730.2,
+   "avg_at_review": 203.3,
+   "median_at_review": 50.4,
+   "median_after_review": 6.5,
+   "avg_last_2w": 13.4,
+   "active_pct": 35.6,
+   "heavy_pct": 45.2,
+   "recommended_pct": 63.4,
+   "sample_span_days": 69.7,
+   "score": 109.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 35
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 49
+    },
+    {
+     "label": "25-50",
+     "count": 62
+    },
+    {
+     "label": "50-100",
+     "count": 84
+    },
+    {
+     "label": "100-250",
+     "count": 118
+    },
+    {
+     "label": "250-500",
+     "count": 52
+    },
+    {
+     "label": "500-1000",
+     "count": 29
+    },
+    {
+     "label": "1000+",
+     "count": 27
+    }
+   ],
+   "players_now": 1131
+  },
+  {
+   "appid": 784150,
+   "name": "Workers & Resources: Soviet Republic",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "Base Building",
+    "Grand Strategy",
+    "Historical",
+    "Building",
+    "Management",
+    "Economy",
+    "Colony Sim"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2024-06-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg?t=1793714516",
+   "first_review": "2019-03-15",
+   "status": "ranked",
+   "total_reviews": 27892,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 234.9,
+   "median": 85.5,
+   "p90": 533.8,
+   "max": 9498.4,
+   "avg_at_review": 208.0,
+   "median_at_review": 56.7,
+   "median_after_review": 7.9,
+   "avg_last_2w": 15.2,
+   "active_pct": 60.2,
+   "heavy_pct": 46.0,
+   "recommended_pct": 91.4,
+   "sample_span_days": 45.7,
+   "score": 137.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 37
+    },
+    {
+     "label": "10-25",
+     "count": 52
+    },
+    {
+     "label": "25-50",
+     "count": 78
+    },
+    {
+     "label": "50-100",
+     "count": 91
+    },
+    {
+     "label": "100-250",
+     "count": 116
+    },
+    {
+     "label": "250-500",
+     "count": 57
+    },
+    {
+     "label": "500-1000",
+     "count": 32
+    },
+    {
+     "label": "1000+",
+     "count": 25
+    }
+   ],
+   "players_now": 1973
+  },
+  {
+   "appid": 1149460,
+   "name": "ICARUS",
+   "tags": [
+    "Survival",
+    "Open World Survival Craft",
+    "Multiplayer",
+    "Base Building",
+    "Online Co-Op",
+    "Crafting",
+    "Open World",
+    "Exploration",
+    "Co-op",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2021-12-03",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1794195489",
+   "first_review": "2021-12-03",
+   "status": "ranked",
+   "total_reviews": 69596,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 209.5,
+   "median": 104.7,
+   "p90": 443.9,
+   "max": 3342.8,
+   "avg_at_review": 185.6,
+   "median_at_review": 86.1,
+   "median_after_review": 6.1,
+   "avg_last_2w": 21.9,
+   "active_pct": 68.2,
+   "heavy_pct": 51.8,
+   "recommended_pct": 80.6,
+   "sample_span_days": 28.8,
+   "score": 176.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 33
+    },
+    {
+     "label": "10-25",
+     "count": 36
+    },
+    {
+     "label": "25-50",
+     "count": 64
+    },
+    {
+     "label": "50-100",
+     "count": 92
+    },
+    {
+     "label": "100-250",
+     "count": 137
+    },
+    {
+     "label": "250-500",
+     "count": 74
+    },
+    {
+     "label": "500-1000",
+     "count": 26
+    },
+    {
+     "label": "1000+",
+     "count": 22
+    }
+   ],
+   "players_now": 2082
+  },
+  {
+   "appid": 1172710,
+   "name": "Dune: Awakening",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Exploration",
+    "Story Rich",
+    "Base Building",
+    "Adventure",
+    "Sandbox",
+    "PvE",
+    "Singleplayer",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2025-06-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg?t=1793636917",
+   "first_review": "2025-06-05",
+   "status": "ranked",
+   "total_reviews": 81434,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 201.5,
+   "median": 116.0,
+   "p90": 443.3,
+   "max": 3060.1,
+   "avg_at_review": 179.4,
+   "median_at_review": 84.7,
+   "median_after_review": 8.4,
+   "avg_last_2w": 37.8,
+   "active_pct": 88.8,
+   "heavy_pct": 55.4,
+   "recommended_pct": 78.2,
+   "sample_span_days": 16.8,
+   "score": 218.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 5
+    },
+    {
+     "label": "2-10",
+     "count": 19
+    },
+    {
+     "label": "10-25",
+     "count": 39
+    },
+    {
+     "label": "25-50",
+     "count": 74
+    },
+    {
+     "label": "50-100",
+     "count": 86
+    },
+    {
+     "label": "100-250",
+     "count": 166
+    },
+    {
+     "label": "250-500",
+     "count": 72
+    },
+    {
+     "label": "500-1000",
+     "count": 23
+    },
+    {
+     "label": "1000+",
+     "count": 16
+    }
+   ],
+   "players_now": 3531
+  },
+  {
+   "appid": 1324130,
+   "name": "Stranded: Alien Dawn",
+   "tags": [
+    "Base Building",
+    "Survival",
+    "Simulation",
+    "Strategy",
+    "Crafting",
+    "Colony Sim",
+    "3D",
+    "Combat",
+    "Management",
+    "Hunting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2023-04-25",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/header.jpg?t=1759746262",
+   "first_review": "2022-10-12",
+   "status": "ranked",
+   "total_reviews": 11485,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 190.1,
+   "median": 71.8,
+   "p90": 418.4,
+   "max": 4070.8,
+   "avg_at_review": 151.7,
+   "median_at_review": 45.7,
+   "median_after_review": 7.4,
+   "avg_last_2w": 3.4,
+   "active_pct": 14.2,
+   "heavy_pct": 39.4,
+   "recommended_pct": 73.8,
+   "sample_span_days": 177.1,
+   "score": 82.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 19
+    },
+    {
+     "label": "2-10",
+     "count": 36
+    },
+    {
+     "label": "10-25",
+     "count": 64
+    },
+    {
+     "label": "25-50",
+     "count": 82
+    },
+    {
+     "label": "50-100",
+     "count": 102
+    },
+    {
+     "label": "100-250",
+     "count": 97
+    },
+    {
+     "label": "250-500",
+     "count": 53
+    },
+    {
+     "label": "500-1000",
+     "count": 26
+    },
+    {
+     "label": "1000+",
+     "count": 21
+    }
+   ],
+   "players_now": 372
+  },
+  {
+   "appid": 1029780,
+   "name": "Going Medieval",
+   "tags": [
+    "Colony Sim",
+    "Base Building",
+    "Strategy",
+    "Voxel",
+    "Survival",
+    "Management",
+    "City Builder",
+    "Singleplayer",
+    "Sandbox",
+    "Nature"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-03-17",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/e2cae122ca4663db2108808148d2793eef2f3e0f/header.jpg?t=1793293280",
+   "first_review": "2021-06-01",
+   "status": "ranked",
+   "total_reviews": 21628,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 172.9,
+   "median": 88.7,
+   "p90": 381.5,
+   "max": 4285.9,
+   "avg_at_review": 141.5,
+   "median_at_review": 66.2,
+   "median_after_review": 8.5,
+   "avg_last_2w": 8.1,
+   "active_pct": 24.8,
+   "heavy_pct": 45.8,
+   "recommended_pct": 84.4,
+   "sample_span_days": 112.0,
+   "score": 110.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 22
+    },
+    {
+     "label": "10-25",
+     "count": 50
+    },
+    {
+     "label": "25-50",
+     "count": 81
+    },
+    {
+     "label": "50-100",
+     "count": 105
+    },
+    {
+     "label": "100-250",
+     "count": 144
+    },
+    {
+     "label": "250-500",
+     "count": 53
+    },
+    {
+     "label": "500-1000",
+     "count": 22
+    },
+    {
+     "label": "1000+",
+     "count": 10
+    }
+   ],
+   "players_now": 796
+  },
+  {
+   "appid": 1336490,
+   "name": "Against the Storm",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "Base Building",
+    "Building",
+    "Grand Strategy",
+    "Management",
+    "Resource Management",
+    "Colony Sim",
+    "Historical"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2023-12-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1336490/4df5edc84dea5dae1269f3f95c2bd2cf22333af6/header.jpg?t=1793269511",
+   "first_review": "2022-11-01",
+   "status": "ranked",
+   "total_reviews": 37953,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 143.4,
+   "median": 79.7,
+   "p90": 327.7,
+   "max": 2162.9,
+   "avg_at_review": 124.2,
+   "median_at_review": 61.9,
+   "median_after_review": 5.0,
+   "avg_last_2w": 7.6,
+   "active_pct": 41.8,
+   "heavy_pct": 41.6,
+   "recommended_pct": 93.2,
+   "sample_span_days": 57.3,
+   "score": 113.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 10
+    },
+    {
+     "label": "2-10",
+     "count": 22
+    },
+    {
+     "label": "10-25",
+     "count": 62
+    },
+    {
+     "label": "25-50",
+     "count": 73
+    },
+    {
+     "label": "50-100",
+     "count": 125
+    },
+    {
+     "label": "100-250",
+     "count": 135
+    },
+    {
+     "label": "250-500",
+     "count": 43
+    },
+    {
+     "label": "500-1000",
+     "count": 25
+    },
+    {
+     "label": "1000+",
+     "count": 5
+    }
+   ],
+   "players_now": 846
+  },
+  {
+   "appid": 1203620,
+   "name": "Enshrouded",
+   "tags": [
+    "Open World",
+    "Survival",
+    "Base Building",
+    "Multiplayer",
+    "Online Co-Op",
+    "Crafting",
+    "RPG",
+    "Adventure",
+    "Exploration",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-10-15",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+   "first_review": "2024-01-24",
+   "status": "ranked",
+   "total_reviews": 113490,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 132.7,
+   "median": 74.7,
+   "p90": 290.2,
+   "max": 1760.7,
+   "avg_at_review": 127.2,
+   "median_at_review": 70.1,
+   "median_after_review": 2.0,
+   "avg_last_2w": 39.6,
+   "active_pct": 96.6,
+   "heavy_pct": 40.8,
+   "recommended_pct": 83.2,
+   "sample_span_days": 3.7,
+   "score": 146.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 4
+    },
+    {
+     "label": "2-10",
+     "count": 36
+    },
+    {
+     "label": "10-25",
+     "count": 65
+    },
+    {
+     "label": "25-50",
+     "count": 75
+    },
+    {
+     "label": "50-100",
+     "count": 116
+    },
+    {
+     "label": "100-250",
+     "count": 143
+    },
+    {
+     "label": "250-500",
+     "count": 41
+    },
+    {
+     "label": "500-1000",
+     "count": 15
+    },
+    {
+     "label": "1000+",
+     "count": 5
+    }
+   ],
+   "players_now": 22151
+  },
+  {
+   "appid": 1604030,
+   "name": "V Rising",
+   "tags": [
+    "Survival",
+    "Open World",
+    "Base Building",
+    "Vampires",
+    "Multiplayer",
+    "Crafting",
+    "Online Co-Op",
+    "PvE",
+    "Building",
+    "Character Customization"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2024-05-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg?t=1793181016",
+   "first_review": "2022-05-17",
+   "status": "ranked",
+   "total_reviews": 138169,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 123.4,
+   "median": 73.5,
+   "p90": 274.0,
+   "max": 2042.7,
+   "avg_at_review": 111.5,
+   "median_at_review": 61.2,
+   "median_after_review": 1.3,
+   "avg_last_2w": 18.6,
+   "active_pct": 65.4,
+   "heavy_pct": 37.4,
+   "recommended_pct": 84.0,
+   "sample_span_days": 22.7,
+   "score": 121.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 9
+    },
+    {
+     "label": "2-10",
+     "count": 35
+    },
+    {
+     "label": "10-25",
+     "count": 58
+    },
+    {
+     "label": "25-50",
+     "count": 82
+    },
+    {
+     "label": "50-100",
+     "count": 129
+    },
+    {
+     "label": "100-250",
+     "count": 123
+    },
+    {
+     "label": "250-500",
+     "count": 50
+    },
+    {
+     "label": "500-1000",
+     "count": 9
+    },
+    {
+     "label": "1000+",
+     "count": 5
+    }
+   ],
+   "players_now": 2097
+  },
+  {
+   "appid": 1631270,
+   "name": "StarRupture",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Automation",
+    "Open World Survival Craft",
+    "Survival",
+    "Co-op",
+    "Open World",
+    "Multiplayer",
+    "Crafting",
+    "Exploration"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-01-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631270/cdb4adcc41107d70b3b0ee8600f280895ab0297e/header_alt_assets_4.jpg?t=1792506565",
+   "first_review": "2026-01-06",
+   "status": "ranked",
+   "total_reviews": 13839,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 114.9,
+   "median": 50.3,
+   "p90": 274.7,
+   "max": 1670.7,
+   "avg_at_review": 94.5,
+   "median_at_review": 36.5,
+   "median_after_review": 2.2,
+   "avg_last_2w": 4.8,
+   "active_pct": 28.4,
+   "heavy_pct": 31.4,
+   "recommended_pct": 65.2,
+   "sample_span_days": 67.2,
+   "score": 64.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 28
+    },
+    {
+     "label": "2-10",
+     "count": 53
+    },
+    {
+     "label": "10-25",
+     "count": 75
+    },
+    {
+     "label": "25-50",
+     "count": 93
+    },
+    {
+     "label": "50-100",
+     "count": 94
+    },
+    {
+     "label": "100-250",
+     "count": 103
+    },
+    {
+     "label": "250-500",
+     "count": 30
+    },
+    {
+     "label": "500-1000",
+     "count": 19
+    },
+    {
+     "label": "1000+",
+     "count": 5
+    }
+   ],
+   "players_now": 387
+  },
+  {
+   "appid": 427410,
+   "name": "Abiotic Factor",
+   "tags": [
+    "Survival",
+    "Online Co-Op",
+    "Open World Survival Craft",
+    "Crafting",
+    "Base Building",
+    "Sci-fi",
+    "Exploration",
+    "Co-op Campaign",
+    "Multiplayer",
+    "First-Person"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2025-07-22",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/0bccdb269cdbb25c701cd00c3179cc29647e1fb8/header_alt_assets_7.jpg?t=1794245513",
+   "first_review": "2024-05-02",
+   "status": "ranked",
+   "total_reviews": 60557,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 111.8,
+   "median": 81.6,
+   "p90": 236.5,
+   "max": 976.5,
+   "avg_at_review": 102.9,
+   "median_at_review": 76.3,
+   "median_after_review": 1.1,
+   "avg_last_2w": 16.0,
+   "active_pct": 72.0,
+   "heavy_pct": 39.2,
+   "recommended_pct": 93.6,
+   "sample_span_days": 16.7,
+   "score": 140.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 3
+    },
+    {
+     "label": "2-10",
+     "count": 18
+    },
+    {
+     "label": "10-25",
+     "count": 41
+    },
+    {
+     "label": "25-50",
+     "count": 62
+    },
+    {
+     "label": "50-100",
+     "count": 180
+    },
+    {
+     "label": "100-250",
+     "count": 151
+    },
+    {
+     "label": "250-500",
+     "count": 38
+    },
+    {
+     "label": "500-1000",
+     "count": 7
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 1325
+  },
+  {
+   "appid": 979110,
+   "name": "Space Haven",
+   "tags": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Strategy",
+    "Space",
+    "Management",
+    "Simulation",
+    "Sandbox",
+    "Building",
+    "City Builder"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-05-13",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1793876862",
+   "first_review": "2020-05-21",
+   "status": "ranked",
+   "total_reviews": 11331,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 107.4,
+   "median": 51.0,
+   "p90": 250.3,
+   "max": 2012.9,
+   "avg_at_review": 78.7,
+   "median_at_review": 31.6,
+   "median_after_review": 3.9,
+   "avg_last_2w": 5.3,
+   "active_pct": 23.4,
+   "heavy_pct": 28.8,
+   "recommended_pct": 79.6,
+   "sample_span_days": 131.6,
+   "score": 62.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 36
+    },
+    {
+     "label": "2-10",
+     "count": 50
+    },
+    {
+     "label": "10-25",
+     "count": 73
+    },
+    {
+     "label": "25-50",
+     "count": 87
+    },
+    {
+     "label": "50-100",
+     "count": 110
+    },
+    {
+     "label": "100-250",
+     "count": 93
+    },
+    {
+     "label": "250-500",
+     "count": 32
+    },
+    {
+     "label": "500-1000",
+     "count": 14
+    },
+    {
+     "label": "1000+",
+     "count": 5
+    }
+   ],
+   "players_now": 333
+  },
+  {
+   "appid": 1284190,
+   "name": "The Planet Crafter",
+   "tags": [
+    "Base Building",
+    "Open World Survival Craft",
+    "Survival",
+    "Online Co-Op",
+    "Co-op",
+    "Building",
+    "Space",
+    "Crafting",
+    "Open World",
+    "Exploration"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2024-04-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg?t=1788266415",
+   "first_review": "2022-03-24",
+   "status": "ranked",
+   "total_reviews": 75246,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 99.4,
+   "median": 53.3,
+   "p90": 191.3,
+   "max": 2100.9,
+   "avg_at_review": 87.0,
+   "median_at_review": 42.0,
+   "median_after_review": 3.8,
+   "avg_last_2w": 17.5,
+   "active_pct": 76.4,
+   "heavy_pct": 25.2,
+   "recommended_pct": 93.6,
+   "sample_span_days": 21.7,
+   "score": 94.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 3
+    },
+    {
+     "label": "2-10",
+     "count": 27
+    },
+    {
+     "label": "10-25",
+     "count": 73
+    },
+    {
+     "label": "25-50",
+     "count": 131
+    },
+    {
+     "label": "50-100",
+     "count": 140
+    },
+    {
+     "label": "100-250",
+     "count": 94
+    },
+    {
+     "label": "250-500",
+     "count": 22
+    },
+    {
+     "label": "500-1000",
+     "count": 5
+    },
+    {
+     "label": "1000+",
+     "count": 5
+    }
+   ],
+   "players_now": 2032
+  },
+  {
+   "appid": 1783560,
+   "name": "The Last Caretaker",
+   "tags": [
+    "Early Access",
+    "Survival",
+    "Crafting",
+    "Base Building",
+    "Open World",
+    "Automation",
+    "Sandbox",
+    "Singleplayer",
+    "First-Person",
+    "Resource Management"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-11-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783560/684058b57eeffd521d8b5f94a026c9218ce74e58/header.jpg?t=1793692099",
+   "first_review": "2025-11-06",
+   "status": "ranked",
+   "total_reviews": 14837,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 98.1,
+   "median": 61.6,
+   "p90": 209.5,
+   "max": 1100.9,
+   "avg_at_review": 77.2,
+   "median_at_review": 39.1,
+   "median_after_review": 11.2,
+   "avg_last_2w": 30.7,
+   "active_pct": 86.0,
+   "heavy_pct": 32.4,
+   "recommended_pct": 84.8,
+   "sample_span_days": 19.3,
+   "score": 114.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 10
+    },
+    {
+     "label": "2-10",
+     "count": 27
+    },
+    {
+     "label": "10-25",
+     "count": 54
+    },
+    {
+     "label": "25-50",
+     "count": 113
+    },
+    {
+     "label": "50-100",
+     "count": 134
+    },
+    {
+     "label": "100-250",
+     "count": 129
+    },
+    {
+     "label": "250-500",
+     "count": 27
+    },
+    {
+     "label": "500-1000",
+     "count": 3
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 1633
+  },
+  {
+   "appid": 1465470,
+   "name": "The Crust",
+   "tags": [
+    "Base Building",
+    "Space",
+    "Automation",
+    "Colony Sim",
+    "Resource Management",
+    "Sandbox",
+    "Strategy",
+    "City Builder",
+    "Building",
+    "Management"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2026-09-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465470/3f8a8fdfce140e37a104ace2e6d2bc88f8a90c68/header_alt_assets_19.jpg?t=1794086697",
+   "first_review": "2024-07-15",
+   "status": "ranked",
+   "total_reviews": 4603,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 97.3,
+   "median": 52.9,
+   "p90": 204.1,
+   "max": 1453.3,
+   "avg_at_review": 71.0,
+   "median_at_review": 34.2,
+   "median_after_review": 4.7,
+   "avg_last_2w": 8.9,
+   "active_pct": 38.6,
+   "heavy_pct": 33.0,
+   "recommended_pct": 70.2,
+   "sample_span_days": 52.4,
+   "score": 73.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 15
+    },
+    {
+     "label": "2-10",
+     "count": 38
+    },
+    {
+     "label": "10-25",
+     "count": 94
+    },
+    {
+     "label": "25-50",
+     "count": 89
+    },
+    {
+     "label": "50-100",
+     "count": 99
+    },
+    {
+     "label": "100-250",
+     "count": 126
+    },
+    {
+     "label": "250-500",
+     "count": 29
+    },
+    {
+     "label": "500-1000",
+     "count": 9
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 564
+  },
+  {
+   "appid": 1766060,
+   "name": "HumanitZ",
+   "tags": [
+    "Survival",
+    "Zombies",
+    "Open World",
+    "Multiplayer",
+    "Base Building",
+    "Crafting",
+    "Sandbox",
+    "Isometric",
+    "Post-apocalyptic",
+    "Shooter"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-02-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766060/7fdc4417caf1f03cd228514380efa7fe0b75839e/header_alt_assets_12.jpg?t=1793118098",
+   "first_review": "2023-09-18",
+   "status": "ranked",
+   "total_reviews": 14931,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 93.0,
+   "median": 38.9,
+   "p90": 183.0,
+   "max": 3462.6,
+   "avg_at_review": 72.1,
+   "median_at_review": 20.4,
+   "median_after_review": 5.8,
+   "avg_last_2w": 17.0,
+   "active_pct": 58.6,
+   "heavy_pct": 21.2,
+   "recommended_pct": 67.6,
+   "sample_span_days": 38.9,
+   "score": 61.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 52
+    },
+    {
+     "label": "2-10",
+     "count": 68
+    },
+    {
+     "label": "10-25",
+     "count": 79
+    },
+    {
+     "label": "25-50",
+     "count": 88
+    },
+    {
+     "label": "50-100",
+     "count": 107
+    },
+    {
+     "label": "100-250",
+     "count": 71
+    },
+    {
+     "label": "250-500",
+     "count": 24
+    },
+    {
+     "label": "500-1000",
+     "count": 5
+    },
+    {
+     "label": "1000+",
+     "count": 6
+    }
+   ],
+   "players_now": 1012
+  },
+  {
+   "appid": 1363080,
+   "name": "Manor Lords",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "Base Building",
+    "Grand Strategy",
+    "Historical",
+    "Management",
+    "Building",
+    "Sandbox",
+    "Resource Management"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2024-04-26",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1793270840",
+   "first_review": "2024-04-26",
+   "status": "ranked",
+   "total_reviews": 93473,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 92.4,
+   "median": 47.9,
+   "p90": 182.5,
+   "max": 1822.0,
+   "avg_at_review": 83.0,
+   "median_at_review": 40.6,
+   "median_after_review": 3.0,
+   "avg_last_2w": 16.9,
+   "active_pct": 87.6,
+   "heavy_pct": 23.0,
+   "recommended_pct": 84.8,
+   "sample_span_days": 16.5,
+   "score": 89.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 7
+    },
+    {
+     "label": "2-10",
+     "count": 39
+    },
+    {
+     "label": "10-25",
+     "count": 94
+    },
+    {
+     "label": "25-50",
+     "count": 117
+    },
+    {
+     "label": "50-100",
+     "count": 128
+    },
+    {
+     "label": "100-250",
+     "count": 85
+    },
+    {
+     "label": "250-500",
+     "count": 17
+    },
+    {
+     "label": "500-1000",
+     "count": 7
+    },
+    {
+     "label": "1000+",
+     "count": 6
+    }
+   ],
+   "players_now": 3133
+  },
+  {
+   "appid": 2489330,
+   "name": "Whiskerwood",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "City Builder",
+    "Base Building",
+    "Colony Sim",
+    "Grand Strategy",
+    "Management",
+    "Building",
+    "Sandbox",
+    "Historical"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2025-11-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489330/7237c2ee5f5a5c9d05ac9e473d4bcb8573e4bc09/header.jpg?t=1793371487",
+   "first_review": "2025-11-06",
+   "status": "ranked",
+   "total_reviews": 4102,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 88.0,
+   "median": 62.6,
+   "p90": 182.1,
+   "max": 1167.4,
+   "avg_at_review": 59.3,
+   "median_at_review": 36.2,
+   "median_after_review": 11.1,
+   "avg_last_2w": 9.8,
+   "active_pct": 42.4,
+   "heavy_pct": 27.0,
+   "recommended_pct": 92.0,
+   "sample_span_days": 56.5,
+   "score": 89.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 8
+    },
+    {
+     "label": "2-10",
+     "count": 31
+    },
+    {
+     "label": "10-25",
+     "count": 68
+    },
+    {
+     "label": "25-50",
+     "count": 106
+    },
+    {
+     "label": "50-100",
+     "count": 152
+    },
+    {
+     "label": "100-250",
+     "count": 115
+    },
+    {
+     "label": "250-500",
+     "count": 14
+    },
+    {
+     "label": "500-1000",
+     "count": 3
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 611
+  },
+  {
+   "appid": 2661300,
+   "name": "Grounded 2",
+   "tags": [
+    "Survival",
+    "Multiplayer",
+    "Base Building",
+    "Adventure",
+    "Open World",
+    "Co-op",
+    "Action",
+    "Open World Survival Craft",
+    "Exploration",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2025-07-29",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/91c758b9591805d15b26d9fa185a8b9ebab0a334/header.jpg?t=1792539149",
+   "first_review": "2025-07-29",
+   "status": "ranked",
+   "total_reviews": 25636,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 82.3,
+   "median": 60.1,
+   "p90": 162.2,
+   "max": 992.7,
+   "avg_at_review": 68.6,
+   "median_at_review": 46.7,
+   "median_after_review": 5.7,
+   "avg_last_2w": 16.1,
+   "active_pct": 77.0,
+   "heavy_pct": 27.4,
+   "recommended_pct": 85.4,
+   "sample_span_days": 24.7,
+   "score": 106.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 11
+    },
+    {
+     "label": "2-10",
+     "count": 21
+    },
+    {
+     "label": "10-25",
+     "count": 63
+    },
+    {
+     "label": "25-50",
+     "count": 108
+    },
+    {
+     "label": "50-100",
+     "count": 160
+    },
+    {
+     "label": "100-250",
+     "count": 119
+    },
+    {
+     "label": "250-500",
+     "count": 14
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 1852
+  },
+  {
+   "appid": 962130,
+   "name": "Grounded",
+   "tags": [
+    "Survival",
+    "Multiplayer",
+    "Co-op",
+    "Open World Survival Craft",
+    "Base Building",
+    "Crafting",
+    "Open World",
+    "Adventure",
+    "Online Co-Op",
+    "Horror"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2022-09-27",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1768264530",
+   "first_review": "2020-07-28",
+   "status": "ranked",
+   "total_reviews": 96380,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 82.3,
+   "median": 55.2,
+   "p90": 163.4,
+   "max": 2513.6,
+   "avg_at_review": 69.6,
+   "median_at_review": 41.0,
+   "median_after_review": 1.2,
+   "avg_last_2w": 7.0,
+   "active_pct": 40.0,
+   "heavy_pct": 25.6,
+   "recommended_pct": 86.6,
+   "sample_span_days": 39.9,
+   "score": 77.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 10
+    },
+    {
+     "label": "2-10",
+     "count": 39
+    },
+    {
+     "label": "10-25",
+     "count": 69
+    },
+    {
+     "label": "25-50",
+     "count": 111
+    },
+    {
+     "label": "50-100",
+     "count": 143
+    },
+    {
+     "label": "100-250",
+     "count": 106
+    },
+    {
+     "label": "250-500",
+     "count": 20
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 988
+  },
+  {
+   "appid": 1967630,
+   "name": "Survival: Fountain of Youth",
+   "tags": [
+    "Survival",
+    "Open World Survival Craft",
+    "Co-op",
+    "Base Building",
+    "Exploration",
+    "Crafting",
+    "Online Co-Op",
+    "Simulation",
+    "Violent",
+    "Adventure"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2024-05-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/94d9339bad3fa78e43853dffa04f18e859142dbd/header_alt_assets_9.jpg?t=1793634882",
+   "first_review": "2023-04-19",
+   "status": "ranked",
+   "total_reviews": 4603,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 76.8,
+   "median": 57.3,
+   "p90": 164.1,
+   "max": 764.0,
+   "avg_at_review": 59.1,
+   "median_at_review": 45.6,
+   "median_after_review": 0.6,
+   "avg_last_2w": 2.6,
+   "active_pct": 15.6,
+   "heavy_pct": 23.4,
+   "recommended_pct": 81.4,
+   "sample_span_days": 310.1,
+   "score": 66.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 49
+    },
+    {
+     "label": "2-10",
+     "count": 50
+    },
+    {
+     "label": "10-25",
+     "count": 45
+    },
+    {
+     "label": "25-50",
+     "count": 76
+    },
+    {
+     "label": "50-100",
+     "count": 163
+    },
+    {
+     "label": "100-250",
+     "count": 98
+    },
+    {
+     "label": "250-500",
+     "count": 15
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 210
+  },
+  {
+   "appid": 2706020,
+   "name": "ALL WILL FALL",
+   "tags": [
+    "Colony Sim",
+    "Base Building",
+    "Post-apocalyptic",
+    "Simulation",
+    "Open World Survival Craft",
+    "City Builder",
+    "Replay Value",
+    "Sandbox",
+    "Strategy",
+    "Physics"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-04-03",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/header.jpg?t=1789227391",
+   "first_review": "2026-04-03",
+   "status": "ranked",
+   "total_reviews": 1485,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 75.3,
+   "median": 38.4,
+   "p90": 174.1,
+   "max": 1338.1,
+   "avg_at_review": 42.6,
+   "median_at_review": 21.9,
+   "median_after_review": 6.5,
+   "avg_last_2w": 1.7,
+   "active_pct": 12.2,
+   "heavy_pct": 23.2,
+   "recommended_pct": 78.2,
+   "sample_span_days": 192.9,
+   "score": 43.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 22
+    },
+    {
+     "label": "2-10",
+     "count": 67
+    },
+    {
+     "label": "10-25",
+     "count": 95
+    },
+    {
+     "label": "25-50",
+     "count": 107
+    },
+    {
+     "label": "50-100",
+     "count": 93
+    },
+    {
+     "label": "100-250",
+     "count": 91
+    },
+    {
+     "label": "250-500",
+     "count": 21
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "players_now": 92
+  },
+  {
+   "appid": 846770,
+   "name": "DYSMANTLE",
+   "tags": [
+    "Survival",
+    "Open World",
+    "Crafting",
+    "Zombies",
+    "Base Building",
+    "RPG",
+    "Adventure",
+    "Exploration",
+    "Action",
+    "Destruction"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2021-11-16",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/header.jpg?t=1772050662",
+   "first_review": "2020-11-06",
+   "status": "ranked",
+   "total_reviews": 11691,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 74.0,
+   "median": 52.7,
+   "p90": 138.6,
+   "max": 742.3,
+   "avg_at_review": 58.9,
+   "median_at_review": 39.9,
+   "median_after_review": 0.4,
+   "avg_last_2w": 0.9,
+   "active_pct": 9.8,
+   "heavy_pct": 21.2,
+   "recommended_pct": 87.4,
+   "sample_span_days": 260.9,
+   "score": 57.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 19
+    },
+    {
+     "label": "2-10",
+     "count": 46
+    },
+    {
+     "label": "10-25",
+     "count": 67
+    },
+    {
+     "label": "25-50",
+     "count": 110
+    },
+    {
+     "label": "50-100",
+     "count": 152
+    },
+    {
+     "label": "100-250",
+     "count": 86
+    },
+    {
+     "label": "250-500",
+     "count": 15
+    },
+    {
+     "label": "500-1000",
+     "count": 5
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 338
+  },
+  {
+   "appid": 2933130,
+   "name": "The Lord of the Rings: Return to Moria™",
+   "tags": [
+    "Dwarves",
+    "Base Building",
+    "Open World Survival Craft",
+    "Survival",
+    "Online Co-Op",
+    "Exploration",
+    "Crafting",
+    "Building",
+    "Adventure",
+    "Multiplayer"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2024-08-27",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/6b8f8cf6304969c5c1d72fb3b33e5a31a1255f83/header.jpg?t=1790022388",
+   "first_review": "2024-08-27",
+   "status": "ranked",
+   "total_reviews": 12682,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 73.4,
+   "median": 41.5,
+   "p90": 153.4,
+   "max": 1541.3,
+   "avg_at_review": 57.0,
+   "median_at_review": 31.6,
+   "median_after_review": 1.0,
+   "avg_last_2w": 2.6,
+   "active_pct": 17.6,
+   "heavy_pct": 19.0,
+   "recommended_pct": 74.6,
+   "sample_span_days": 113.3,
+   "score": 48.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 22
+    },
+    {
+     "label": "2-10",
+     "count": 65
+    },
+    {
+     "label": "10-25",
+     "count": 72
+    },
+    {
+     "label": "25-50",
+     "count": 124
+    },
+    {
+     "label": "50-100",
+     "count": 122
+    },
+    {
+     "label": "100-250",
+     "count": 74
+    },
+    {
+     "label": "250-500",
+     "count": 14
+    },
+    {
+     "label": "500-1000",
+     "count": 5
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "players_now": 172
+  },
+  {
+   "appid": 3312130,
+   "name": "Factory Town 2: Paradise",
+   "tags": [
+    "Early Access",
+    "Automation",
+    "City Builder",
+    "Base Building",
+    "Resource Management",
+    "Colony Sim",
+    "Management",
+    "Simulation",
+    "Building",
+    "Economy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-07-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312130/438ab64ccf7ac95229f8c4162d1321f5d9e25eef/header.jpg?t=1793029008",
+   "first_review": "2026-07-14",
+   "status": "ranked",
+   "total_reviews": 188,
+   "review_score_desc": "Very Positive",
+   "sample": 188,
+   "avg": 69.7,
+   "median": 34.2,
+   "p90": 175.1,
+   "max": 945.9,
+   "avg_at_review": 37.1,
+   "median_at_review": 9.6,
+   "median_after_review": 10.4,
+   "avg_last_2w": 3.0,
+   "active_pct": 18.6,
+   "heavy_pct": 21.8,
+   "recommended_pct": 89.9,
+   "sample_span_days": 116.8,
+   "score": 40.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 12
+    },
+    {
+     "label": "2-10",
+     "count": 34
+    },
+    {
+     "label": "10-25",
+     "count": 37
+    },
+    {
+     "label": "25-50",
+     "count": 37
+    },
+    {
+     "label": "50-100",
+     "count": 27
+    },
+    {
+     "label": "100-250",
+     "count": 35
+    },
+    {
+     "label": "250-500",
+     "count": 4
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 23
+  },
+  {
+   "appid": 1702010,
+   "name": "Sengoku Dynasty",
+   "tags": [
+    "City Builder",
+    "Open World",
+    "Survival",
+    "Base Building",
+    "Medieval",
+    "Life Sim",
+    "Multiplayer",
+    "Building",
+    "Crafting",
+    "RPG"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2024-11-07",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702010/16a107028f000149c4a391b2eb4db71bac77c9b5/header.jpg?t=1792008540",
+   "first_review": "2023-08-10",
+   "status": "ranked",
+   "total_reviews": 7995,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 69.5,
+   "median": 40.1,
+   "p90": 152.7,
+   "max": 822.3,
+   "avg_at_review": 48.8,
+   "median_at_review": 24.5,
+   "median_after_review": 3.2,
+   "avg_last_2w": 3.0,
+   "active_pct": 15.6,
+   "heavy_pct": 20.2,
+   "recommended_pct": 75.2,
+   "sample_span_days": 174.1,
+   "score": 46.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 31
+    },
+    {
+     "label": "2-10",
+     "count": 61
+    },
+    {
+     "label": "10-25",
+     "count": 86
+    },
+    {
+     "label": "25-50",
+     "count": 107
+    },
+    {
+     "label": "50-100",
+     "count": 114
+    },
+    {
+     "label": "100-250",
+     "count": 74
+    },
+    {
+     "label": "250-500",
+     "count": 23
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 256
+  },
+  {
+   "appid": 1272320,
+   "name": "Diplomacy is Not an Option",
+   "tags": [
+    "Resource Management",
+    "Medieval",
+    "Historical",
+    "Zombies",
+    "Base Building",
+    "Colony Sim",
+    "RTS",
+    "Difficult",
+    "Action RTS",
+    "Tower Defense"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2024-10-04",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/4edf2d1ccc30f555fe41731fb8f442989307a310/header_alt_assets_8.jpg?t=1793863656",
+   "first_review": "2022-02-09",
+   "status": "ranked",
+   "total_reviews": 12855,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 65.7,
+   "median": 41.6,
+   "p90": 133.7,
+   "max": 907.5,
+   "avg_at_review": 49.4,
+   "median_at_review": 27.1,
+   "median_after_review": 4.5,
+   "avg_last_2w": 2.1,
+   "active_pct": 20.0,
+   "heavy_pct": 19.4,
+   "recommended_pct": 84.8,
+   "sample_span_days": 103.4,
+   "score": 50.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 55
+    },
+    {
+     "label": "10-25",
+     "count": 89
+    },
+    {
+     "label": "25-50",
+     "count": 132
+    },
+    {
+     "label": "50-100",
+     "count": 114
+    },
+    {
+     "label": "100-250",
+     "count": 81
+    },
+    {
+     "label": "250-500",
+     "count": 10
+    },
+    {
+     "label": "500-1000",
+     "count": 6
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 405
+  },
+  {
+   "appid": 1857090,
+   "name": "Norland",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "City Builder",
+    "Base Building",
+    "Colony Sim",
+    "Management",
+    "Building",
+    "Resource Management",
+    "Grand Strategy",
+    "Historical"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2024-07-18",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857090/header.jpg?t=1793358286",
+   "first_review": "2024-07-18",
+   "status": "ranked",
+   "total_reviews": 10669,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 65.3,
+   "median": 42.2,
+   "p90": 139.7,
+   "max": 896.5,
+   "avg_at_review": 52.6,
+   "median_at_review": 29.7,
+   "median_after_review": 3.1,
+   "avg_last_2w": 3.2,
+   "active_pct": 26.6,
+   "heavy_pct": 20.4,
+   "recommended_pct": 80.8,
+   "sample_span_days": 112.2,
+   "score": 53.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 6
+    },
+    {
+     "label": "2-10",
+     "count": 57
+    },
+    {
+     "label": "10-25",
+     "count": 100
+    },
+    {
+     "label": "25-50",
+     "count": 115
+    },
+    {
+     "label": "50-100",
+     "count": 120
+    },
+    {
+     "label": "100-250",
+     "count": 87
+    },
+    {
+     "label": "250-500",
+     "count": 13
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 186
+  },
+  {
+   "appid": 1465460,
+   "name": "Infection Free Zone",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Post-apocalyptic",
+    "Zombies",
+    "City Builder",
+    "Strategy",
+    "Management",
+    "Survival",
+    "Simulation",
+    "RTS"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2024-04-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/2ef07dc94864deedc7b5ac437e4da1bb78a2b808/header_alt_assets_4.jpg?t=1793695895",
+   "first_review": "2024-04-11",
+   "status": "ranked",
+   "total_reviews": 18889,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 63.0,
+   "median": 33.4,
+   "p90": 142.8,
+   "max": 1153.7,
+   "avg_at_review": 49.7,
+   "median_at_review": 24.9,
+   "median_after_review": 3.1,
+   "avg_last_2w": 4.2,
+   "active_pct": 33.2,
+   "heavy_pct": 14.4,
+   "recommended_pct": 81.8,
+   "sample_span_days": 90.9,
+   "score": 44.5,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 18
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 129
+    },
+    {
+     "label": "25-50",
+     "count": 135
+    },
+    {
+     "label": "50-100",
+     "count": 102
+    },
+    {
+     "label": "100-250",
+     "count": 49
+    },
+    {
+     "label": "250-500",
+     "count": 20
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 597
+  },
+  {
+   "appid": 2001070,
+   "name": "Heart of the Machine",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "Grand Strategy",
+    "Base Building",
+    "City Builder",
+    "Management",
+    "Historical",
+    "Building",
+    "Sandbox",
+    "Colony Sim"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-03-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/3fd7995ae0214104d0a695a6968e096fa2574238/header.jpg?t=1793269702",
+   "first_review": "2025-01-31",
+   "status": "ranked",
+   "total_reviews": 2231,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 54.0,
+   "median": 30.4,
+   "p90": 118.3,
+   "max": 614.0,
+   "avg_at_review": 38.7,
+   "median_at_review": 23.2,
+   "median_after_review": 2.1,
+   "avg_last_2w": 2.1,
+   "active_pct": 12.0,
+   "heavy_pct": 13.2,
+   "recommended_pct": 84.4,
+   "sample_span_days": 237.3,
+   "score": 34.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 37
+    },
+    {
+     "label": "2-10",
+     "count": 70
+    },
+    {
+     "label": "10-25",
+     "count": 105
+    },
+    {
+     "label": "25-50",
+     "count": 100
+    },
+    {
+     "label": "50-100",
+     "count": 122
+    },
+    {
+     "label": "100-250",
+     "count": 54
+    },
+    {
+     "label": "250-500",
+     "count": 10
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 26
+  },
+  {
+   "appid": 1857950,
+   "name": "VEIN",
+   "tags": [
+    "Early Access",
+    "Survival",
+    "Open World",
+    "Zombies",
+    "Base Building",
+    "Multiplayer",
+    "Post-apocalyptic",
+    "Co-op",
+    "Exploration",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2025-10-24",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857950/header.jpg?t=1790673186",
+   "first_review": "2025-10-24",
+   "status": "ranked",
+   "total_reviews": 13383,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 53.7,
+   "median": 23.2,
+   "p90": 111.4,
+   "max": 2133.9,
+   "avg_at_review": 42.5,
+   "median_at_review": 14.9,
+   "median_after_review": 1.7,
+   "avg_last_2w": 9.4,
+   "active_pct": 50.6,
+   "heavy_pct": 12.2,
+   "recommended_pct": 76.4,
+   "sample_span_days": 29.4,
+   "score": 34.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 46
+    },
+    {
+     "label": "2-10",
+     "count": 98
+    },
+    {
+     "label": "10-25",
+     "count": 118
+    },
+    {
+     "label": "25-50",
+     "count": 105
+    },
+    {
+     "label": "50-100",
+     "count": 72
+    },
+    {
+     "label": "100-250",
+     "count": 50
+    },
+    {
+     "label": "250-500",
+     "count": 6
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 492
+  },
+  {
+   "appid": 821250,
+   "name": "Flotsam",
+   "tags": [
+    "Base Building",
+    "Colony Sim",
+    "City Builder",
+    "Sandbox",
+    "Resource Management",
+    "Automation",
+    "Survival",
+    "Open World",
+    "Farming Sim",
+    "Real-Time with Pause"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2025-12-04",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821250/018fe10470e32dcafe517e002e271ece69508692/header.jpg?t=1782735785",
+   "first_review": "2019-09-26",
+   "status": "ranked",
+   "total_reviews": 4732,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 48.3,
+   "median": 26.8,
+   "p90": 84.9,
+   "max": 1835.8,
+   "avg_at_review": 38.6,
+   "median_at_review": 20.0,
+   "median_after_review": 0.0,
+   "avg_last_2w": 1.6,
+   "active_pct": 11.2,
+   "heavy_pct": 7.8,
+   "recommended_pct": 89.6,
+   "sample_span_days": 221.9,
+   "score": 29.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 13
+    },
+    {
+     "label": "2-10",
+     "count": 71
+    },
+    {
+     "label": "10-25",
+     "count": 154
+    },
+    {
+     "label": "25-50",
+     "count": 155
+    },
+    {
+     "label": "50-100",
+     "count": 68
+    },
+    {
+     "label": "100-250",
+     "count": 30
+    },
+    {
+     "label": "250-500",
+     "count": 5
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 3
+    }
+   ],
+   "players_now": 233
+  },
+  {
+   "appid": 1313140,
+   "name": "Cult of the Lamb",
+   "tags": [
+    "Base Building",
+    "Action Roguelike",
+    "Cute",
+    "Cult",
+    "Singleplayer",
+    "Dungeon Crawler",
+    "Roguelite",
+    "Colony Sim",
+    "Character Customization",
+    "Dark Humor"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2022-08-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
+   "first_review": "2022-08-11",
+   "status": "ranked",
+   "total_reviews": 131403,
+   "review_score_desc": "Overwhelmingly Positive",
+   "sample": 500,
+   "avg": 48.2,
+   "median": 28.6,
+   "p90": 88.2,
+   "max": 1096.8,
+   "avg_at_review": 43.4,
+   "median_at_review": 23.8,
+   "median_after_review": 1.0,
+   "avg_last_2w": 8.6,
+   "active_pct": 70.4,
+   "heavy_pct": 8.0,
+   "recommended_pct": 96.0,
+   "sample_span_days": 17.8,
+   "score": 48.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 6
+    },
+    {
+     "label": "2-10",
+     "count": 71
+    },
+    {
+     "label": "10-25",
+     "count": 145
+    },
+    {
+     "label": "25-50",
+     "count": 129
+    },
+    {
+     "label": "50-100",
+     "count": 109
+    },
+    {
+     "label": "100-250",
+     "count": 32
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 4
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 1028
+  },
+  {
+   "appid": 1368140,
+   "name": "Corsair Cove",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "City Builder",
+    "Base Building",
+    "Grand Strategy",
+    "Historical",
+    "Management",
+    "Building",
+    "Pirates",
+    "Economy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-07-31",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1793357698",
+   "first_review": "2026-07-31",
+   "status": "ranked",
+   "total_reviews": 3787,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 48.0,
+   "median": 35.0,
+   "p90": 102.4,
+   "max": 451.5,
+   "avg_at_review": 36.1,
+   "median_at_review": 23.8,
+   "median_after_review": 1.0,
+   "avg_last_2w": 3.2,
+   "active_pct": 20.0,
+   "heavy_pct": 10.6,
+   "recommended_pct": 81.6,
+   "sample_span_days": 64.8,
+   "score": 42.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 17
+    },
+    {
+     "label": "2-10",
+     "count": 68
+    },
+    {
+     "label": "10-25",
+     "count": 106
+    },
+    {
+     "label": "25-50",
+     "count": 144
+    },
+    {
+     "label": "50-100",
+     "count": 112
+    },
+    {
+     "label": "100-250",
+     "count": 47
+    },
+    {
+     "label": "250-500",
+     "count": 6
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 204
+  },
+  {
+   "appid": 1641960,
+   "name": "Forever Skies",
+   "tags": [
+    "Singleplayer",
+    "Co-op",
+    "Exploration",
+    "Survival",
+    "Base Building",
+    "Open World",
+    "Crafting",
+    "Open World Survival Craft",
+    "Adventure",
+    "Action"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2025-04-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/5afd7a74cd852f48c07294a9a2a1a2801af87aeb/header.jpg?t=1793743515",
+   "first_review": "2023-06-22",
+   "status": "ranked",
+   "total_reviews": 9143,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 45.7,
+   "median": 26.6,
+   "p90": 100.3,
+   "max": 1110.6,
+   "avg_at_review": 38.5,
+   "median_at_review": 20.9,
+   "median_after_review": 0.0,
+   "avg_last_2w": 1.6,
+   "active_pct": 10.6,
+   "heavy_pct": 10.2,
+   "recommended_pct": 63.8,
+   "sample_span_days": 100.4,
+   "score": 29.4,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 26
+    },
+    {
+     "label": "2-10",
+     "count": 75
+    },
+    {
+     "label": "10-25",
+     "count": 134
+    },
+    {
+     "label": "25-50",
+     "count": 135
+    },
+    {
+     "label": "50-100",
+     "count": 79
+    },
+    {
+     "label": "100-250",
+     "count": 45
+    },
+    {
+     "label": "250-500",
+     "count": 3
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 95
+  },
+  {
+   "appid": 463530,
+   "name": "Empires of the Undergrowth",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "Base Building",
+    "City Builder",
+    "Grand Strategy",
+    "Colony Sim",
+    "Building",
+    "Management",
+    "Sandbox",
+    "Historical"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2024-06-07",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/header.jpg?t=1793357852",
+   "first_review": "2017-12-01",
+   "status": "ranked",
+   "total_reviews": 19576,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 44.0,
+   "median": 22.4,
+   "p90": 92.0,
+   "max": 1163.8,
+   "avg_at_review": 34.4,
+   "median_at_review": 12.9,
+   "median_after_review": 3.9,
+   "avg_last_2w": 12.1,
+   "active_pct": 75.4,
+   "heavy_pct": 8.8,
+   "recommended_pct": 91.6,
+   "sample_span_days": 21.5,
+   "score": 39.3,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 72
+    },
+    {
+     "label": "10-25",
+     "count": 184
+    },
+    {
+     "label": "25-50",
+     "count": 128
+    },
+    {
+     "label": "50-100",
+     "count": 56
+    },
+    {
+     "label": "100-250",
+     "count": 34
+    },
+    {
+     "label": "250-500",
+     "count": 7
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 2
+    }
+   ],
+   "players_now": 674
+  },
+  {
+   "appid": 1677110,
+   "name": "Lightyear Frontier",
+   "tags": [
+    "Farming Sim",
+    "Open World Survival Craft",
+    "Automation",
+    "Base Building",
+    "Crafting",
+    "Building",
+    "Online Co-Op",
+    "Relaxing",
+    "Mechs",
+    "Open World"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-11-04",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793891345",
+   "first_review": "2024-03-19",
+   "status": "ranked",
+   "total_reviews": 5019,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 43.0,
+   "median": 24.9,
+   "p90": 101.0,
+   "max": 462.8,
+   "avg_at_review": 31.2,
+   "median_at_review": 15.1,
+   "median_after_review": 3.6,
+   "avg_last_2w": 8.8,
+   "active_pct": 56.8,
+   "heavy_pct": 10.6,
+   "recommended_pct": 75.2,
+   "sample_span_days": 130.8,
+   "score": 39.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 27
+    },
+    {
+     "label": "2-10",
+     "count": 87
+    },
+    {
+     "label": "10-25",
+     "count": 136
+    },
+    {
+     "label": "25-50",
+     "count": 105
+    },
+    {
+     "label": "50-100",
+     "count": 92
+    },
+    {
+     "label": "100-250",
+     "count": 48
+    },
+    {
+     "label": "250-500",
+     "count": 5
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 2000
+  },
+  {
+   "appid": 2308690,
+   "name": "Ground of Aces – The World War II Airbase Builder",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "Base Building",
+    "World War II",
+    "Colony Sim",
+    "City Builder",
+    "Building",
+    "Management",
+    "Resource Management",
+    "Survival"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2025-07-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308690/e42020e9ce0cd464a063781ce4b10e691a4ddbf5/header_alt_assets_6.jpg?t=1793962947",
+   "first_review": "2025-07-10",
+   "status": "ranked",
+   "total_reviews": 1598,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 41.2,
+   "median": 23.2,
+   "p90": 97.9,
+   "max": 376.6,
+   "avg_at_review": 24.8,
+   "median_at_review": 13.4,
+   "median_after_review": 4.6,
+   "avg_last_2w": 1.0,
+   "active_pct": 11.8,
+   "heavy_pct": 9.8,
+   "recommended_pct": 80.6,
+   "sample_span_days": 282.0,
+   "score": 26.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 28
+    },
+    {
+     "label": "2-10",
+     "count": 95
+    },
+    {
+     "label": "10-25",
+     "count": 144
+    },
+    {
+     "label": "25-50",
+     "count": 122
+    },
+    {
+     "label": "50-100",
+     "count": 62
+    },
+    {
+     "label": "100-250",
+     "count": 41
+    },
+    {
+     "label": "250-500",
+     "count": 8
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 38
+  },
+  {
+   "appid": 2426530,
+   "name": "Nova Roma",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "City Builder",
+    "Base Building",
+    "Grand Strategy",
+    "Historical",
+    "Management",
+    "Building",
+    "Sandbox",
+    "Economy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-03-26",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/36e34f983f1703213b5d84f74f03491f3d2cb54c/header.jpg?t=1793270984",
+   "first_review": "2026-03-26",
+   "status": "ranked",
+   "total_reviews": 2605,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 38.8,
+   "median": 18.8,
+   "p90": 72.6,
+   "max": 1604.7,
+   "avg_at_review": 27.0,
+   "median_at_review": 11.5,
+   "median_after_review": 3.4,
+   "avg_last_2w": 2.6,
+   "active_pct": 34.2,
+   "heavy_pct": 5.6,
+   "recommended_pct": 90.6,
+   "sample_span_days": 115.0,
+   "score": 25.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 10
+    },
+    {
+     "label": "2-10",
+     "count": 103
+    },
+    {
+     "label": "10-25",
+     "count": 205
+    },
+    {
+     "label": "25-50",
+     "count": 94
+    },
+    {
+     "label": "50-100",
+     "count": 60
+    },
+    {
+     "label": "100-250",
+     "count": 20
+    },
+    {
+     "label": "250-500",
+     "count": 5
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 1
+    }
+   ],
+   "players_now": 112
+  },
+  {
+   "appid": 2292800,
+   "name": "Blacksmith Master",
+   "tags": [
+    "Strategy",
+    "Simulation",
+    "Base Building",
+    "City Builder",
+    "Colony Sim",
+    "Building",
+    "Management",
+    "Resource Management",
+    "Sandbox",
+    "Economy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2025-05-15",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/a4e8efa3d8a738c3011f6b50dd57475a7ba2c782/header.jpg?t=1794080540",
+   "first_review": "2025-05-15",
+   "status": "ranked",
+   "total_reviews": 2832,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 36.1,
+   "median": 23.6,
+   "p90": 67.0,
+   "max": 797.6,
+   "avg_at_review": 25.7,
+   "median_at_review": 17.3,
+   "median_after_review": 0.2,
+   "avg_last_2w": 0.5,
+   "active_pct": 4.6,
+   "heavy_pct": 4.2,
+   "recommended_pct": 79.6,
+   "sample_span_days": 282.4,
+   "score": 24.6,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 14
+    },
+    {
+     "label": "2-10",
+     "count": 98
+    },
+    {
+     "label": "10-25",
+     "count": 155
+    },
+    {
+     "label": "25-50",
+     "count": 147
+    },
+    {
+     "label": "50-100",
+     "count": 65
+    },
+    {
+     "label": "100-250",
+     "count": 14
+    },
+    {
+     "label": "250-500",
+     "count": 5
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 65
+  },
+  {
+   "appid": 4732690,
+   "name": "Arknights: Endfield",
+   "tags": [
+    "Anime",
+    "Base Building",
+    "Automation",
+    "Action",
+    "Adventure",
+    "RPG",
+    "Action-Adventure",
+    "Free to Play",
+    "Building",
+    "Exploration"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-10-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/a84104b5ffa357982d188cab0be5d6cfde8a6398/header.jpg?t=1792035845",
+   "first_review": "2026-10-14",
+   "status": "ranked",
+   "total_reviews": 3178,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 35.3,
+   "median": 23.7,
+   "p90": 82.2,
+   "max": 628.4,
+   "avg_at_review": 25.9,
+   "median_at_review": 15.0,
+   "median_after_review": 3.8,
+   "avg_last_2w": 21.8,
+   "active_pct": 97.6,
+   "heavy_pct": 6.2,
+   "recommended_pct": 81.4,
+   "sample_span_days": 12.3,
+   "score": 46.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 57
+    },
+    {
+     "label": "2-10",
+     "count": 81
+    },
+    {
+     "label": "10-25",
+     "count": 122
+    },
+    {
+     "label": "25-50",
+     "count": 129
+    },
+    {
+     "label": "50-100",
+     "count": 80
+    },
+    {
+     "label": "100-250",
+     "count": 29
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 2838
+  },
+  {
+   "appid": 1601570,
+   "name": "The Alters",
+   "tags": [
+    "Survival",
+    "Base Building",
+    "Management",
+    "Sci-fi",
+    "Exploration",
+    "Strategy",
+    "Action-Adventure",
+    "Resource Management",
+    "Singleplayer",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2025-06-13",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/05e3c5b872152c1ba70f6a0def8cf49ae2123a4b/header.jpg?t=1793637508",
+   "first_review": "2025-06-13",
+   "status": "ranked",
+   "total_reviews": 20303,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 34.6,
+   "median": 28.2,
+   "p90": 69.2,
+   "max": 167.6,
+   "avg_at_review": 29.8,
+   "median_at_review": 24.1,
+   "median_after_review": 0.0,
+   "avg_last_2w": 5.7,
+   "active_pct": 34.0,
+   "heavy_pct": 2.8,
+   "recommended_pct": 86.4,
+   "sample_span_days": 49.4,
+   "score": 37.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 14
+    },
+    {
+     "label": "2-10",
+     "count": 33
+    },
+    {
+     "label": "10-25",
+     "count": 167
+    },
+    {
+     "label": "25-50",
+     "count": 190
+    },
+    {
+     "label": "50-100",
+     "count": 82
+    },
+    {
+     "label": "100-250",
+     "count": 14
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 384
+  },
+  {
+   "appid": 1805110,
+   "name": "Solarpunk™",
+   "tags": [
+    "Open World Survival Craft",
+    "Co-op",
+    "Base Building",
+    "Crafting",
+    "Building",
+    "Online Co-Op",
+    "Multiplayer",
+    "Sandbox",
+    "Open World",
+    "Survival"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2026-06-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1793629013",
+   "first_review": "2026-06-08",
+   "status": "ranked",
+   "total_reviews": 4878,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 29.9,
+   "median": 22.9,
+   "p90": 52.4,
+   "max": 450.5,
+   "avg_at_review": 23.4,
+   "median_at_review": 17.0,
+   "median_after_review": 0.4,
+   "avg_last_2w": 2.5,
+   "active_pct": 22.4,
+   "heavy_pct": 3.0,
+   "recommended_pct": 77.4,
+   "sample_span_days": 71.3,
+   "score": 28.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 23
+    },
+    {
+     "label": "2-10",
+     "count": 71
+    },
+    {
+     "label": "10-25",
+     "count": 178
+    },
+    {
+     "label": "25-50",
+     "count": 167
+    },
+    {
+     "label": "50-100",
+     "count": 46
+    },
+    {
+     "label": "100-250",
+     "count": 13
+    },
+    {
+     "label": "250-500",
+     "count": 2
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 173
+  },
+  {
+   "appid": 1067360,
+   "name": "Pax Autocratica",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Action Roguelike",
+    "Colony Sim",
+    "Crafting",
+    "Vehicular Combat",
+    "Mechs",
+    "Automation",
+    "Military",
+    "Survival"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-08-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067360/d492e901f3aec578ea3b3fc45c25f09784313d8c/header.jpg?t=1792050536",
+   "first_review": "2026-08-10",
+   "status": "ranked",
+   "total_reviews": 4394,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 28.3,
+   "median": 21.8,
+   "p90": 55.0,
+   "max": 639.9,
+   "avg_at_review": 20.0,
+   "median_at_review": 12.6,
+   "median_after_review": 2.2,
+   "avg_last_2w": 3.3,
+   "active_pct": 29.0,
+   "heavy_pct": 2.2,
+   "recommended_pct": 86.2,
+   "sample_span_days": 35.6,
+   "score": 28.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 48
+    },
+    {
+     "label": "2-10",
+     "count": 99
+    },
+    {
+     "label": "10-25",
+     "count": 135
+    },
+    {
+     "label": "25-50",
+     "count": 158
+    },
+    {
+     "label": "50-100",
+     "count": 49
+    },
+    {
+     "label": "100-250",
+     "count": 9
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 73
+  },
+  {
+   "appid": 3576870,
+   "name": "Blossom: The Seed of Life",
+   "tags": [
+    "Open World Survival Craft",
+    "Co-op",
+    "Mars",
+    "Base Building",
+    "Exploration",
+    "Robots",
+    "Sandbox",
+    "Space Sim",
+    "Building",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-03-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576870/4e4bec0c359612c869a0c0fbd6ddfc295ed97c62/header.jpg?t=1790073760",
+   "first_review": "2026-03-09",
+   "status": "ranked",
+   "total_reviews": 1190,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 27.7,
+   "median": 23.9,
+   "p90": 50.7,
+   "max": 161.0,
+   "avg_at_review": 22.8,
+   "median_at_review": 20.7,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.8,
+   "active_pct": 8.6,
+   "heavy_pct": 1.2,
+   "recommended_pct": 85.4,
+   "sample_span_days": 214.3,
+   "score": 25.9,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 14
+    },
+    {
+     "label": "2-10",
+     "count": 44
+    },
+    {
+     "label": "10-25",
+     "count": 217
+    },
+    {
+     "label": "25-50",
+     "count": 173
+    },
+    {
+     "label": "50-100",
+     "count": 46
+    },
+    {
+     "label": "100-250",
+     "count": 6
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 43
+  },
+  {
+   "appid": 3582250,
+   "name": "Farm to Table",
+   "tags": [
+    "Early Access",
+    "Cooking",
+    "Farming Sim",
+    "Base Building",
+    "Management",
+    "Cozy",
+    "Indie",
+    "Open World",
+    "Crafting",
+    "Resource Management"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-05-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/4c806f6e13bab2fcc6c6b1367af92670567d5d0a/header.jpg?t=1792356892",
+   "first_review": "2026-05-09",
+   "status": "ranked",
+   "total_reviews": 952,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 26.6,
+   "median": 20.2,
+   "p90": 55.3,
+   "max": 370.3,
+   "avg_at_review": 17.5,
+   "median_at_review": 10.6,
+   "median_after_review": 3.3,
+   "avg_last_2w": 3.8,
+   "active_pct": 33.8,
+   "heavy_pct": 2.0,
+   "recommended_pct": 90.6,
+   "sample_span_days": 142.2,
+   "score": 27.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 26
+    },
+    {
+     "label": "2-10",
+     "count": 98
+    },
+    {
+     "label": "10-25",
+     "count": 184
+    },
+    {
+     "label": "25-50",
+     "count": 132
+    },
+    {
+     "label": "50-100",
+     "count": 50
+    },
+    {
+     "label": "100-250",
+     "count": 8
+    },
+    {
+     "label": "250-500",
+     "count": 2
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 148
+  },
+  {
+   "appid": 2681030,
+   "name": "Outbound",
+   "tags": [
+    "Cozy",
+    "Exploration",
+    "Online Co-Op",
+    "Base Building",
+    "Relaxing",
+    "Decorating",
+    "Building",
+    "Open World",
+    "Crafting",
+    "Nature"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-05-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/header.jpg?t=1793887531",
+   "first_review": "2026-05-11",
+   "status": "ranked",
+   "total_reviews": 2276,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 25.8,
+   "median": 17.9,
+   "p90": 52.6,
+   "max": 532.7,
+   "avg_at_review": 18.3,
+   "median_at_review": 12.3,
+   "median_after_review": 0.8,
+   "avg_last_2w": 0.8,
+   "active_pct": 9.8,
+   "heavy_pct": 2.8,
+   "recommended_pct": 71.4,
+   "sample_span_days": 136.8,
+   "score": 19.7,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 43
+    },
+    {
+     "label": "2-10",
+     "count": 118
+    },
+    {
+     "label": "10-25",
+     "count": 162
+    },
+    {
+     "label": "25-50",
+     "count": 121
+    },
+    {
+     "label": "50-100",
+     "count": 42
+    },
+    {
+     "label": "100-250",
+     "count": 13
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 33
+  },
+  {
+   "appid": 2719750,
+   "name": "Star Birds",
+   "tags": [
+    "Early Access",
+    "Resource Management",
+    "Base Building",
+    "Colorful",
+    "Automation",
+    "Stylized",
+    "Building",
+    "Casual",
+    "Minimalist",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2025-09-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2719750/6f27b7c046cf8ec7148a7d9ad94de8c86d71c63a/header.jpg?t=1792666191",
+   "first_review": "2025-09-10",
+   "status": "ranked",
+   "total_reviews": 3248,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 24.2,
+   "median": 10.6,
+   "p90": 45.6,
+   "max": 801.8,
+   "avg_at_review": 13.3,
+   "median_at_review": 6.3,
+   "median_after_review": 1.7,
+   "avg_last_2w": 1.2,
+   "active_pct": 15.6,
+   "heavy_pct": 3.4,
+   "recommended_pct": 90.4,
+   "sample_span_days": 163.8,
+   "score": 12.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 46
+    },
+    {
+     "label": "2-10",
+     "count": 196
+    },
+    {
+     "label": "10-25",
+     "count": 136
+    },
+    {
+     "label": "25-50",
+     "count": 82
+    },
+    {
+     "label": "50-100",
+     "count": 23
+    },
+    {
+     "label": "100-250",
+     "count": 11
+    },
+    {
+     "label": "250-500",
+     "count": 4
+    },
+    {
+     "label": "500-1000",
+     "count": 2
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 27
+  },
+  {
+   "appid": 1743830,
+   "name": "One Military Camp",
+   "tags": [
+    "Singleplayer",
+    "Management",
+    "Base Building",
+    "City Builder",
+    "Resource Management",
+    "Simulation",
+    "Sandbox",
+    "Economy",
+    "Building",
+    "Strategy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2023-07-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1743830/header.jpg?t=1790693730",
+   "first_review": "2023-03-02",
+   "status": "ranked",
+   "total_reviews": 750,
+   "review_score_desc": "Mostly Positive",
+   "sample": 500,
+   "avg": 22.8,
+   "median": 14.6,
+   "p90": 45.5,
+   "max": 595.9,
+   "avg_at_review": 14.0,
+   "median_at_review": 9.8,
+   "median_after_review": 0.4,
+   "avg_last_2w": 0.2,
+   "active_pct": 1.4,
+   "heavy_pct": 1.6,
+   "recommended_pct": 73.2,
+   "sample_span_days": 1259.8,
+   "score": 14.8,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 38
+    },
+    {
+     "label": "2-10",
+     "count": 142
+    },
+    {
+     "label": "10-25",
+     "count": 185
+    },
+    {
+     "label": "25-50",
+     "count": 95
+    },
+    {
+     "label": "50-100",
+     "count": 32
+    },
+    {
+     "label": "100-250",
+     "count": 5
+    },
+    {
+     "label": "250-500",
+     "count": 2
+    },
+    {
+     "label": "500-1000",
+     "count": 1
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 21
+  },
+  {
+   "appid": 1143810,
+   "name": "Black Skylands",
+   "tags": [
+    "Pixel Graphics",
+    "Open World",
+    "Sandbox",
+    "Top-Down Shooter",
+    "Base Building",
+    "Indie",
+    "Simulation",
+    "Atmospheric",
+    "RPG",
+    "Singleplayer"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2023-08-15",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143810/header.jpg?t=1781522062",
+   "first_review": "2021-07-09",
+   "status": "ranked",
+   "total_reviews": 4552,
+   "review_score_desc": "Very Positive",
+   "sample": 500,
+   "avg": 21.9,
+   "median": 19.8,
+   "p90": 35.5,
+   "max": 127.1,
+   "avg_at_review": 19.8,
+   "median_at_review": 18.7,
+   "median_after_review": 0.0,
+   "avg_last_2w": 0.1,
+   "active_pct": 1.6,
+   "heavy_pct": 0.4,
+   "recommended_pct": 85.8,
+   "sample_span_days": 412.7,
+   "score": 20.1,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 16
+    },
+    {
+     "label": "2-10",
+     "count": 57
+    },
+    {
+     "label": "10-25",
+     "count": 282
+    },
+    {
+     "label": "25-50",
+     "count": 127
+    },
+    {
+     "label": "50-100",
+     "count": 16
+    },
+    {
+     "label": "100-250",
+     "count": 2
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 13
+  },
+  {
+   "appid": 1510440,
+   "name": "Honeycomb: The World Beyond",
+   "tags": [
+    "Exploration",
+    "Casual",
+    "Survival",
+    "Base Building",
+    "Crafting",
+    "Open World Survival Craft",
+    "Sci-fi",
+    "Creature Collector",
+    "Open World",
+    "Female Protagonist"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-09-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510440/6f377fa8333ebcdc4774f4855f96241019ebacf6/header.jpg?t=1793177907",
+   "first_review": "2026-09-08",
+   "status": "ranked",
+   "total_reviews": 286,
+   "review_score_desc": "Mostly Positive",
+   "sample": 286,
+   "avg": 19.7,
+   "median": 12.9,
+   "p90": 45.1,
+   "max": 161.4,
+   "avg_at_review": 14.7,
+   "median_at_review": 7.5,
+   "median_after_review": 0.0,
+   "avg_last_2w": 1.4,
+   "active_pct": 10.1,
+   "heavy_pct": 1.7,
+   "recommended_pct": 73.1,
+   "sample_span_days": 61.8,
+   "score": 14.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 36
+    },
+    {
+     "label": "2-10",
+     "count": 93
+    },
+    {
+     "label": "10-25",
+     "count": 81
+    },
+    {
+     "label": "25-50",
+     "count": 50
+    },
+    {
+     "label": "50-100",
+     "count": 21
+    },
+    {
+     "label": "100-250",
+     "count": 5
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 13
+  },
+  {
+   "appid": 2440760,
+   "name": "GRAVHOUNDS",
+   "tags": [
+    "Early Access",
+    "Online Co-Op",
+    "Tower Defense",
+    "Third-Person Shooter",
+    "Base Building",
+    "Action Roguelike",
+    "PvE",
+    "Roguelite",
+    "Co-op",
+    "Mining"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-11-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440760/defc2295485abc77e8989ebef77b0ac900750bf9/header_alt_assets_1.jpg?t=1794248206",
+   "first_review": "2026-11-02",
+   "status": "ranked",
+   "total_reviews": 426,
+   "review_score_desc": "Very Positive",
+   "sample": 426,
+   "avg": 12.7,
+   "median": 9.0,
+   "p90": 27.0,
+   "max": 125.7,
+   "avg_at_review": 6.1,
+   "median_at_review": 4.0,
+   "median_after_review": 3.3,
+   "avg_last_2w": 12.7,
+   "active_pct": 100.0,
+   "heavy_pct": 0.2,
+   "recommended_pct": 91.3,
+   "sample_span_days": 7.7,
+   "score": 18.0,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 53
+    },
+    {
+     "label": "2-10",
+     "count": 176
+    },
+    {
+     "label": "10-25",
+     "count": 145
+    },
+    {
+     "label": "25-50",
+     "count": 45
+    },
+    {
+     "label": "50-100",
+     "count": 6
+    },
+    {
+     "label": "100-250",
+     "count": 1
+    },
+    {
+     "label": "250-500",
+     "count": 0
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 244
+  },
+  {
+   "appid": 4094350,
+   "name": "Online: 404",
+   "tags": [
+    "Early Access",
+    "Survival",
+    "Co-op",
+    "Base Building",
+    "Zombies",
+    "Open World",
+    "Action",
+    "Crafting",
+    "Survival Horror",
+    "First-Person"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-10-21",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094350/d64835e6cf8346d193f6f029551956716c01b281/header.jpg?t=1792617316",
+   "first_review": "2026-10-21",
+   "status": "ranked",
+   "total_reviews": 426,
+   "review_score_desc": "Mixed",
+   "sample": 426,
+   "avg": 9.5,
+   "median": 2.9,
+   "p90": 22.7,
+   "max": 304.4,
+   "avg_at_review": 4.4,
+   "median_at_review": 1.9,
+   "median_after_review": 0.0,
+   "avg_last_2w": 4.3,
+   "active_pct": 44.8,
+   "heavy_pct": 0.9,
+   "recommended_pct": 56.3,
+   "sample_span_days": 19.3,
+   "score": 4.2,
+   "distribution": [
+    {
+     "label": "0-2",
+     "count": 179
+    },
+    {
+     "label": "2-10",
+     "count": 138
+    },
+    {
+     "label": "10-25",
+     "count": 72
+    },
+    {
+     "label": "25-50",
+     "count": 24
+    },
+    {
+     "label": "50-100",
+     "count": 9
+    },
+    {
+     "label": "100-250",
+     "count": 3
+    },
+    {
+     "label": "250-500",
+     "count": 1
+    },
+    {
+     "label": "500-1000",
+     "count": 0
+    },
+    {
+     "label": "1000+",
+     "count": 0
+    }
+   ],
+   "players_now": 28
+  }
+ ],
+ "excluded": [
+  {
+   "appid": 4262460,
+   "name": "ROB RUN",
+   "tags": [
+    "Early Access",
+    "Multiplayer",
+    "Extraction Shooter",
+    "Crime",
+    "Sandbox",
+    "Survival",
+    "Open World",
+    "Looter Shooter",
+    "Heist",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 5335510,
+   "name": "Moon Sweepers",
+   "tags": [
+    "Indie",
+    "Automation",
+    "Incremental",
+    "Co-op",
+    "Artificial Intelligence",
+    "Job Simulator",
+    "Base Building",
+    "Simulation",
+    "Space",
+    "Open World"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 1867240,
+   "name": "WARDOGS",
+   "tags": [
+    "Early Access",
+    "FPS",
+    "Military",
+    "Multiplayer",
+    "Action",
+    "Tactical",
+    "PvP",
+    "Shooter",
+    "Realistic",
+    "Combat"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2139460,
+   "name": "Once Human",
+   "tags": [
+    "Open World",
+    "Multiplayer",
+    "Free to Play",
+    "Survival",
+    "Co-op",
+    "Action",
+    "Open World Survival Craft",
+    "Building",
+    "Exploration",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1151340,
+   "name": "Fallout 76",
+   "tags": [
+    "Open World",
+    "Multiplayer",
+    "Post-apocalyptic",
+    "RPG",
+    "Dark Comedy",
+    "Capitalism",
+    "Survival",
+    "Base Building",
+    "Co-op",
+    "Shooter"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 5160800,
+   "name": "Find The Needle",
+   "tags": [
+    "Early Access",
+    "Simulation",
+    "Incremental",
+    "Automation",
+    "Physics",
+    "Base Building",
+    "Management",
+    "Casual",
+    "Agriculture",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 3164500,
+   "name": "Schedule I",
+   "tags": [
+    "Simulation",
+    "Crime",
+    "Co-op",
+    "Management",
+    "Multiplayer",
+    "Open World",
+    "First-Person",
+    "Crafting",
+    "Automation",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3159330,
+   "name": "Assassin’s Creed Shadows",
+   "tags": [
+    "Action-Adventure",
+    "Open World",
+    "Ninja",
+    "Stealth",
+    "Samurai",
+    "Assassins",
+    "Combat",
+    "3D",
+    "Action",
+    "Historical"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 892970,
+   "name": "Valheim",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Online Co-Op",
+    "Open World",
+    "Multiplayer",
+    "Building",
+    "Crafting",
+    "Base Building",
+    "Exploration",
+    "Co-op"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2223980,
+   "name": "Nomad Drive",
+   "tags": [
+    "Early Access",
+    "Driving",
+    "Survival",
+    "Multiplayer",
+    "Automobile Sim",
+    "Realistic",
+    "Simulation",
+    "Exploration",
+    "Post-apocalyptic",
+    "Procedural Generation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1374490,
+   "name": "RuneScape: Dragonwilds",
+   "tags": [
+    "Open World",
+    "Survival",
+    "Multiplayer",
+    "Open World Survival Craft",
+    "Co-op",
+    "Online Co-Op",
+    "Crafting",
+    "Early Access",
+    "Building",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 294100,
+   "name": "RimWorld",
+   "tags": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Strategy",
+    "Sandbox",
+    "Management",
+    "Singleplayer",
+    "Moddable",
+    "Simulation",
+    "Sci-fi"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2018-10-17",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 1466860,
+   "name": "Age of Empires IV: Anniversary Edition",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Base Building",
+    "War",
+    "Multiplayer",
+    "Medieval",
+    "Singleplayer",
+    "Resource Management",
+    "City Builder",
+    "Historical"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1623730,
+   "name": "Palworld",
+   "tags": [
+    "Open World",
+    "Survival",
+    "Creature Collector",
+    "Multiplayer",
+    "Open World Survival Craft",
+    "Online Co-Op",
+    "Crafting",
+    "Indie",
+    "Co-op",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 427520,
+   "name": "Factorio",
+   "tags": [
+    "Automation",
+    "Base Building",
+    "Resource Management",
+    "Sandbox",
+    "Crafting",
+    "Strategy",
+    "Multiplayer",
+    "Survival",
+    "Management",
+    "Open World"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2020-08-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1792752343",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 1962700,
+   "name": "Subnautica 2",
+   "tags": [
+    "Multiplayer",
+    "Survival",
+    "Horror",
+    "Underwater",
+    "Exploration",
+    "Co-op",
+    "Open World",
+    "Survival Horror",
+    "First-Person",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 813780,
+   "name": "Age of Empires II: Definitive Edition",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "City Builder",
+    "Multiplayer",
+    "Base Building",
+    "Historical",
+    "Singleplayer",
+    "Medieval",
+    "Resource Management",
+    "Classic"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 251570,
+   "name": "7 Days to Die",
+   "tags": [
+    "Survival",
+    "Zombies",
+    "Multiplayer",
+    "Open World",
+    "Open World Survival Craft",
+    "Base Building",
+    "Post-apocalyptic",
+    "Online Co-Op",
+    "Voxel",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1601580,
+   "name": "Frostpunk 2",
+   "tags": [
+    "City Builder",
+    "Strategy",
+    "Survival",
+    "Resource Management",
+    "Post-apocalyptic",
+    "Simulation",
+    "Singleplayer",
+    "Steampunk",
+    "Management",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2776090,
+   "name": "Lay of the Land",
+   "tags": [
+    "Adventure",
+    "Action",
+    "Voxel",
+    "Sandbox",
+    "RPG",
+    "Exploration",
+    "Open World",
+    "Fantasy",
+    "Procedural Generation",
+    "Physics"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1326470,
+   "name": "Sons Of The Forest",
+   "tags": [
+    "Survival",
+    "Open World",
+    "Multiplayer",
+    "Co-op",
+    "Survival Horror",
+    "Base Building",
+    "Horror",
+    "Crafting",
+    "Building",
+    "First-Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 648800,
+   "name": "Raft",
+   "tags": [
+    "Survival",
+    "Multiplayer",
+    "Open World Survival Craft",
+    "Co-op",
+    "Crafting",
+    "Open World",
+    "Building",
+    "Base Building",
+    "Online Co-Op",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1190970,
+   "name": "House Flipper 2",
+   "tags": [
+    "Co-op",
+    "Relaxing",
+    "Decorating",
+    "Casual",
+    "Immersive Sim",
+    "Simulation",
+    "Design & Illustration",
+    "Building",
+    "First-Person",
+    "Cleaning"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4594150,
+   "name": "Sir, We Have an Orc Problem",
+   "tags": [
+    "Tower Defense",
+    "Incremental",
+    "War",
+    "Roguelite",
+    "Military",
+    "PvE",
+    "Physics",
+    "Management",
+    "Base Building",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 4402200,
+   "name": "Project Tomorrow",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Tower Defense",
+    "Survival",
+    "Crafting",
+    "Exploration",
+    "Strategy",
+    "Sci-fi",
+    "Sandbox",
+    "Action RTS"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2026-11-09",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402200/23260210de3bfe81d6b894e32e95326a468108cd/header.jpg?t=1794251841",
+   "first_review": "2026-11-09",
+   "status": "excluded: only 38 recent reviews"
+  },
+  {
+   "appid": 3419520,
+   "name": "Quarantine Zone: The Last Check",
+   "tags": [
+    "Zombies",
+    "Simulation",
+    "Singleplayer",
+    "Post-apocalyptic",
+    "Choices Matter",
+    "First-Person",
+    "Realistic",
+    "3D",
+    "Military",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2104890,
+   "name": "RoadCraft",
+   "tags": [
+    "Simulation",
+    "Building",
+    "Driving",
+    "Physics",
+    "Online Co-Op",
+    "Adventure",
+    "Automobile Sim",
+    "Multiplayer",
+    "Automation",
+    "Nature"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1737870,
+   "name": "REKA",
+   "tags": [
+    "Building",
+    "Character Customization",
+    "Indie",
+    "Singleplayer",
+    "Magic",
+    "Exploration",
+    "Crafting",
+    "Atmospheric",
+    "Dark Fantasy",
+    "Cozy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1227690,
+   "name": "Severed Steel",
+   "tags": [
+    "FPS",
+    "Parkour",
+    "Bullet Time",
+    "Action",
+    "Shooter",
+    "Female Protagonist",
+    "First-Person",
+    "Destruction",
+    "Singleplayer",
+    "Stylized"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4358660,
+   "name": "Hull Rupture",
+   "tags": [
+    "Time Management",
+    "Tower Defense",
+    "Strategy",
+    "Roguelite",
+    "City Builder",
+    "RTS",
+    "Roguelike",
+    "2D",
+    "Base Building",
+    "Dark Humor"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2208920,
+   "name": "Assassin's Creed Valhalla",
+   "tags": [
+    "Open World",
+    "Action-Adventure",
+    "Vikings",
+    "RPG",
+    "Naval",
+    "Exploration",
+    "Mythology",
+    "Historical",
+    "Multiple Endings",
+    "Assassins"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2958130,
+   "name": "Jurassic World Evolution 3",
+   "tags": [
+    "Simulation",
+    "Dinosaurs",
+    "Strategy",
+    "Sandbox",
+    "City Builder",
+    "Sequel",
+    "Management",
+    "Action",
+    "Resource Management",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3041230,
+   "name": "Windrose",
+   "tags": [
+    "Early Access",
+    "Pirates",
+    "Online Co-Op",
+    "Open World Survival Craft",
+    "Survival",
+    "Crafting",
+    "PvE",
+    "Exploration",
+    "Naval Combat",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1894430,
+   "name": "Plan B: Terraform",
+   "tags": [
+    "Automation",
+    "Resource Management",
+    "Transportation",
+    "Simulation",
+    "Colony Sim",
+    "Sandbox",
+    "Trains",
+    "Base Building",
+    "Colorful",
+    "Hex Grid"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3293260,
+   "name": "Waterpark Simulator",
+   "tags": [
+    "Simulation",
+    "Multiplayer",
+    "Management",
+    "Co-op",
+    "Singleplayer",
+    "Sandbox",
+    "Economy",
+    "Building",
+    "Immersive Sim",
+    "Capitalism"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2254990,
+   "name": "Permafrost",
+   "tags": [
+    "Early Access",
+    "Survival",
+    "Open World Survival Craft",
+    "Online Co-Op",
+    "Crafting",
+    "Exploration",
+    "Multiplayer",
+    "Co-op",
+    "Building",
+    "Post-apocalyptic"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 346110,
+   "name": "ARK: Survival Evolved",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Multiplayer",
+    "Open World",
+    "Dinosaurs",
+    "Crafting",
+    "Building",
+    "Adventure",
+    "Base Building",
+    "Co-op"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3546610,
+   "name": "Wielders of the Essence",
+   "tags": [
+    "Bullet Heaven",
+    "Base Building",
+    "Incremental",
+    "Resource Management",
+    "Action Roguelike",
+    "Pixel Graphics",
+    "Hack and Slash",
+    "Loot",
+    "Top-Down",
+    "2.5D"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 1129580,
+   "name": "Medieval Dynasty",
+   "tags": [
+    "Building",
+    "Crafting",
+    "Multiplayer",
+    "Medieval",
+    "Survival",
+    "Co-op",
+    "Open World",
+    "Base Building",
+    "Sandbox",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 244850,
+   "name": "Space Engineers",
+   "tags": [
+    "Sandbox",
+    "Building",
+    "Space",
+    "Survival",
+    "Simulation",
+    "Physics",
+    "Open World",
+    "Base Building",
+    "Multiplayer",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 5119400,
+   "name": "WORKS: Motorsport Factory",
+   "tags": [
+    "Racing",
+    "Strategy",
+    "Automation",
+    "Management",
+    "2D",
+    "Sports",
+    "Base Building",
+    "Inventory Management",
+    "Crafting",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1162750,
+   "name": "Songs of Syx",
+   "tags": [
+    "Early Access",
+    "City Builder",
+    "Colony Sim",
+    "Strategy",
+    "Sandbox",
+    "Grand Strategy",
+    "Base Building",
+    "4X",
+    "Building",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1798230,
+   "name": "ATMOSFAR",
+   "tags": [
+    "Early Access",
+    "Exploration",
+    "Flight",
+    "Open World Survival Craft",
+    "Sci-fi",
+    "Online Co-Op",
+    "Base Building",
+    "Survival",
+    "Crafting",
+    "Third Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 323190,
+   "name": "Frostpunk",
+   "tags": [
+    "City Builder",
+    "Survival",
+    "Resource Management",
+    "Strategy",
+    "Post-apocalyptic",
+    "Colony Sim",
+    "Steampunk",
+    "Building",
+    "Base Building",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 573090,
+   "name": "Stormworks: Build and Rescue",
+   "tags": [
+    "Sandbox",
+    "Building",
+    "Open World",
+    "Base Building",
+    "Physics",
+    "Immersive Sim",
+    "Flight",
+    "Automation",
+    "Programming",
+    "Sailing"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2020-09-17",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573090/header.jpg?t=1772367420",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 3008740,
+   "name": "Winter Burrow",
+   "tags": [
+    "Cozy",
+    "Exploration",
+    "Crafting",
+    "Survival",
+    "Cute",
+    "Nature",
+    "Building",
+    "Base Building",
+    "Life Sim",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1062090,
+   "name": "Timberborn",
+   "tags": [
+    "City Builder",
+    "Colony Sim",
+    "Voxel",
+    "Sandbox",
+    "Automation",
+    "Building",
+    "Nature",
+    "Management",
+    "Base Building",
+    "Survival"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 457140,
+   "name": "Oxygen Not Included",
+   "tags": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Resource Management",
+    "Building",
+    "Singleplayer",
+    "Management",
+    "2D",
+    "Sandbox",
+    "Simulation"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2019-07-30",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1790785089",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 1573360,
+   "name": "Infinity Kingdom",
+   "tags": [
+    "Strategy",
+    "4X",
+    "Wargame",
+    "MOBA",
+    "Card Battler",
+    "Tactical RPG",
+    "3D",
+    "Split Screen",
+    "Cartoony",
+    "War"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "4X"
+   ],
+   "status": "excluded: 4X in top 5 tags"
+  },
+  {
+   "appid": 3447280,
+   "name": "Fantasy World Manager",
+   "tags": [
+    "Early Access",
+    "God Game",
+    "Sandbox",
+    "Management",
+    "Simulation",
+    "City Builder",
+    "Fantasy",
+    "2D",
+    "Pixel Graphics",
+    "Procedural Generation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 264710,
+   "name": "Subnautica",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Horror",
+    "Underwater",
+    "Open World",
+    "Exploration",
+    "Crafting",
+    "Singleplayer",
+    "Base Building",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1548180,
+   "name": "Worship",
+   "tags": [
+    "Exploration",
+    "Roguelite",
+    "Dark Fantasy",
+    "Dark Humor",
+    "Cute",
+    "Lore-Rich",
+    "2.5D",
+    "Cult",
+    "Magic",
+    "Funny"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2162800,
+   "name": "shapez 2 - Factory",
+   "tags": [
+    "Automation",
+    "Management",
+    "Building",
+    "Strategy",
+    "Futuristic",
+    "Simulation",
+    "Puzzle",
+    "Sandbox",
+    "Crafting",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4165740,
+   "name": "Vena: Hex Automation Roguelike",
+   "tags": [
+    "Automation",
+    "Roguelike Deckbuilder",
+    "Hex Grid",
+    "Turn-Based Strategy",
+    "Resource Management",
+    "Dice",
+    "Roguelike",
+    "Board Game",
+    "Management",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Turn-Based Strategy"
+   ],
+   "status": "excluded: Turn-Based Strategy in top 5 tags"
+  },
+  {
+   "appid": 690830,
+   "name": "Foundation",
+   "tags": [
+    "City Builder",
+    "Simulation",
+    "Medieval",
+    "Strategy",
+    "Sandbox",
+    "Management",
+    "Resource Management",
+    "Building",
+    "Relaxing",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1934680,
+   "name": "Age of Mythology: Retold",
+   "tags": [
+    "RTS",
+    "Strategy",
+    "Base Building",
+    "3D",
+    "Mythology",
+    "Story Rich",
+    "Lore-Rich",
+    "Resource Management",
+    "Singleplayer",
+    "Fantasy"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 569480,
+   "name": "Kingdoms and Castles",
+   "tags": [
+    "City Builder",
+    "Colony Sim",
+    "Resource Management",
+    "Management",
+    "Simulation",
+    "Strategy",
+    "Sandbox",
+    "Building",
+    "Base Building",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3433110,
+   "name": "Cinema Theater Tycoon",
+   "tags": [
+    "Shop Keeper",
+    "Building",
+    "Strategy",
+    "Base Building",
+    "2D",
+    "Pixel Graphics",
+    "Trading",
+    "Management",
+    "Cute",
+    "Top-Down"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-11-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433110/7a9f4b9b5036f78393901eed8d99ac1ff281d0b4/header.jpg?t=1794217677",
+   "first_review": "2026-11-09",
+   "status": "excluded: only 11 recent reviews"
+  },
+  {
+   "appid": 410900,
+   "name": "Forts",
+   "tags": [
+    "Base Building",
+    "Multiplayer",
+    "Strategy",
+    "Physics",
+    "Destruction",
+    "Building",
+    "Moddable",
+    "Sandbox",
+    "2D",
+    "Military"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2017-04-19",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/header.jpg?t=1790916245",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 1621690,
+   "name": "Core Keeper",
+   "tags": [
+    "Open World",
+    "Survival",
+    "Exploration",
+    "Pixel Graphics",
+    "Multiplayer",
+    "Sandbox",
+    "Crafting",
+    "Co-op",
+    "Building",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1106840,
+   "name": "Hydroneer",
+   "tags": [
+    "Base Building",
+    "Automation",
+    "Mining",
+    "Sandbox",
+    "Co-op",
+    "Multiplayer",
+    "Open World",
+    "Building",
+    "Funny",
+    "Simulation"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2020-05-08",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106840/header.jpg?t=1777546952",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 588430,
+   "name": "Fallout Shelter",
+   "tags": [
+    "Free to Play",
+    "Base Building",
+    "Survival",
+    "Post-apocalyptic",
+    "Singleplayer",
+    "Management",
+    "Simulation",
+    "Strategy",
+    "2D",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2017-03-29",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/c672068e9934f33c743d4b2fd33814f08adb52e6/header.jpg?t=1792675580",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 361420,
+   "name": "ASTRONEER",
+   "tags": [
+    "Multiplayer",
+    "Open World Survival Craft",
+    "Open World",
+    "Space",
+    "Survival",
+    "Exploration",
+    "Base Building",
+    "Co-op",
+    "Sandbox",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4740930,
+   "name": "Legend of Defenders",
+   "tags": [
+    "Strategy",
+    "Tower Defense",
+    "Idler",
+    "Incremental",
+    "Relaxing",
+    "2D",
+    "Medieval",
+    "Magic",
+    "Pixel Graphics",
+    "Auto Battler"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Idler",
+    "Incremental"
+   ],
+   "status": "excluded: Idler, Incremental in top 5 tags"
+  },
+  {
+   "appid": 1258080,
+   "name": "Shop Titans",
+   "tags": [
+    "Idler",
+    "Shop Keeper",
+    "Crafting",
+    "Medieval",
+    "Management",
+    "Base Building",
+    "Economy",
+    "Trading",
+    "Character Customization",
+    "RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Idler"
+   ],
+   "status": "excluded: Idler in top 5 tags"
+  },
+  {
+   "appid": 613100,
+   "name": "House Flipper",
+   "tags": [
+    "Cleaning",
+    "Simulation",
+    "Design & Illustration",
+    "Singleplayer",
+    "Multiplayer",
+    "Building",
+    "Relaxing",
+    "Sandbox",
+    "Casual",
+    "Decorating"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2062430,
+   "name": "BALL x PIT",
+   "tags": [
+    "Action",
+    "Roguelite",
+    "Arcade",
+    "Bullet Hell",
+    "Roguelike",
+    "Action Roguelike",
+    "Shoot 'Em Up",
+    "Top-Down Shooter",
+    "Pixel Graphics",
+    "Top-Down"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1645820,
+   "name": "SurrounDead",
+   "tags": [
+    "Zombies",
+    "Survival",
+    "Open World",
+    "Post-apocalyptic",
+    "Singleplayer",
+    "Loot",
+    "Exploration",
+    "Base Building",
+    "Shooter",
+    "Open World Survival Craft"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 378760,
+   "name": "Pixel Starships",
+   "tags": [
+    "Post-apocalyptic",
+    "Sci-fi",
+    "Space Sim",
+    "Space",
+    "Pixel Graphics",
+    "Strategy",
+    "Automation",
+    "Base Building",
+    "Massively Multiplayer",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 231430,
+   "name": "Company of Heroes 2",
+   "tags": [
+    "Strategy",
+    "World War II",
+    "RTS",
+    "Multiplayer",
+    "Tactical",
+    "War",
+    "Historical",
+    "Military",
+    "Singleplayer",
+    "Co-op"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 3031880,
+   "name": "Car Park Capital",
+   "tags": [
+    "Early Access",
+    "City Builder",
+    "Isometric",
+    "Capitalism",
+    "Simulation",
+    "Automobile Sim",
+    "Retro",
+    "1990's",
+    "2.5D",
+    "Pixel Graphics"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3179730,
+   "name": "Deck of Haunts",
+   "tags": [
+    "Card Game",
+    "Building",
+    "Card Battler",
+    "Turn-Based Tactics",
+    "Roguelite",
+    "Tower Defense",
+    "Horror",
+    "Base Building",
+    "Turn-Based",
+    "Turn-Based Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 507490,
+   "name": "Ashes of the Singularity: Escalation",
+   "tags": [
+    "RTS",
+    "Base Building",
+    "Real Time Tactics",
+    "PvP",
+    "Moddable",
+    "Strategy",
+    "Online Co-Op",
+    "Sci-fi",
+    "Transhumanism",
+    "Military"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 3398110,
+   "name": "The Walking Trade",
+   "tags": [
+    "Simulation",
+    "Management",
+    "Economy",
+    "Post-apocalyptic",
+    "Sandbox",
+    "Building",
+    "Crafting",
+    "Capitalism",
+    "Survival",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2821800,
+   "name": "Drill Core",
+   "tags": [
+    "Strategy",
+    "Roguelite",
+    "Tower Defense",
+    "Colony Sim",
+    "Exploration",
+    "Side Scroller",
+    "Roguelike",
+    "City Builder",
+    "Base Building",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1458140,
+   "name": "Pacific Drive",
+   "tags": [
+    "Driving",
+    "Survival",
+    "Exploration",
+    "Story Rich",
+    "Survival Horror",
+    "Crafting",
+    "Atmospheric",
+    "Sci-fi",
+    "Adventure",
+    "First-Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4223760,
+   "name": "Foundation: Galactic Frontier",
+   "tags": [
+    "Strategy",
+    "4X",
+    "RPG",
+    "Space",
+    "Massively Multiplayer",
+    "Sci-fi",
+    "Base Building",
+    "Simulation",
+    "Management",
+    "Exploration"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "4X"
+   ],
+   "status": "excluded: 4X in top 5 tags"
+  },
+  {
+   "appid": 1486920,
+   "name": "Tempest Rising",
+   "tags": [
+    "RTS",
+    "Strategy",
+    "Base Building",
+    "Singleplayer",
+    "Multiplayer",
+    "Isometric",
+    "3D",
+    "Real-Time",
+    "War",
+    "Action"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1686230,
+   "name": "Mayday: The Survival Island",
+   "tags": [
+    "Open World Survival Craft",
+    "Crafting",
+    "Survival",
+    "Sandbox",
+    "Open World",
+    "Exploration",
+    "Base Building",
+    "Pixel Graphics",
+    "Building",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3211850,
+   "name": "Calyx",
+   "tags": [
+    "Early Access",
+    "RTS",
+    "Base Building",
+    "Strategy",
+    "Sci-fi",
+    "Management",
+    "Tower Defense",
+    "Resource Management",
+    "Action RTS",
+    "Colony Sim"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1149620,
+   "name": "Gas Station Simulator",
+   "tags": [
+    "Simulation",
+    "Economy",
+    "Management",
+    "Singleplayer",
+    "Building",
+    "Casual",
+    "First-Person",
+    "Base Building",
+    "Realistic",
+    "Open World"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 784950,
+   "name": "SUPREMACY: WORLD WAR 3",
+   "tags": [
+    "Strategy",
+    "Free to Play",
+    "Wargame",
+    "Grand Strategy",
+    "Massively Multiplayer",
+    "Simulation",
+    "Indie",
+    "RTS",
+    "Diplomacy",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 704270,
+   "name": "Generation Zero®",
+   "tags": [
+    "Open World",
+    "Survival",
+    "Co-op",
+    "Multiplayer",
+    "FPS",
+    "Base Building",
+    "Robots",
+    "Post-apocalyptic",
+    "Shooter",
+    "Atmospheric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 387990,
+   "name": "Scrap Mechanic",
+   "tags": [
+    "Building",
+    "Sandbox",
+    "Survival",
+    "Multiplayer",
+    "Open World",
+    "Physics",
+    "Crafting",
+    "Base Building",
+    "Co-op",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 393380,
+   "name": "Squad",
+   "tags": [
+    "Military",
+    "Realistic",
+    "FPS",
+    "Multiplayer",
+    "PvP",
+    "PvE",
+    "Tactical",
+    "Shooter",
+    "First-Person",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4450620,
+   "name": "GRAIN ROT",
+   "tags": [
+    "Online Co-Op",
+    "First-Person",
+    "Survival Horror",
+    "Action Roguelike",
+    "Building",
+    "Base Building",
+    "Procedural Generation",
+    "Crafting",
+    "PvE",
+    "Roguelite"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 233860,
+   "name": "Kenshi",
+   "tags": [
+    "Open World",
+    "Sandbox",
+    "Survival",
+    "RPG",
+    "Immersive Sim",
+    "Strategy RPG",
+    "Post-apocalyptic",
+    "Simulation",
+    "Crafting",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2764460,
+   "name": "Sandustry",
+   "tags": [
+    "Sandbox",
+    "Automation",
+    "Crafting",
+    "Open World",
+    "Open World Survival Craft",
+    "Building",
+    "Exploration",
+    "Survival",
+    "Adventure",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3167020,
+   "name": "Escape From Duckov",
+   "tags": [
+    "Adventure",
+    "Action",
+    "Extraction Shooter",
+    "Top-Down Shooter",
+    "Looter Shooter",
+    "Shooter",
+    "Exploration",
+    "Third-Person Shooter",
+    "Survival",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 495420,
+   "name": "State of Decay 2: Juggernaut Edition",
+   "tags": [
+    "Survival",
+    "Open World",
+    "Zombies",
+    "Base Building",
+    "Multiplayer",
+    "Co-op",
+    "Online Co-Op",
+    "Post-apocalyptic",
+    "Simulation",
+    "Action"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2020-03-13",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg?t=1741378867",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 3238580,
+   "name": "A World of Keflings",
+   "tags": [
+    "City Builder",
+    "Cozy",
+    "Building",
+    "Crafting",
+    "Management",
+    "Base Building",
+    "Funny",
+    "Top-Down",
+    "Cute",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 702320,
+   "name": "March of Empires",
+   "tags": [
+    "Free to Play",
+    "Strategy",
+    "Wargame",
+    "Medieval",
+    "War",
+    "Massively Multiplayer",
+    "Base Building",
+    "PvP",
+    "4X",
+    "Action RTS"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 459220,
+   "name": "Halo Wars: Definitive Edition",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Base Building",
+    "Multiplayer",
+    "Singleplayer",
+    "Sci-fi",
+    "War",
+    "Military",
+    "Action",
+    "Co-op"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 4362170,
+   "name": "Feed The Forest",
+   "tags": [
+    "Incremental",
+    "Idler",
+    "Economy",
+    "Resource Management",
+    "Relaxing",
+    "Automation",
+    "Base Building",
+    "Strategy",
+    "Capitalism",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental",
+    "Idler"
+   ],
+   "status": "excluded: Incremental, Idler in top 5 tags"
+  },
+  {
+   "appid": 4259190,
+   "name": "Kingdom Rush 6: Genesis TD",
+   "tags": [
+    "Strategy",
+    "Tower Defense",
+    "Action",
+    "2D",
+    "Medieval",
+    "Fantasy",
+    "Base Building",
+    "Action RTS",
+    "Controller",
+    "Linear"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4993270,
+   "name": "Palisade",
+   "tags": [
+    "RTS",
+    "Real Time Tactics",
+    "Wargame",
+    "Tactical",
+    "Building",
+    "Military",
+    "Economy",
+    "War",
+    "Multiplayer",
+    "PvP"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 3337140,
+   "name": "After Inc: Revival",
+   "tags": [
+    "Colony Sim",
+    "City Builder",
+    "Post-apocalyptic",
+    "Zombies",
+    "Outbreak Sim",
+    "Simulation",
+    "4X",
+    "Strategy",
+    "Roguelite",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 544550,
+   "name": "Stationeers",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Automation",
+    "Survival",
+    "Physics",
+    "Colony Sim",
+    "Logic",
+    "Building",
+    "Sandbox",
+    "Crafting"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2017-12-12",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544550/header.jpg?t=1787270003",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 282070,
+   "name": "This War of Mine",
+   "tags": [
+    "Survival",
+    "War",
+    "Atmospheric",
+    "Singleplayer",
+    "Strategy",
+    "Choices Matter",
+    "Simulation",
+    "Base Building",
+    "Crafting",
+    "Resource Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1599330,
+   "name": "Wildmender",
+   "tags": [
+    "3D",
+    "Third Person",
+    "RPG",
+    "Simulation",
+    "Farming Sim",
+    "Strategy",
+    "Multiplayer",
+    "Singleplayer",
+    "Open World Survival Craft",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1599600,
+   "name": "PlateUp!",
+   "tags": [
+    "Co-op",
+    "Management",
+    "Cooking",
+    "Local Co-Op",
+    "Roguelite",
+    "Building",
+    "Roguelike",
+    "Cute",
+    "Online Co-Op",
+    "Funny"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3556750,
+   "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Multiplayer",
+    "Singleplayer",
+    "Base Building",
+    "Online Co-Op",
+    "Sci-fi",
+    "Co-op",
+    "PvE",
+    "Action RTS"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1044720,
+   "name": "Farthest Frontier",
+   "tags": [
+    "Building",
+    "City Builder",
+    "Strategy",
+    "Resource Management",
+    "Medieval",
+    "Agriculture",
+    "Economy",
+    "Historical",
+    "Colony Sim",
+    "4X"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 933110,
+   "name": "Age of Empires III: Definitive Edition",
+   "tags": [
+    "Strategy",
+    "Base Building",
+    "RTS",
+    "Multiplayer",
+    "Military",
+    "City Builder",
+    "War",
+    "Historical",
+    "Singleplayer",
+    "Free to Play"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 4779470,
+   "name": "Walkers",
+   "tags": [
+    "Survival",
+    "Zombies",
+    "Open World",
+    "Post-apocalyptic",
+    "Crafting",
+    "Sandbox",
+    "Third-Person Shooter",
+    "Base Building",
+    "Singleplayer",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1575940,
+   "name": "Sins of a Solar Empire II",
+   "tags": [
+    "Space",
+    "Strategy",
+    "RTS",
+    "4X",
+    "Singleplayer",
+    "Sci-fi",
+    "Multiplayer",
+    "Tactical",
+    "Co-op",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS",
+    "4X"
+   ],
+   "status": "excluded: RTS, 4X in top 5 tags"
+  },
+  {
+   "appid": 4324480,
+   "name": "Dirty Business",
+   "tags": [
+    "Simulation",
+    "Co-op",
+    "Management",
+    "Crime",
+    "Crafting",
+    "Multiplayer",
+    "Base Building",
+    "Automation",
+    "Realistic",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2679100,
+   "name": "Witchspire",
+   "tags": [
+    "Early Access",
+    "Adventure",
+    "Open World Survival Craft",
+    "Fantasy",
+    "Creature Collector",
+    "Online Co-Op",
+    "Magic",
+    "Action-Adventure",
+    "Crafting",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1898300,
+   "name": "ASKA",
+   "tags": [
+    "Early Access",
+    "Colony Sim",
+    "Survival",
+    "Open World Survival Craft",
+    "Multiplayer",
+    "Base Building",
+    "Vikings",
+    "Sandbox",
+    "Online Co-Op",
+    "Crafting"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 701160,
+   "name": "Kingdom Two Crowns",
+   "tags": [
+    "Tower Defense",
+    "Minimalist",
+    "City Builder",
+    "Building",
+    "Base Building",
+    "Singleplayer",
+    "Medieval",
+    "Strategy",
+    "Fantasy",
+    "Co-op"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2018-12-11",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/84f80b39706d257e9b048904b5975a9d4d8d9016/header_alt_assets_18.jpg?t=1791479063",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 4864810,
+   "name": "Wild Hive",
+   "tags": [
+    "Strategy",
+    "Roguelite",
+    "Management",
+    "Roguelike",
+    "Simulation",
+    "Economy",
+    "Capitalism",
+    "Cozy",
+    "Minimalist",
+    "Nature"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1366540,
+   "name": "Dyson Sphere Program",
+   "tags": [
+    "Automation",
+    "Space",
+    "Base Building",
+    "Building",
+    "Resource Management",
+    "Open World",
+    "Simulation",
+    "Sci-fi",
+    "Management",
+    "Sandbox"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2021-01-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/2521472f3f71b6f179515fdcfa33d27c212ba3ce/header.jpg?t=1776523171",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 2607060,
+   "name": "From Glory To Goo",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Base Building",
+    "Tower Defense",
+    "Zombies",
+    "Real-Time with Pause",
+    "City Builder",
+    "Action RTS",
+    "Colony Sim",
+    "Resource Management"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 2009350,
+   "name": "Out of Ore",
+   "tags": [
+    "Simulation",
+    "Sandbox",
+    "Exploration",
+    "Realistic",
+    "Farming Sim",
+    "3D",
+    "Choose Your Own Adventure",
+    "First-Person",
+    "Building",
+    "Third Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 895400,
+   "name": "Deadside",
+   "tags": [
+    "Survival",
+    "Crafting",
+    "PvP",
+    "Open World Survival Craft",
+    "Multiplayer",
+    "Base Building",
+    "FPS",
+    "Open World",
+    "Post-apocalyptic",
+    "Sandbox"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1995520,
+   "name": "Pax Dei",
+   "tags": [
+    "MMORPG",
+    "Sandbox",
+    "Open World",
+    "Medieval",
+    "Crafting",
+    "Base Building",
+    "RPG",
+    "Exploration",
+    "PvP",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3215050,
+   "name": "Surviving Mars: Relaunched",
+   "tags": [
+    "Simulation",
+    "Strategy",
+    "Colony Sim",
+    "City Builder",
+    "Exploration",
+    "Immersive Sim",
+    "Realistic",
+    "Top-Down",
+    "Space",
+    "Mars"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1559600,
+   "name": "The Ranch of Rivershine",
+   "tags": [
+    "Simulation",
+    "Horses",
+    "Farming Sim",
+    "Life Sim",
+    "3D",
+    "Cute",
+    "Colorful",
+    "Agriculture",
+    "Nature",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3222640,
+   "name": "Wild West Pioneers",
+   "tags": [
+    "Early Access",
+    "City Builder",
+    "Simulation",
+    "Colony Sim",
+    "Sandbox",
+    "Strategy",
+    "Exploration",
+    "3D",
+    "Atmospheric",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3669570,
+   "name": "Alchemy Factory",
+   "tags": [
+    "Automation",
+    "Medieval",
+    "Building",
+    "Sandbox",
+    "Multiplayer",
+    "Strategy",
+    "Casual",
+    "Singleplayer",
+    "Crafting",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 233450,
+   "name": "Prison Architect",
+   "tags": [
+    "Simulation",
+    "Building",
+    "Sandbox",
+    "Base Building",
+    "Colony Sim",
+    "Strategy",
+    "Management",
+    "City Builder",
+    "2D",
+    "Top-Down"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2015-10-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/header.jpg?t=1759221867",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 466560,
+   "name": "Northgard: Definitive Edition",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "RTS",
+    "Simulation",
+    "Base Building",
+    "Multiplayer",
+    "Colony Sim",
+    "Building",
+    "Economy",
+    "Tactical"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 3846120,
+   "name": "MineMogul",
+   "tags": [
+    "Early Access",
+    "Automation",
+    "Building",
+    "Physics",
+    "Mining",
+    "Strategy",
+    "Crafting",
+    "Simulation",
+    "Base Building",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4210580,
+   "name": "Ore Factory Squad ⛏️",
+   "tags": [
+    "Simulation",
+    "Mining",
+    "Online Co-Op",
+    "Sandbox",
+    "Automation",
+    "Co-op",
+    "Building",
+    "Management",
+    "Exploration",
+    "Economy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3167920,
+   "name": "Low-Budget Repairs",
+   "tags": [
+    "Simulation",
+    "Funny",
+    "Singleplayer",
+    "Relaxing",
+    "Cleaning",
+    "Casual",
+    "Sandbox",
+    "First-Person",
+    "Multiplayer",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1805320,
+   "name": "Romestead",
+   "tags": [
+    "Early Access",
+    "Crafting",
+    "2D",
+    "Adventure",
+    "RPG",
+    "Survival",
+    "Procedural Generation",
+    "Top-Down",
+    "Cute",
+    "Action RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3024040,
+   "name": "Stronghold Crusader: Definitive Edition",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "Real Time Tactics",
+    "Medieval",
+    "Colony Sim",
+    "Building",
+    "War",
+    "Sandbox",
+    "Tower Defense",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1444480,
+   "name": "Turing Complete",
+   "tags": [
+    "Hardware",
+    "Logic",
+    "Automation",
+    "Base Building",
+    "Simulation",
+    "Programming",
+    "Building",
+    "Sandbox",
+    "Education",
+    "Hacking"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2021-10-02",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/8440c6246573308442238af5801639abef4ec97f/header.jpg?t=1787893529",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 1351080,
+   "name": "Pharaoh™: A New Era",
+   "tags": [
+    "City Builder",
+    "Building",
+    "Management",
+    "Simulation",
+    "Colony Sim",
+    "Economy",
+    "Historical",
+    "Resource Management",
+    "Trading",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2753900,
+   "name": "The King is Watching",
+   "tags": [
+    "Roguelike",
+    "Base Building",
+    "Tower Defense",
+    "RTS",
+    "Dark Fantasy",
+    "Fantasy",
+    "Strategy",
+    "Resource Management",
+    "City Builder",
+    "Roguelite"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 2459550,
+   "name": "Emberward",
+   "tags": [
+    "Tower Defense",
+    "Falling Blocks",
+    "Strategy",
+    "Roguelite",
+    "Deckbuilding",
+    "Base Building",
+    "3D",
+    "Indie",
+    "Singleplayer",
+    "Roguelike Deckbuilder"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 418030,
+   "name": "Subsistence",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Multiplayer",
+    "Crafting",
+    "Open World",
+    "Building",
+    "Base Building",
+    "Sandbox",
+    "Co-op",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2080690,
+   "name": "Sunkenland",
+   "tags": [
+    "Early Access",
+    "Open World Survival Craft",
+    "Co-op",
+    "Survival",
+    "Underwater",
+    "Multiplayer",
+    "Base Building",
+    "Crafting",
+    "Open World",
+    "Exploration"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4335460,
+   "name": "BOXROOM",
+   "tags": [
+    "Simulation",
+    "Software",
+    "Life Sim",
+    "Building",
+    "Decorating",
+    "Sandbox",
+    "Moddable",
+    "First-Person",
+    "Design & Illustration",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1342330,
+   "name": "Mad Games Tycoon 2",
+   "tags": [
+    "Management",
+    "Economy",
+    "Simulation",
+    "Game Development",
+    "Strategy",
+    "City Builder",
+    "Building",
+    "Trading",
+    "Capitalism",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1605850,
+   "name": "ZeroSpace",
+   "tags": [
+    "Early Access",
+    "Action RTS",
+    "Wargame",
+    "RTS",
+    "Real Time Tactics",
+    "PvE",
+    "City Builder",
+    "PvP",
+    "Story Rich",
+    "Strategy RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 228200,
+   "name": "Company of Heroes",
+   "tags": [
+    "Strategy",
+    "World War II",
+    "RTS",
+    "War",
+    "Singleplayer",
+    "Multiplayer",
+    "Action",
+    "Military",
+    "Tactical",
+    "Violent"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1782120,
+   "name": "ZERO Sievert",
+   "tags": [
+    "Extraction Shooter",
+    "Survival",
+    "Post-apocalyptic",
+    "Looter Shooter",
+    "Pixel Graphics",
+    "Top-Down",
+    "Open World",
+    "Shooter",
+    "Singleplayer",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4880410,
+   "name": "Tenebrarium",
+   "tags": [
+    "Idler",
+    "Aliens",
+    "Colony Sim",
+    "Sandbox",
+    "Casual",
+    "God Game",
+    "Incremental",
+    "Base Building",
+    "Science",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Idler"
+   ],
+   "status": "excluded: Idler in top 5 tags"
+  },
+  {
+   "appid": 1769420,
+   "name": "Noble Fates",
+   "tags": [
+    "Early Access",
+    "Colony Sim",
+    "City Builder",
+    "Sandbox",
+    "Character Customization",
+    "Base Building",
+    "Strategy",
+    "3D",
+    "Top-Down",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 815370,
+   "name": "Green Hell",
+   "tags": [
+    "Survival",
+    "Open World Survival Craft",
+    "Multiplayer",
+    "Online Co-Op",
+    "Open World",
+    "Crafting",
+    "Action",
+    "Base Building",
+    "Singleplayer",
+    "Co-op"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1587920,
+   "name": "Undead Development 2",
+   "tags": [
+    "Early Access",
+    "Zombies",
+    "Online Co-Op",
+    "Survival",
+    "Base Building",
+    "FPS",
+    "Co-op",
+    "Physics",
+    "Action",
+    "PvE"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [],
+   "release_date": "2026-11-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587920/f43b9aaa5f1d72d346d7dcc1a9b6deed334dabdf/header.jpg?t=1794014121",
+   "first_review": "2026-11-07",
+   "status": "excluded: only 13 recent reviews"
+  },
+  {
+   "appid": 590830,
+   "name": "s&box",
+   "tags": [
+    "Sandbox",
+    "Game Development",
+    "Building",
+    "Casual",
+    "Action",
+    "Shooter",
+    "3D Platformer",
+    "FPS",
+    "3D",
+    "Third-Person Shooter"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3710840,
+   "name": "House Flipper Remastered Collection",
+   "tags": [
+    "Simulation",
+    "Design & Illustration",
+    "Decorating",
+    "Cleaning",
+    "Building",
+    "Casual",
+    "Sandbox",
+    "Immersive Sim",
+    "Economy",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1588530,
+   "name": "Dungeon Alchemist",
+   "tags": [
+    "Early Access",
+    "RPG",
+    "CRPG",
+    "Tabletop",
+    "Software",
+    "Procedural Generation",
+    "City Builder",
+    "Utilities",
+    "2.5D",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3133060,
+   "name": "Gnomes",
+   "tags": [
+    "Tower Defense",
+    "Turn-Based",
+    "Procedural Generation",
+    "Roguelike",
+    "Dwarves",
+    "Pixel Graphics",
+    "Economy",
+    "Farming Sim",
+    "Survival",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2155180,
+   "name": "Pioneers of Pagonia",
+   "tags": [
+    "Strategy",
+    "Resource Management",
+    "Colony Sim",
+    "Online Co-Op",
+    "Fantasy",
+    "Base Building",
+    "City Builder",
+    "Management",
+    "Procedural Generation",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 528740,
+   "name": "Operation: New Earth",
+   "tags": [
+    "Strategy",
+    "Free to Play",
+    "Massively Multiplayer",
+    "Simulation",
+    "Sci-fi",
+    "Multiplayer",
+    "Tactical",
+    "Futuristic",
+    "Aliens",
+    "Survival"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1658040,
+   "name": "I Am Future: Cozy Apocalypse Survival",
+   "tags": [
+    "Casual",
+    "Singleplayer",
+    "Farming Sim",
+    "RPG",
+    "Simulation",
+    "Agriculture",
+    "Crafting",
+    "Sandbox",
+    "Building",
+    "Indie"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3469910,
+   "name": "Star Trek: Outposts Unknown",
+   "tags": [
+    "Strategy",
+    "Colony Sim",
+    "Resource Management",
+    "Narrative",
+    "City Builder",
+    "Simulation",
+    "Sci-fi",
+    "Base Building",
+    "Building",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2239150,
+   "name": "Thronefall",
+   "tags": [
+    "Tower Defense",
+    "Strategy",
+    "City Builder",
+    "Minimalist",
+    "Medieval",
+    "Action",
+    "Action RTS",
+    "Base Building",
+    "Building",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2418520,
+   "name": "Farm Together 2",
+   "tags": [
+    "Farming Sim",
+    "Agriculture",
+    "Sandbox",
+    "Family Friendly",
+    "Life Sim",
+    "Cute",
+    "Character Customization",
+    "Time Management",
+    "Fishing",
+    "Casual"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 644930,
+   "name": "They Are Billions",
+   "tags": [
+    "Base Building",
+    "Colony Sim",
+    "Strategy",
+    "Zombies",
+    "Survival",
+    "RTS",
+    "Tower Defense",
+    "City Builder",
+    "Steampunk",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2019-06-18",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg?t=1595631876",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 2798330,
+   "name": "Dungeon Settlers",
+   "tags": [
+    "Early Access",
+    "Dungeon Crawler",
+    "Colony Sim",
+    "Strategy",
+    "Management",
+    "Base Building",
+    "Survival",
+    "Simulation",
+    "Medieval",
+    "Character Customization"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2730970,
+   "name": "Westland Survival",
+   "tags": [
+    "Singleplayer",
+    "Simulation",
+    "Western",
+    "Character Customization",
+    "Tactical RPG",
+    "RPG",
+    "Exploration",
+    "Action-Adventure",
+    "Crafting",
+    "Isometric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4736470,
+   "name": "Dead Sector",
+   "tags": [
+    "Management",
+    "Automation",
+    "Simulation",
+    "Base Building",
+    "Strategy",
+    "Resource Management",
+    "Building",
+    "Hardware",
+    "Programming",
+    "Logic"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-11-03",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736470/b225922ac905c6ef335b320013daed27975bd655/header.jpg?t=1793732275",
+   "first_review": "2026-11-03",
+   "status": "excluded: only 53 recent reviews"
+  },
+  {
+   "appid": 3454650,
+   "name": "BitCraft Online",
+   "tags": [
+    "Early Access",
+    "MMORPG",
+    "Open World Survival Craft",
+    "Idler",
+    "Sandbox",
+    "Relaxing",
+    "Cozy",
+    "Base Building",
+    "Point & Click",
+    "Exploration"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Idler"
+   ],
+   "status": "excluded: Idler in top 5 tags"
+  },
+  {
+   "appid": 2119830,
+   "name": "MISERY",
+   "tags": [
+    "Survival",
+    "Post-apocalyptic",
+    "Online Co-Op",
+    "Multiplayer",
+    "Horror",
+    "Open World",
+    "Survival Horror",
+    "Co-op",
+    "Open World Survival Craft",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4158610,
+   "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
+   "tags": [
+    "Action RTS",
+    "Strategy",
+    "Historical",
+    "Base Building",
+    "City Builder",
+    "PvP",
+    "Real-Time",
+    "Tutorial",
+    "RTS",
+    "Pixel Graphics"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-11-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/7d3dcf16dcdc7949b12fc230bdaf994ec63fe34f/header_alt_assets_1.jpg?t=1793965751",
+   "first_review": "2026-08-18",
+   "status": "excluded: only 63 recent reviews"
+  },
+  {
+   "appid": 1220140,
+   "name": "Cartel Tycoon",
+   "tags": [
+    "Top-Down",
+    "RTS",
+    "Resource Management",
+    "Atmospheric",
+    "Management",
+    "Survival",
+    "Strategy",
+    "Building",
+    "Economy",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1268750,
+   "name": "Starship Troopers: Extermination",
+   "tags": [
+    "Online Co-Op",
+    "Action",
+    "FPS",
+    "Sci-fi",
+    "First-Person",
+    "Co-op",
+    "Multiplayer",
+    "Combat",
+    "Aliens",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 979640,
+   "name": "Cepheus Protocol",
+   "tags": [
+    "Sandbox",
+    "Zombies",
+    "RTS",
+    "Survival",
+    "Post-apocalyptic",
+    "Building",
+    "Strategy",
+    "Gore",
+    "Open World",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 2710040,
+   "name": "Delverium",
+   "tags": [
+    "Open World Survival Craft",
+    "Farming Sim",
+    "Sandbox",
+    "Survival",
+    "Multiplayer",
+    "Pixel Graphics",
+    "Adventure",
+    "Crafting",
+    "Building",
+    "Exploration"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1368820,
+   "name": "RollerCoaster Tycoon® 3: Complete Edition",
+   "tags": [
+    "Management",
+    "Strategy",
+    "Building",
+    "Simulation",
+    "City Builder",
+    "Casual",
+    "Sandbox",
+    "Family Friendly",
+    "Resource Management",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4078200,
+   "name": "Dwarf Eats Mountain",
+   "tags": [
+    "Incremental",
+    "Idler",
+    "Dwarves",
+    "Mining",
+    "Strategy",
+    "Resource Management",
+    "Building",
+    "Economy",
+    "Simulation",
+    "Pixel Graphics"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental",
+    "Idler"
+   ],
+   "status": "excluded: Incremental, Idler in top 5 tags"
+  },
+  {
+   "appid": 2242100,
+   "name": "Fargone",
+   "tags": [
+    "Looter Shooter",
+    "FPS",
+    "Sandbox",
+    "Survival",
+    "Building",
+    "RPG",
+    "Crafting",
+    "Base Building",
+    "Action",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 780310,
+   "name": "The Riftbreaker",
+   "tags": [
+    "Base Building",
+    "Online Co-Op",
+    "Multiplayer",
+    "Tower Defense",
+    "Survival",
+    "Action RPG",
+    "Hack and Slash",
+    "Exploration",
+    "Sandbox",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 1,
+   "banned": [],
+   "release_date": "2021-10-14",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780310/3f5251539a56b6a2ceb79d96657ce5bc2e09e8c5/header_alt_assets_6.jpg?t=1794292085",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 2412960,
+   "name": "Breathedge 2",
+   "tags": [
+    "Survival",
+    "Singleplayer",
+    "First-Person",
+    "Open World Survival Craft",
+    "Action",
+    "Space",
+    "Adventure",
+    "RPG",
+    "Simulation",
+    "Funny"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1823950,
+   "name": "Laysara: Summit Kingdom",
+   "tags": [
+    "Strategy",
+    "City Builder",
+    "Resource Management",
+    "Colony Sim",
+    "Building",
+    "Real-Time with Pause",
+    "Base Building",
+    "Management",
+    "Simulation",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1159690,
+   "name": "Voidtrain",
+   "tags": [
+    "Open World Survival Craft",
+    "Co-op",
+    "Trains",
+    "Multiplayer",
+    "Survival",
+    "Base Building",
+    "Open World",
+    "Online Co-Op",
+    "Crafting",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3214610,
+   "name": "Cinderia",
+   "tags": [
+    "Early Access",
+    "Action Roguelike",
+    "Hack and Slash",
+    "Roguelite",
+    "Roguelike",
+    "Action",
+    "Dungeon Crawler",
+    "Replay Value",
+    "2.5D",
+    "Top-Down"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2353250,
+   "name": "Astrometica",
+   "tags": [
+    "Space Sim",
+    "Survival",
+    "Open World",
+    "First-Person",
+    "Adventure",
+    "Crafting",
+    "Space",
+    "Automation",
+    "Base Building",
+    "Sci-fi"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 848450,
+   "name": "Subnautica: Below Zero",
+   "tags": [
+    "Open World Survival Craft",
+    "Survival",
+    "Underwater",
+    "Singleplayer",
+    "Open World",
+    "Horror",
+    "Exploration",
+    "Multiplayer",
+    "Base Building",
+    "Adventure"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 3226530,
+   "name": "Tower Dominion",
+   "tags": [
+    "Tower Defense",
+    "Strategy",
+    "Base Building",
+    "Roguelike",
+    "RTS",
+    "Tactical",
+    "Roguelite",
+    "Choices Matter",
+    "Procedural Generation",
+    "Resource Management"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 4059000,
+   "name": "Cozy Builder",
+   "tags": [
+    "Multiplayer",
+    "Cozy",
+    "Relaxing",
+    "Exploration",
+    "Simulation",
+    "Cute",
+    "Pixel Graphics",
+    "Casual",
+    "Decorating",
+    "RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 251670,
+   "name": "Battle Nations",
+   "tags": [
+    "Free to Play",
+    "Strategy",
+    "Turn-Based Strategy",
+    "Multiplayer",
+    "Action",
+    "Singleplayer",
+    "Shooter",
+    "War",
+    "RPG",
+    "RTS"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Turn-Based Strategy"
+   ],
+   "status": "excluded: Turn-Based Strategy in top 5 tags"
+  },
+  {
+   "appid": 1159090,
+   "name": "Zoria: Age of Shattering",
+   "tags": [
+    "Singleplayer",
+    "Exploration",
+    "3D",
+    "RPG",
+    "Atmospheric",
+    "Story Rich",
+    "Strategy",
+    "Character Customization",
+    "Fantasy",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4487060,
+   "name": "Northgard Battlegrounds",
+   "tags": [
+    "Early Access",
+    "Strategy",
+    "Auto Battler",
+    "Asynchronous Multiplayer",
+    "City Builder",
+    "PvP",
+    "Base Building",
+    "Simulation",
+    "Multiplayer",
+    "Fantasy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4435340,
+   "name": "Anymaker",
+   "tags": [
+    "Early Access",
+    "Sandbox",
+    "Simulation",
+    "Open World",
+    "Multiplayer",
+    "Building",
+    "First-Person",
+    "Realistic",
+    "Co-op",
+    "Driving"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 5019800,
+   "name": "System Arrival",
+   "tags": [
+    "Early Access",
+    "Survival",
+    "Zombies",
+    "Base Building",
+    "Extraction Shooter",
+    "Online Co-Op",
+    "Open World Survival Craft",
+    "Open World",
+    "Multiplayer",
+    "Top-Down Shooter"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 4,
+   "banned": [],
+   "release_date": "2026-11-10",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019800/b5ed787da79db0adf52d0a1d3ce85a4908652565/header.jpg?t=1794301238",
+   "first_review": "2026-11-10",
+   "status": "excluded: only 3 recent reviews"
+  },
+  {
+   "appid": 1478970,
+   "name": "Olympius",
+   "tags": [
+    "Third-Person Shooter",
+    "PvE",
+    "Shooter",
+    "Action-Adventure",
+    "Character Customization",
+    "RPG",
+    "Split Screen",
+    "3D",
+    "Third Person",
+    "Post-apocalyptic"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2197680,
+   "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+   "tags": [
+    "Side Scroller",
+    "Anime",
+    "Action RPG",
+    "City Builder",
+    "JRPG",
+    "Beat 'em up",
+    "Base Building",
+    "Fantasy",
+    "Story Rich",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2439510,
+   "name": "Doomsday: Last Survivors",
+   "tags": [
+    "Strategy",
+    "Strategy RPG",
+    "Massively Multiplayer",
+    "4X",
+    "Real Time Tactics",
+    "Zombies",
+    "Wargame",
+    "Survival",
+    "Base Building",
+    "2D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "4X"
+   ],
+   "status": "excluded: 4X in top 5 tags"
+  },
+  {
+   "appid": 4315040,
+   "name": "Hearth and Hamlet",
+   "tags": [
+    "Incremental",
+    "City Builder",
+    "Base Building",
+    "Casual",
+    "Management",
+    "Idler",
+    "Relaxing",
+    "Resource Management",
+    "Simulation",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "Incremental"
+   ],
+   "status": "excluded: Incremental in top 5 tags"
+  },
+  {
+   "appid": 611660,
+   "name": "Fallout 4 VR",
+   "tags": [
+    "VR",
+    "Open World",
+    "Post-apocalyptic",
+    "RPG",
+    "Singleplayer",
+    "Shooter",
+    "Survival",
+    "FPS",
+    "Action",
+    "First-Person"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 493900,
+   "name": "Dungeons 3",
+   "tags": [
+    "Strategy",
+    "Villain Protagonist",
+    "Base Building",
+    "Simulation",
+    "RTS",
+    "God Game",
+    "Management",
+    "Female Protagonist",
+    "Comedy",
+    "Multiplayer"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 4227400,
+   "name": "Sineus Arena Survivors",
+   "tags": [
+    "Bullet Heaven",
+    "Action Roguelike",
+    "Roguelike",
+    "Online Co-Op",
+    "Co-op",
+    "Bullet Hell",
+    "Loot",
+    "Tower Defense",
+    "Score Attack",
+    "Indie"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1113120,
+   "name": "IXION",
+   "tags": [
+    "Space",
+    "City Builder",
+    "Strategy",
+    "Survival",
+    "Resource Management",
+    "Colony Sim",
+    "Base Building",
+    "Building",
+    "Simulation",
+    "Exploration"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2059530,
+   "name": "Dawn of Defiance",
+   "tags": [
+    "Early Access",
+    "Open World Survival Craft",
+    "Survival",
+    "Mythology",
+    "Exploration",
+    "Open World",
+    "Crafting",
+    "Adventure",
+    "Base Building",
+    "Online Co-Op"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4164790,
+   "name": "Survival Log",
+   "tags": [
+    "Resource Management",
+    "Survival",
+    "Post-apocalyptic",
+    "Simulation",
+    "Life Sim",
+    "Zombies",
+    "2.5D",
+    "Strategy",
+    "Inventory Management",
+    "Time Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2140020,
+   "name": "Stronghold: Definitive Edition",
+   "tags": [
+    "City Builder",
+    "Strategy",
+    "Real Time Tactics",
+    "Medieval",
+    "Building",
+    "RTS",
+    "Sandbox",
+    "Economy",
+    "Colony Sim",
+    "Base Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1597480,
+   "name": "Zombie Gunship Survival",
+   "tags": [
+    "Action",
+    "Strategy",
+    "Shooter",
+    "Shoot 'Em Up",
+    "Zombies",
+    "Arena Shooter",
+    "3D",
+    "Real Time Tactics",
+    "Survival",
+    "Realistic"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1796790,
+   "name": "Chef RPG",
+   "tags": [
+    "Early Access",
+    "RPG",
+    "Pixel Graphics",
+    "Cooking",
+    "Life Sim",
+    "Management",
+    "Open World",
+    "Building",
+    "Exploration",
+    "Immersive Sim"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1127400,
+   "name": "Mindustry",
+   "tags": [
+    "Automation",
+    "Base Building",
+    "Tower Defense",
+    "Resource Management",
+    "RTS",
+    "Strategy",
+    "Building",
+    "Sandbox",
+    "Multiplayer",
+    "Co-op"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1121640,
+   "name": "The Wandering Village",
+   "tags": [
+    "City Builder",
+    "Simulation",
+    "Management",
+    "Post-apocalyptic",
+    "Colony Sim",
+    "Resource Management",
+    "Exploration",
+    "Cute",
+    "Nature",
+    "Survival"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1481170,
+   "name": "ZEPHON",
+   "tags": [
+    "Strategy",
+    "Turn-Based",
+    "4X",
+    "Tactical",
+    "Multiplayer",
+    "Lovecraftian",
+    "Sandbox",
+    "Co-op",
+    "Sci-fi",
+    "Procedural Generation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "4X"
+   ],
+   "status": "excluded: 4X in top 5 tags"
+  },
+  {
+   "appid": 2686630,
+   "name": "Voyagers of Nera",
+   "tags": [
+    "Early Access",
+    "Open World Survival Craft",
+    "Sandbox",
+    "Adventure",
+    "Exploration",
+    "Open World",
+    "Cozy",
+    "Singleplayer",
+    "Underwater",
+    "Atmospheric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1660080,
+   "name": "Aloft",
+   "tags": [
+    "Early Access",
+    "Survival",
+    "Crafting",
+    "Co-op",
+    "Adventure",
+    "Building",
+    "Casual",
+    "Atmospheric",
+    "Colorful",
+    "Farming"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1116050,
+   "name": "Starminer",
+   "tags": [
+    "Early Access",
+    "Sandbox",
+    "Space Sim",
+    "Economy",
+    "Space",
+    "Sci-fi",
+    "Trading",
+    "RPG",
+    "Exploration",
+    "Open World"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4806180,
+   "name": "Imperium",
+   "tags": [
+    "Strategy",
+    "4X",
+    "Grand Strategy",
+    "Turn-Based Strategy",
+    "Artificial Intelligence",
+    "Exploration",
+    "Wargame",
+    "2.5D",
+    "Isometric",
+    "Aliens"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "4X",
+    "Turn-Based Strategy"
+   ],
+   "status": "excluded: 4X, Turn-Based Strategy in top 5 tags"
+  },
+  {
+   "appid": 1213210,
+   "name": "Command & Conquer™ Remastered Collection",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Base Building",
+    "Multiplayer",
+    "Classic",
+    "Great Soundtrack",
+    "War",
+    "Singleplayer",
+    "1990's",
+    "FMV"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 290100,
+   "name": "Bulwark: Falconeer Chronicles",
+   "tags": [
+    "Casual",
+    "Procedural Generation",
+    "Minimalist",
+    "City Builder",
+    "Experimental",
+    "Base Building",
+    "Open World",
+    "Building",
+    "Sandbox",
+    "Steampunk"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2419800,
+   "name": "Harem in Another World",
+   "tags": [
+    "Sexual Content",
+    "Hentai",
+    "Nudity",
+    "RPG",
+    "Exploration",
+    "Visual Novel",
+    "2D",
+    "Dating Sim",
+    "Action-Adventure",
+    "Funny"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1169040,
+   "name": "Necesse",
+   "tags": [
+    "Open World Survival Craft",
+    "Pixel Graphics",
+    "Multiplayer",
+    "Open World",
+    "Sandbox",
+    "Survival",
+    "Crafting",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4179280,
+   "name": "Moonshiner Simulator",
+   "tags": [
+    "Simulation",
+    "Action",
+    "Co-op",
+    "Management",
+    "Multiplayer",
+    "Strategy",
+    "Crafting",
+    "Open World",
+    "Immersive Sim",
+    "Automation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 24780,
+   "name": "SimCity™ 4 Deluxe Edition",
+   "tags": [
+    "City Builder",
+    "Immersive Sim",
+    "Base Building",
+    "Building",
+    "Sandbox",
+    "Management",
+    "Economy",
+    "God Game",
+    "Strategy",
+    "Simulation"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2010-07-20",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24780/header.jpg?t=1777484586",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 287450,
+   "name": "Rise of Nations: Extended Edition",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Classic",
+    "Multiplayer",
+    "Historical",
+    "Nostalgia",
+    "Simulation",
+    "War",
+    "Great Soundtrack",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 908740,
+   "name": "VALHALL: Harbinger",
+   "tags": [
+    "Early Access",
+    "Vikings",
+    "Survival",
+    "Open World",
+    "Building",
+    "Hack and Slash",
+    "Swordplay",
+    "Crafting",
+    "Historical",
+    "Medieval"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2477340,
+   "name": "Expeditions: A MudRunner Game",
+   "tags": [
+    "Moddable",
+    "Multiplayer",
+    "Nature",
+    "Singleplayer",
+    "Driving",
+    "Exploration",
+    "Offroad",
+    "Co-op",
+    "Online Co-Op",
+    "Transportation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 24810,
+   "name": "Command & Conquer™ 3: Kane’s Wrath",
+   "tags": [
+    "Strategy",
+    "Level Editor",
+    "Family Friendly",
+    "Action",
+    "Multiplayer",
+    "Singleplayer",
+    "RTS",
+    "Co-op",
+    "Grand Strategy",
+    "3D"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 382310,
+   "name": "Eco",
+   "tags": [
+    "Early Access",
+    "Base Building",
+    "Crafting",
+    "Resource Management",
+    "Transportation",
+    "Trading",
+    "Multiplayer",
+    "Diplomacy",
+    "Open World",
+    "Open World Survival Craft"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 2,
+   "banned": [],
+   "release_date": "2018-02-06",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/669bd5d9c8d2469a776d81011670f2889fac86b0/header.jpg?t=1780512554",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 4349320,
+   "name": "Pre-Warp Age",
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "2D",
+    "Building",
+    "Economy",
+    "Futuristic",
+    "Management",
+    "Sci-fi",
+    "Space",
+    "Atmospheric"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Turn-Based Strategy"
+   ],
+   "status": "excluded: Turn-Based Strategy in top 5 tags"
+  },
+  {
+   "appid": 1621070,
+   "name": "DeadPoly",
+   "tags": [
+    "Survival",
+    "Zombies",
+    "Open World Survival Craft",
+    "Multiplayer",
+    "Post-apocalyptic",
+    "Online Co-Op",
+    "Singleplayer",
+    "Loot",
+    "Third-Person Shooter",
+    "PvE"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 464350,
+   "name": "Screeps: World",
+   "tags": [
+    "Programming",
+    "Strategy",
+    "Massively Multiplayer",
+    "Sandbox",
+    "Automation",
+    "Open World",
+    "Base Building",
+    "Artificial Intelligence",
+    "Economy",
+    "Hacking"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2880010,
+   "name": "Din's Champion",
+   "tags": [
+    "Action RPG",
+    "Open World Survival Craft",
+    "Sandbox",
+    "Crafting",
+    "Hack and Slash",
+    "Open World",
+    "Dungeon Crawler",
+    "2.5D",
+    "Side Scroller",
+    "Fantasy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 24790,
+   "name": "Command & Conquer 3 Tiberium Wars™",
+   "tags": [
+    "Strategy",
+    "Level Editor",
+    "Family Friendly",
+    "RTS",
+    "Action",
+    "Multiplayer",
+    "Singleplayer",
+    "Base Building",
+    "Action RTS",
+    "City Builder"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1843760,
+   "name": "Rogue Tower",
+   "tags": [
+    "Tower Defense",
+    "Strategy",
+    "Roguelike",
+    "Casual",
+    "Procedural Generation",
+    "3D",
+    "Minimalist",
+    "Base Building",
+    "Roguelite",
+    "Singleplayer"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4390380,
+   "name": "Crystal Commanders",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Base Building",
+    "PvE",
+    "3D",
+    "Top-Down",
+    "VR",
+    "Military",
+    "Sci-fi",
+    "Building"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 3372530,
+   "name": "Valorborn",
+   "tags": [
+    "Early Access",
+    "Open World",
+    "RPG",
+    "Sandbox",
+    "Exploration",
+    "Survival",
+    "Adventure",
+    "Strategy",
+    "Building",
+    "Medieval"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 47700,
+   "name": "Command & Conquer™ 4 Tiberian Twilight",
+   "tags": [
+    "Strategy",
+    "Level Editor",
+    "RTS",
+    "Adventure",
+    "Multiplayer",
+    "Co-op",
+    "Singleplayer",
+    "MOBA",
+    "Online Co-Op",
+    "Sci-fi"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 3983860,
+   "name": "Nightwater",
+   "tags": [
+    "Open World",
+    "Automation",
+    "Resource Management",
+    "Incremental",
+    "Idler",
+    "Crafting",
+    "Sandbox",
+    "Relaxing",
+    "Simulation",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Incremental",
+    "Idler"
+   ],
+   "status": "excluded: Incremental, Idler in top 5 tags"
+  },
+  {
+   "appid": 17480,
+   "name": "Command & Conquer™ Red Alert™ 3",
+   "tags": [
+    "Strategy",
+    "Family Friendly",
+    "Level Editor",
+    "RTS",
+    "Base Building",
+    "Multiplayer",
+    "Action",
+    "Singleplayer",
+    "Co-op",
+    "Online Co-Op"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 5,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 1811990,
+   "name": "Wildfrost",
+   "tags": [
+    "Card Battler",
+    "Roguelike Deckbuilder",
+    "Difficult",
+    "Card Game",
+    "Turn-Based Tactics",
+    "Deckbuilding",
+    "Roguelite",
+    "Roguelike",
+    "Singleplayer",
+    "Turn-Based"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1371580,
+   "name": "Myth of Empires",
+   "tags": [
+    "Building",
+    "Open World Survival Craft",
+    "Sandbox",
+    "MMORPG",
+    "Open World",
+    "Survival",
+    "Base Building",
+    "Multiplayer",
+    "War",
+    "Character Customization"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2783360,
+   "name": "Age of Empires Mobile: PC Edition",
+   "tags": [
+    "Free to Play",
+    "Casual",
+    "PvP",
+    "Simulation",
+    "Co-op",
+    "Multiplayer",
+    "Base Building",
+    "Historical",
+    "City Builder",
+    "Strategy"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2359470,
+   "name": "Strayed",
+   "tags": [
+    "Early Access",
+    "Open World Survival Craft",
+    "Loot",
+    "VR",
+    "Survival",
+    "Multiplayer",
+    "Crafting",
+    "Open World",
+    "PvP",
+    "Building"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 800270,
+   "name": "Terraforming Mars",
+   "tags": [
+    "Board Game",
+    "Strategy",
+    "Space",
+    "Tabletop",
+    "Turn-Based",
+    "Mars",
+    "Multiplayer",
+    "Sci-fi",
+    "Singleplayer",
+    "Management"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 315460,
+   "name": "Dig or Die",
+   "tags": [
+    "Survival",
+    "Open World Survival Craft",
+    "Sandbox",
+    "Crafting",
+    "2D",
+    "Open World",
+    "Tower Defense",
+    "Indie",
+    "Strategy",
+    "Action"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1573280,
+   "name": "WW2 Rebuilder",
+   "tags": [
+    "Simulation",
+    "World War II",
+    "Relaxing",
+    "Design & Illustration",
+    "Realistic",
+    "City Builder",
+    "Singleplayer",
+    "Base Building",
+    "Resource Management",
+    "Crafting"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 4890760,
+   "name": "THE DEAD WE KNEW: Open World Survival",
+   "tags": [
+    "Open World",
+    "Survival",
+    "Exploration",
+    "Zombies",
+    "Third-Person Shooter",
+    "Building",
+    "Action",
+    "Sandbox",
+    "Multiplayer",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 1021210,
+   "name": "Cyber Knights: Flashpoint",
+   "tags": [
+    "Turn-Based Tactics",
+    "Replay Value",
+    "Isometric",
+    "Turn-Based Strategy",
+    "Sci-fi",
+    "Perma Death",
+    "Military",
+    "Tactical RPG",
+    "Turn-Based",
+    "Post-apocalyptic"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "Turn-Based Strategy"
+   ],
+   "status": "excluded: Turn-Based Strategy in top 5 tags"
+  },
+  {
+   "appid": 3480990,
+   "name": "There Are No Orcs",
+   "tags": [
+    "RTS",
+    "Auto Battler",
+    "Tower Defense",
+    "City Builder",
+    "Card Game",
+    "Strategy",
+    "Wargame",
+    "Base Building",
+    "Roguelite",
+    "Medieval"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 2229850,
+   "name": "Command & Conquer Red Alert™ 2 and Yuri’s Revenge™",
+   "tags": [
+    "Strategy",
+    "RTS",
+    "Action",
+    "Singleplayer",
+    "Multiplayer",
+    "Base Building",
+    "Classic",
+    "RPG",
+    "Great Soundtrack",
+    "Retro"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 2229870,
+   "name": "Command & Conquer™ Generals",
+   "tags": [
+    "Strategy",
+    "Action",
+    "Multiplayer",
+    "Singleplayer",
+    "RTS",
+    "Base Building",
+    "Action RPG",
+    "Classic",
+    "RPG"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 2819520,
+   "name": "Viking Rise",
+   "tags": [
+    "Strategy",
+    "RPG",
+    "4X",
+    "Strategy RPG",
+    "Real Time Tactics",
+    "Wargame",
+    "3D",
+    "2D",
+    "Medieval",
+    "Military"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "4X"
+   ],
+   "status": "excluded: 4X in top 5 tags"
+  },
+  {
+   "appid": 2229880,
+   "name": "Command & Conquer™ Tiberian Sun™ and Firestorm™",
+   "tags": [
+    "Strategy",
+    "Action",
+    "RTS",
+    "Singleplayer",
+    "Classic",
+    "Action RPG",
+    "Sci-fi",
+    "Isometric",
+    "Base Building",
+    "Great Soundtrack"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 4350620,
+   "name": "Voxel Playground",
+   "tags": [
+    "VR",
+    "Physics",
+    "Voxel",
+    "Destruction",
+    "Gore",
+    "Sandbox",
+    "Heist",
+    "Action",
+    "First-Person",
+    "6DOF"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 2732960,
+   "name": "Command & Conquer™ Generals Zero Hour",
+   "tags": [
+    "Multiplayer",
+    "RTS",
+    "Singleplayer",
+    "Level Editor",
+    "Family Friendly",
+    "War",
+    "Military",
+    "Strategy",
+    "Co-op",
+    "Nostalgia"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [
+    "RTS"
+   ],
+   "status": "excluded: RTS in top 5 tags"
+  },
+  {
+   "appid": 5032750,
+   "name": "Architecture & Design",
+   "tags": [
+    "Early Access",
+    "Immersive Sim",
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Sandbox",
+    "Education",
+    "Romance",
+    "Base Building",
+    "Nature",
+    "Software"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  },
+  {
+   "appid": 366090,
+   "name": "Colony Survival",
+   "tags": [
+    "Colony Sim",
+    "Survival",
+    "Base Building",
+    "Building",
+    "Multiplayer",
+    "Sandbox",
+    "Strategy",
+    "Open World",
+    "City Builder",
+    "Early Access"
+   ],
+   "core_tag": "Base Building",
+   "core_pos": 3,
+   "banned": [],
+   "release_date": "2017-06-16",
+   "type": "game",
+   "coming_soon": false,
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/header.jpg?t=1787307261",
+   "status": "excluded: released before 2021-11-10"
+  },
+  {
+   "appid": 1151380,
+   "name": "Cowboy Life Simulator",
+   "tags": [
+    "Early Access",
+    "Exploration",
+    "Building",
+    "Crafting",
+    "Farming Sim",
+    "Relaxing",
+    "Story Rich",
+    "Sandbox",
+    "Open World",
+    "Simulation"
+   ],
+   "core_tag": "(hand-picked)",
+   "core_pos": null,
+   "banned": [],
+   "status": "excluded: no Base Building in top 5 tags"
+  }
+ ]
+}
