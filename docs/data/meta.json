@@ -13,19 +13,19 @@
    "Strategy",
    "Casual",
    "Sandbox",
-   "City Builder",
    "Zoo",
+   "City Builder",
    "Animals",
-   "Management",
    "Building",
+   "Management",
    "Cute",
    "Realistic",
    "Economy",
+   "Multiplayer",
    "Nature",
-   "Family Friendly",
-   "Multiplayer"
+   "Family Friendly"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "294100": {
   "name": "RimWorld",
@@ -53,7 +53,7 @@
    "2D",
    "Procedural Generation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2688950": {
   "name": "Planet Coaster 2",
@@ -81,7 +81,7 @@
    "Family Friendly",
    "Atmospheric"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1466860": {
   "name": "Age of Empires IV: Anniversary Edition",
@@ -109,7 +109,7 @@
    "Co-op",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1295660": {
   "name": "Sid Meier's Civilization VII",
@@ -127,8 +127,8 @@
    "4X",
    "Historical",
    "Military",
-   "Multiplayer",
    "Simulation",
+   "Multiplayer",
    "Diplomacy",
    "War",
    "Economy",
@@ -137,7 +137,7 @@
    "Tactical",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "427520": {
   "name": "Factorio",
@@ -165,7 +165,7 @@
    "Moddable",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "949230": {
   "name": "Cities: Skylines II",
@@ -193,7 +193,7 @@
    "Casual",
    "Atmospheric"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4025700": {
   "name": "Heartopia",
@@ -208,8 +208,8 @@
    "Free to Play",
    "Life Sim",
    "Multiplayer",
-   "Artificial Intelligence",
    "Cute",
+   "Artificial Intelligence",
    "Casual",
    "Relaxing",
    "Character Customization",
@@ -221,7 +221,7 @@
    "Third Person",
    "Immersive Sim"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "813780": {
   "name": "Age of Empires II: Definitive Edition",
@@ -249,7 +249,7 @@
    "Remake",
    "Isometric"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3010170": {
   "name": "Fangtopia",
@@ -295,8 +295,8 @@
    "City Builder",
    "Casual",
    "Strategy",
-   "Economy",
    "Trains",
+   "Economy",
    "Realistic",
    "Sandbox",
    "Time Management",
@@ -305,7 +305,7 @@
    "3D",
    "Grand Strategy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3905010": {
   "name": "ONE PIECE: Grand Gourmet",
@@ -320,20 +320,20 @@
    "Casual",
    "Simulation",
    "Colony Sim",
-   "City Builder",
    "Pixel Graphics",
-   "Farming Sim",
+   "City Builder",
    "Idler",
+   "Farming Sim",
    "Anime",
    "2D",
-   "Immersive Sim",
    "Cooking",
+   "Immersive Sim",
    "Cute",
    "Fantasy",
    "Gothic",
    "Economy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "255710": {
   "name": "Cities: Skylines",
@@ -361,7 +361,7 @@
    "Casual",
    "Modern"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2958130": {
   "name": "Jurassic World Evolution 3",
@@ -389,7 +389,7 @@
    "Base Building",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2456740": {
   "name": "inZOI",
@@ -417,7 +417,7 @@
    "Cats",
    "City Builder"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "289070": {
   "name": "Sid Meier’s Civilization® VI",
@@ -445,7 +445,7 @@
    "Building",
    "Online Co-Op"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1643310": {
   "name": "Dungeons 4",
@@ -501,7 +501,7 @@
    "Management",
    "Economy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "463530": {
   "name": "Empires of the Undergrowth",
@@ -529,7 +529,7 @@
    "Open World",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1162750": {
   "name": "Songs of Syx",
@@ -557,7 +557,7 @@
    "Survival",
    "Moddable"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1363080": {
   "name": "Manor Lords",
@@ -585,7 +585,7 @@
    "Survival",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "492720": {
   "name": "Tropico 6",
@@ -613,7 +613,7 @@
    "Diplomacy",
    "Destruction"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4075620": {
   "name": "Combolands: Roguelike Citybuilder",
@@ -641,7 +641,7 @@
    "Replay Value",
    "Casual"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1062090": {
   "name": "Timberborn",
@@ -665,11 +665,11 @@
    "Survival",
    "Strategy",
    "Physics",
-   "Science",
    "Farming Sim",
+   "Science",
    "Simulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "703080": {
   "name": "Planet Zoo",
@@ -697,7 +697,7 @@
    "Resource Management",
    "Strategy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2185060": {
   "name": "Two Point Museum",
@@ -725,7 +725,7 @@
    "Comedy",
    "Family Friendly"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3469910": {
   "name": "Star Trek: Outposts Unknown",
@@ -781,7 +781,7 @@
    "Base Building",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "466560": {
   "name": "Northgard: Definitive Edition",
@@ -865,7 +865,7 @@
    "Choices Matter",
    "Rome"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1853440": {
   "name": "Tropico 7",
@@ -903,7 +903,7 @@
    "Political Sim",
    "Colony Sim"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "933110": {
   "name": "Age of Empires III: Definitive Edition",
@@ -921,8 +921,8 @@
    "Multiplayer",
    "Military",
    "City Builder",
-   "Historical",
    "War",
+   "Historical",
    "Singleplayer",
    "Free to Play",
    "Resource Management",
@@ -931,7 +931,7 @@
    "3D",
    "Online Co-Op"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1465460": {
   "name": "Infection Free Zone",
@@ -959,7 +959,7 @@
    "Singleplayer",
    "Time Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1594320": {
   "name": "Captain of Industry",
@@ -1043,7 +1043,7 @@
    "Exploration",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3222640": {
   "name": "Wild West Pioneers",
@@ -1071,7 +1071,7 @@
    "Survival",
    "Historical"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1649950": {
   "name": "News Tower",
@@ -1099,7 +1099,7 @@
    "Capitalism",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "493340": {
   "name": "Planet Coaster",
@@ -1155,7 +1155,7 @@
    "Moddable",
    "Open World"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3115220": {
   "name": "Town to City",
@@ -1183,7 +1183,7 @@
    "Simulation",
    "Resource Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "24010": {
   "name": "Train Simulator Classic",
@@ -1198,8 +1198,8 @@
    "Simulation",
    "Trains",
    "Singleplayer",
-   "Realistic",
    "Driving",
+   "Realistic",
    "Relaxing",
    "Casual",
    "Open World",
@@ -1211,7 +1211,7 @@
    "Atmospheric",
    "Transportation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "975370": {
   "name": "Dwarf Fortress",
@@ -1239,7 +1239,7 @@
    "Resource Management",
    "Fantasy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1588530": {
   "name": "Dungeon Alchemist",
@@ -1366,20 +1366,20 @@
    "Building",
    "City Builder",
    "Strategy",
-   "Resource Management",
    "Medieval",
+   "Resource Management",
    "Agriculture",
    "Economy",
    "Historical",
-   "4X",
    "Colony Sim",
+   "4X",
    "Base Building",
    "RTS",
    "Immersive Sim",
    "Farming",
    "Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2646460": {
   "name": "Soulmask",
@@ -1435,7 +1435,7 @@
    "Action",
    "Faith"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1206560": {
   "name": "WorldBox - God Simulator",
@@ -1463,7 +1463,7 @@
    "Relaxing",
    "Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2239710": {
   "name": "Into the Dead: Our Darkest Days",
@@ -1519,7 +1519,7 @@
    "Resource Management",
    "Time Manipulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1419170": {
   "name": "My Singing Monsters",
@@ -1547,7 +1547,7 @@
    "Relaxing",
    "Music"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1898300": {
   "name": "ASKA",
@@ -1560,8 +1560,8 @@
   "first_review": "2024-06-20",
   "steam_tags": [
    "Early Access",
-   "Survival",
    "Colony Sim",
+   "Survival",
    "Open World Survival Craft",
    "Multiplayer",
    "Base Building",
@@ -1572,10 +1572,10 @@
    "Co-op",
    "Building",
    "Singleplayer",
-   "Simulation",
-   "Open World"
+   "Open World",
+   "Simulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "457140": {
   "name": "Oxygen Not Included",
@@ -1603,7 +1603,7 @@
    "Sci-fi",
    "Difficult"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "17390": {
   "name": "SPORE™",
@@ -1631,7 +1631,7 @@
    "Adventure",
    "Cartoony"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1067360": {
   "name": "Pax Autocratica",
@@ -1659,7 +1659,7 @@
    "PvE",
    "Building"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2798330": {
   "name": "Dungeon Settlers",
@@ -1771,7 +1771,7 @@
    "Singleplayer",
    "Moddable"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2570210": {
   "name": "Eden Crafters",
@@ -1827,7 +1827,7 @@
    "Historical",
    "Real Time Tactics"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2426530": {
   "name": "Nova Roma",
@@ -1939,7 +1939,7 @@
    "Atmospheric",
    "Economy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2213700": {
   "name": "Sintopia",
@@ -1988,14 +1988,14 @@
    "Medieval",
    "Strategy",
    "Fantasy",
-   "Atmospheric",
    "Co-op",
+   "Atmospheric",
    "Colony Sim",
    "Survival",
    "Controller",
    "Adventure"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1336490": {
   "name": "Against the Storm",
@@ -2008,8 +2008,8 @@
   "first_review": "2022-11-01",
   "steam_tags": [
    "Strategy",
-   "Simulation",
    "City Builder",
+   "Simulation",
    "Base Building",
    "Building",
    "Grand Strategy",
@@ -2023,7 +2023,7 @@
    "Survival",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2438680": {
   "name": "Airborne Empire",
@@ -2173,7 +2173,7 @@
    "Survival",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1272320": {
   "name": "Diplomacy is Not an Option",
@@ -2193,15 +2193,15 @@
    "Colony Sim",
    "RTS",
    "Difficult",
-   "Survival",
    "Action RTS",
    "Tower Defense",
+   "Survival",
    "Strategy",
    "War",
    "Simulation",
    "PvE"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4356430": {
   "name": "NBA 2K27",
@@ -2215,10 +2215,10 @@
   "steam_tags": [
    "Sports",
    "Simulation",
-   "Basketball",
    "3D",
-   "PvP",
+   "Basketball",
    "Gambling",
+   "PvP",
    "Character Customization",
    "Multiplayer",
    "Co-op",
@@ -2229,7 +2229,7 @@
    "Controller",
    "eSports"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4019220": {
   "name": "Dressmaker",
@@ -2248,16 +2248,16 @@
    "Simulation",
    "Relaxing",
    "Life Sim",
-   "Management",
-   "Singleplayer",
    "Casual",
+   "Singleplayer",
    "Cute",
+   "Management",
    "Colorful",
    "Stylized",
    "Shop Keeper",
    "Resource Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "5228920": {
   "name": "Brick by Brick: Tidy Up the Small Town!",
@@ -2271,11 +2271,11 @@
   "steam_tags": [
    "Casual",
    "Simulation",
-   "Collectathon",
    "Online Co-Op",
+   "Collectathon",
    "Organizing",
-   "Relaxing",
    "Incremental",
+   "Relaxing",
    "Cleaning",
    "Multiplayer",
    "3D",
@@ -2283,9 +2283,9 @@
    "First-Person",
    "Singleplayer",
    "Management",
-   "Indie"
+   "Cozy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "281990": {
   "name": "Stellaris",
@@ -2313,7 +2313,7 @@
    "Diplomacy",
    "Military"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1158310": {
   "name": "Crusader Kings III",
@@ -2336,12 +2336,12 @@
    "Life Sim",
    "Sandbox",
    "Choices Matter",
-   "RTS",
    "War",
+   "RTS",
    "Singleplayer",
    "Economy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "270880": {
   "name": "American Truck Simulator",
@@ -2369,7 +2369,7 @@
    "Multiplayer",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2300320": {
   "name": "Farming Simulator 25",
@@ -2397,7 +2397,7 @@
    "Online Co-Op",
    "Atmospheric"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1476970": {
   "name": "IdleOn - The Incremental MMO",
@@ -2425,7 +2425,7 @@
    "Casual",
    "Simulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3024130": {
   "name": "PAO PAO",
@@ -2481,7 +2481,7 @@
    "Strategy",
    "Character Customization"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3965430": {
   "name": "The Mailroom",
@@ -2537,7 +2537,7 @@
    "Story Rich",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "784080": {
   "name": "MechWarrior 5: Mercenaries",
@@ -2553,8 +2553,8 @@
    "Simulation",
    "FPS",
    "Action",
-   "Shooter",
    "Co-op",
+   "Shooter",
    "Vehicular Combat",
    "First-Person",
    "Singleplayer",
@@ -2565,7 +2565,7 @@
    "Combat",
    "Futuristic"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "236850": {
   "name": "Europa Universalis IV",
@@ -2633,8 +2633,8 @@
   "fetched": "2026-10-27",
   "first_review": "2026-01-12",
   "steam_tags": [
-   "Simulation",
    "Zombies",
+   "Simulation",
    "Singleplayer",
    "Post-apocalyptic",
    "Choices Matter",
@@ -2649,7 +2649,7 @@
    "Immersive Sim",
    "Base Building"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "602960": {
   "name": "Barotrauma",
@@ -2721,19 +2721,19 @@
    "Roguelite",
    "Capitalism",
    "Strategy",
-   "Relaxing",
    "Gambling",
    "Idler",
+   "Relaxing",
    "Indie",
    "Casual",
    "Management",
    "Arcade",
-   "Colorful",
    "Resource Management",
+   "Colorful",
    "3D",
    "Simulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1488490": {
   "name": "Nivalis Nights",
@@ -2761,7 +2761,7 @@
    "Inventory Management",
    "Time Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3812600": {
   "name": "ReStory: Chill Electronics Repairs",
@@ -2789,7 +2789,7 @@
    "3D",
    "Multiple Endings"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3740090": {
   "name": "Bruisers 2D Boxing",
@@ -2873,7 +2873,7 @@
    "First-Person",
    "Early Access"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4380490": {
   "name": "Cat Mail Co.",
@@ -2901,7 +2901,7 @@
    "Singleplayer",
    "First-Person"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1783560": {
   "name": "The Last Caretaker",
@@ -2917,8 +2917,8 @@
    "Survival",
    "Crafting",
    "Base Building",
-   "Automation",
    "Open World",
+   "Automation",
    "Sandbox",
    "Singleplayer",
    "First-Person",
@@ -2929,7 +2929,7 @@
    "Simulation",
    "Post-apocalyptic"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4594150": {
   "name": "Sir, We Have an Orc Problem",
@@ -2957,7 +2957,7 @@
    "Simulation",
    "Dark Fantasy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2948190": {
   "name": "World of Sea Battle",
@@ -3003,17 +3003,17 @@
    "Shop Keeper",
    "Resource Management",
    "Singleplayer",
-   "Economy",
    "Job Simulator",
+   "Economy",
    "Robots",
    "Building",
    "First-Person",
    "Immersive Sim",
    "Life Sim",
    "Futuristic",
-   "Adventure"
+   "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "637090": {
   "name": "BATTLETECH",
@@ -3067,9 +3067,9 @@
    "Resource Management",
    "3D",
    "Sandbox",
-   "Realistic"
+   "Inventory Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "613100": {
   "name": "House Flipper",
@@ -3125,7 +3125,7 @@
    "Crafting",
    "Comedy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1868140": {
   "name": "DAVE THE DIVER",
@@ -3147,23 +3147,23 @@
   "fetched": "2026-10-27",
   "first_review": "2026-10-23",
   "steam_tags": [
-   "Indie",
    "Automation",
-   "Base Building",
+   "Indie",
+   "Incremental",
    "Co-op",
+   "Artificial Intelligence",
    "Job Simulator",
-   "Open World",
+   "Base Building",
    "Simulation",
    "Space",
-   "Exploration",
-   "Incremental",
-   "Driving",
-   "Physics",
-   "Space Sim",
+   "Open World",
    "Relaxing",
-   "Cleaning"
+   "Cleaning",
+   "Exploration",
+   "Multiplayer",
+   "Driving"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "730": {
   "name": "Counter-Strike 2",
@@ -3263,7 +3263,7 @@
    "Simulation",
    "Horror"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1086940": {
   "name": "Baldur's Gate 3",
@@ -3498,7 +3498,7 @@
    "First-Person",
    "Simulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3219630": {
   "name": "Halloween: The Game",
@@ -3567,11 +3567,11 @@
    "Adventure",
    "Base Building",
    "Sandbox",
-   "Automation",
    "Building",
+   "Automation",
    "Third-Person Shooter"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4732690": {
   "name": "Arknights: Endfield",
@@ -3584,8 +3584,8 @@
   "first_review": "2026-10-14",
   "steam_tags": [
    "Anime",
-   "Automation",
    "Base Building",
+   "Automation",
    "Action",
    "Adventure",
    "RPG",
@@ -3593,13 +3593,13 @@
    "Free to Play",
    "Building",
    "Exploration",
-   "Combat",
    "Story Rich",
+   "Combat",
    "Tower Defense",
    "Action RPG",
    "Third Person"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1284190": {
   "name": "The Planet Crafter",
@@ -3617,8 +3617,8 @@
    "Online Co-Op",
    "Co-op",
    "Building",
-   "Crafting",
    "Space",
+   "Crafting",
    "Open World",
    "Exploration",
    "Automation",
@@ -3627,7 +3627,7 @@
    "First-Person",
    "Sci-fi"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "5258340": {
   "name": "One Million Coins",
@@ -3642,20 +3642,20 @@
    "Casual",
    "Incremental",
    "Exploration",
-   "Action Roguelike",
    "3D",
+   "Action Roguelike",
    "First-Person",
    "Cartoony",
-   "Stylized",
-   "Singleplayer",
    "Automation",
-   "Building",
+   "Singleplayer",
    "Indie",
+   "Stylized",
+   "Building",
    "Resource Management",
    "Capybaras",
    "Cozy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4358690": {
   "name": "Graveyard Keeper 2",
@@ -3670,10 +3670,10 @@
    "Sandbox",
    "Building",
    "Medieval",
-   "Capitalism",
    "Crafting",
-   "Automation",
+   "Capitalism",
    "Pixel Graphics",
+   "Automation",
    "Agriculture",
    "Casual",
    "2.5D",
@@ -3681,9 +3681,9 @@
    "Simulation",
    "Dark Comedy",
    "Zombies",
-   "Post-apocalyptic"
+   "Adventure"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4369130": {
   "name": "Chop Chop Inc.",
@@ -3711,7 +3711,7 @@
    "Immersive Sim",
    "Stylized"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2060160": {
   "name": "The Farmer Was Replaced",
@@ -3739,7 +3739,7 @@
    "Sandbox",
    "Strategy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2162800": {
   "name": "shapez 2 - Factory",
@@ -3767,7 +3767,7 @@
    "Casual",
    "Sci-fi"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4364930": {
   "name": "Birb",
@@ -3811,8 +3811,8 @@
    "Medieval",
    "Building",
    "Sandbox",
-   "Strategy",
    "Multiplayer",
+   "Strategy",
    "Casual",
    "Singleplayer",
    "Crafting",
@@ -3823,7 +3823,7 @@
    "Resource Management",
    "Co-op"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4557380": {
   "name": "Batomon Showdown",
@@ -3851,7 +3851,7 @@
    "Casual",
    "Anime"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1169040": {
   "name": "Necesse",
@@ -3922,8 +3922,8 @@
    "Simulation",
    "Management",
    "Building",
-   "Sandbox",
    "Automobile Sim",
+   "Sandbox",
    "Realistic",
    "Crafting",
    "Strategy",
@@ -3931,11 +3931,11 @@
    "Moddable",
    "Education",
    "Racing",
-   "Indie",
    "Automation",
+   "Indie",
    "Economy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1805110": {
   "name": "Solarpunk™",
@@ -3963,7 +3963,7 @@
    "Simulation",
    "Automation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "573090": {
   "name": "Stormworks: Build and Rescue",
@@ -3991,7 +3991,7 @@
    "Trains",
    "Survival"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4364730": {
   "name": "IGTAP: an Incremental Game That's Also a Platformer",
@@ -4014,12 +4014,12 @@
    "Platformer",
    "2D",
    "Controller",
-   "Adventure",
    "Simulation",
+   "Adventure",
    "Singleplayer",
    "Resource Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "5085740": {
   "name": "Needle In A Haystack",
@@ -4036,8 +4036,8 @@
    "Simulation",
    "Funny",
    "Casual",
-   "Physics",
    "Incremental",
+   "Physics",
    "Automation",
    "Comedy",
    "Stylized",
@@ -4047,7 +4047,7 @@
    "Co-op",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4731620": {
   "name": "Fortune Mill",
@@ -4066,8 +4066,8 @@
    "Economy",
    "Simulation",
    "Resource Management",
-   "Casual",
    "Gambling",
+   "Casual",
    "Loot",
    "Relaxing",
    "Indie",
@@ -4075,7 +4075,7 @@
    "2D",
    "Sandbox"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4614210": {
   "name": "Crack the Pack",
@@ -4125,13 +4125,13 @@
    "Management",
    "Exploration",
    "Economy",
-   "Immersive Sim",
    "Base Building",
    "First-Person",
-   "Atmospheric",
-   "Crafting"
+   "Immersive Sim",
+   "Crafting",
+   "Atmospheric"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2104890": {
   "name": "RoadCraft",
@@ -4159,7 +4159,7 @@
    "Transportation",
    "Immersive Sim"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "361420": {
   "name": "ASTRONEER",
@@ -4187,7 +4187,7 @@
    "Sci-fi",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2488370": {
   "name": "Cash Cleaner Simulator",
@@ -4236,14 +4236,14 @@
    "3D",
    "Dark Comedy",
    "Casual",
-   "Satire",
    "Simulation",
+   "Satire",
    "Pixel Graphics",
    "Stylized",
    "Singleplayer",
    "Action"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1677110": {
   "name": "Lightyear Frontier",
@@ -4255,23 +4255,23 @@
   "fetched": "2026-10-27",
   "first_review": "2024-03-19",
   "steam_tags": [
-   "Early Access",
    "Farming Sim",
    "Open World Survival Craft",
-   "Base Building",
    "Automation",
+   "Base Building",
    "Crafting",
    "Building",
    "Online Co-Op",
    "Relaxing",
-   "Open World",
    "Mechs",
+   "Open World",
    "Mining",
    "Co-op",
    "Resource Management",
-   "Singleplayer"
+   "Singleplayer",
+   "Sandbox"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2938460": {
   "name": "Police Chief Simulator",
@@ -4299,7 +4299,7 @@
    "Casual",
    "Relaxing"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2195120": {
   "name": "Go-Go Town!",
@@ -4457,8 +4457,8 @@
    "Capitalism",
    "Economy",
    "Management",
-   "Space",
    "Tutorial",
+   "Space",
    "Character Customization",
    "Strategy",
    "2D",
@@ -4467,7 +4467,7 @@
    "Relaxing",
    "Action"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4338180": {
   "name": "Dearbnb",
@@ -4551,7 +4551,7 @@
    "Sandbox",
    "Character Customization"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1151340": {
   "name": "Fallout 76",
@@ -4579,7 +4579,7 @@
    "Exploration",
    "FPS"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1867240": {
   "name": "WARDOGS",
@@ -4598,16 +4598,16 @@
    "Action",
    "Tactical",
    "PvP",
-   "Realistic",
    "Shooter",
+   "Realistic",
    "Combat",
    "Wargame",
    "Simulation",
-   "Massively Multiplayer",
    "Team-Based",
+   "Massively Multiplayer",
    "Modern"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2139460": {
   "name": "Once Human",
@@ -4620,22 +4620,22 @@
   "first_review": "2024-07-09",
   "steam_tags": [
    "Open World",
-   "Free to Play",
    "Multiplayer",
+   "Free to Play",
    "Survival",
-   "Action",
    "Co-op",
+   "Action",
    "Open World Survival Craft",
-   "Exploration",
    "Building",
-   "Crafting",
+   "Exploration",
    "Base Building",
+   "Crafting",
    "Adventure",
    "Shooter",
    "First-Person",
    "Sandbox"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1737870": {
   "name": "REKA",
@@ -4651,19 +4651,19 @@
    "Character Customization",
    "Indie",
    "Singleplayer",
-   "Exploration",
    "Magic",
+   "Exploration",
    "Crafting",
    "Atmospheric",
    "Dark Fantasy",
-   "Adventure",
    "Cozy",
+   "Adventure",
    "Sandbox",
    "Open World",
    "Casual",
    "Story Rich"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1374490": {
   "name": "RuneScape: Dragonwilds",
@@ -4691,7 +4691,7 @@
    "Action",
    "Fantasy"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1326470": {
   "name": "Sons Of The Forest",
@@ -4719,7 +4719,7 @@
    "Atmospheric",
    "Sandbox"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2399830": {
   "name": "ARK: Survival Ascended",
@@ -4747,7 +4747,7 @@
    "PvP",
    "Massively Multiplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1604030": {
   "name": "V Rising",
@@ -4803,7 +4803,7 @@
    "Sandbox",
    "PvE"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "264710": {
   "name": "Subnautica",
@@ -4859,7 +4859,7 @@
    "Sci-fi",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2661300": {
   "name": "Grounded 2",
@@ -4887,7 +4887,7 @@
    "RPG",
    "First-Person"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1766060": {
   "name": "HumanitZ",
@@ -4971,7 +4971,7 @@
    "Sci-fi",
    "Building"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "427410": {
   "name": "Abiotic Factor",
@@ -4999,7 +4999,7 @@
    "Early Access",
    "Building"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1149460": {
   "name": "ICARUS",
@@ -5083,7 +5083,7 @@
    "Online Co-Op",
    "Organizing"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "648800": {
   "name": "Raft",
@@ -5111,7 +5111,7 @@
    "Underwater",
    "Simulation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2254990": {
   "name": "Permafrost",
@@ -5223,7 +5223,7 @@
    "Survival Horror",
    "Action"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3041230": {
   "name": "Windrose",
@@ -5251,7 +5251,7 @@
    "Massively Multiplayer",
    "Adventure"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "962130": {
   "name": "Grounded",
@@ -5363,7 +5363,7 @@
    "Third Person",
    "Artificial Intelligence"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4450620": {
   "name": "GRAIN ROT",
@@ -5419,7 +5419,7 @@
    "Casual",
    "Old School"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1331550": {
   "name": "Big Ambitions",
@@ -5447,7 +5447,7 @@
    "Third Person",
    "Open World"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3355800": {
   "name": "Bank Simulator",
@@ -5503,7 +5503,7 @@
    "Economy",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3819640": {
   "name": "Megastore Simulator",
@@ -5531,7 +5531,7 @@
    "Casual",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3602570": {
   "name": "Horsey Game",
@@ -5559,7 +5559,7 @@
    "Science",
    "Transhumanism"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1210320": {
   "name": "Potion Craft: Alchemist Simulator",
@@ -5587,7 +5587,7 @@
    "Hand-drawn",
    "Trading"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3361510": {
   "name": "Coal LLC",
@@ -5615,7 +5615,7 @@
    "Simulation",
    "Procedural Generation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2350790": {
   "name": "Moonlighter 2: The Endless Vault",
@@ -5643,7 +5643,7 @@
    "Adventure",
    "Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "600480": {
   "name": "Megaquarium",
@@ -5699,7 +5699,7 @@
    "Colorful",
    "2D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1442430": {
   "name": "Storage Hunter Simulator",
@@ -5721,13 +5721,13 @@
    "Management",
    "Trading",
    "3D",
-   "First-Person",
    "Relaxing",
+   "First-Person",
    "Casual",
    "Simulation",
    "Multiplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4173620": {
   "name": "I Know a Guy: Shady Life Simulator",
@@ -5755,7 +5755,7 @@
    "Comedy",
    "Trading"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2977260": {
   "name": "The Guild 1 Remake: Europa 1410",
@@ -5773,17 +5773,17 @@
    "Strategy RPG",
    "Immersive Sim",
    "Political Sim",
-   "3D",
    "Time Management",
    "Economy",
+   "3D",
    "Top-Down",
+   "Medieval",
    "Colorful",
    "Building",
    "Realistic",
-   "Medieval",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4304930": {
   "name": "Chef Knight",
@@ -5811,7 +5811,7 @@
    "Arcade",
    "Cute"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3547270": {
   "name": "Worming from Home",
@@ -5839,7 +5839,7 @@
    "Capitalism",
    "Exploration"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3398110": {
   "name": "The Walking Trade",
@@ -5867,7 +5867,7 @@
    "Shooter",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2709570": {
   "name": "Supermarket Together",
@@ -5895,7 +5895,7 @@
    "Sandbox",
    "Resource Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4626940": {
   "name": "Scratch the Ticket",
@@ -5950,7 +5950,7 @@
    "Building",
    "Transportation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "453090": {
   "name": "Parkitect",
@@ -5978,7 +5978,7 @@
    "Isometric",
    "City Builder"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4356780": {
   "name": "Screen Stocks",
@@ -6118,7 +6118,7 @@
    "Shop Keeper",
    "Automation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1602000": {
   "name": "Hotel Architect",
@@ -6146,7 +6146,7 @@
    "Family Friendly",
    "Funny"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3726250": {
   "name": "My Little Cafe Nightmare",
@@ -6418,7 +6418,7 @@
    "Survival",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1509510": {
   "name": "Settlement Survival",
@@ -6614,7 +6614,7 @@
    "First-Person",
    "Colorful"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3180150": {
   "name": "Mall Simulator",
@@ -6698,7 +6698,7 @@
    "Gore",
    "Great Soundtrack"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1659040": {
   "name": "HITMAN World of Assassination",
@@ -6722,11 +6722,11 @@
    "Shooter",
    "Third-Person Shooter",
    "Open World",
-   "Realistic",
    "Puzzle",
+   "Realistic",
    "Adventure"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2399420": {
   "name": "Le Mans Ultimate",
@@ -6754,7 +6754,7 @@
    "Controller",
    "Online Co-Op"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "1041320": {
   "name": "Lords Mobile: Kingdom Wars",
@@ -6782,7 +6782,7 @@
    "Capitalism",
    "Story Rich"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2400510": {
   "name": "Dungeons & Degenerate Gamblers",
@@ -6838,7 +6838,7 @@
    "Adventure",
    "Family Friendly"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "3946950": {
   "name": "Click the Button",
@@ -6866,7 +6866,7 @@
    "Singleplayer",
    "2D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "4218620": {
   "name": "Double Dealers",
@@ -6922,7 +6922,7 @@
    "Third Person",
    "Assassins"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "481510": {
   "name": "Night in the Woods",
@@ -6964,8 +6964,8 @@
   "steam_tags": [
    "RPG",
    "Singleplayer",
-   "Action RPG",
    "Open World",
+   "Action RPG",
    "Exploration",
    "First-Person",
    "Sci-fi",
@@ -6978,7 +6978,7 @@
    "Third Person",
    "Capitalism"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-11"
  },
  "2259310": {
   "name": "ORDER 13",
@@ -12891,5 +12891,339 @@
    "Cartoony"
   ],
   "tags_fetched": "2026-11-10"
+ },
+ "4966730": {
+  "name": "Powder Park: Ski Resort Builder",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966730/40b4fd83e21175c10c16cf5b55819a8b0adddb52/header_alt_assets_1.jpg?t=1794333744",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "City Builder",
+   "Cozy",
+   "Skiing",
+   "Snowboarding",
+   "Online Co-Op",
+   "Sports",
+   "Third Person",
+   "Multiplayer",
+   "Snow",
+   "Sandbox",
+   "Exploration",
+   "Simulation",
+   "Casual",
+   "Management",
+   "Building"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "5007720": {
+  "name": "Golf Course Architect Tycoon",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007720/cf8b0764b59d5ecf23ec9bb94a48413ada890255/header.jpg?t=1794334933",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "City Builder",
+   "Sandbox",
+   "Sports",
+   "Building",
+   "Economy",
+   "Golf",
+   "Management",
+   "Physics",
+   "Strategy",
+   "3D",
+   "Cute",
+   "Cozy",
+   "Relaxing",
+   "Simulation",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "4179990": {
+  "name": "Agromatic",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179990/6ffc27a2ff04b5b80ae020dc8bfc8b31d0761a31/header.jpg?t=1794353628",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Simulation",
+   "Strategy",
+   "Colony Sim",
+   "Automation",
+   "Management",
+   "Resource Management",
+   "Sandbox",
+   "Farming Sim",
+   "Capitalism",
+   "Base Building",
+   "Relaxing",
+   "Economy",
+   "Mining",
+   "Trains",
+   "Building"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "227300": {
+  "name": "Euro Truck Simulator 2",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+  "release_date": "2012-10-12",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2013-01-16",
+  "steam_tags": [
+   "Driving",
+   "Transportation",
+   "Simulation",
+   "Open World",
+   "Automobile Sim",
+   "Realistic",
+   "Moddable",
+   "Relaxing",
+   "Exploration",
+   "Economy",
+   "Management",
+   "Immersive Sim",
+   "Atmospheric",
+   "Multiplayer",
+   "Controller"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "4335460": {
+  "name": "BOXROOM",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335460/b4cfbc01262941a8d333104565e0aba8cec55b8f/header_alt_assets_0.jpg?t=1794387535",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-06-11",
+  "steam_tags": [
+   "Simulation",
+   "Software",
+   "Life Sim",
+   "Building",
+   "Decorating",
+   "Moddable",
+   "Sandbox",
+   "First-Person",
+   "Design & Illustration",
+   "3D",
+   "Organizing",
+   "Realistic",
+   "Indie",
+   "Relaxing",
+   "Level Editor"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "4210250": {
+  "name": "Logic Arrows",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210250/8b0210f53d7d22c670a824c8a469a04c53e92cce/header.jpg?t=1794330704",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "Programming",
+   "Logic",
+   "Sandbox",
+   "Simulation",
+   "Automation",
+   "Education",
+   "Building",
+   "Puzzle",
+   "2D",
+   "Science",
+   "Abstract",
+   "Cute",
+   "Minimalist",
+   "Singleplayer",
+   "Stylized"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "2836460": {
+  "name": "Cozy Marbles",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836460/c68ac5e8a9ab9b2a9fd447f6cfa9e53e6a9e1453/header_alt_assets_21.jpg?t=1794319439",
+  "release_date": "2026-08-20",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-08-20",
+  "steam_tags": [
+   "Sandbox",
+   "Building",
+   "Decorating",
+   "Organizing",
+   "Design & Illustration",
+   "Automation",
+   "Racing",
+   "Relaxing",
+   "Cozy",
+   "Cute",
+   "Nostalgia",
+   "Hobby Sim",
+   "Pinball",
+   "Casual",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "5047230": {
+  "name": "Combustor",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047230/96adb7331db97a047ae8ae3f4908d44b77526cc4/header.jpg?t=1794311809",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "Simulation",
+   "Sandbox",
+   "Education",
+   "Logic",
+   "Science",
+   "Puzzle",
+   "Immersive Sim",
+   "2D",
+   "Pixel Graphics",
+   "Building",
+   "Crafting",
+   "Singleplayer",
+   "Automation"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "3499790": {
+  "name": "Ashes of the Singularity II",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499790/0c833c880e8edbf2f798c92f065ec991cd962a65/header.jpg?t=1794334597",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "RTS",
+   "Strategy",
+   "Co-op",
+   "Action RTS",
+   "Real Time Tactics",
+   "3D",
+   "Base Building",
+   "Action",
+   "Mechs",
+   "Robots",
+   "Fantasy",
+   "Sci-fi",
+   "Singleplayer",
+   "PvP",
+   "Military"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "2826790": {
+  "name": "Stormforge",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2826790/2d982b9c761104ded975b458b1f8b5197f153e03/header.jpg?t=1794338770",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Crafting",
+   "Co-op",
+   "Base Building",
+   "Open World",
+   "Multiplayer",
+   "Adventure",
+   "Building",
+   "Online Co-Op",
+   "Exploration",
+   "Fantasy",
+   "Early Access",
+   "Third Person",
+   "Procedural Generation"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "4984400": {
+  "name": "Towers of Babble",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984400/9f2019f0d1bd42e9e5a17e93b3a5ec119f874f87/header.jpg?t=1794347976",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "Tower Defense",
+   "Word Game",
+   "Strategy",
+   "Isometric",
+   "Stylized",
+   "Base Building",
+   "Tactical",
+   "Top-Down",
+   "Relaxing",
+   "Combat",
+   "Spelling",
+   "Casual",
+   "Family Friendly",
+   "Procedural Generation",
+   "PvE"
+  ],
+  "tags_fetched": "2026-11-11"
+ },
+ "4610360": {
+  "name": "Billion Egg Farm",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610360/208611458bf14321575d0477a4edbd9f0af003b1/header.jpg?t=1790262025",
+  "release_date": "2026-09-24",
+  "coming_soon": false,
+  "fetched": "2026-11-11",
+  "first_review": "2026-09-24",
+  "steam_tags": [
+   "Automation",
+   "Physics",
+   "Building",
+   "Sandbox",
+   "Survival",
+   "Incremental",
+   "Economy",
+   "Simulation",
+   "Management",
+   "Capitalism",
+   "Base Building",
+   "Farming Sim",
+   "3D",
+   "First-Person",
+   "Funny"
+  ],
+  "tags_fetched": "2026-11-11"
  }
 }
