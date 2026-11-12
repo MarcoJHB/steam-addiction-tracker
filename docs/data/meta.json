@@ -980,14 +980,14 @@
    "Management",
    "Building",
    "City Builder",
-   "Early Access",
    "Colony Sim",
+   "Early Access",
    "Singleplayer",
    "Mining",
    "Indie",
    "Transportation"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "2934220": {
   "name": "Monsters are Coming!",
@@ -1399,15 +1399,15 @@
    "PvE",
    "PvP",
    "Hunting",
-   "Sandbox",
    "Singleplayer",
+   "Sandbox",
    "Adventure",
    "Action-Adventure",
    "Automation",
    "Co-op",
    "Exploration"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "1313140": {
   "name": "Cult of the Lamb",
@@ -1967,7 +1967,7 @@
    "Funny",
    "Colorful"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "701160": {
   "name": "Kingdom Two Crowns",
@@ -2145,7 +2145,7 @@
    "2D",
    "Historical"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "1368140": {
   "name": "Corsair Cove",
@@ -5027,7 +5027,7 @@
    "Realistic",
    "Sandbox"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "2679100": {
   "name": "Witchspire",
@@ -5307,7 +5307,7 @@
    "Building",
    "Choose Your Own Adventure"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "2295060": {
   "name": "Beyond These Stars",
@@ -6034,7 +6034,7 @@
    "Capitalism",
    "Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-12"
  },
  "4381180": {
   "name": "Coin Harvest",
@@ -7090,7 +7090,7 @@
    "Co-op",
    "Real Time Tactics"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "4911050": {
   "name": "The Horde of Gorak",
@@ -7202,7 +7202,7 @@
    "Sci-fi",
    "Mining"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "1465470": {
   "name": "The Crust",
@@ -7230,7 +7230,7 @@
    "Survival",
    "Post-apocalyptic"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "1324130": {
   "name": "Stranded: Alien Dawn",
@@ -7272,9 +7272,9 @@
   "steam_tags": [
    "Early Access",
    "Driving",
+   "Survival",
    "Multiplayer",
    "Automobile Sim",
-   "Survival",
    "Realistic",
    "Simulation",
    "Exploration",
@@ -7282,11 +7282,11 @@
    "Procedural Generation",
    "Crafting",
    "Adventure",
-   "Choose Your Own Adventure",
    "Sandbox",
+   "Choose Your Own Adventure",
    "Base Building"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "4984870": {
   "name": "Selkie's Salvage&Co.",
@@ -7306,15 +7306,15 @@
    "Singleplayer",
    "Casual",
    "Management",
-   "Post-apocalyptic",
    "First-Person",
+   "Post-apocalyptic",
    "Open World",
    "Robots",
    "Collectathon",
    "Cartoony",
    "Cute"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "3337380": {
   "name": "Tabletop Tavern",
@@ -7422,11 +7422,11 @@
    "Sci-fi",
    "Early Access",
    "Aliens",
-   "Automation",
    "Tutorial",
+   "Automation",
    "Futuristic"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "4583230": {
   "name": "Harvest Dice Profit",
@@ -7650,7 +7650,7 @@
    "2D",
    "Minimalist"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-12"
  },
  "2276930": {
   "name": "Chillquarium",
@@ -13225,5 +13225,313 @@
    "Funny"
   ],
   "tags_fetched": "2026-11-11"
+ },
+ "4218360": {
+  "name": "Wall World Strategy",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218360/affb6b94d152a5a52e6c5a75bb246be70e07ae3a/header.jpg?t=1794427468",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Colony Sim",
+   "Base Building",
+   "Strategy",
+   "Survival",
+   "Tower Defense",
+   "Resource Management",
+   "Building",
+   "Management",
+   "City Builder",
+   "Simulation",
+   "Economy",
+   "Futuristic",
+   "Mining",
+   "Sci-fi",
+   "Sandbox"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "2239150": {
+  "name": "Thronefall",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/15ebb7aa046d4ab87f184706a71caf5f09c161ca/header_alt_assets_4.jpg?t=1794409903",
+  "release_date": "2024-10-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2023-08-02",
+  "steam_tags": [
+   "Tower Defense",
+   "Strategy",
+   "City Builder",
+   "Minimalist",
+   "Medieval",
+   "Action",
+   "Action RTS",
+   "Base Building",
+   "Building",
+   "3D",
+   "Isometric",
+   "Colorful",
+   "Stylized",
+   "Fantasy",
+   "Auto Battler"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "4683860": {
+  "name": "Calmaria: Wild Growth",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683860/904ba7504fc07d6676ae131079d4a90c7e2e820f/header.jpg?t=1794339055",
+  "release_date": "2026-11-10",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-10",
+  "steam_tags": [
+   "Base Building",
+   "Automation",
+   "Survival",
+   "Exploration",
+   "Crafting",
+   "Resource Management",
+   "City Builder",
+   "Agriculture",
+   "Sandbox",
+   "Online Co-Op",
+   "Dungeon Crawler",
+   "Procedural Generation",
+   "Open World",
+   "Stylized",
+   "Isometric"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "5102300": {
+  "name": "STARLINERS",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102300/488a6c32be5a9f288f83c83c2f913ab33c533dd0/header.jpg?t=1794422933",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Incremental",
+   "Idler",
+   "Colony Sim",
+   "Automation",
+   "Building",
+   "Economy",
+   "Management",
+   "Science",
+   "Space",
+   "Crafting",
+   "Strategy",
+   "3D",
+   "Linear",
+   "Simulation",
+   "Realistic"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "3446240": {
+  "name": "Eastern Era",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446240/3645bb8d5579533291dc0b855fc68cca87ba7adb/header.jpg?t=1790214379",
+  "release_date": "2026-03-27",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-03-28",
+  "steam_tags": [
+   "Wuxia",
+   "Base Building",
+   "Simulation",
+   "Management",
+   "Colony Sim",
+   "Martial Arts",
+   "Sandbox",
+   "Open World",
+   "Survival",
+   "City Builder",
+   "Character Customization",
+   "Adventure",
+   "4X",
+   "Building",
+   "Strategy"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "3051470": {
+  "name": "Kaya's Prophecy",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051470/8efbc5e1278bee36070e5a61ae8cd69ff6ddbea6/header.jpg?t=1794213142",
+  "release_date": "2025-04-10",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2025-04-10",
+  "steam_tags": [
+   "Strategy",
+   "City Builder",
+   "Tactical",
+   "Colony Sim",
+   "Card Game",
+   "Turn-Based Combat",
+   "Management",
+   "Roguelike",
+   "Roguelite",
+   "Exploration",
+   "Stylized",
+   "Resource Management",
+   "Cute",
+   "Building",
+   "Crafting"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "1652580": {
+  "name": "Imperial Grace",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652580/8bc8e0adfbd5dff7a3e1b0b7568765ec26ba8a7c/header.jpg?t=1794422224",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Otome",
+   "Choices Matter",
+   "LGBTQ+",
+   "Visual Novel",
+   "Strategy",
+   "Romance",
+   "Story Rich",
+   "Female Protagonist",
+   "Character Customization",
+   "Management",
+   "Multiple Endings",
+   "Choose Your Own Adventure",
+   "Interactive Fiction",
+   "Resource Management",
+   "Medieval"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "4521650": {
+  "name": "Farm & Feast",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521650/356c421629853f15b63e8abc80b05940d365982d/header_alt_assets_0.jpg?t=1794486648",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Early Access",
+   "Management",
+   "Farming Sim",
+   "Simulation",
+   "Cozy",
+   "Shop Keeper",
+   "Time Management",
+   "Fishing",
+   "Wholesome",
+   "Relaxing",
+   "Cooking",
+   "Indie",
+   "Resource Management",
+   "Decorating",
+   "Female Protagonist"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "4908110": {
+  "name": "Gas N Cars",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908110/12e1528696b990d9f241f1678b20e698044098c0/header.jpg?t=1794394860",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Simulation",
+   "Physics",
+   "Funny",
+   "Sandbox",
+   "Automobile Sim",
+   "First-Person",
+   "Casual",
+   "Economy",
+   "Management",
+   "3D",
+   "Relaxing",
+   "Controller",
+   "Colorful",
+   "Stylized",
+   "Comedy"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "4574820": {
+  "name": "Rejected Draft",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574820/cc995e3d9f7822223dec45a53bd5f4f6342caabb/header.jpg?t=1794405560",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "RPG",
+   "Incremental",
+   "Idler",
+   "Roguelite",
+   "Resource Management",
+   "Automation",
+   "Nonlinear",
+   "Hand-drawn",
+   "Simulation",
+   "Auto Battler",
+   "Strategy",
+   "Minimalist",
+   "Singleplayer",
+   "Loot",
+   "PvE"
+  ],
+  "tags_fetched": "2026-11-12"
+ },
+ "1532270": {
+  "name": "The Maker Way",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532270/c9a3c11135c40d21dfe63709bf0ab1946b0e8a1d/header.jpg?t=1794420017",
+  "release_date": "2026-11-11",
+  "coming_soon": false,
+  "fetched": "2026-11-12",
+  "first_review": "2026-11-11",
+  "steam_tags": [
+   "Early Access",
+   "Simulation",
+   "Sandbox",
+   "Physics",
+   "Building",
+   "Open World",
+   "First-Person",
+   "Robots",
+   "Sci-fi",
+   "Crafting",
+   "Vehicular Combat",
+   "Base Building",
+   "Driving",
+   "Hacking",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-11-12"
  }
 }
