@@ -3907,7 +3907,7 @@
    "RPG",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-15"
  },
  "293760": {
   "name": "Automation - The Car Company Tycoon Game",
@@ -5475,7 +5475,7 @@
    "Relaxing",
    "Time Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-15"
  },
  "4159680": {
   "name": "Barfender: CO-OP Bar Simulator",
@@ -7062,7 +7062,7 @@
    "Funny",
    "Relaxing"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-15"
  },
  "702320": {
   "name": "March of Empires",
@@ -8946,7 +8946,7 @@
    "Funny",
    "Hand-drawn"
   ],
-  "tags_fetched": "2026-10-31"
+  "tags_fetched": "2026-11-15"
  },
  "5304530": {
   "name": "AUTOMATE DEATH",
@@ -14560,5 +14560,145 @@
    "Cute"
   ],
   "tags_fetched": "2026-11-14"
+ },
+ "1525700": {
+  "name": "Tavern Master",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/header.jpg?t=1760183607",
+  "release_date": "2021-11-16",
+  "coming_soon": false,
+  "fetched": "2026-11-15",
+  "first_review": "2021-11-16",
+  "steam_tags": [
+   "Management",
+   "Simulation",
+   "Building",
+   "Medieval",
+   "Resource Management",
+   "Strategy",
+   "Indie",
+   "Relaxing",
+   "City Builder",
+   "Singleplayer",
+   "Top-Down",
+   "Time Management",
+   "Crafting",
+   "Atmospheric",
+   "Stylized"
+  ],
+  "tags_fetched": "2026-11-15"
+ },
+ "230190": {
+  "name": "War for the Overworld",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/header.jpg?t=1779960485",
+  "release_date": "2015-04-02",
+  "coming_soon": false,
+  "fetched": "2026-11-15",
+  "first_review": "2013-05-16",
+  "steam_tags": [
+   "Cult",
+   "Dungeon Crawler",
+   "Base Building",
+   "Sandbox",
+   "Management",
+   "Dark Comedy",
+   "Old School",
+   "Simulation",
+   "God Game",
+   "Strategy",
+   "RTS",
+   "Loot",
+   "City Builder",
+   "Villain Protagonist",
+   "Fantasy"
+  ],
+  "tags_fetched": "2026-11-15"
+ },
+ "2305640": {
+  "name": "Bladesong",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305640/1c8850df406ce9486baf41d7eda57896fa56561a/header.jpg?t=1793955468",
+  "release_date": "2026-01-22",
+  "coming_soon": false,
+  "fetched": "2026-11-15",
+  "first_review": "2026-01-22",
+  "steam_tags": [
+   "Early Access",
+   "Shop Keeper",
+   "Crafting",
+   "Medieval",
+   "RPG",
+   "Story Rich",
+   "Design & Illustration",
+   "3D",
+   "Atmospheric",
+   "Management",
+   "Decorating",
+   "Espionage",
+   "Samurai",
+   "Job Simulator",
+   "Adventure"
+  ],
+  "tags_fetched": "2026-11-15"
+ },
+ "469600": {
+  "name": "Legion TD 2 - Multiplayer Tower Defense",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469600/c479d6518d32066b33ed4d7451bc6fa569b35904/header.jpg?t=1786564865",
+  "release_date": "2021-10-01",
+  "coming_soon": false,
+  "fetched": "2026-11-15",
+  "first_review": "2017-11-20",
+  "steam_tags": [
+   "Tower Defense",
+   "Multiplayer",
+   "Auto Battler",
+   "Strategy",
+   "PvP",
+   "Replay Value",
+   "Competitive",
+   "Online Co-Op",
+   "Co-op",
+   "PvE",
+   "Base Building",
+   "Resource Management",
+   "Fantasy",
+   "Sci-fi",
+   "Magic"
+  ],
+  "tags_fetched": "2026-11-15"
+ },
+ "494730": {
+  "name": "Galacticare",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494730/header.jpg?t=1756368478",
+  "release_date": "2024-05-23",
+  "coming_soon": false,
+  "fetched": "2026-11-15",
+  "first_review": "2024-05-23",
+  "steam_tags": [
+   "Story Rich",
+   "Casual",
+   "Medical Sim",
+   "Outbreak Sim",
+   "Time Management",
+   "Decorating",
+   "Building",
+   "Cleaning",
+   "Organizing",
+   "Capitalism",
+   "Economy",
+   "Management",
+   "Base Building",
+   "Strategy",
+   "Choices Matter"
+  ],
+  "tags_fetched": "2026-11-15"
  }
 }
