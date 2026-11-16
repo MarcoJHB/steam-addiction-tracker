@@ -822,8 +822,8 @@
   "first_review": "2023-08-10",
   "steam_tags": [
    "City Builder",
-   "Open World",
    "Survival",
+   "Open World",
    "Base Building",
    "Medieval",
    "Life Sim",
@@ -837,7 +837,7 @@
    "Online Co-Op",
    "First-Person"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-16"
  },
  "3274580": {
   "name": "Anno 117: Pax Romana",
@@ -2593,7 +2593,7 @@
    "Moddable",
    "Nonlinear"
   ],
-  "tags_fetched": "2026-10-30"
+  "tags_fetched": "2026-11-16"
  },
  "529340": {
   "name": "Victoria 3",
@@ -5279,7 +5279,7 @@
    "Singleplayer",
    "First-Person"
   ],
-  "tags_fetched": "2026-11-01"
+  "tags_fetched": "2026-11-16"
  },
  "916440": {
   "name": "Anno 1800",
@@ -5668,10 +5668,10 @@
    "Indie",
    "Moddable",
    "Economy",
-   "Family Friendly",
-   "Fishing"
+   "Fishing",
+   "Family Friendly"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-16"
  },
  "2749950": {
   "name": "Esports Manager 2026",
@@ -6524,13 +6524,13 @@
    "Sci-fi",
    "Management",
    "Sandbox",
-   "Strategy",
    "City Builder",
+   "Strategy",
    "Singleplayer",
    "Space Sim",
    "3D"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-16"
  },
  "2237970": {
   "name": "Outpath",
@@ -6941,8 +6941,8 @@
    "Stylized",
    "Exploration",
    "Choices Matter",
-   "Singleplayer",
    "Narrative",
+   "Singleplayer",
    "2D",
    "Psychological Horror",
    "Cats",
@@ -6950,7 +6950,7 @@
    "Mystery",
    "Platformer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-16"
  },
  "1449110": {
   "name": "The Outer Worlds 2",
@@ -8862,7 +8862,7 @@
    "Sandbox",
    "Sci-fi"
   ],
-  "tags_fetched": "2026-10-31"
+  "tags_fetched": "2026-11-16"
  },
  "979110": {
   "name": "Space Haven",
@@ -8912,13 +8912,13 @@
    "Immersive Sim",
    "Inventory Management",
    "Economy",
-   "Building",
    "3D",
+   "Building",
    "First-Person",
-   "Trading",
-   "Retro"
+   "Retro",
+   "Trading"
   ],
-  "tags_fetched": "2026-10-31"
+  "tags_fetched": "2026-11-16"
  },
  "5088440": {
   "name": "Rip It! Card Collector",
@@ -14700,5 +14700,142 @@
    "Choices Matter"
   ],
   "tags_fetched": "2026-11-15"
+ },
+ "5185750": {
+  "name": "Trafficity",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185750/cba1f3195974a89cac41d5ae9c56e6bed1809b56/header.jpg?t=1794825483",
+  "release_date": "2026-11-16",
+  "coming_soon": false,
+  "fetched": "2026-11-16",
+  "first_review": "2026-11-16",
+  "steam_tags": [
+   "Transportation",
+   "Simulation",
+   "City Builder",
+   "Building",
+   "Management",
+   "Automation",
+   "Sandbox",
+   "2D",
+   "Indie",
+   "Top-Down",
+   "Procedural Generation",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-11-16"
+ },
+ "2668000": {
+  "name": "Wizdom Academy",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668000/header.jpg?t=1794579629",
+  "release_date": "2025-04-17",
+  "coming_soon": false,
+  "fetched": "2026-11-16",
+  "first_review": "2025-04-17",
+  "steam_tags": [
+   "Early Access",
+   "Colony Sim",
+   "Magic",
+   "Management",
+   "Base Building",
+   "Fantasy",
+   "Simulation",
+   "Economy",
+   "Resource Management",
+   "Education",
+   "Decorating",
+   "Singleplayer",
+   "3D",
+   "Stylized",
+   "Choices Matter"
+  ],
+  "tags_fetched": "2026-11-16"
+ },
+ "1696810": {
+  "name": "Railroads Online",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696810/header.jpg?t=1794392097",
+  "release_date": "2024-12-05",
+  "coming_soon": false,
+  "fetched": "2026-11-16",
+  "first_review": "2021-10-01",
+  "steam_tags": [
+   "Trains",
+   "Multiplayer",
+   "Online Co-Op",
+   "Open World",
+   "Building",
+   "Automobile Sim",
+   "Physics",
+   "Sandbox",
+   "Driving",
+   "Immersive Sim",
+   "Team-Based",
+   "Singleplayer",
+   "Exploration",
+   "Economy",
+   "Management"
+  ],
+  "tags_fetched": "2026-11-16"
+ },
+ "4878900": {
+  "name": "Net Worthless",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878900/31df285a91f27c681b9476287d0651033672d1c9/header.jpg?t=1794819508",
+  "release_date": "2026-11-16",
+  "coming_soon": false,
+  "fetched": "2026-11-16",
+  "first_review": "2026-11-16",
+  "steam_tags": [
+   "Life Sim",
+   "Capitalism",
+   "Economy",
+   "Simulation",
+   "Time Management",
+   "Turn-Based Strategy",
+   "Management",
+   "Choices Matter",
+   "Resource Management",
+   "RPG",
+   "Dark Comedy",
+   "Satire",
+   "Sandbox",
+   "Strategy",
+   "Text-Based"
+  ],
+  "tags_fetched": "2026-11-16"
+ },
+ "3354260": {
+  "name": "TCG Multiplayer Card Shop Simulator",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354260/d56d028f7113657d89121bcf22465a2155ffc6e6/header.jpg?t=1793469362",
+  "release_date": "2025-06-18",
+  "coming_soon": false,
+  "fetched": "2026-11-16",
+  "first_review": "2025-06-18",
+  "steam_tags": [
+   "Early Access",
+   "Trading Card Game",
+   "Management",
+   "Economy",
+   "Collectathon",
+   "Immersive Sim",
+   "Capitalism",
+   "Trading",
+   "Card Game",
+   "Life Sim",
+   "Character Customization",
+   "Third Person",
+   "First-Person",
+   "3D",
+   "Artificial Intelligence"
+  ],
+  "tags_fetched": "2026-11-16"
  }
 }
