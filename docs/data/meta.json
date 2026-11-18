@@ -1351,7 +1351,7 @@
    "Survival",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-18"
  },
  "1044720": {
   "name": "Farthest Frontier",
@@ -1491,7 +1491,7 @@
    "Crafting",
    "Management"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-18"
  },
  "2763740": {
   "name": "Revolution Idle",
@@ -4523,7 +4523,7 @@
    "Cartoon",
    "Combat"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-18"
  },
  "1203620": {
   "name": "Enshrouded",
@@ -5167,7 +5167,7 @@
    "Massively Multiplayer",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-18"
  },
  "1995520": {
   "name": "Pax Dei",
@@ -6090,7 +6090,7 @@
    "3D",
    "First-Person"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-18"
  },
  "4164900": {
   "name": "Gacha Capsule Shop Simulator - Akihabara",
@@ -7836,7 +7836,7 @@
    "Indie",
    "2D"
   ],
-  "tags_fetched": "2026-10-29"
+  "tags_fetched": "2026-11-18"
  },
  "4348910": {
   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -8212,8 +8212,8 @@
   "steam_tags": [
    "Strategy",
    "Free to Play",
-   "Massively Multiplayer",
    "Medieval",
+   "Massively Multiplayer",
    "City Builder",
    "Multiplayer",
    "Building",
@@ -8226,7 +8226,7 @@
    "Sandbox",
    "Colony Sim"
   ],
-  "tags_fetched": "2026-10-30"
+  "tags_fetched": "2026-11-18"
  },
  "673610": {
   "name": "Airport CEO",
@@ -8740,7 +8740,7 @@
    "Life Sim",
    "Strategy"
   ],
-  "tags_fetched": "2026-10-30"
+  "tags_fetched": "2026-11-18"
  },
  "2981220": {
   "name": "Forefront",
@@ -9090,8 +9090,8 @@
   "steam_tags": [
    "Early Access",
    "Management",
-   "Simulation",
    "Economy",
+   "Simulation",
    "Capitalism",
    "Building",
    "Sandbox",
@@ -9104,7 +9104,7 @@
    "Tutorial",
    "Time Management"
   ],
-  "tags_fetched": "2026-10-31"
+  "tags_fetched": "2026-11-18"
  },
  "4917510": {
   "name": "Click&Fix",
@@ -9160,7 +9160,7 @@
    "Life Sim",
    "Indie"
   ],
-  "tags_fetched": "2026-10-31"
+  "tags_fetched": "2026-11-18"
  },
  "1351210": {
   "name": "Gord",
@@ -9776,7 +9776,7 @@
    "Nonlinear",
    "Procedural Generation"
   ],
-  "tags_fetched": "2026-11-03"
+  "tags_fetched": "2026-11-18"
  },
  "1733110": {
   "name": "Of Life and Land",
@@ -9888,7 +9888,7 @@
    "Nature",
    "Cute"
   ],
-  "tags_fetched": "2026-11-03"
+  "tags_fetched": "2026-11-18"
  },
  "3393280": {
   "name": "Anime Shop Simulator ✨",
@@ -10224,7 +10224,7 @@
    "Wholesome",
    "Capitalism"
   ],
-  "tags_fetched": "2026-11-03"
+  "tags_fetched": "2026-11-18"
  },
  "4819030": {
   "name": "Deal Flipper",
@@ -10308,7 +10308,7 @@
    "Time Management",
    "Cute"
   ],
-  "tags_fetched": "2026-11-03"
+  "tags_fetched": "2026-11-18"
  },
  "1454970": {
   "name": "New Tales from the Borderlands",
@@ -15436,5 +15436,338 @@
    "2D"
   ],
   "tags_fetched": "2026-11-17"
+ },
+ "3947460": {
+  "name": "Creator Chronicles",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947460/7884f055d276a65e6cfcaa4509ddb4556219c305/header.jpg?t=1794980494",
+  "release_date": "2026-09-14",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-09-14",
+  "steam_tags": [
+   "RPG",
+   "Simulation",
+   "Management",
+   "City Builder",
+   "Pixel Graphics",
+   "Top-Down",
+   "Multiple Endings",
+   "Building",
+   "Economy",
+   "Crafting",
+   "Trading",
+   "Fishing",
+   "Mining",
+   "Farming",
+   "2D"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "4940900": {
+  "name": "Little Noël: Christmas Village",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940900/396e759a74ee0379bb71a70d0317f3e6d7682714/header.jpg?t=1794930923",
+  "release_date": "2026-11-17",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-11-17",
+  "steam_tags": [
+   "Casual",
+   "Cozy",
+   "Decorating",
+   "Sandbox",
+   "City Builder",
+   "3D",
+   "Building",
+   "Snow",
+   "Relaxing",
+   "Wholesome",
+   "Singleplayer",
+   "Indie"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "5348620": {
+  "name": "Tidy Up the Wonderlands of Mirad",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5348620/a2b78ec664a1d25f1bf0b93d41967f29fd94093d/header.jpg?t=1794927840",
+  "release_date": "2026-11-17",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-11-17",
+  "steam_tags": [
+   "Organizing",
+   "Simulation",
+   "Incremental",
+   "Cozy",
+   "Multiplayer",
+   "Relaxing",
+   "Job Simulator",
+   "Casual",
+   "Cleaning",
+   "Sandbox",
+   "Hidden Object",
+   "Inventory Management",
+   "City Builder",
+   "3D",
+   "Indie"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "2467810": {
+  "name": "Orebound",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467810/f9af1148cf88e7a3912c32794a67239680a05d7c/header.jpg?t=1787265255",
+  "release_date": "2024-10-24",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2024-10-24",
+  "steam_tags": [
+   "Early Access",
+   "Resource Management",
+   "Dwarves",
+   "Singleplayer",
+   "Indie",
+   "First-Person",
+   "Building",
+   "Simulation",
+   "Open World",
+   "Crafting",
+   "Exploration",
+   "Procedural Generation",
+   "Automation",
+   "Base Building",
+   "Colony Sim"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "2781660": {
+  "name": "Dawn of Defense",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781660/d075771dd5638ff48d2214486a183e2ffd0e8ed4/header.jpg?t=1794991929",
+  "release_date": "2026-11-17",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-11-17",
+  "steam_tags": [
+   "Tower Defense",
+   "RTS",
+   "Roguelite",
+   "Vikings",
+   "Strategy",
+   "Action RTS",
+   "Medieval",
+   "Fantasy",
+   "Mythology",
+   "Base Building",
+   "Real Time Tactics",
+   "Roguelike",
+   "Action",
+   "Resource Management",
+   "Tactical"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "4259360": {
+  "name": "Milki Delivery",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259360/505a9c5e2d1366f1dced34c661218a16e321c13f/header.jpg?t=1794927593",
+  "release_date": "2026-11-17",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-11-17",
+  "steam_tags": [
+   "Adventure",
+   "Exploration",
+   "Cozy",
+   "Short",
+   "Casual",
+   "Hand-drawn",
+   "Life Sim",
+   "Relaxing",
+   "Resource Management",
+   "Colorful",
+   "Cute",
+   "Cycling",
+   "Female Protagonist",
+   "Nature",
+   "Point & Click"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "4707700": {
+  "name": "Gold Mining Simulator - Definitive Edition",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707700/e25d301bd345da1734990375d2669e9f34f438fb/header.jpg?t=1794923888",
+  "release_date": "2026-11-17",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-11-17",
+  "steam_tags": [
+   "Simulation",
+   "Adventure",
+   "Strategy",
+   "Sandbox",
+   "Automobile Sim",
+   "Exploration",
+   "First-Person",
+   "Indie",
+   "Realistic",
+   "Building",
+   "Mining",
+   "Economy",
+   "Driving",
+   "Relaxing",
+   "Funny"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "3904850": {
+  "name": "Approximately Up",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3904850/d91f2e97c92cb98f97b3c773ff1e2d84bf6bc127/header.jpg?t=1795006094",
+  "release_date": "2026-08-06",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-08-06",
+  "steam_tags": [
+   "Sandbox",
+   "Building",
+   "Space Sim",
+   "Physics",
+   "Simulation",
+   "Automation",
+   "Spaceships",
+   "Space",
+   "Flight",
+   "Exploration",
+   "Logic",
+   "Open World",
+   "Co-op",
+   "Multiplayer",
+   "Sci-fi"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "4259190": {
+  "name": "Kingdom Rush 6: Genesis TD",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/9f7d11479e98db4e5798ed936ca69f1ebb5cebe4/header.jpg?t=1794939021",
+  "release_date": "2026-09-24",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-09-24",
+  "steam_tags": [
+   "Strategy",
+   "Tower Defense",
+   "Action",
+   "2D",
+   "Medieval",
+   "Fantasy",
+   "Base Building",
+   "Action RTS",
+   "Controller",
+   "Linear",
+   "Hidden Object",
+   "Colorful",
+   "Cartoony",
+   "Hand-drawn",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "4665120": {
+  "name": "Picky Numbers",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665120/224a332fd70c1a9ebfe7b01e18eed31da5a9c838/header.jpg?t=1794960761",
+  "release_date": "2026-11-17",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2026-11-17",
+  "steam_tags": [
+   "Incremental",
+   "Gambling",
+   "Idler",
+   "Casual",
+   "Roguelite",
+   "Simulation",
+   "Capitalism",
+   "Economy",
+   "Management",
+   "Arcade",
+   "Roguelike",
+   "Relaxing",
+   "Indie",
+   "Pixel Graphics",
+   "Minimalist"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "658970": {
+  "name": "CasinoRPG",
+  "type": "game",
+  "is_free": true,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/658970/header.jpg?t=1779199463",
+  "release_date": "2018-01-16",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2018-01-16",
+  "steam_tags": [
+   "Simulation",
+   "Massively Multiplayer",
+   "Gambling",
+   "Management",
+   "Card Game",
+   "City Builder",
+   "Building",
+   "RPG",
+   "Free to Play",
+   "Indie",
+   "Casual",
+   "Multiplayer",
+   "Capitalism",
+   "Isometric",
+   "Time Management"
+  ],
+  "tags_fetched": "2026-11-18"
+ },
+ "315210": {
+  "name": "Suicide Squad: Kill the Justice League",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315210/header.jpg?t=1777940046",
+  "release_date": "2024-02-02",
+  "coming_soon": false,
+  "fetched": "2026-11-18",
+  "first_review": "2024-02-02",
+  "steam_tags": [
+   "Capitalism",
+   "Online Co-Op",
+   "Superhero",
+   "Looter Shooter",
+   "LGBTQ+",
+   "Third-Person Shooter",
+   "Action",
+   "Open World",
+   "Multiplayer",
+   "PvE",
+   "Villain Protagonist",
+   "Shooter",
+   "Third Person",
+   "Psychological Horror",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-11-18"
  }
 }
