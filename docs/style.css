@@ -210,7 +210,7 @@ main { padding-top: 8px; padding-bottom: 48px; }
   cursor: pointer;
 }
 .chip:hover, .chip:focus-visible { color: var(--bg); background: var(--amber); outline: none; }
-.sub-info { min-width: 0; }
+.sub-info { flex-basis: 100%; min-width: 0; }
 
 .bar-wrap { grid-area: bar; position: relative; height: 14px; background: var(--bg-sunk); border-radius: 4px; }
 .bar { position: absolute; inset: 0 auto 0 0; background: var(--amber); border-radius: 4px; }

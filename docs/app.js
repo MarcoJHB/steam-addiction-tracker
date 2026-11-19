@@ -36,6 +36,8 @@
   };
 
   const tagButtons = new Map();
+  // Only City Builder is switched on when the page first opens.
+  const DEFAULT_ON = all => all.includes("City Builder") ? ["City Builder"] : all;
 
   // Clicking a game's tag shows only that tag; clicking it again turns every tag back on.
   function soloTag(t) {
@@ -70,7 +72,9 @@
     if (METRICS[p.get("by")]) state.metric = p.get("by");
     state.asc = p.get("dir") === "asc";
     state.q = p.get("q") || "";
-    state.off = new Set((p.get("off") || "").split(",").filter(Boolean));
+    // tags=City Builder,Survival lists the tags turned on (tags=all for every tag). No tags= means the default.
+    state.tagsParam = p.has("tags") ? p.get("tags") : null;
+    state.oldOff = p.has("off") ? p.get("off") : null;   // links made before this change
     if (["fav", "hidden"].includes(p.get("show"))) state.show = p.get("show");
     state.page = Math.max(1, parseInt(p.get("page"), 10) || 1);
   }
@@ -79,7 +83,11 @@
     if (state.metric !== "score") p.set("by", state.metric);
     if (state.asc) p.set("dir", "asc");
     if (state.q) p.set("q", state.q);
-    if (state.off.size) p.set("off", [...state.off].join(","));
+    if (state.data) {
+      const on = state.data.tags.filter(t => !state.off.has(t));
+      const isDefault = on.length === DEFAULT_ON(state.data.tags).length && on.every(t => DEFAULT_ON(state.data.tags).includes(t));
+      if (!isDefault) p.set("tags", on.length === state.data.tags.length ? "all" : on.join(","));
+    }
     if (state.show !== "all") p.set("show", state.show);
     if (state.page > 1) p.set("page", state.page);
     const h = p.toString();
@@ -104,6 +112,11 @@
     const when = new Date(d.generated_at);
     els.meta.textContent = `${d.games.length} games, updated ${when.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })} at ${when.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" })}.`;
 
+    const on = state.tagsParam === "all" ? d.tags
+      : state.tagsParam != null ? state.tagsParam.split(",").filter(t => d.tags.includes(t))
+      : state.oldOff != null ? d.tags.filter(t => !state.oldOff.split(",").includes(t))
+      : DEFAULT_ON(d.tags);
+    state.off = new Set(d.tags.filter(t => !on.includes(t)));
     for (const t of d.tags) {
       const b = document.createElement("button");
       tagButtons.set(t, b);
