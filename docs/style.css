@@ -285,7 +285,7 @@ main { padding-top: 8px; padding-bottom: 48px; }
 }
 .tabs a:hover { color: var(--ink); border-color: var(--muted); }
 .tabs a[aria-current=page] { color: var(--ink); border-color: var(--amber); background: var(--amber-soft); }
-.tabs + .top { padding-top: 36px; }
+.top + .tabs { padding-top: 0; padding-bottom: 28px; }
 
 /* ---- charts page ---- */
 
@@ -327,7 +327,7 @@ main { padding-top: 8px; padding-bottom: 48px; }
 @media (max-width: 760px) {
   .top { padding-top: 40px; }
   .tabs, .top, .controls, main, .how { padding-left: 16px; padding-right: 16px; }
-  .tabs + .top { padding-top: 24px; }
+  .top + .tabs { padding-bottom: 20px; }
   .charts .row-head {
     grid-template-columns: 2.6rem 76px minmax(0, 1fr) auto;
     grid-template-areas: "rank art title value" "mv art bar bar" "mini mini mini mini";
