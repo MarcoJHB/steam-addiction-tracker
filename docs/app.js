@@ -5,17 +5,15 @@
   const hrs = v => v == null ? "–" : v >= 1000 ? `${(v / 1000).toFixed(v >= 10000 ? 0 : 1)}k h` : `${v >= 100 ? Math.round(v) : v.toFixed(1)} h`;
   const pct = v => v == null ? "–" : `${Math.round(v)}%`;
   const num = v => v == null ? "–" : v.toLocaleString("en-US");
-  // Addiction score as a percentage of the #1 game across every tracked game (so it doesn't jump around when filtering).
-  let topScore = 1;
-  const scorePct = v => v == null ? null : (v / topScore) * 100;
-  const score = v => v == null ? "–" : `${Math.round(scorePct(v))}%`;
+  // Addiction score is already a 0-100% figure (see the explanation on the page).
+  const score = v => v == null ? "–" : `${Math.round(v)}%`;
   const times = v => v == null ? "–" : `${v.toFixed(v >= 10 ? 0 : 1)}×`;
   const monthYear = s => s ? new Date(s).toLocaleDateString("en-GB", { month: "short", year: "numeric" }) : "–";
   const fullDate = s => s ? new Date(s).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" }) : "–";
 
   // get: the number used for sorting/bars. fmt: how the number on the right is shown.
   const METRICS = {
-    score:               { fmt: v => v == null ? "–" : `${Math.round(v)}%`, get: g => scorePct(g.score), fixedMax: 100 },
+    score:               { fmt: score, fixedMax: 100 },
     age_x:               { fmt: times, tickAt: 1, tickTitle: "1.0× = typical for a game its age" },
     median:              { fmt: hrs, tick: "avg" },
     avg:                 { fmt: hrs, tick: "median" },
@@ -98,7 +96,6 @@
       return;
     }
     const d = state.data;
-    topScore = Math.max(1, ...d.games.map(g => g.score ?? 0));
     $("reviewCount").textContent = Number(d.reviews_per_game).toLocaleString("en-US");
     $("heavyHours").textContent = d.heavy_player_hours;
     if (d.age_peers) $("agePeers").textContent = d.age_peers;
@@ -356,7 +353,7 @@
 
   // ---- CSV ----
   function downloadCsv() {
-    const cols = ["rank", "name", "appid", "tags", "favourite", "score_pct", "score", "age_x", "median", "avg", "p90", "max", "median_at_review",
+    const cols = ["rank", "name", "appid", "tags", "favourite", "score", "age_x", "median", "avg", "p90", "max", "median_at_review",
       "median_after_review", "avg_last_2w", "active_pct", "heavy_pct", "recommended_pct", "players_now",
       "total_reviews", "review_score_desc", "release_date", "playable_since", "sample"];
     const esc = v => v == null ? "" : /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : String(v);
@@ -365,7 +362,6 @@
         c === "rank" ? i + 1 :
         c === "tags" ? g.tags.join("; ") :
         c === "favourite" ? (favs.has(String(g.appid)) ? "yes" : "") :
-        c === "score_pct" ? (g.score == null ? null : Math.round(scorePct(g.score))) :
         g[c])).join(",")));
     const blob = new Blob([lines.join("\n")], { type: "text/csv" });
     const a = document.createElement("a");

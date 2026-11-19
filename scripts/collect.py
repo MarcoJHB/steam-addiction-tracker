@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import math
 import statistics
 import sys
 import time
@@ -275,10 +276,10 @@ def compute_stats(reviews: list[dict], heavy_hours: float) -> dict:
         "heavy_pct": round(sum(1 for h in forever if h >= heavy_hours) / n * 100, 1),
         "recommended_pct": round(sum(1 for r in reviews if r.get("voted_up")) / n * 100, 1),
         "sample_span_days": round(span_days, 1) if span_days is not None else None,
-        # Headline metric. Median is used instead of average so a few people
-        # who left the game idling for 20,000 hours can't skew it, and it's
-        # boosted by how many reviewers are still playing right now.
-        "score": round(median * (1 + active), 1),
+        # Headline metric, 0-100%: the geometric mean of "still playing" and
+        # "heavy players". A game needs both: lots of hours AND people coming
+        # back. 100% = every reviewer has heavy_hours+ and played in the last two weeks.
+        "score": round(math.sqrt(active * 100 * (sum(1 for h in forever if h >= heavy_hours) / n * 100)), 1),
         "distribution": buckets,
     }
 

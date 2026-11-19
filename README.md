@@ -16,7 +16,7 @@ For each game, from its most recent reviewers:
 | Hours after reviewing | Median of (hours now − hours when they reviewed) |
 | Still playing | Share who played in the last two weeks |
 | Heavy players | Share with 100+ hours (configurable) |
-| Addiction score | Median hours × (1 + still-playing share) |
+| Addiction score | √(still playing % × heavy players %), 0–100%. Needs both lots of hours and people still coming back |
 
 Every number also gets saved daily to `docs/data/history.json`, so the page can show trends.
 
