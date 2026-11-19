@@ -32,7 +32,7 @@
   const els = {
     board: $("board"), empty: $("empty"), meta: $("meta"), metric: $("metric"), dir: $("dir"),
     search: $("search"), tags: $("tags"), csv: $("csv"), tpl: $("rowTpl"), show: $("show"),
-    favCount: $("favCount"), hiddenCount: $("hiddenCount"),
+    favCount: $("favCount"), pager: $("pager"), hiddenCount: $("hiddenCount"),
   };
 
   const tagButtons = new Map();
@@ -54,7 +54,7 @@
       .sort((a, b) => a[1] - b[1] || a[2] - b[2]).map(x => x[0]);
   }
 
-  const state = { data: null, history: null, metric: "score", asc: false, q: "", off: new Set(), show: "all", open: new Set() };
+  const state = { data: null, history: null, metric: "score", asc: false, q: "", off: new Set(), show: "all", open: new Set(), page: 1 };
 
   // ---- favourites & hidden games, saved in this browser ----
   const store = {
@@ -72,6 +72,7 @@
     state.q = p.get("q") || "";
     state.off = new Set((p.get("off") || "").split(",").filter(Boolean));
     if (["fav", "hidden"].includes(p.get("show"))) state.show = p.get("show");
+    state.page = Math.max(1, parseInt(p.get("page"), 10) || 1);
   }
   function writeHash() {
     const p = new URLSearchParams();
@@ -80,6 +81,7 @@
     if (state.q) p.set("q", state.q);
     if (state.off.size) p.set("off", [...state.off].join(","));
     if (state.show !== "all") p.set("show", state.show);
+    if (state.page > 1) p.set("page", state.page);
     const h = p.toString();
     history.replaceState(null, "", h ? `#${h}` : location.pathname);
   }
@@ -118,7 +120,7 @@
     }
     els.metric.value = state.metric;
     els.search.value = state.q;
-    render();
+    draw();
   }
 
   async function loadHistory() {
@@ -154,7 +156,11 @@
   }
 
   // ---- render ----
-  function render() {
+  const PER_PAGE = 30;
+  // Anything that changes the list (sort, filter, search) starts again at page 1.
+  function render() { state.page = 1; draw(); }
+
+  function draw() {
     writeHash();
     const m = state.metric, def = METRICS[m];
     const labels = def.dirLabels || ["Highest first", "Lowest first"];
@@ -172,7 +178,56 @@
         state.show === "hidden" && !hidden.size ? "No hidden games. Click the eye next to a game to hide it from the main list." :
         "No games match. Clear the search or turn a tag back on.";
     }
-    els.board.replaceChildren(...games.map((g, i) => row(g, i, m, def, top)));
+    const pages = Math.max(1, Math.ceil(games.length / PER_PAGE));
+    state.page = Math.min(Math.max(1, state.page), pages);
+    const from = (state.page - 1) * PER_PAGE;
+    els.board.replaceChildren(...games.slice(from, from + PER_PAGE).map((g, i) => row(g, from + i, m, def, top)));
+    pager(pages, games.length, from);
+  }
+
+  // « ‹ 1 2 3 … › » under the list.
+  function pager(pages, total, from) {
+    els.pager.replaceChildren();
+    els.pager.hidden = total === 0;
+    if (!total) return;
+    const nav = document.createElement("div");
+    nav.className = "pages";
+    const btn = (label, page, { current = false, disabled = false, aria } = {}) => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.textContent = label;
+      if (aria) b.setAttribute("aria-label", aria);
+      if (current) b.setAttribute("aria-current", "page");
+      b.disabled = disabled;
+      if (!disabled && !current) b.addEventListener("click", () => {
+        state.page = page;
+        draw();
+        els.board.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      nav.append(b);
+    };
+    if (pages > 1) {
+      btn("«", 1, { disabled: state.page === 1, aria: "First page" });
+      btn("‹", state.page - 1, { disabled: state.page === 1, aria: "Previous page" });
+      // Show every page when there are few, otherwise the first, last and the ones around the current page.
+      const show = new Set([1, pages, state.page - 1, state.page, state.page + 1]);
+      if (pages <= 9) for (let i = 1; i <= pages; i++) show.add(i);
+      let last = 0;
+      for (let i = 1; i <= pages; i++) {
+        if (!show.has(i)) continue;
+        if (i - last > 1) { const gap = document.createElement("span"); gap.className = "gap"; gap.textContent = "…"; nav.append(gap); }
+        btn(String(i), i, { current: i === state.page, aria: `Page ${i}` });
+        last = i;
+      }
+      btn("›", state.page + 1, { disabled: state.page === pages, aria: "Next page" });
+      btn("»", pages, { disabled: state.page === pages, aria: "Last page" });
+    }
+    const info = document.createElement("p");
+    info.className = "count";
+    info.textContent = pages > 1
+      ? `Showing ${from + 1}–${Math.min(from + PER_PAGE, total)} of ${total} games`
+      : `${total} game${total === 1 ? "" : "s"}`;
+    els.pager.append(nav, info);
   }
 
   function row(g, i, m, def, top) {
@@ -239,12 +294,12 @@
     favBtn.addEventListener("click", () => {
       favs.has(id) ? favs.delete(id) : favs.add(id);
       store.save("sat:favourites", favs);
-      state.show === "fav" ? render() : (sync(), updateCounts());
+      state.show === "fav" ? draw() : (sync(), updateCounts());
     });
     hideBtn.addEventListener("click", () => {
       hidden.has(id) ? hidden.delete(id) : hidden.add(id);
       store.save("sat:hidden", hidden);
-      state.show === "fav" ? (sync(), updateCounts()) : render();
+      state.show === "fav" ? (sync(), updateCounts()) : draw();
     });
 
     const detail = li.querySelector(".detail");

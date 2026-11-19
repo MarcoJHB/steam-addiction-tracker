@@ -322,9 +322,28 @@ main { padding-top: 8px; padding-bottom: 48px; }
 .more { margin: 22px 0 0; }
 .est { font-size: .75rem; color: var(--amber); text-decoration: underline dotted; text-underline-offset: 2px; cursor: help; }
 
+/* ---- pagination ---- */
+
+.pager { padding: 28px 0 8px; text-align: center; }
+.pager[hidden] { display: none; }
+.pages { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 6px; }
+.pages button {
+  min-width: 40px; height: 40px; padding: 0 10px;
+  font: 600 1rem var(--body); font-variant-numeric: tabular-nums;
+  color: var(--amber); background: transparent;
+  border: 0; border-radius: 6px; cursor: pointer;
+}
+.pages button:hover:not(:disabled) { background: var(--amber-soft); }
+.pages button[aria-current=page] { color: var(--bg); background: var(--amber); cursor: default; }
+.pages button:disabled { color: var(--muted); opacity: .35; cursor: default; }
+.pages .gap { color: var(--muted); padding: 0 4px; }
+.pager .count { margin: 12px 0 0; color: var(--muted); font-size: .88rem; }
+
 /* ---- small screens ---- */
 
 @media (max-width: 760px) {
+  .pages { gap: 2px; }
+  .pages button { min-width: 34px; padding: 0 6px; }
   .top { padding-top: 40px; }
   .tabs, .top, .controls, main, .how { padding-left: 16px; padding-right: 16px; }
   .top + .tabs { padding-bottom: 20px; }
