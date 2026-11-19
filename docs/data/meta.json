@@ -10642,7 +10642,7 @@
    "Top-Down",
    "Competitive"
   ],
-  "tags_fetched": "2026-11-04"
+  "tags_fetched": "2026-11-19"
  },
  "1330460": {
   "name": "Becastled",
@@ -17477,6 +17477,34 @@
    "RPG",
    "Dark",
    "Violent"
+  ],
+  "tags_fetched": "2026-11-19"
+ },
+ "327070": {
+  "name": "Gloria Victis: Medieval MMORPG",
+  "type": "game",
+  "is_free": true,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1794476196",
+  "release_date": "2026-06-17",
+  "coming_soon": false,
+  "fetched": "2026-11-19",
+  "first_review": "2016-06-09",
+  "steam_tags": [
+   "MMORPG",
+   "Medieval",
+   "Open World",
+   "Massively Multiplayer",
+   "Action",
+   "RPG",
+   "Multiplayer",
+   "Character Customization",
+   "Simulation",
+   "PvP",
+   "Indie",
+   "Immersive Sim",
+   "Atmospheric",
+   "Open World Survival Craft",
+   "Realistic"
   ],
   "tags_fetched": "2026-11-19"
  }
