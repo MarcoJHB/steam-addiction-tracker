@@ -8882,7 +8882,7 @@
    "Tactical",
    "Class-Based"
   ],
-  "tags_fetched": "2026-10-30"
+  "tags_fetched": "2026-11-19"
  },
  "4693030": {
   "name": "Congratulations On Your Purchase",
@@ -17505,6 +17505,34 @@
    "Atmospheric",
    "Open World Survival Craft",
    "Realistic"
+  ],
+  "tags_fetched": "2026-11-19"
+ },
+ "2681030": {
+  "name": "Outbound",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/header.jpg?t=1793887531",
+  "release_date": "2026-05-11",
+  "coming_soon": false,
+  "fetched": "2026-11-19",
+  "first_review": "2026-05-11",
+  "steam_tags": [
+   "Cozy",
+   "Exploration",
+   "Online Co-Op",
+   "Base Building",
+   "Relaxing",
+   "Decorating",
+   "Building",
+   "Open World",
+   "Crafting",
+   "Nature",
+   "Driving",
+   "Character Customization",
+   "Atmospheric",
+   "Sandbox",
+   "Colorful"
   ],
   "tags_fetched": "2026-11-19"
  }
