@@ -199,7 +199,18 @@ main { padding-top: 8px; padding-bottom: 48px; }
 
 .title { grid-area: title; min-width: 0; }
 .name { display: block; font: 700 1.08rem/1.25 var(--display); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.sub { display: block; font-size: .8rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sub { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; margin-top: 4px; font-size: .8rem; color: var(--muted); }
+.chip {
+  font: 500 .74rem/1 var(--body);
+  color: var(--amber);
+  background: var(--amber-soft);
+  border-radius: 3px;
+  padding: 4px 7px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.chip:hover, .chip:focus-visible { color: var(--bg); background: var(--amber); outline: none; }
+.sub-info { min-width: 0; }
 
 .bar-wrap { grid-area: bar; position: relative; height: 14px; background: var(--bg-sunk); border-radius: 4px; }
 .bar { position: absolute; inset: 0 auto 0 0; background: var(--amber); border-radius: 4px; }

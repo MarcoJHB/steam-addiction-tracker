@@ -22,6 +22,23 @@
           "top_n": 5
         }
       ]
+    },
+    {
+      "name": "Survival",
+      "any_of": [
+        {
+          "steam_tags": [
+            "Open World Survival Craft"
+          ],
+          "top_n": 5
+        },
+        {
+          "steam_tags": [
+            "Survival"
+          ],
+          "top_n": 5
+        }
+      ]
     }
   ],
   "genre_top_n": 5,
@@ -31,7 +48,8 @@
     "Clicker",
     "Turn-Based Strategy",
     "4X",
-    "RTS"
+    "RTS",
+    "Battle Royale"
   ],
   "genre_overrides": {
     "3219030": [
@@ -79,7 +97,7 @@
     ]
   },
   "games_per_tag": 50,
-  "reviews_per_game": 500,
+  "reviews_per_game": 1000,
   "min_reviews": 50,
   "heavy_player_hours": 100,
   "extra_appids": [],

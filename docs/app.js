@@ -34,6 +34,25 @@
     favCount: $("favCount"), hiddenCount: $("hiddenCount"),
   };
 
+  const tagButtons = new Map();
+
+  // Clicking a game's tag shows only that tag; clicking it again turns every tag back on.
+  function soloTag(t) {
+    const all = state.data.tags;
+    const alreadySolo = all.every(x => x === t ? !state.off.has(x) : state.off.has(x));
+    state.off = alreadySolo ? new Set() : new Set(all.filter(x => x !== t));
+    for (const [name, b] of tagButtons) b.setAttribute("aria-pressed", String(!state.off.has(name)));
+    render();
+    els.tags.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  // The site's genres for a game, in the order they appear in its own Steam tags.
+  function orderedTags(g) {
+    const pos = t => { const i = (g.steam_tags || []).indexOf(t); return i < 0 ? 99 : i; };
+    return g.tags.filter(t => t !== "Extra").map((t, i) => [t, pos(t), i])
+      .sort((a, b) => a[1] - b[1] || a[2] - b[2]).map(x => x[0]);
+  }
+
   const state = { data: null, history: null, metric: "score", asc: false, q: "", off: new Set(), show: "all", open: new Set() };
 
   // ---- favourites & hidden games, saved in this browser ----
@@ -84,6 +103,7 @@
 
     for (const t of d.tags) {
       const b = document.createElement("button");
+      tagButtons.set(t, b);
       b.type = "button";
       b.className = "tag";
       b.textContent = t;
@@ -165,12 +185,28 @@
 
     const relYear = g.release_date ? g.release_date.slice(0, 4) : null;
     const eaYear = earlyAccessYear(g);
-    const sub = [g.tags.join(", "),
-      relYear ? `released ${relYear}` : null,
+    const subEl = li.querySelector(".sub");
+    for (const t of orderedTags(g)) {
+      const chip = document.createElement("span");
+      chip.className = "chip";
+      chip.textContent = t;
+      chip.setAttribute("role", "button");
+      chip.tabIndex = 0;
+      chip.title = `Show only ${t} games`;
+      const go = e => { e.stopPropagation(); e.preventDefault(); soloTag(t); };
+      chip.addEventListener("click", go);
+      chip.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") go(e); });
+      subEl.append(chip);
+    }
+    const info = [relYear ? `Released ${relYear}` : null,
       eaYear ? `Early Access from ${eaYear}` : null,
-      g.stale ? "yesterday's data" : null].filter(Boolean).join(", ");
-    li.querySelector(".sub").textContent = sub;
-    if (g.stale) li.querySelector(".sub").classList.add("stale");
+      g.stale ? "yesterday's data" : null].filter(Boolean).join(" · ");
+    if (info) {
+      const span = document.createElement("span");
+      span.className = "sub-info" + (g.stale ? " stale" : "");
+      span.textContent = info;
+      subEl.append(span);
+    }
 
     const v = valueOf(g, m);
     const barWrap = li.querySelector(".bar-wrap");
