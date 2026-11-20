@@ -1295,7 +1295,7 @@
    "Survival",
    "Singleplayer"
   ],
-  "tags_fetched": "2026-10-28"
+  "tags_fetched": "2026-11-20"
  },
  "1273400": {
   "name": "Construction Simulator",
@@ -5159,8 +5159,8 @@
    "Fantasy",
    "Creature Collector",
    "Online Co-Op",
-   "Action-Adventure",
    "Magic",
+   "Action-Adventure",
    "Crafting",
    "Base Building",
    "Open World",
@@ -5169,7 +5169,7 @@
    "Inventory Management",
    "Multiplayer"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-20"
  },
  "1190970": {
   "name": "House Flipper 2",
@@ -8228,7 +8228,7 @@
    "Tutorial",
    "War"
   ],
-  "tags_fetched": "2026-10-29"
+  "tags_fetched": "2026-11-20"
  },
  "1407180": {
   "name": "Lawgivers II",
@@ -8574,7 +8574,7 @@
    "Resource Management",
    "Family Friendly"
   ],
-  "tags_fetched": "2026-10-30"
+  "tags_fetched": "2026-11-20"
  },
  "2897580": {
   "name": "Idle Hero TD - Tower Defense RPG",
@@ -8826,7 +8826,7 @@
    "Character Customization",
    "PvP"
   ],
-  "tags_fetched": "2026-10-30"
+  "tags_fetched": "2026-11-20"
  },
  "2928410": {
   "name": "Under Par Golf Architect",
@@ -9638,7 +9638,7 @@
    "Medieval",
    "Tactical RPG"
   ],
-  "tags_fetched": "2026-11-02"
+  "tags_fetched": "2026-11-20"
  },
  "1858720": {
   "name": "Message From Aliens",
@@ -11219,8 +11219,8 @@
    "Nature",
    "Management",
    "Nostalgia",
-   "Simulation",
    "Cute",
+   "Simulation",
    "Exploration",
    "Moddable",
    "Colorful",
@@ -11230,7 +11230,7 @@
    "Casual",
    "Agriculture"
   ],
-  "tags_fetched": "2026-11-05"
+  "tags_fetched": "2026-11-20"
  },
  "3275210": {
   "name": "Pionero Capital",
@@ -11258,7 +11258,7 @@
    "Realistic",
    "Resource Management"
   ],
-  "tags_fetched": "2026-11-05"
+  "tags_fetched": "2026-11-20"
  },
  "4904200": {
   "name": "Civitas: World Simulator",
@@ -11286,7 +11286,7 @@
    "World War I",
    "Capitalism"
   ],
-  "tags_fetched": "2026-11-05"
+  "tags_fetched": "2026-11-20"
  },
  "627690": {
   "name": "Idle Champions of the Forgotten Realms",
@@ -11386,19 +11386,19 @@
    "Multiplayer",
    "Extraction Shooter",
    "Crime",
-   "Survival",
    "Sandbox",
-   "Looter Shooter",
+   "Survival",
    "Open World",
+   "Looter Shooter",
    "Heist",
    "Online Co-Op",
-   "Shooter",
-   "Action",
-   "PvP",
    "Base Building",
-   "Crafting"
+   "PvP",
+   "Action",
+   "Shooter",
+   "Third-Person Shooter"
   ],
-  "tags_fetched": "2026-11-05"
+  "tags_fetched": "2026-11-20"
  },
  "1548180": {
   "name": "Worship",
@@ -17535,5 +17535,369 @@
    "Colorful"
   ],
   "tags_fetched": "2026-11-19"
+ },
+ "290100": {
+  "name": "Bulwark: Falconeer Chronicles",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290100/3854e2614f68085d1e0b05c27fc3bed2dd9fa2f5/header.jpg?t=1795097537",
+  "release_date": "2024-03-26",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2024-03-26",
+  "steam_tags": [
+   "Casual",
+   "Procedural Generation",
+   "Minimalist",
+   "City Builder",
+   "Experimental",
+   "Base Building",
+   "Open World",
+   "Building",
+   "Sandbox",
+   "Steampunk",
+   "Relaxing",
+   "Strategy",
+   "Combat",
+   "Naval Combat",
+   "3D"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "24780": {
+  "name": "SimCity™ 4 Deluxe Edition",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24780/header.jpg?t=1777484586",
+  "release_date": "2010-07-20",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2010-11-19",
+  "steam_tags": [
+   "City Builder",
+   "Immersive Sim",
+   "Base Building",
+   "Building",
+   "Sandbox",
+   "Management",
+   "Economy",
+   "God Game",
+   "Strategy",
+   "Simulation",
+   "Isometric",
+   "Casual",
+   "Realistic",
+   "Family Friendly",
+   "Moddable"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "1875060": {
+  "name": "Reus 2",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/5a0b85fef95e5a64b16c4edc3c143e694bee2acf/header.jpg?t=1793952651",
+  "release_date": "2024-05-28",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2024-05-28",
+  "steam_tags": [
+   "God Game",
+   "Puzzle",
+   "Colony Sim",
+   "City Builder",
+   "Management",
+   "Base Building",
+   "Strategy",
+   "Resource Management",
+   "Sandbox",
+   "Nature",
+   "Relaxing",
+   "Turn-Based",
+   "Simulation",
+   "2D",
+   "Life Sim"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "5127260": {
+  "name": "Salt of the Earth",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127260/62355b7eb54d93c9751f5f3aa27e30d0cb972bf4/header.jpg?t=1795136849",
+  "release_date": "2026-11-19",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-11-19",
+  "steam_tags": [
+   "City Builder",
+   "Colony Sim",
+   "Agriculture",
+   "Strategy",
+   "Building",
+   "Economy",
+   "Simulation",
+   "Management",
+   "Medieval",
+   "Base Building",
+   "Trading",
+   "Indie",
+   "Farming Sim",
+   "2D",
+   "Isometric"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "4113940": {
+  "name": "Sovereign Tower",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/1ddf28e27d7c8dcc7474171358ef64cc90eabc71/header.jpg?t=1794850605",
+  "release_date": "2026-08-06",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-08-06",
+  "steam_tags": [
+   "Choices Matter",
+   "Medieval",
+   "Choose Your Own Adventure",
+   "Visual Novel",
+   "Indie",
+   "Management",
+   "Dialogue Heavy",
+   "Hand-drawn",
+   "Story Rich",
+   "RPG",
+   "Singleplayer",
+   "2D",
+   "Fantasy",
+   "Simulation",
+   "Point & Click"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "3314070": {
+  "name": "The Sims™ 2 Legacy Collection",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314070/58422bb185c682cb68f2d46d0b049b3f50b3f49e/header.jpg?t=1777389714",
+  "release_date": "2025-01-31",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2025-01-31",
+  "steam_tags": [
+   "Sandbox",
+   "Life Sim",
+   "Building",
+   "Simulation",
+   "Character Customization",
+   "Management",
+   "Immersive Sim",
+   "Atmospheric",
+   "Singleplayer",
+   "Story Rich",
+   "Casual",
+   "Classic",
+   "Colorful",
+   "Cartoony",
+   "Addictive"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "5484410": {
+  "name": "Rocket Scrapyard",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5484410/6e13197687018d5154158d796f40235acacb2f4a/header.jpg?t=1795098983",
+  "release_date": "2026-11-19",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-11-19",
+  "steam_tags": [
+   "Casual",
+   "Simulation",
+   "Space",
+   "Spaceships",
+   "Incremental",
+   "Flight",
+   "Design & Illustration",
+   "Cleaning",
+   "Hidden Object",
+   "Singleplayer",
+   "First-Person",
+   "Collectathon",
+   "Building",
+   "Sandbox",
+   "Physics"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "5196330": {
+  "name": "IT THINKS! - Build Your Own GPU",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/792d0e1bcce8bc8a03f6419bfaf00f388ff83b08/header.jpg?t=1795166083",
+  "release_date": "2026-11-19",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-11-19",
+  "steam_tags": [
+   "Hardware",
+   "Logic",
+   "Automation",
+   "Building",
+   "Simulation",
+   "Base Building",
+   "Artificial Intelligence",
+   "Programming",
+   "Strategy",
+   "Science",
+   "Puzzle",
+   "Indie",
+   "2D",
+   "Minimalist",
+   "Stylized"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "4220070": {
+  "name": "Comrade, Secrets Escape!",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220070/76ed316e9041e4e846e61a2f395b3bfccd2a1f64/header.jpg?t=1795099301",
+  "release_date": "2026-11-19",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-11-19",
+  "steam_tags": [
+   "Early Access",
+   "Tower Defense",
+   "Base Building",
+   "Incremental",
+   "Simulation",
+   "World War II",
+   "Military",
+   "War",
+   "Physics",
+   "Resource Management",
+   "Strategy",
+   "Isometric",
+   "Sci-fi",
+   "Alternate History",
+   "Tactical"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "4514800": {
+  "name": "Airport City Transport Manager",
+  "type": "game",
+  "is_free": true,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514800/d075e2752c4a72f38ccbbd6376a96736351f1ac9/header.jpg?t=1788165314",
+  "release_date": "2026-08-31",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-08-31",
+  "steam_tags": [
+   "Time Management",
+   "Strategy",
+   "City Builder",
+   "Capitalism",
+   "Economy",
+   "Casual",
+   "Management",
+   "Simulation",
+   "2D",
+   "3D",
+   "Isometric",
+   "Realistic",
+   "Resource Management",
+   "Co-op",
+   "Multiplayer"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "1162860": {
+  "name": "Keepsake County",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162860/533a896c1950936d829bf7e6287882ce5c8c9667/header.jpg?t=1795123717",
+  "release_date": "2026-11-19",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-11-19",
+  "steam_tags": [
+   "Stylized",
+   "Hand-drawn",
+   "Procedural Generation",
+   "Immersive Sim",
+   "Stealth",
+   "Atmospheric",
+   "Heist",
+   "Roguelike",
+   "2.5D",
+   "Nonlinear",
+   "2D",
+   "Cute",
+   "Crime",
+   "Cartoon",
+   "Capitalism"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "4778330": {
+  "name": "Sardoinky",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778330/609ff054b28e087502364262ff7f6ad74fd34c1a/header.jpg?t=1795108286",
+  "release_date": "2026-11-19",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2026-11-19",
+  "steam_tags": [
+   "Casual",
+   "Relaxing",
+   "Incremental",
+   "Gambling",
+   "Simulation",
+   "Fishing",
+   "Capitalism",
+   "Arcade",
+   "Cartoony",
+   "Resource Management",
+   "Minimalist",
+   "Singleplayer",
+   "Multiple Endings",
+   "2D",
+   "Indie"
+  ],
+  "tags_fetched": "2026-11-20"
+ },
+ "2933130": {
+  "name": "The Lord of the Rings: Return to Moria™",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/6b8f8cf6304969c5c1d72fb3b33e5a31a1255f83/header.jpg?t=1790022388",
+  "release_date": "2024-08-27",
+  "coming_soon": false,
+  "fetched": "2026-11-20",
+  "first_review": "2024-08-27",
+  "steam_tags": [
+   "Dwarves",
+   "Base Building",
+   "Open World Survival Craft",
+   "Survival",
+   "Online Co-Op",
+   "Exploration",
+   "Crafting",
+   "Building",
+   "Adventure",
+   "Multiplayer",
+   "Open World",
+   "Action-Adventure",
+   "PvE",
+   "Sandbox",
+   "RPG"
+  ],
+  "tags_fetched": "2026-11-20"
  }
 }
