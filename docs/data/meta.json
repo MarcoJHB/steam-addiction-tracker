@@ -473,7 +473,7 @@
    "3D",
    "Funny"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-27"
  },
  "3031880": {
   "name": "Car Park Capital",
@@ -987,7 +987,7 @@
    "Indie",
    "Transportation"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "2934220": {
   "name": "Monsters are Coming!",
@@ -1967,7 +1967,7 @@
    "Funny",
    "Colorful"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "701160": {
   "name": "Kingdom Two Crowns",
@@ -2138,14 +2138,14 @@
    "War",
    "Sandbox",
    "Tower Defense",
-   "Base Building",
    "RTS",
+   "Base Building",
    "Economy",
    "PvP",
    "2D",
    "Historical"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "1368140": {
   "name": "Corsair Cove",
@@ -2425,7 +2425,7 @@
    "Casual",
    "Simulation"
   ],
-  "tags_fetched": "2026-11-11"
+  "tags_fetched": "2026-11-27"
  },
  "3024130": {
   "name": "PAO PAO",
@@ -2817,7 +2817,7 @@
    "Management",
    "Character Customization"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-27"
  },
  "951240": {
   "name": "Obenseuer",
@@ -5141,7 +5141,7 @@
    "Realistic",
    "Sandbox"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "2679100": {
   "name": "Witchspire",
@@ -5421,7 +5421,7 @@
    "Building",
    "Choose Your Own Adventure"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "2295060": {
   "name": "Beyond These Stars",
@@ -5757,7 +5757,7 @@
    "Adventure",
    "Management"
   ],
-  "tags_fetched": "2026-11-11"
+  "tags_fetched": "2026-11-27"
  },
  "600480": {
   "name": "Megaquarium",
@@ -6148,7 +6148,7 @@
    "Capitalism",
    "Management"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "4381180": {
   "name": "Coin Harvest",
@@ -6802,7 +6802,7 @@
    "Inventory Management",
    "Early Access"
   ],
-  "tags_fetched": "2026-10-27"
+  "tags_fetched": "2026-11-27"
  },
  "553850": {
   "name": "HELLDIVERS™ 2",
@@ -7222,7 +7222,7 @@
    "Co-op",
    "Real Time Tactics"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "4911050": {
   "name": "The Horde of Gorak",
@@ -7432,8 +7432,8 @@
   "steam_tags": [
    "Incremental",
    "Physics",
-   "Sandbox",
    "3D",
+   "Sandbox",
    "Atmospheric",
    "Singleplayer",
    "Casual",
@@ -7446,7 +7446,7 @@
    "Cartoony",
    "Cute"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-27"
  },
  "3337380": {
   "name": "Tabletop Tavern",
@@ -20053,5 +20053,593 @@
    "Exploration"
   ],
   "tags_fetched": "2026-11-26"
+ },
+ "1113120": {
+  "name": "IXION",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/header.jpg?t=1733140180",
+  "release_date": "2022-12-07",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2022-12-07",
+  "steam_tags": [
+   "Space",
+   "City Builder",
+   "Strategy",
+   "Survival",
+   "Resource Management",
+   "Colony Sim",
+   "Base Building",
+   "Building",
+   "Simulation",
+   "Exploration",
+   "Choices Matter",
+   "Atmospheric",
+   "Economy",
+   "Singleplayer",
+   "Dark"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1593030": {
+  "name": "Terra Nil",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/60d7b58280ba8d126365e4d5186ae497f6c10b39/header.jpg?t=1776447714",
+  "release_date": "2023-03-28",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2023-03-28",
+  "steam_tags": [
+   "Nature",
+   "Strategy",
+   "Relaxing",
+   "Puzzle",
+   "City Builder",
+   "Procedural Generation",
+   "Atmospheric",
+   "Casual",
+   "Isometric",
+   "Turn-Based Strategy",
+   "Singleplayer",
+   "2.5D",
+   "Colorful",
+   "Resource Management",
+   "Emotional"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "3309160": {
+  "name": "Chronocracy",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309160/fa14f4594d47e388c471dcc058996f5cc0cf4975/header_alt_assets_7.jpg?t=1795697236",
+  "release_date": "2026-11-26",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-11-26",
+  "steam_tags": [
+   "City Builder",
+   "Management",
+   "Colony Sim",
+   "Base Building",
+   "Resource Management",
+   "Sandbox",
+   "Simulation",
+   "Crafting",
+   "Singleplayer",
+   "Time Travel",
+   "Atmospheric",
+   "Cozy",
+   "Relaxing",
+   "Building",
+   "Indie"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "4704000": {
+  "name": "Shark Mart",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/df451cd0eb747cd5cefe6e84c9ad1b98d1ef02ac/header.jpg?t=1795721812",
+  "release_date": "2026-11-26",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-11-26",
+  "steam_tags": [
+   "Simulation",
+   "Online Co-Op",
+   "Multiplayer",
+   "Funny",
+   "Immersive Sim",
+   "Management",
+   "Co-op",
+   "Casual",
+   "First-Person",
+   "Life Sim",
+   "Comedy",
+   "Singleplayer",
+   "Indie",
+   "Resource Management",
+   "Inventory Management"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "4635290": {
+  "name": "Grave Mistakes",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635290/030756c1074184aec7df1c2b35e1e7bb8bc5c550/header.jpg?t=1795702948",
+  "release_date": "2026-11-26",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-11-26",
+  "steam_tags": [
+   "Co-op",
+   "Online Co-Op",
+   "Stylized",
+   "Atmospheric",
+   "Funny",
+   "Physics",
+   "3D",
+   "Comedy",
+   "Dark",
+   "Simulation",
+   "Dark Humor",
+   "Horror",
+   "Controller",
+   "Action",
+   "Adventure"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "3615160": {
+  "name": "Teddy's Haven",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615160/a8b5b15273c11d0ec22eea7c2c7dd29874e14853/header.jpg?t=1795458693",
+  "release_date": "2025-05-06",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2025-05-06",
+  "steam_tags": [
+   "Early Access",
+   "Cozy",
+   "Shop Keeper",
+   "Simulation",
+   "Fantasy",
+   "Relaxing",
+   "Casual",
+   "Life Sim",
+   "Farming Sim",
+   "Exploration",
+   "Crafting",
+   "Building",
+   "Management",
+   "Cute",
+   "Sandbox"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "4992770": {
+  "name": "Infinite Loop: Incremental",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992770/7904b6b353e655800236ef5a4712876417a5a86d/header.jpg?t=1795751990",
+  "release_date": "2026-11-26",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-11-27",
+  "steam_tags": [
+   "Early Access",
+   "Idler",
+   "Incremental",
+   "Text-Based",
+   "Automation",
+   "Replay Value",
+   "Choices Matter",
+   "Resource Management",
+   "Exploration",
+   "Minimalist",
+   "RPG",
+   "Strategy",
+   "Time Management",
+   "Story Rich",
+   "Indie"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1975520": {
+  "name": "Astronomics",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1975520/900f959e7a9f4932dfa7dc2032a795b82a6fb4f3/header_alt_assets_6.jpg?t=1795676090",
+  "release_date": "2025-02-10",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2025-02-10",
+  "steam_tags": [
+   "Space",
+   "Procedural Generation",
+   "Exploration",
+   "Top-Down",
+   "Physics",
+   "Time Management",
+   "3D",
+   "Sci-fi",
+   "Sandbox",
+   "Collectathon",
+   "Robots",
+   "PvE",
+   "Early Access",
+   "Singleplayer",
+   "Strategy"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1782120": {
+  "name": "ZERO Sievert",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782120/header.jpg?t=1788990111",
+  "release_date": "2024-10-23",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2022-11-15",
+  "steam_tags": [
+   "Extraction Shooter",
+   "Survival",
+   "Post-apocalyptic",
+   "Looter Shooter",
+   "Pixel Graphics",
+   "Top-Down",
+   "Shooter",
+   "Open World",
+   "Singleplayer",
+   "Action",
+   "Indie",
+   "Adventure",
+   "Loot",
+   "Exploration",
+   "Simulation"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1705140": {
+  "name": "Final Profit: A Shop RPG",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705140/header.jpg?t=1794304930",
+  "release_date": "2023-03-06",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2023-03-06",
+  "steam_tags": [
+   "Incremental",
+   "RPG",
+   "Capitalism",
+   "Shop Keeper",
+   "Choices Matter",
+   "Life Sim",
+   "Villain Protagonist",
+   "Story Rich",
+   "Exploration",
+   "Casual",
+   "Female Protagonist",
+   "Simulation",
+   "Sandbox",
+   "Multiple Endings",
+   "Management"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "2315430": {
+  "name": "The Executive - Movie Industry Tycoon",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315430/header.jpg?t=1750670739",
+  "release_date": "2025-02-11",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2025-02-11",
+  "steam_tags": [
+   "Management",
+   "Simulation",
+   "Economy",
+   "Strategy",
+   "Capitalism",
+   "2D",
+   "Sandbox",
+   "Singleplayer",
+   "Isometric",
+   "Replay Value",
+   "Indie",
+   "Building",
+   "Moddable",
+   "Cinematic",
+   "Casual"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "4516210": {
+  "name": "Studio Sim",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516210/90ff9f7c15a0ae6b96c0d847bb65a21ff2c1da50/header.jpg?t=1795784729",
+  "release_date": "2026-11-27",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-11-27",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Text-Based",
+   "Time Management",
+   "Sandbox",
+   "Economy",
+   "Capitalism",
+   "Nonlinear",
+   "Choices Matter",
+   "Inventory Management",
+   "Resource Management",
+   "Casual",
+   "Political Sim",
+   "Moddable",
+   "Indie"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "2789460": {
+  "name": "Ale Abbey - Monastery Brewery Tycoon",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789460/3e6d4096982ceead0b20086f59a7425677b0116f/header.jpg?t=1758121887",
+  "release_date": "2025-09-17",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2025-02-18",
+  "steam_tags": [
+   "Management",
+   "Simulation",
+   "Casual",
+   "Strategy",
+   "Building",
+   "Capitalism",
+   "Base Building",
+   "Colony Sim",
+   "Medieval",
+   "Comedy",
+   "Crafting",
+   "Economy",
+   "2D",
+   "Pixel Graphics",
+   "Funny"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "4279120": {
+  "name": "Budgie's Bug Shop",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279120/943feba5b9645fb1bb5a8f65c5c569c15b7b6fda/header.jpg?t=1787761876",
+  "release_date": "2026-05-25",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-05-25",
+  "steam_tags": [
+   "Simulation",
+   "Casual",
+   "Incremental",
+   "Idler",
+   "Management",
+   "Economy",
+   "Colorful",
+   "Relaxing",
+   "Shop Keeper",
+   "Arcade",
+   "Cute",
+   "2D",
+   "Strategy",
+   "Resource Management",
+   "Nature"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1388770": {
+  "name": "Cruelty Squad",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388770/header.jpg?t=1740330233",
+  "release_date": "2021-06-15",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2021-01-04",
+  "steam_tags": [
+   "Capitalism",
+   "Surreal",
+   "Immersive Sim",
+   "FPS",
+   "Psychological Horror",
+   "Psychedelic",
+   "Shooter",
+   "Cyberpunk",
+   "First-Person",
+   "Dark Humor",
+   "Dystopian",
+   "Lore-Rich",
+   "Stealth",
+   "Stylized",
+   "Action"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1907590": {
+  "name": "Psycho Patrol R",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1907590/header.jpg?t=1777910535",
+  "release_date": "2025-03-23",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2025-03-24",
+  "steam_tags": [
+   "Immersive Sim",
+   "FPS",
+   "Mechs",
+   "Capitalism",
+   "Stealth",
+   "Crime",
+   "Tactical",
+   "Souls-like",
+   "Shooter",
+   "Stylized",
+   "Nonlinear",
+   "First-Person",
+   "Character Customization",
+   "3D",
+   "RPG"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1179680": {
+  "name": "Wurm Online",
+  "type": "game",
+  "is_free": true,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1179680/header.jpg?t=1680192973",
+  "release_date": "2020-07-24",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2020-07-24",
+  "steam_tags": [
+   "Free to Play",
+   "Sandbox",
+   "RPG",
+   "Massively Multiplayer",
+   "Adventure",
+   "Indie",
+   "MMORPG",
+   "Open World Survival Craft",
+   "Building",
+   "PvE",
+   "Survival",
+   "Online Co-Op",
+   "PvP",
+   "Open World",
+   "Fantasy"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "2412960": {
+  "name": "Breathedge 2",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/083885c9265403cf35f96efa398d620ca06ec2ae/header.jpg?t=1788324312",
+  "release_date": "2026-08-31",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2026-08-31",
+  "steam_tags": [
+   "Survival",
+   "Singleplayer",
+   "Open World Survival Craft",
+   "First-Person",
+   "Action",
+   "Space",
+   "Adventure",
+   "RPG",
+   "Simulation",
+   "Funny",
+   "Sandbox",
+   "Action-Adventure",
+   "Exploration",
+   "Immersive Sim",
+   "Building"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1159690": {
+  "name": "Voidtrain",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159690/c37f0d9c54c79a8267602beecba728872753f847/header.jpg?t=1791822408",
+  "release_date": "2025-11-07",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2023-05-09",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Co-op",
+   "Trains",
+   "Multiplayer",
+   "Survival",
+   "Base Building",
+   "Open World",
+   "Online Co-Op",
+   "Crafting",
+   "Adventure",
+   "First-Person",
+   "Exploration",
+   "Building",
+   "Atmospheric",
+   "Singleplayer"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "1335830": {
+  "name": "Len's Island",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335830/0ba673c67110e0de186ba545594f4d4009234f5a/header.jpg?t=1788194921",
+  "release_date": "2025-06-19",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2021-11-26",
+  "steam_tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Farming",
+   "Building",
+   "Dungeon Crawler",
+   "Open World",
+   "Nature",
+   "Crafting",
+   "Sandbox",
+   "Exploration",
+   "Mystery",
+   "Adventure",
+   "Action",
+   "Singleplayer",
+   "Base Building"
+  ],
+  "tags_fetched": "2026-11-27"
+ },
+ "625960": {
+  "name": "Stoneshard",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/25aa7037cf8dd1df245fa189b69b03eaed5fd135/header.jpg?t=1792896887",
+  "release_date": "2020-02-06",
+  "coming_soon": false,
+  "fetched": "2026-11-27",
+  "first_review": "2020-02-06",
+  "steam_tags": [
+   "RPG",
+   "Roguelike",
+   "Pixel Graphics",
+   "Strategy",
+   "Survival",
+   "Turn-Based",
+   "Open World Survival Craft",
+   "Procedural Generation",
+   "2D",
+   "Singleplayer",
+   "Dungeon Crawler",
+   "Turn-Based Combat",
+   "Dark Fantasy",
+   "Medieval",
+   "Difficult"
+  ],
+  "tags_fetched": "2026-11-27"
  }
 }
