@@ -1394,8 +1394,8 @@
    "Open World Survival Craft",
    "Survival",
    "Base Building",
-   "Crafting",
    "Open World",
+   "Crafting",
    "PvE",
    "PvP",
    "Hunting",
@@ -1407,7 +1407,7 @@
    "Co-op",
    "Exploration"
   ],
-  "tags_fetched": "2026-11-12"
+  "tags_fetched": "2026-11-28"
  },
  "1313140": {
   "name": "Cult of the Lamb",
@@ -5245,15 +5245,15 @@
    "Exploration",
    "Multiplayer",
    "Building",
-   "Co-op",
    "Post-apocalyptic",
+   "Co-op",
    "Open World",
    "Action",
    "Third Person",
    "Action-Adventure",
    "Adventure"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "346110": {
   "name": "ARK: Survival Evolved",
@@ -6494,7 +6494,7 @@
    "Simulation",
    "Turn-Based Tactics"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "4487060": {
   "name": "Northgard Battlegrounds",
@@ -7969,8 +7969,8 @@
    "Management",
    "Inventory Management",
    "Crafting",
-   "Job Simulator",
    "Economy",
+   "Job Simulator",
    "Choices Matter",
    "Story Rich",
    "Resource Management",
@@ -7978,7 +7978,7 @@
    "RPG",
    "Pixel Graphics"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "940230": {
   "name": "Geoplanetical",
@@ -8004,7 +8004,7 @@
    "Artificial Intelligence",
    "Grand Strategy"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "1167820": {
   "name": "Airport Contraband",
@@ -13677,8 +13677,8 @@
   "first_review": "2026-11-12",
   "steam_tags": [
    "Early Access",
-   "Simulation",
    "Management",
+   "Simulation",
    "Building",
    "Funny",
    "Singleplayer",
@@ -13692,7 +13692,7 @@
    "City Builder",
    "Cozy"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "2860490": {
   "name": "Warota: I Live Next to The Demon King's Castle LOL",
@@ -13832,7 +13832,7 @@
    "Top-Down",
    "3D"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "860890": {
   "name": "Factory Town",
@@ -13916,7 +13916,7 @@
    "Driving",
    "Economy"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "4943970": {
   "name": "Franchise Hockey Manager 13",
@@ -14014,8 +14014,8 @@
   "steam_tags": [
    "Early Access",
    "Automation",
-   "Base Building",
    "Space Sim",
+   "Base Building",
    "Simulation",
    "First-Person",
    "Space",
@@ -14028,7 +14028,7 @@
    "PvE",
    "Open World"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "4932820": {
   "name": "Bottle Flip Inc",
@@ -14190,13 +14190,13 @@
    "Relaxing",
    "Comedy",
    "Management",
+   "Indie",
    "Economy",
    "Funny",
-   "Indie",
    "Automation",
-   "Capitalism"
+   "Family Friendly"
   ],
-  "tags_fetched": "2026-11-13"
+  "tags_fetched": "2026-11-28"
  },
  "3124550": {
   "name": "Liquor Store Simulator",
@@ -20641,5 +20641,229 @@
    "Difficult"
   ],
   "tags_fetched": "2026-11-27"
+ },
+ "666150": {
+  "name": "Prehistoric Kingdom",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/666150/0ee19480f30b74c8173a510d44f9815b9aa00979/header.jpg?t=1792601341",
+  "release_date": "2022-04-27",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2022-04-27",
+  "steam_tags": [
+   "Early Access",
+   "Dinosaurs",
+   "Management",
+   "Building",
+   "Sandbox",
+   "Simulation",
+   "Strategy",
+   "Economy",
+   "Science",
+   "Resource Management",
+   "Sci-fi",
+   "Open World",
+   "Zoo",
+   "City Builder",
+   "3D"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "2553040": {
+  "name": "Nested Lands",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553040/header.jpg?t=1793867871",
+  "release_date": "2026-02-25",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2026-02-25",
+  "steam_tags": [
+   "Early Access",
+   "Story Rich",
+   "Choices Matter",
+   "Controller",
+   "PvE",
+   "Singleplayer",
+   "Co-op Campaign",
+   "Survival",
+   "Medieval",
+   "Open World",
+   "Building",
+   "City Builder",
+   "Crafting",
+   "Multiplayer",
+   "Base Building"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "2807150": {
+  "name": "Worshippers of Cthulhu",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807150/0c52ed90d8f031ab1d70e5931a1b293315488e20/header.jpg?t=1778858937",
+  "release_date": "2025-05-22",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2024-10-21",
+  "steam_tags": [
+   "Colony Sim",
+   "Sandbox",
+   "Lovecraftian",
+   "Management",
+   "City Builder",
+   "Strategy",
+   "Base Building",
+   "Simulation",
+   "Building",
+   "Horror",
+   "Supernatural",
+   "Dark Fantasy",
+   "Economy",
+   "Alternate History",
+   "Demons"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "5165390": {
+  "name": "HOOD",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165390/791314f1b6f027b35f649b453ce93cf249e93bd5/header.jpg?t=1795803273",
+  "release_date": "2026-11-27",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2026-11-27",
+  "steam_tags": [
+   "Early Access",
+   "Simulation",
+   "Crime",
+   "Co-op",
+   "Management",
+   "Multiplayer",
+   "First-Person",
+   "Life Sim",
+   "Sandbox",
+   "Exploration",
+   "Economy",
+   "Immersive Sim",
+   "Time Management",
+   "3D",
+   "Pixel Graphics"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "2431590": {
+  "name": "Starship Crafter",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431590/32504205a7f11e9b509c7f964d92ce5ada896948/header.jpg?t=1795789986",
+  "release_date": "2026-11-27",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2026-11-27",
+  "steam_tags": [
+   "Simulation",
+   "Management",
+   "Sandbox",
+   "First-Person",
+   "Building",
+   "Economy",
+   "Futuristic",
+   "Sci-fi",
+   "Life Sim",
+   "Crafting",
+   "Story Rich",
+   "Singleplayer",
+   "Spaceships",
+   "Multiple Endings",
+   "Resource Management"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "4178020": {
+  "name": "Lured In",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178020/ccbed6142b7749032d5d9cf308acab0f4fb75425/header.jpg?t=1793250339",
+  "release_date": "2026-07-17",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2026-07-17",
+  "steam_tags": [
+   "Fishing",
+   "Idler",
+   "Incremental",
+   "Shop Keeper",
+   "Management",
+   "Cozy",
+   "Building",
+   "Capitalism",
+   "Economy",
+   "Casual",
+   "Simulation",
+   "Nature",
+   "Character Customization",
+   "Relaxing",
+   "Creature Collector"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "671440": {
+  "name": "Rise of Industry",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671440/header.jpg?t=1762525699",
+  "release_date": "2019-05-02",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2018-02-09",
+  "steam_tags": [
+   "Management",
+   "Strategy",
+   "Economy",
+   "Simulation",
+   "City Builder",
+   "Resource Management",
+   "Indie",
+   "Base Building",
+   "Trading",
+   "Building",
+   "Singleplayer",
+   "Sandbox",
+   "Automation",
+   "Isometric",
+   "Capitalism"
+  ],
+  "tags_fetched": "2026-11-28"
+ },
+ "768450": {
+  "name": "NUTS",
+  "type": "game",
+  "is_free": false,
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768450/header.jpg?t=1787591196",
+  "release_date": "2021-02-04",
+  "coming_soon": false,
+  "fetched": "2026-11-28",
+  "first_review": "2021-02-04",
+  "steam_tags": [
+   "Story Rich",
+   "Detective",
+   "Nature",
+   "Immersive Sim",
+   "Atmospheric",
+   "Walking Simulator",
+   "Mystery",
+   "First-Person",
+   "Exploration",
+   "FPS",
+   "Puzzle",
+   "Action-Adventure",
+   "Capitalism",
+   "Conspiracy",
+   "Female Protagonist"
+  ],
+  "tags_fetched": "2026-11-28"
  }
 }
